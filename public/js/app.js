@@ -92,7 +92,13 @@ function placeMarkers() {
       title: l['title']
     });
 
-    google.maps.event.addListener(markers[i], 'click', makeHandler(markers[i], l['title'] + ', ' + l['address']));
+    var content = [
+      '<b>', l['title'], '</b>',
+      '<p>', l['address'], '</p>',
+      l['phone']
+    ].join("\n");
+
+    google.maps.event.addListener(markers[i], 'click', makeHandler(markers[i], content));
   }
 }
 
