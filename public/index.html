@@ -1,1 +1,18 @@
-Delivery Location Locator
+<!doctype html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Delivery Location Locator</title>
+	<link rel="stylesheet" type="text/css" href="/css/style.css" />
+</head>
+<body>
+  <div id="panel">
+    <input id="address" type="textbox" value="Enniskillen">
+    <input type="button" value="Go" onclick="lookupAddress()">
+  </div>
+  <div id="map-canvas"></div>
+
+  <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?region=GB&libraries=geometry"></script>
+  <script type="text/javascript" src="/js/app.js"></script>
+</body>
+</html>
