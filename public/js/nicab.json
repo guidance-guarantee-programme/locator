@@ -1,198 +1,149 @@
 [
   {
-    "title": "Antrim CAB",
+    "title": "Antrim Citizens Advice Bureau",
     "address": "Farranshane House, 1 Ballygore Road, Antrim, BT41 2RN",
-    "phone": "",
+    "phone": "028 9442 8176",
     "lat": 54.71857499999999,
     "lng": -6.188037599999999
   },
   {
-    "title": "Ards CAB",
-    "address": "75 West Street, Newtownards, BT23 4EN",
-    "phone": "",
-    "lat": 54.595063,
-    "lng": -5.7012013
+    "title": "Ards Citizens Advice Bureau",
+    "address": "5 West Street, Newtownards, BT23 4EN",
+    "phone": "028 9181 9257",
+    "lat": 54.5952592,
+    "lng": -5.7019008
   },
   {
-    "title": "Armagh CAB",
+    "title": "Armagh Citizens Advice Bureau",
     "address": "9 McCrums Court, Armagh, BT61 7RS",
-    "phone": "",
+    "phone": "028 3752 4041",
     "lat": 54.3580091,
     "lng": -6.641012799999999
   },
   {
-    "title": "Banbridge CAB",
-    "address": "77 Bridge Street, Banbridge, BT32 3JL",
-    "phone": "",
-    "lat": 54.3488771,
-    "lng": -6.2699194
-  },
-  {
-    "title": "Belfast CAB",
-    "address": "Merrion Business Centre, 58 Howard Street, Belfast, BT1 6PJ",
-    "phone": "",
-    "lat": 54.5957306,
-    "lng": -5.9341485
-  },
-  {
-    "title": "Carrickfergus CAB",
-    "address": "65 North Street, Carrickfergus, BT38 7AE",
-    "phone": "",
-    "lat": 54.7165468,
-    "lng": -5.8082569
-  },
-  {
-    "title": "Causeway CAB",
-    "address": "24 Lodge Road, Coleraine, BT52 1NB",
-    "phone": "",
-    "lat": 55.1315202,
-    "lng": -6.6656869
-  },
-  {
-    "title": "Citizens Advice Ballymena",
+    "title": "Ballymena Citizens Advice Bureau",
     "address": "4 Wellington Court, Ballymena, BT43 6EQ",
-    "phone": "",
+    "phone": "028 2564 4398",
     "lat": 54.8657556,
     "lng": -6.2742356
   },
   {
-    "title": "Cookstown CAB",
-    "address": "Derryloran Industrial Estate, Cookstown, BT80 9LU",
-    "phone": "",
-    "lat": 54.6278908,
-    "lng": -6.7569631
+    "title": "Banbridge Citizens Advice Bureau",
+    "address": "77 Bridge Street, Banbridge, BT32 3JL",
+    "phone": "028 4062 2201",
+    "lat": 54.3488771,
+    "lng": -6.2699194
   },
   {
-    "title": "Craigavon District CAB",
-    "address": "Portadown Health Centre, Tavanagh Avenue, Portadown, BT62 3BU",
-    "phone": "",
-    "lat": 54.4187131,
-    "lng": -6.4406325
-  },
-  {
-    "title": "Down District CAB",
-    "address": "2nd Floor Maghinis House, 8-10 Irish Street, Downpatrick, BT30 6BP",
-    "phone": "",
-    "lat": 54.3286751,
-    "lng": -5.7153462
-  },
-  {
-    "title": "Dungannon CAB",
-    "address": "5 - 6 Feeny's Lane, Dungannon, BT70 1TX",
-    "phone": "",
-    "lat": 54.5056147,
-    "lng": -6.7696691
-  },
-  {
-    "title": "East Belfast CAB",
-    "address": "The Arches Centre, 1A Westminster Avenue, Belfast, BT4 1NS",
-    "phone": "",
-    "lat": 54.598221,
-    "lng": -5.8881502
-  },
-  {
-    "title": "Fermanagh CAB",
-    "address": "Fermanagh House, Broadmeadow Place, Enniskillen, BT74 7HR",
-    "phone": "",
-    "lat": 54.3454797,
-    "lng": -7.6416001
-  },
-  {
-    "title": "Larne and District CAB",
-    "address": "Park Lodge, 49 Victoria Road, Larne, BT40 1RT",
-    "phone": "",
-    "lat": 54.8538116,
-    "lng": -5.8148294
-  },
-  {
-    "title": "Lisburn CAB",
-    "address": "Bridge Community Centre, 50 Railway Street, Lisburn, BT28 1XP",
-    "phone": "",
-    "lat": 54.513456,
-    "lng": -6.0442709
-  },
-  {
-    "title": "Londonderry CAB",
-    "address": "Embassy Court, 5th Floor, Londonderry, BT48 6BH",
-    "phone": "",
-    "lat": 55.0060347,
-    "lng": -7.3190639
-  },
-  {
-    "title": "Londonderry CAB",
-    "address": "Unit 1 Spencer House, 14-22 Spencer Road, Londonderry, BT47 6QA",
-    "phone": "",
-    "lat": 54.98910309999999,
-    "lng": -7.314467700000001
-  },
-  {
-    "title": "Lurgan CAB",
-    "address": "The Town Hall, 6 Union Street, Lurgan, BT66 8DY",
-    "phone": "",
-    "lat": 54.4609688,
-    "lng": -6.3313305
-  },
-  {
-    "title": "Newry & Mourne CAB",
-    "address": "Ballybot House, 28 Cornmarket, Newry, BT35 8BG",
-    "phone": "",
-    "lat": 54.1731229,
-    "lng": -6.343651899999999
-  },
-  {
-    "title": "Newtownabbey CAB",
-    "address": "Dunanney Centre, Rathmullan Drive, Newtownabbey, BT37 9DQ",
-    "phone": "",
-    "lat": 54.664403,
-    "lng": -5.9169166
-  },
-  {
-    "title": "North Belfast CAB",
-    "address": "40-44 Duncairn Gardens, Belfast, BT15 2GG",
-    "phone": "",
-    "lat": 54.6121811,
-    "lng": -5.9296243
-  },
-  {
-    "title": "North Down CAB",
+    "title": "Bangor Citizens Advice Bureau",
     "address": "1a Springfield Avenue, Bangor, BT20 5BY",
-    "phone": "",
+    "phone": "0300 123 3233",
     "lat": 54.6620252,
     "lng": -5.663684099999999
   },
   {
-    "title": "North Down Holywood CAB",
+    "title": "Belfast Citizens Advice Bureau",
+    "address": "Merrion Business Centre, 58 Howard St, Belfast, BT1 6PJ",
+    "phone": "0300 1 233 233",
+    "lat": 54.5957306,
+    "lng": -5.9341485
+  },
+  {
+    "title": "Carrickfergus Citizens Advice Bureau",
+    "address": "65 North Street, Carrickfergus, BT38 7AE",
+    "phone": "028 9335 1808",
+    "lat": 54.7165468,
+    "lng": -5.8082569
+  },
+  {
+    "title": "Coleraine Citizens Advice Bureau",
+    "address": "24 Lodge Road, Coleraine, BT52 1NB",
+    "phone": "028 7034 4817",
+    "lat": 55.1315202,
+    "lng": -6.6656869
+  },
+  {
+    "title": "Cookstown Citizens Advice Bureau",
+    "address": "The Enterprise Centre, Derryloran Industrial Estate, Sandholes, Cookstown, BT80 9LU",
+    "phone": "028 8676 6126",
+    "lat": 54.6278908,
+    "lng": -6.7569631
+  },
+  {
+    "title": "Craigavon Citizens Advice Bureau",
+    "address": "The Town Hall, 6 Union Street, Craigavon, BT66 8DY",
+    "phone": "0300 123 3233",
+    "lat": 54.4609688,
+    "lng": -6.3313305
+  },
+  {
+    "title": "Derry Citizens Advice Bureau",
+    "address": "Embassy Court, 3 Strand Road, Derry, BT48 7BJ",
+    "phone": "028 7136 2444",
+    "lat": 54.99967789999999,
+    "lng": -7.3219594
+  },
+  {
+    "title": "Downpatrick Citizens Advice Bureau",
+    "address": "Magh-Inis House, 8-10 Irish Street, Downpatrick, BT30 6BP",
+    "phone": "028 4461 4110",
+    "lat": 54.3286751,
+    "lng": -5.7153462
+  },
+  {
+    "title": "Dungannon Citizens Advice Bureau",
+    "address": "5-6 Feeney's Lane, Dungannon, BT70 1TX",
+    "phone": "028 8772 5299",
+    "lat": 54.5049094,
+    "lng": -6.770258999999999
+  },
+  {
+    "title": "Fermanagh Citizens Advice Bureau",
+    "address": "Fermanagh House, Broadmeadow Place, Fermanagh, BT74 7HR",
+    "phone": "028 6632 4334",
+    "lat": 54.3454797,
+    "lng": -7.6416001
+  },
+  {
+    "title": "Holywood Citizens Advice Bureau",
     "address": "Queens Hall, Sullivan Place, Holywood, BT18 9JF",
-    "phone": "",
+    "phone": "0300 123 3233",
     "lat": 54.6411866,
     "lng": -5.837807799999999
   },
   {
-    "title": "Strabane and District CAB",
+    "title": "Larne Citizens Advice Bureau",
+    "address": "Park Lodge, 49 Victoria Road, Larne, BT40 1RT",
+    "phone": "028 2826 0379",
+    "lat": 54.8538116,
+    "lng": -5.8148294
+  },
+  {
+    "title": "Lisburn Citizens Advice Bureau",
+    "address": "Bridge Community Centre, 50 Railway Street, Lisburn, BT28 1XP",
+    "phone": "028 9266 2251",
+    "lat": 54.513456,
+    "lng": -6.0442709
+  },
+  {
+    "title": "Newry Citizens Advice Bureau",
+    "address": "Ballybot House, 28 Cornmarket, Newry, BT35 8BG",
+    "phone": "028 3026 2934",
+    "lat": 54.1731229,
+    "lng": -6.343651899999999
+  },
+  {
+    "title": "Newtownabbey Citizens Advice Bureau",
+    "address": "Dunanney Centre, Rathmullan Drive, Newtownabbey, BT37 9DQ",
+    "phone": "028 9085 2271",
+    "lat": 54.664403,
+    "lng": -5.9169166
+  },
+  {
+    "title": "Strabane Citizens Advice Bureau",
     "address": "17 Dock Street, Strabane, BT82 8EE",
-    "phone": "",
+    "phone": "028 7138 2665",
     "lat": 54.8292993,
     "lng": -7.4647269
-  },
-  {
-    "title": "West Belfast CAB",
-    "address": "77A Springfield Road, Belfast, BT12 7AE",
-    "phone": "",
-    "lat": 54.5975069,
-    "lng": -5.9579811
-  },
-  {
-    "title": "West Belfast CAB",
-    "address": "Unit 2 Spectrum Centre, 331 Shankill Road, Belfast, BT13 3AA",
-    "phone": "",
-    "lat": 54.6044996,
-    "lng": -5.9561405
-  },
-  {
-    "title": "West Belfast CAB",
-    "address": "208 Anderstown Road, Belfast, BT11 9EB",
-    "phone": "",
-    "lat": 54.5730679,
-    "lng": -5.9910415
   }
 ]
