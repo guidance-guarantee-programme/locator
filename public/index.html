@@ -6,15 +6,6 @@
 	<link rel="stylesheet" type="text/css" href="/css/style.css" />
 </head>
 <body>
-  <div id="panel">
-    <input id="address" type="textbox" value="Enniskillen">
-    <input type="button" value="Go" onclick="lookupAddress()">
-  </div>
-  <div id="map-canvas"></div>
-
-  <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?region=GB&libraries=geometry"></script>
-  <script type="text/javascript" src="/js/app.js"></script>
-
   <!-- Google Tag Manager -->
   <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WGH36M"
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -24,5 +15,15 @@
   '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
   })(window,document,'script','dataLayer','GTM-WGH36M');</script>
   <!-- End Google Tag Manager -->
+
+  <div id="panel">
+    <input id="address" type="textbox" value="Enniskillen">
+    <input type="button" value="Go" onclick="lookupAddress()">
+  </div>
+  <div id="map-canvas"></div>
+
+  <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?region=GB&libraries=geometry"></script>
+  <script type="text/javascript" src="/js/app.js"></script>
+
 </body>
 </html>
