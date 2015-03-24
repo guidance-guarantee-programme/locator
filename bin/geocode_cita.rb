@@ -6,14 +6,15 @@ require 'json'
 
 locations = []
 
-# "REGION","DELIVERY BUREAU","PRIMARY CONTACT","POSTAL ADDRESS","Phone number"
+# "Pension Wise Delivery Centre ","Pension Wise Email ","Pension Wise Phone Number  ","Pension Wise Contact Address"
 CSV.foreach('cita.csv', headers: true, return_headers: false) do |row|
-  address = row.fields[3].gsub(/\n/, ', ').strip
-  phone = row.fields.last.strip
+  region = row.fields.first.strip
+  address = row.fields.last.strip.gsub(/\n/, ', ')
+  phone = row.fields[2].strip
   lat, lng = Geocoder.coordinates(address)
 
   locations << {
-    title: 'Citizens Advice',
+    title: "#{region} Citizens Advice",
     address: address,
     phone: phone,
     lat: lat,
