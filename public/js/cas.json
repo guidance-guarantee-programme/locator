@@ -44,14 +44,14 @@
   {
     "title": "Argyll and Bute Citizens Advice Bureau",
     "address": "Riverside, Oban Road, Lochgilphead, PA31 8NG",
-    "phone": "08456 123808 (low rate)",
+    "phone": "08456 123808",
     "lat": 56.0438038,
     "lng": -5.441284599999999
   },
   {
     "title": "Argyll and Bute Citizens Advice Bureau Helensburgh",
     "address": "65-67 West Princes Street, Helensburgh, G84 8BN",
-    "phone": "8457 123808 (low rate) extension",
+    "phone": "8457 123808",
     "lat": 56.0046889,
     "lng": -4.738566899999999
   },
@@ -114,70 +114,70 @@
   {
     "title": "Citizens Advice and Rights Fife (CARF) - Cowdenbeath",
     "address": "322 High Street, Cowdenbeath, KY4 9NT",
-    "phone": "0345 1400 095 (general advice) or 0345 1400 094 (debt advice)",
+    "phone": "0345 1400 095",
     "lat": 56.1098144,
     "lng": -3.3431333
   },
   {
     "title": "Citizens Advice and Rights Fife (CARF) - Cupar",
     "address": "Local County buildings, St Catherine Street, Cupar, KY15 4TA",
-    "phone": "0345 1400 095 (general advice) or 0345 1400 094 (Money advice)",
+    "phone": "0345 1400 095",
     "lat": 56.3194962,
     "lng": -3.0103638
   },
   {
     "title": "Citizens Advice and Rights Fife (CARF) - Dunfermline",
     "address": "4 Abbey Park Place, Dunfermline, KY12 7PD",
-    "phone": "0345 1400 095 (general advice) or 0345 1400 094 (Money advice)",
+    "phone": "0345 1400 095",
     "lat": 56.069997,
     "lng": -3.4607091
   },
   {
     "title": "Citizens Advice and Rights Fife (CARF) - Glenrothes",
     "address": "10 - 12 Pentland CourtSaltire Centre, Glenrothes, KY6 2DA",
-    "phone": "0345 1400 095 (general advice) or 0345 1400 094 (debt advice)",
+    "phone": "0345 1400 095",
     "lat": 56.1893429,
     "lng": -3.1844721
   },
   {
     "title": "Citizens Advice and Rights Fife (CARF) - Kirkcaldy",
     "address": "15 Wemyssfield, Kirkcaldy, KY1 1XN",
-    "phone": "0345 1400 095 (general advice) or 0345 1400 094 (Money advice)",
+    "phone": "0345 1400 095",
     "lat": 56.11117119999999,
     "lng": -3.1639852
   },
   {
     "title": "Citizens Advice and Rights Fife (CARF) - Leven",
     "address": "The Adam Smith College,, Victoria Road, Leven, KY8 4RN",
-    "phone": "0345 1400 095 (general advice) or 0345 1400 094 (debt advice)",
+    "phone": "0345 1400 095",
     "lat": 56.170838,
     "lng": -3.0383031
   },
   {
     "title": "Citizens Advice Bureau West Lothian",
     "address": "Unit 1, Almondbank Centre, Shiel Walk, Livingston, EH54 5EH",
-    "phone": "01506 432977 ",
+    "phone": "01506 432977",
     "lat": 55.8966532,
     "lng": -3.4972636
   },
   {
     "title": "Citizens Advice Direct",
     "address": "2nd Floor, Brunswick House, 51 Wilson Street, Glasgow, G1 1UZ",
-    "phone": "0808 800 9060 ",
+    "phone": "0808 800 9060",
     "lat": 55.85849109999999,
     "lng": -4.247635799999999
   },
   {
     "title": "Citizens Advice Edinburgh - Dundas Street Citizens Advice Bureau",
     "address": "58 Dundas Street, Edinburgh, EH3 6QZ",
-    "phone": "0131 558 3681 (appts), 0131 557 1500 (advice), 0131 603 7714 (Employment Clinic)",
+    "phone": "0131 558 3681",
     "lat": 55.95809,
     "lng": -3.2000949
   },
   {
     "title": "Citizens Advice Edinburgh - Gorgie/Dalry Citizens Advice Bureau",
     "address": "Fountainbridge Library, 137 Dundee Street, Edinburgh, EH11 1BG",
-    "phone": "0131 558 3681 (appts), 0131 557 1500 (advice), 0131 603 7714 (Employment Clinic)",
+    "phone": "0131 558 3681",
     "lat": 55.9402762,
     "lng": -3.2183327
   },
@@ -191,21 +191,21 @@
   {
     "title": "Citizens Advice Edinburgh - Pilton Citizens Advice Bureau",
     "address": "661 Ferry Road, Edinburgh, EH4 2TX",
-    "phone": "0131 202 1153 ",
+    "phone": "0131 202 1153",
     "lat": 55.9675161,
     "lng": -3.2455201
   },
   {
     "title": "Citizens Advice Edinburgh - Portobello Citizens Advice Bureau",
     "address": "8a - 8b Bath Street, Portobello, EH15 1EY",
-    "phone": "0131 669 9503 (appts), 0131 669 7138 (advice)",
+    "phone": "0131 669 9503",
     "lat": 55.9533474,
     "lng": -3.1137855
   },
   {
     "title": "Clackmannanshire Citizens Advice Bureau",
     "address": "47 Drysdale Street, Alloa, FK10 1JA",
-    "phone": "01259 723880 (Advice) & 01259 219404 (Appointment)",
+    "phone": "01259 219404",
     "lat": 56.1161913,
     "lng": -3.793483999999999
   },
@@ -240,14 +240,14 @@
   {
     "title": "Denny and Dunipace Citizens Advice Bureau",
     "address": "24 Duke Street, Denny, FK6 6DD",
-    "phone": "01324 823 118 ",
+    "phone": "01324 823 118",
     "lat": 56.0230711,
     "lng": -3.9088867
   },
   {
     "title": "Dumfries Citizens Advice Bureau (DAGCAS)",
     "address": "81-85 Irish Street, Dumfries, DG1 2PQ",
-    "phone": "0300 303 4321 ",
+    "phone": "0300 303 4321",
     "lat": 55.0672297,
     "lng": -3.6114505
   },
@@ -408,7 +408,7 @@
   {
     "title": "Inverness Badenoch and Strathspey Citizens Advice Bureau",
     "address": "103 Academy Street, Inverness, IV1 1LX",
-    "phone": "08444 994111 (advice); 01463 237664 (Reception)",
+    "phone": "01463 237664",
     "lat": 57.4807265,
     "lng": -4.2280107
   },
@@ -534,7 +534,7 @@
   {
     "title": "Perth Citizens Advice Bureau",
     "address": "7 Atholl Crescent, Perth, PH1 5NG",
-    "phone": "01738 450580 & 01738 450 581 (Appt Line)",
+    "phone": "01738 450580",
     "lat": 56.3991803,
     "lng": -3.4313131
   },
@@ -611,7 +611,7 @@
   {
     "title": "Turriff and District Citizens Advice Bureau",
     "address": "Masonic Building, Gladstone Terrace, Turriff, AB53 4AT",
-    "phone": "(01888) 562 495",
+    "phone": "01888 562 495",
     "lat": 57.5398496,
     "lng": -2.4637553
   },
