@@ -10,7 +10,7 @@ locations = []
 CSV.foreach('cas.csv', headers: true, return_headers: false) do |row|
   title = row.fields.first.strip
   address = row.fields[1..4].reject { |value| value.nil? || value.strip == '' }.map(&:strip).join(', ')
-  phone = row.fields[5]
+  phone = row.fields[5].strip
   lat, lng = Geocoder.coordinates(address)
 
   locations << {
