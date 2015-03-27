@@ -95,6 +95,7 @@ function placeMarkers() {
     var content = [
       '<b>', l['title'], '</b>',
       '<p>', l['address'], '</p>',
+      '<p>', l['hours'], '</p>',
       l['phone']
     ].join("\n");
 
