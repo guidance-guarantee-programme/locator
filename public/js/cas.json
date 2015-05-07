@@ -18,7 +18,7 @@
   {
     "title": "Angus Citizens Advice Bureau - Arbroath",
     "address": "11 Millgate, Arbroath, DD11 1NN",
-    "phone": "01241 870661",
+    "phone": "01241 870661 ext 25",
     "hours": "",
     "lat": 56.5581472,
     "lng": -2.5863387
@@ -26,7 +26,7 @@
   {
     "title": "Angus Citizens Advice Bureau - Forfar",
     "address": "19 Queen Street, Forfar, DD8 3AJ",
-    "phone": "01307 467096",
+    "phone": "01241 870661 ext 25",
     "hours": "",
     "lat": 56.645145,
     "lng": -2.8875885
@@ -34,7 +34,7 @@
   {
     "title": "Angus Citizens Advice Bureau - Montrose",
     "address": "32 Castle Street, Montrose, DD10 8AG",
-    "phone": "01674 673263",
+    "phone": "01241 870661 ext 25",
     "hours": "",
     "lat": 56.708893,
     "lng": -2.4706502
@@ -58,7 +58,7 @@
   {
     "title": "Argyll and Bute Citizens Advice Bureau Helensburgh",
     "address": "65-67 West Princes Street, Helensburgh, G84 8BN",
-    "phone": "8457 123808",
+    "phone": "08456 123808",
     "hours": "",
     "lat": 56.0046889,
     "lng": -4.738566899999999
@@ -66,7 +66,7 @@
   {
     "title": "Arran Citizens Advice Bureau (NACAS)",
     "address": "Ormidale Sports Centre, Shore Road, Brodick, KA27 8DL",
-    "phone": "01294 467848",
+    "phone": "01294 608 147",
     "hours": "",
     "lat": 55.5772177,
     "lng": -5.152120399999999
@@ -178,7 +178,7 @@
   {
     "title": "Citizens Advice Bureau West Lothian",
     "address": "Unit 1, Almondbank Centre, Shiel Walk, Livingston, EH54 5EH",
-    "phone": "01506 432977",
+    "phone": "01506 444814",
     "hours": "",
     "lat": 55.8966532,
     "lng": -3.4972636
@@ -202,7 +202,7 @@
   {
     "title": "Citizens Advice Edinburgh - Gorgie/Dalry Citizens Advice Bureau",
     "address": "Fountainbridge Library, 137 Dundee Street, Edinburgh, EH11 1BG",
-    "phone": "0131 558 3681",
+    "phone": "0131 474 8081",
     "hours": "",
     "lat": 55.9402762,
     "lng": -3.2183327
@@ -242,7 +242,7 @@
   {
     "title": "Clydesdale Citizens Advice Bureau",
     "address": "10 - 12 Wide Close, Lanark, ML11 7LX",
-    "phone": "01555 664301",
+    "phone": "01555 664 301",
     "hours": "",
     "lat": 55.6740258,
     "lng": -3.7802904
@@ -258,7 +258,7 @@
   {
     "title": "Cumbernauld Citizens Advice Bureau",
     "address": "2 Annan House, 3rd Floor, Town Centre, Cumbernauld, G67 1DP",
-    "phone": "01236 723201",
+    "phone": "01236 735165",
     "hours": "",
     "lat": 55.9468624,
     "lng": -3.9907348
@@ -274,7 +274,7 @@
   {
     "title": "Denny and Dunipace Citizens Advice Bureau",
     "address": "24 Duke Street, Denny, FK6 6DD",
-    "phone": "01324 823 118",
+    "phone": "01324 485290",
     "hours": "",
     "lat": 56.0230711,
     "lng": -3.9088867
@@ -290,7 +290,7 @@
   {
     "title": "Dundee Citizens Advice Bureau",
     "address": "Dundee Central Library, Level 4 Wellgate Centre, Dundee, DD1 2DB",
-    "phone": "01382 307 494",
+    "phone": "01382 431581",
     "hours": "",
     "lat": 56.4638925,
     "lng": -2.9694461
@@ -346,7 +346,7 @@
   {
     "title": "East Sutherland Citizens Advice Bureau",
     "address": "Station Road, Golspie, KW10 6SN",
-    "phone": "01408 633 000",
+    "phone": "01408 634410",
     "hours": "",
     "lat": 57.9722735,
     "lng": -3.9827167
@@ -354,7 +354,7 @@
   {
     "title": "Falkirk Citizens Advice Bureau",
     "address": "27-29 Vicar Street, Falkirk, FK1 1LL",
-    "phone": "01324 626070",
+    "phone": "01324 485290",
     "hours": "",
     "lat": 56.0008822,
     "lng": -3.7841002
@@ -378,7 +378,7 @@
   {
     "title": "Glasgow - Central Citizens Advice Bureau",
     "address": "1st Floor, 88 Bell Street, Glasgow, G1 1LQ",
-    "phone": "0141 552 5556",
+    "phone": "07539 952 655",
     "hours": "",
     "lat": 55.8575752,
     "lng": -4.243297399999999
@@ -434,7 +434,7 @@
   {
     "title": "Grangemouth and Bo'ness Citizens Advice Bureau",
     "address": "1 Kerse Road, Grangemouth, FK3 8HW",
-    "phone": "01324 483467",
+    "phone": "01324 485290",
     "hours": "",
     "lat": 56.01781889999999,
     "lng": -3.7242684
@@ -498,7 +498,7 @@
   {
     "title": "Irvine Citizens Advice Bureau (NACAS)",
     "address": "22A Eglinton Street, Irvine, KA12 8AS",
-    "phone": "01294 278051",
+    "phone": "01294 608 147",
     "hours": "",
     "lat": 55.6171944,
     "lng": -4.6684287
@@ -506,7 +506,7 @@
   {
     "title": "Kilbirnie Citizens Advice Bureau (NACAS)",
     "address": "43 Main Street, Kilbirnie, KA25 7BX",
-    "phone": "01505 682830",
+    "phone": "01294 608 147",
     "hours": "",
     "lat": 55.75499420000001,
     "lng": -4.685559899999999
@@ -522,7 +522,7 @@
   {
     "title": "Largs Citizens Advice Bureau (NACAS)",
     "address": "32-34 Boyd Street, Largs, KA30 8LE",
-    "phone": "01475 673586",
+    "phone": "01294 608 147",
     "hours": "",
     "lat": 55.7961554,
     "lng": -4.866681199999999
@@ -554,7 +554,7 @@
   {
     "title": "Motherwell and Wishaw Citizens Advice Bureau",
     "address": "32 Civic Square, Motherwell, ML1 1TP",
-    "phone": "01698 251981",
+    "phone": "01698 265349",
     "hours": "",
     "lat": 55.7847424,
     "lng": -3.983301499999999
@@ -610,7 +610,7 @@
   {
     "title": "Perth Citizens Advice Bureau",
     "address": "7 Atholl Crescent, Perth, PH1 5NG",
-    "phone": "01738 450580",
+    "phone": "01738 450596",
     "hours": "",
     "lat": 56.3991803,
     "lng": -3.4313131
@@ -650,7 +650,7 @@
   {
     "title": "Saltcoats Citizens Advice Bureau (NACAS)",
     "address": "87 Dockhead Street, Saltcoats, KA21 5ED",
-    "phone": "01294 467848",
+    "phone": "01294 608 147",
     "hours": "",
     "lat": 55.63292810000001,
     "lng": -4.7871305
@@ -658,7 +658,7 @@
   {
     "title": "Shetland Islands Citizens Advice Bureau",
     "address": "Market House,, 14 Market Street, Lerwick, ZE1 0JP",
-    "phone": "01595 694696",
+    "phone": "01595 744596",
     "hours": "",
     "lat": 60.15555860000001,
     "lng": -1.1461098
@@ -714,7 +714,7 @@
   {
     "title": "West Dunbartonshire Citizens Advice Bureau",
     "address": "Bridgend House, 179 High Street, Dumbarton, G82 1NW",
-    "phone": "01389 744690",
+    "phone": "01389 744 693",
     "hours": "",
     "lat": 55.9431376,
     "lng": -4.570066499999999
@@ -722,7 +722,7 @@
   {
     "title": "West Dunbartonshire CAB - Clydebank Extension",
     "address": "Social Economy Centre, 63 Kilbowie Road, Clydebank, G81 1BL",
-    "phone": "0141 435 7590",
+    "phone": "01389 744 693",
     "hours": "",
     "lat": 55.90205479999999,
     "lng": -4.4058514
