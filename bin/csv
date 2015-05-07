@@ -1,11 +1,11 @@
 #!/usr/bin/env ruby
 
-require 'json'
 require 'csv'
+require 'json'
 
 json = JSON.parse(File.read(ARGV.first))
 
-headers = json.first.keys
+headers = json.first.keys + json.first.keys.map { |k| "new_#{k}" }
 
 csv = CSV.generate do |csv|
   csv << headers
