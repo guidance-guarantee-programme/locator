@@ -1,0 +1,30 @@
+#!/usr/bin/env ruby
+
+require 'csv'
+require 'json'
+
+updates_csv_path = ARGV[0] or
+  fail 'First argument must be the path to the csv file of updates'
+
+current_json_data_path = ARGV[1] or
+  fail 'Second argument must be the path to the json file of current data'
+
+csv = CSV.table(updates_csv_path)
+
+updates = Hash[csv.map do |row|
+  updates = {}
+  %w(title address phone).each do |field|
+    updated_value = row[:"new_#{field}"]
+    updates.store(field, updated_value) if updated_value
+  end
+
+  [row[:title], updates]
+end]
+
+json = JSON.parse(File.read(current_json_data_path))
+
+json.map! do |record|
+  record.merge(updates[record['title']])
+end
+
+puts JSON.pretty_generate(json)
