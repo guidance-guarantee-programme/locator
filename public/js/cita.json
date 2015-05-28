@@ -1,394 +1,3575 @@
 [
   {
-    "title": "Allerdale Citizens Advice",
+    "title": "Citizens Advice Allerdale",
     "address": "Vulcans Lane, WORKINGTON, Cumbria, CA14 2BT",
+    "booking_centre": "Citizens Advice Allerdale",
     "phone": "01900 68981",
     "hours": "Mon, Wed, Thur 9am - 5pm; Tue 9am - 6pm; Fri 9am - 4:30pm",
-    "lat": 54.6444994,
-    "lng": -3.5488266
+    "lat": "54.6444994",
+    "lng": "-3.5488266"
   },
   {
-    "title": "Arun and Chichester Citizens Advice",
-    "address": "Town Hall, Clarence Road, Bognor Regis, West Sussex, PO21 1LD",
+    "title": "Citizens Advice Allerdale- Wigton",
+    "address": "Local Links, Community Office, Market Hall, Church Street, WIGTON, Cumbria, CA7 9AA",
+    "booking_centre": "Citizens Advice Allerdale",
+    "phone": "01900 68981",
+    "hours": "Mon, Wed, Thur 9am - 5pm; Tue 9am - 6pm; Fri 9am - 4:30pm",
+    "lat": "54.6444994",
+    "lng": "-3.5488266"
+  },
+  {
+    "title": "Citizens Advice Keswick",
+    "address": "Heads Lane,KESWICK,Cumbria,CA12 5HD",
+    "booking_centre": "Citizens Advice Allerdale",
+    "phone": "01900 68981",
+    "hours": "Mon, Wed, Thur 9am - 5pm; Tue 9am - 6pm; Fri 9am - 4:30pm",
+    "lat": "52.2590467",
+    "lng": "-1.160031"
+  },
+  {
+    "title": "Carlisle & Eden Districts - Carlisle",
+    "address": "5-6 Old Post Office Court, CARLISLE, Cumbrid, CA3 8LE",
+    "booking_centre": "Citizens Advice Allerdale",
+    "phone": "01900 68981",
+    "hours": "Mon, Wed, Thur 9am - 5pm; Tue 9am - 6pm; Fri 9am - 4:30pm",
+    "lat": "54.893266",
+    "lng": "-2.9342967"
+  },
+  {
+    "title": "Kendal (South Lakeland) CAB",
+    "address": "Blackhall Road, KENDAL, Cumbria, LA9 4BT",
+    "booking_centre": "Citizens Advice Allerdale",
+    "phone": "01900 68981",
+    "hours": "Mon, Wed, Thur 9am - 5pm; Tue 9am - 6pm; Fri 9am - 4:30pm",
+    "lat": "54.3295506",
+    "lng": "-2.7450833"
+  },
+  {
+    "title": "Citizens Advice Maryport",
+    "address": "Selby Terrace,MARYPORT,Cumbria,CA15 6NF",
+    "booking_centre": "Citizens Advice Allerdale",
+    "phone": "01900 68981",
+    "hours": "Mon, Wed, Thur 9am - 5pm; Tue 9am - 6pm; Fri 9am - 4:30pm",
+    "lat": "52.2590467",
+    "lng": "-1.160031"
+  },
+  {
+    "title": "Arun & Chichester CAB (Bognor Regis)",
+    "address": "Town Hall, Clarence Road, BOGNOR REGIS, West Sussex, PO21 1LD",
+    "booking_centre": "Arun & Chichester CAB (Bognor Regis)",
     "phone": "01243 860516",
     "hours": "Mon - Fri 9am - 5pm",
-    "lat": 50.7831729,
-    "lng": -0.6703726
+    "lat": "50.7831729",
+    "lng": "-0.6703726"
   },
   {
-    "title": "Bournemouth Citizens Advice",
+    "title": "Arun & Chichester CAB (Chichester)",
+    "address": "Bell House, 6 Theatre Lane, CHICHESTER, West Sussex, PO19 1SR",
+    "booking_centre": "Arun & Chichester CAB (Bognor Regis)",
+    "phone": "01243 860516",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "50.8340475",
+    "lng": "-0.7794051"
+  },
+  {
+    "title": "Arun & Chichester CAB (Littlehampton)",
+    "address": "14-16 Anchor Springs, LITTLEHAMPTON, West Sussex, BN17 6BP",
+    "booking_centre": "Arun & Chichester CAB (Bognor Regis)",
+    "phone": "01243 860516",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "50.8102265",
+    "lng": "-0.541784"
+  },
+  {
+    "title": "Fareham CAB",
+    "address": "1st Floor County Library Building, Osborn Road, Fareham Hampshire PO16 7EN",
+    "booking_centre": "Arun & Chichester CAB (Bognor Regis)",
+    "phone": "01243 860516",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "50.7241425",
+    "lng": "-3.5247091"
+  },
+  {
+    "title": "Gosport CAB",
+    "address": "Martin Snape House, 96 Pavilion Way, St George Barrack, GOSPORT, Hampshire, PO12 1GE",
+    "booking_centre": "Arun & Chichester CAB (Bognor Regis)",
+    "phone": "01243 860516",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "50.7957743",
+    "lng": "-1.125755"
+  },
+  {
+    "title": "Lancing CAB",
+    "address": "Parish Hall, 96 South Street, Lancing BN15 8AJ",
+    "booking_centre": "Arun & Chichester CAB (Bognor Regis)",
+    "phone": "01243 860516",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "53.6112348",
+    "lng": "-2.6050257"
+  },
+  {
+    "title": "Portsmouth CAB",
+    "address": "Ark Royal House, Winston Churchill Avenue, PORTSMOUTH, Hampshire, PO1 2GF",
+    "booking_centre": "Arun & Chichester CAB (Bognor Regis)",
+    "phone": "01243 860516",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "50.7953497",
+    "lng": "-1.0910517"
+  },
+  {
+    "title": "Central & South Sussex (Burgess Hill) CAB",
+    "address": "Delmon House, 38 Church Rd, BURGESS HILL, West Sussex, RH15 9AE",
+    "booking_centre": "Arun & Chichester CAB (Bognor Regis)",
+    "phone": "01243 860516",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "50.9551276",
+    "lng": "-0.129557"
+  },
+  {
+    "title": "Central & South Sussex (Haywards Heath) CAB",
+    "address": "Oaklands, Paddockhall Road, HAYWARDS HEATH, West Sussex, RH16 1HG",
+    "booking_centre": "Arun & Chichester CAB (Bognor Regis)",
+    "phone": "01243 860516",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.0017918",
+    "lng": "-0.1093268"
+  },
+  {
+    "title": "Bournemouth CAB",
     "address": "West Wing, Town Hall, Bourne Avenue, BOURNEMOUTH, Dorset, BH2 6DX",
+    "booking_centre": "Bournemouth CAB",
     "phone": "01202 203661",
     "hours": "Mon - Fri 9:45am - 3:30pm",
-    "lat": 50.7220011,
-    "lng": -1.8833211
+    "lat": "50.7220011",
+    "lng": "-1.8833211"
   },
   {
-    "title": "Caerphilly Citizens Advice",
-    "address": "2B De Clare House, 5 Alfred Owen Way, Pontygwindy Industrial Estate, CAERPHILLY, Caerphilly, CF83 3HU",
-    "phone": "01443 878054 ",
+    "title": "Bournemouth CAB (Kinson Hub)",
+    "address": "Wimborne Road, Kinson, BOURNEMOUTH, Dorset, BH11 9AW",
+    "booking_centre": "Bournemouth CAB",
+    "phone": "01202 203661",
+    "hours": "Mon - Fri 9:45am - 3:30pm",
+    "lat": "50.7690024",
+    "lng": "-1.901652"
+  },
+  {
+    "title": "Bridport CAB",
+    "address": "45 South Street, BRIDPORT, Dorset, DT6 3NY",
+    "booking_centre": "Bournemouth CAB",
+    "phone": "01202 203661",
+    "hours": "Mon - Fri 9:45am - 3:30pm",
+    "lat": "50.7319176",
+    "lng": "-2.7578951"
+  },
+  {
+    "title": "Christchurch CAB",
+    "address": "2 Sopers Lane, CHRISTCHURCH, Dorset, BH23 1JG",
+    "booking_centre": "Bournemouth CAB",
+    "phone": "01202 203661",
+    "hours": "Mon - Fri 9:45am - 3:30pm",
+    "lat": "50.7350612",
+    "lng": "-1.7795971"
+  },
+  {
+    "title": "East Dorset CAB (Wimborne)",
+    "address": "Wimborne Community Learning and Resource Centre, Hanham Road, Wimborne, Dorset BH21 1AS",
+    "booking_centre": "Bournemouth CAB",
+    "phone": "01202 203661",
+    "hours": "Mon - Fri 9:45am - 3:30pm",
+    "lat": "50.8007332",
+    "lng": "-1.9846362"
+  },
+  {
+    "title": "East Devon (Exmouth) CAB",
+    "address": "Town Hall, St Andrews Road, EXMOUTH, Devon, EX8 1AW",
+    "booking_centre": "Bournemouth CAB",
+    "phone": "01202 203661",
+    "hours": "Mon - Fri 9:45am - 3:30pm",
+    "lat": "50.798238",
+    "lng": "-3.1881078"
+  },
+  {
+    "title": "East Devon (Honiton) CAB",
+    "address": "Honiton Library & Information Centre, 48-50 New Street, HONITON, Devon, EX14 1BS,",
+    "booking_centre": "Bournemouth CAB",
+    "phone": "01202 203661",
+    "hours": "Mon - Fri 9:45am - 3:30pm",
+    "lat": "50.6184609",
+    "lng": "-3.4147774"
+  },
+  {
+    "title": "East Devon (Seaton) CAB",
+    "address": "23 Fore Street, SEATON, Devon EX12 2LE",
+    "booking_centre": "Bournemouth CAB",
+    "phone": "01202 203661",
+    "hours": "Mon - Fri 9:45am - 3:30pm",
+    "lat": "50.6184609",
+    "lng": "-3.4147774"
+  },
+  {
+    "title": "Newport CAB (Isle of Wight)",
+    "address": "Isle Help Advice Hub, 7 High Street, NEWPORT, Isle Of Wight, PO30 1SS",
+    "booking_centre": "Bournemouth CAB",
+    "phone": "01202 203661",
+    "hours": "Mon - Fri 9:45am - 3:30pm",
+    "lat": "50.7004419",
+    "lng": "-1.2915007"
+  },
+  {
+    "title": "Weymouth & Portland CAB (Weymouth)",
+    "address": "2 Mulberry Terrace, Great George Street, WEYMOUTH, Dorset, DT4 8NQ",
+    "booking_centre": "Bournemouth CAB",
+    "phone": "01202 203661",
+    "hours": "Mon - Fri 9:45am - 3:30pm",
+    "lat": "50.6111263",
+    "lng": "-2.4555666"
+  },
+  {
+    "title": "Caerphilly County CAB (Caerphilly)",
+    "address": "2B De Clare House, 5 Alfred Owen Way, Pontygwindy Industrial Estate, CAERPHILLY, CF83 3HU",
+    "booking_centre": "Caerphilly County CAB (Caerphilly)",
+    "phone": "01443 878054",
     "hours": "Mon - Fri 9am - 5pm",
-    "lat": 51.5892056,
-    "lng": -3.2267737
+    "lat": "51.5892056",
+    "lng": "-3.2267737"
   },
   {
-    "title": "Cardiff and Vale Citizens Advice",
-    "address": "119 Broad Street, BARRY, Vale of Glamorgan, CF62 7TZ.",
+    "title": "Caerphilly County (Bargoed) CAB",
+    "address": "41b Hanbury Road, BARGOED, Caerphilly, CF81 8QU",
+    "booking_centre": "Caerphilly County CAB (Caerphilly)",
+    "phone": "01443 878054",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.6886423",
+    "lng": "-3.2293631"
+  },
+  {
+    "title": "Caerphilly County (Blaina) CAB",
+    "address": "Arosfa House, High Street, BLAINA, Blaenau Gwent, NP13 3AN",
+    "booking_centre": "Caerphilly County CAB (Caerphilly)",
+    "phone": "01443 878054",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.7710209",
+    "lng": "-3.162257"
+  },
+  {
+    "title": "Caerphilly County (Risca) CAB",
+    "address": "Park Road, RISCA, Caerphilly, NP11 6BJ",
+    "booking_centre": "Caerphilly County CAB (Caerphilly)",
+    "phone": "01443 878054",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.6070589",
+    "lng": "-3.0962179"
+  },
+  {
+    "title": "Monmouth CAB",
+    "address": "23a Whitecross Street, MONMOUTH, Monmouthshire, NP25 3BY",
+    "booking_centre": "Caerphilly County CAB (Caerphilly)",
+    "phone": "01443 878054",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.8131694",
+    "lng": "-2.7122017"
+  },
+  {
+    "title": "Monmouthshire CAB - Abergavenny",
+    "address": "19 a&b Cross Street, ABERGAVENNY, Monmouthshire, NP7 5EW",
+    "booking_centre": "Caerphilly County CAB (Caerphilly)",
+    "phone": "01443 878054",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.8206659",
+    "lng": "-3.0166274"
+  },
+  {
+    "title": "Monmouthshire CAB - Caldicot",
+    "address": "5A Church Road, CALDICOT, Monmouthshire, NP26 4BP",
+    "booking_centre": "Caerphilly County CAB (Caerphilly)",
+    "phone": "01443 878054",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.5919217",
+    "lng": "-2.7502254"
+  },
+  {
+    "title": "Monmouthshire CAB - Chepstow",
+    "address": "The Gate House, High Street, CHEPSTOW, Monmouthshire, NP16 5LH",
+    "booking_centre": "Caerphilly County CAB (Caerphilly)",
+    "phone": "01443 878054",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.6409907",
+    "lng": "-2.6759201"
+  },
+  {
+    "title": "Rhondda Cynon Taff CAB (Pontypridd)",
+    "address": "5 Gelliwastad Road, PONTYPRIDD, Rhondda Cynon Taff, CF37 2BP",
+    "booking_centre": "Caerphilly County CAB (Caerphilly)",
+    "phone": "01443 878054",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.6030624",
+    "lng": "-3.3415785"
+  },
+  {
+    "title": "Torfaen CAB - Cwmbran",
+    "address": "45 Gwent Square, Torfaen, CWMBRAN, NP44 1PL",
+    "booking_centre": "Caerphilly County CAB (Caerphilly)",
+    "phone": "01443 878054",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.6541672",
+    "lng": "-3.0202558"
+  },
+  {
+    "title": "Merthyr Tydfil CAB",
+    "address": "Tramroadside North, MERTHYR TYDFIL, Merthyr Tydfil, CF47 0AP",
+    "booking_centre": "Caerphilly County CAB (Caerphilly)",
+    "phone": "01443 878054",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.7462695",
+    "lng": "-3.3765377"
+  },
+  {
+    "title": "Newport CAB",
+    "address": "8 Corn Street, NEWPORT, Gwent, NP20 1DJ",
+    "booking_centre": "Caerphilly County CAB (Caerphilly)",
+    "phone": "01443 878054",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.5880156",
+    "lng": "-2.9950573"
+  },
+  {
+    "title": "Canolfan Cynghori Ynys Mon (Llangefni)",
+    "address": "4/10 Ffordd yr Efail, Llangefni, Ynys Mon, LL77 7ER",
+    "booking_centre": "Canolfan Cynghori Ynys Mon (Llangefni)",
+    "phone": "01248 723785",
+    "hours": "Mon - Thur 9am - 5pm; Fri 9am - 4pm",
+    "lat": "53.2562205",
+    "lng": "-4.3118206"
+  },
+  {
+    "title": "Canolfan Cynghori Ynys Mon (Amlwch)",
+    "address": "Town Council Offices, Llawr y Llan, Lon Goch, AMLWCH, Anglesey, LL68 9EN",
+    "booking_centre": "Canolfan Cynghori Ynys Mon (Llangefni)",
+    "phone": "01248 723785",
+    "hours": "Mon - Thur 9am - 5pm; Fri 9am - 4pm",
+    "lat": "53.4096133",
+    "lng": "-4.3442295"
+  },
+  {
+    "title": "Canolfan Cynghori Ynys Mon (Holyhead)",
+    "address": "6 Victoria Terrace, HOLYHEAD, Anglesey, LL65 1UT",
+    "booking_centre": "Canolfan Cynghori Ynys Mon (Llangefni)",
+    "phone": "01248 723785",
+    "hours": "Mon - Thur 9am - 5pm; Fri 9am - 4pm",
+    "lat": "53.3088099",
+    "lng": "-4.6330662"
+  },
+  {
+    "title": "Gwynedd & De Ynys Mon (Bangor Advice Centre)",
+    "address": "The Old Smithy, Sackville Road, BANGOR, Gwynedd, LL57 1LE",
+    "booking_centre": "Canolfan Cynghori Ynys Mon (Llangefni)",
+    "phone": "01248 723785",
+    "hours": "Mon - Thur 9am - 5pm; Fri 9am - 4pm",
+    "lat": "53.2257973",
+    "lng": "-4.1292982"
+  },
+  {
+    "title": "Gwynedd & De Ynys Mon (Caernarfon)",
+    "address": "Victoria Chambers, Crown Street, CAERNARFON, Gwynedd, LL55 1SY",
+    "booking_centre": "Canolfan Cynghori Ynys Mon (Llangefni)",
+    "phone": "01248 723785",
+    "hours": "Mon - Thur 9am - 5pm; Fri 9am - 4pm",
+    "lat": "53.1412568",
+    "lng": "-4.2746807"
+  },
+  {
+    "title": "Gwynedd & De Ynys Mon (Dwyfor)",
+    "address": "Llys Cynan, 12 Penlan Street, PWLLHELI, Gwynedd, LL53 5DH",
+    "booking_centre": "Canolfan Cynghori Ynys Mon (Llangefni)",
+    "phone": "01248 723785",
+    "hours": "Mon - Thur 9am - 5pm; Fri 9am - 4pm",
+    "lat": "52.8888137",
+    "lng": "-4.4174244"
+  },
+  {
+    "title": "Cardiff and Vale CAB (Barry)",
+    "address": "119 Broad Street, BARRY, Vale of Glamorgan, CF62 7TZ",
+    "booking_centre": "Cardiff and Vale CAB (Barry)",
     "phone": "01446 704998",
     "hours": "Mon - Fri 9am - 5pm",
-    "lat": 51.4032521,
-    "lng": -3.273753
+    "lat": "51.4032521",
+    "lng": "-3.273753"
   },
   {
-    "title": "Central and East Northamptonshire Citizens Advice",
-    "address": "Town Centre House, 7/8 Mercers Row, NORTHAMPTON, Northamptonshire, NN1 2QL",
-    "phone": "0300 3239940",
+    "title": "Bridgend County Borough CAB (Bridgend)",
+    "address": "Ground Floor, 26 Dunraven Place, BRIDGEND, CF31 1JD",
+    "booking_centre": "Cardiff and Vale CAB (Barry)",
+    "phone": "01446 704998",
     "hours": "Mon - Fri 9am - 5pm",
-    "lat": 52.2375028,
-    "lng": -0.8962066999999999
+    "lat": "51.5073411",
+    "lng": "-3.5799138"
   },
   {
-    "title": "Ceredigion Citizens Advice",
+    "title": "Central Cardiff",
+    "address": "1st Floor, Marland House, Central Square, Cardiff, CF10 1EP",
+    "booking_centre": "Cardiff and Vale CAB (Barry)",
+    "phone": "01446 704998",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.1112871",
+    "lng": "-0.1907122"
+  },
+  {
+    "title": "Cyngor Ar Bopeth Ceredigion CAB",
     "address": "Napier Street, CARDIGAN, Ceredigion, SA43 1ED",
+    "booking_centre": "Cyngor Ar Bopeth Ceredigion CAB",
     "phone": "01239 613 707",
     "hours": "Mon - Fri 9am - 4pm",
-    "lat": 52.0850404,
-    "lng": -4.657687399999999
+    "lat": "52.0850404",
+    "lng": "-4.6576874"
   },
   {
-    "title": "Chelmsford Citizens Advice",
+    "title": "Cyngor Ar Bopeth Ceredigion (Aberystwyth) CAB",
+    "address": "12 Cambrian Place, ABERYSTWYTH, Ceredigion, SY23 1NT",
+    "booking_centre": "Cyngor Ar Bopeth Ceredigion CAB",
+    "phone": "01239 613 707",
+    "hours": "Mon - Fri 9am - 4pm",
+    "lat": "52.4146904",
+    "lng": "-4.0828401"
+  },
+  {
+    "title": "Chelmsford CAB",
     "address": "Burgess Well House, Coval Lane, CHELMSFORD, Essex, CM1 1FW",
+    "booking_centre": "Chelmsford CAB",
     "phone": "01245 205567",
     "hours": "Mon - Fri 9am - 5pm",
-    "lat": 51.7366355,
-    "lng": 0.465144
+    "lat": "51.736673",
+    "lng": "0.465168"
   },
   {
-    "title": "Cheshire West Citizens Advice",
+    "title": "Basildon CAB",
+    "address": "The Basildon Centre, St Martins Square, Basildon Borough Council, BASILDON, Essex, SS14 1DY",
+    "booking_centre": "Chelmsford CAB",
+    "phone": "01245 205567",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.5704402",
+    "lng": "0.4543461"
+  },
+  {
+    "title": "Braintree, Halstead & Witham CAB (Braintree)",
+    "address": "2 St Michaels Road, Braintree District, BRAINTREE, Essex, CM7 1EX",
+    "booking_centre": "Chelmsford CAB",
+    "phone": "01245 205567",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.8769386",
+    "lng": "0.5499935"
+  },
+  {
+    "title": "Braintree, Halstead & Witham CAB (Witham)",
+    "address": "Collingwood Road (by Public Hall), Braintree District, WITHAM, Essex, CM8 2DY",
+    "booking_centre": "Chelmsford CAB",
+    "phone": "01245 205567",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.8007669",
+    "lng": "0.639218"
+  },
+  {
+    "title": "Brentwood CAB",
+    "address": "8 - 12 Crown Street, BRENTWOOD, Essex, CM14 4BA",
+    "booking_centre": "Chelmsford CAB",
+    "phone": "01245 205567",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.6191513",
+    "lng": "0.3007964"
+  },
+  {
+    "title": "Castle Point CAB",
+    "address": "The Whitehouse, Rear of Council Offices, Kiln Road, Castle Point, BENFLEET, Essex, SS7 1TF",
+    "booking_centre": "Chelmsford CAB",
+    "phone": "01245 205567",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.5618449",
+    "lng": "0.5848682"
+  },
+  {
+    "title": "Clacton-on-Sea (Tendring) CAB",
+    "address": "18 Carnarvon Road, CLACTON-ON-SEA, Essex, CO15 6QF",
+    "booking_centre": "Chelmsford CAB",
+    "phone": "01245 205567",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.7904094",
+    "lng": "1.156777"
+  },
+  {
+    "title": "Colchester CAB",
+    "address": "Blackburn House, 32 Crouch Street, COLCHESTER, Essex, CO3 3HH",
+    "booking_centre": "Chelmsford CAB",
+    "phone": "01245 205567",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.8875991",
+    "lng": "0.8922498"
+  },
+  {
+    "title": "Harlow CAB",
+    "address": "13-15 East Gate, The High, HARLOW, Essex, CM20 1HP",
+    "booking_centre": "Chelmsford CAB",
+    "phone": "01245 205567",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.7705513",
+    "lng": "0.0933527"
+  },
+  {
+    "title": "Epping Forest District CAB (Loughton)",
+    "address": "St Marys Parish Centre, High Road, LOUGHTON, Essex, IG10 1BB",
+    "booking_centre": "Chelmsford CAB",
+    "phone": "01245 205567",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.6468966",
+    "lng": "0.0551442"
+  },
+  {
+    "title": "Maldon CAB",
+    "address": "St Cedds House, Princes Road, MALDON, Essex, CM9 5NY",
+    "booking_centre": "Chelmsford CAB",
+    "phone": "01245 205567",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.7285404",
+    "lng": "0.680974"
+  },
+  {
+    "title": "Rochford and Rayleigh CAB (Rayleigh)",
+    "address": "Civic Suite, Hockley Road, RAYLEIGH, Essex, SS6 8EB",
+    "booking_centre": "Chelmsford CAB",
+    "phone": "01245 205567",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.5884433",
+    "lng": "0.609975"
+  },
+  {
+    "title": "Southend CAB",
+    "address": "1 Church Road, SOUTHEND-ON-SEA, Essex, SS1 2AL",
+    "booking_centre": "Chelmsford CAB",
+    "phone": "01245 205567",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.5354042",
+    "lng": "0.7163698"
+  },
+  {
+    "title": "Thurrock CAB",
+    "address": "Voluntary & Community Resource Centre, High Street, Thurrock, GRAYS, Essex, RM17 6XP",
+    "booking_centre": "Chelmsford CAB",
+    "phone": "01245 205567",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.4774256",
+    "lng": "0.3229015"
+  },
+  {
+    "title": "Uttlesford CAB",
+    "address": "Barnard's Yard, Uttlesford, SAFFRON WALDEN, Essex, CB11 4EB",
+    "booking_centre": "Chelmsford CAB",
+    "phone": "01245 205567",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "52.0202094",
+    "lng": "0.2392879"
+  },
+  {
+    "title": "Cheshire West CAB (Winsford)",
     "address": "The Brunner Guildhall, High Street, WINSFORD, Cheshire, CW7 2AU",
+    "booking_centre": "Cheshire West CAB (Winsford)",
     "phone": "01606 596399",
     "hours": "Mon - Fri 9am - 4pm",
-    "lat": 53.1929859,
-    "lng": -2.5306267
+    "lat": "53.1929859",
+    "lng": "-2.5306267"
   },
   {
-    "title": "Cornwall Citizens Advice",
-    "address": "Camborne Office, The Community Centre, South Terrace, Camborne, Cornwall, TR14 8SU",
+    "title": "Cheshire West CAB (Chester)",
+    "address": "Folliott House, 53 Northgate Street, CHESTER, Cheshire, CH1 2HQ",
+    "booking_centre": "Cheshire West CAB (Winsford)",
+    "phone": "01606 596399",
+    "hours": "Mon - Fri 9am - 4pm",
+    "lat": "53.1930535",
+    "lng": "-2.8929795"
+  },
+  {
+    "title": "Cheshire West CAB (Ellesmere Port)",
+    "address": "1 Whitby Road, Ellesmere Port, ELLESMERE PORT, Cheshire, CH65 8AA",
+    "booking_centre": "Cheshire West CAB (Winsford)",
+    "phone": "01606 596399",
+    "hours": "Mon - Fri 9am - 4pm",
+    "lat": "53.2806107",
+    "lng": "-2.8983542"
+  },
+  {
+    "title": "Cheshire West CAB (Northwich)",
+    "address": "Meadow Court, Meadow St, NORTHWICH, Cheshire, CW9 5FP",
+    "booking_centre": "Cheshire West CAB (Winsford)",
+    "phone": "01606 596399",
+    "hours": "Mon - Fri 9am - 4pm",
+    "lat": "53.2618491",
+    "lng": "-2.5087498"
+  },
+  {
+    "title": "Cheshire East CAB (Crewe)",
+    "address": "50 Victoria Street, CREWE, Cheshire, CW1 2JE",
+    "booking_centre": "Cheshire West CAB (Winsford)",
+    "phone": "01606 596399",
+    "hours": "Mon - Fri 9am - 4pm",
+    "lat": "53.0988365",
+    "lng": "-2.4442105"
+  },
+  {
+    "title": "Cheshire East CAB North",
+    "address": "Sunderland House, Sunderland Street, Cheshire East, MACCLESFIELD, Cheshire, SK11 6JF",
+    "booking_centre": "Cheshire West CAB (Winsford)",
+    "phone": "01606 596399",
+    "hours": "Mon - Fri 9am - 4pm",
+    "lat": "53.257948",
+    "lng": "-2.1226585"
+  },
+  {
+    "title": "Halton District CAB - Runcorn",
+    "address": "Runcorn Office, Ground Floor, Grosvenor House, RUNCORN, Cheshire, WA7 2HF",
+    "booking_centre": "Cheshire West CAB (Winsford)",
+    "phone": "01606 596399",
+    "hours": "Mon - Fri 9am - 4pm",
+    "lat": "53.3291661",
+    "lng": "-2.6972691"
+  },
+  {
+    "title": "Halton District CAB - Widnes",
+    "address": "Unit 3, Victoria Buildings, Lugsdale Road, WIDNES, Cheshire, WA8 6DJ",
+    "booking_centre": "Cheshire West CAB (Winsford)",
+    "phone": "01606 596399",
+    "hours": "Mon - Fri 9am - 4pm",
+    "lat": "53.3622305",
+    "lng": "-2.7297559"
+  },
+  {
+    "title": "Wirral CAB - Birkenhead Advice Centre",
+    "address": "50 Argyle Street, Wirral, BIRKENHEAD, CH41 6AF",
+    "booking_centre": "Cheshire West CAB (Winsford)",
+    "phone": "01606 596399",
+    "hours": "Mon - Fri 9am - 4pm",
+    "lat": "53.3918453",
+    "lng": "-3.0184476"
+  },
+  {
+    "title": "Wirral CAB - Heswall Advice Centre",
+    "address": "Hillcroft, Rocky Lane, Heswall, WIRRAL, CH60 0BY",
+    "booking_centre": "Cheshire West CAB (Winsford)",
+    "phone": "01606 596399",
+    "hours": "Mon - Fri 9am - 4pm",
+    "lat": "53.3266808",
+    "lng": "-3.0967474"
+  },
+  {
+    "title": "Wirral CAB - Rock Ferry Outreach",
+    "address": "Rock Ferry One Stop Shop, 257 Old Chester Road, Rock Ferry, CH42 3TD",
+    "booking_centre": "Cheshire West CAB (Winsford)",
+    "phone": "01606 596399",
+    "hours": "Mon - Fri 9am - 4pm",
+    "lat": "53.3756429",
+    "lng": "-3.0148956"
+  },
+  {
+    "title": "Wirral CAB - Wallasey Advice Centre",
+    "address": "237-243 Liscard Road, Wirral, WALLASEY, CH44 5TH",
+    "booking_centre": "Cheshire West CAB (Winsford)",
+    "phone": "01606 596399",
+    "hours": "Mon - Fri 9am - 4pm",
+    "lat": "53.4185718",
+    "lng": "-3.0423103"
+  },
+  {
+    "title": "Warrington District CAB - Birchwood",
+    "address": "99 Dewhurst Road, Birchwood, WARRINGTON, Cheshire, WA3 7PG",
+    "booking_centre": "Cheshire West CAB (Winsford)",
+    "phone": "01606 596399",
+    "hours": "Mon - Fri 9am - 4pm",
+    "lat": "53.3951056",
+    "lng": "-2.5735433"
+  },
+  {
+    "title": "Warrington District CAB - Lymm",
+    "address": "Davies Way, LYMM, Cheshire, WA13 0QW",
+    "booking_centre": "Cheshire West CAB (Winsford)",
+    "phone": "01606 596399",
+    "hours": "Mon - Fri 9am - 4pm",
+    "lat": "53.3818229",
+    "lng": "-2.481932"
+  },
+  {
+    "title": "Warrington District CAB - Warrington",
+    "address": "The Gateway, 89 Sankey Street, WARRINGTON, Cheshire, WA1 1SR",
+    "booking_centre": "Cheshire West CAB (Winsford)",
+    "phone": "01606 596399",
+    "hours": "Mon - Fri 9am - 4pm",
+    "lat": "53.3884486",
+    "lng": "-2.5988489"
+  },
+  {
+    "title": "CAB Cornwall (Camborne)",
+    "address": "Camborne Office, The Community Centre, South Terrace, CAMBORNE, Cornwall, TR14 8SU",
+    "booking_centre": "CAB Cornwall (Camborne)",
     "phone": "03333 442480",
     "hours": "Mon - Fri 9am - 3pm",
-    "lat": 50.2106906,
-    "lng": -5.2991229
+    "lat": "50.2106906",
+    "lng": "-5.2991229"
   },
   {
-    "title": "Coventry Citizens Advice",
+    "title": "CAB Cornwall (Bodmin)",
+    "address": "Shire Hall, Mount Folly Square, BODMIN, Cornwall, PL31 2DQ",
+    "booking_centre": "CAB Cornwall (Camborne)",
+    "phone": "03333 442480",
+    "hours": "Mon - Fri 9am - 3pm",
+    "lat": "50.4703506",
+    "lng": "-4.7186789"
+  },
+  {
+    "title": "CAB Cornwall (Bude)",
+    "address": "Neetside, BUDE, Cornwall, EX23 8LB",
+    "booking_centre": "CAB Cornwall (Camborne)",
+    "phone": "03333 442480",
+    "hours": "Mon - Fri 9am - 3pm",
+    "lat": "50.8293505",
+    "lng": "-4.5461231"
+  },
+  {
+    "title": "CAB Cornwall (Falmouth)",
+    "address": "Mulberry Passage, Market Strand, FALMOUTH, Cornwall, TR11 3DB",
+    "booking_centre": "CAB Cornwall (Camborne)",
+    "phone": "03333 442480",
+    "hours": "Mon - Fri 9am - 3pm",
+    "lat": "50.1563794",
+    "lng": "-5.071191"
+  },
+  {
+    "title": "CAB Cornwall (Liskeard)",
+    "address": "Duchy House, 21 Dean Street, LISKEARD, Cornwall, PL14 4AB",
+    "booking_centre": "CAB Cornwall (Camborne)",
+    "phone": "03333 442480",
+    "hours": "Mon - Fri 9am - 3pm",
+    "lat": "50.4538605",
+    "lng": "-4.4661899"
+  },
+  {
+    "title": "CAB Cornwall (Newquay)",
+    "address": "The Public Library, Marcus Hill, NEWQUAY, Cornwall, TR7 1BD",
+    "booking_centre": "CAB Cornwall (Camborne)",
+    "phone": "03333 442480",
+    "hours": "Mon - Fri 9am - 3pm",
+    "lat": "50.4132048",
+    "lng": "-5.082092"
+  },
+  {
+    "title": "CAB Cornwall (Penzance)",
+    "address": "Cornwall Council One Stop Shop, St Clare, PENZANCE, Cornwall, TR18 3QW",
+    "booking_centre": "CAB Cornwall (Camborne)",
+    "phone": "03333 442480",
+    "hours": "Mon - Fri 9am - 3pm",
+    "lat": "50.1225023",
+    "lng": "-5.5460459"
+  },
+  {
+    "title": "CAB Cornwall (Saltash)",
+    "address": "Ground Floor, 18 Belle Vue Road, SALTASH, Cornwall, PL12 6ES",
+    "booking_centre": "CAB Cornwall (Camborne)",
+    "phone": "03333 442480",
+    "hours": "Mon - Fri 9am - 3pm",
+    "lat": "50.4095435",
+    "lng": "-4.2136901"
+  },
+  {
+    "title": "CAB Cornwall (St Austell)",
+    "address": "39 Penwinnick Road, ST AUSTELL, Cornwall, PL25 5DS",
+    "booking_centre": "CAB Cornwall (Camborne)",
+    "phone": "03333 442480",
+    "hours": "Mon - Fri 9am - 3pm",
+    "lat": "50.334683",
+    "lng": "-4.800291"
+  },
+  {
+    "title": "CAB Cornwall (Truro)",
+    "address": "The Library, Union Place, TRURO, Cornwall, TR1 1EP",
+    "booking_centre": "CAB Cornwall (Camborne)",
+    "phone": "03333 442480",
+    "hours": "Mon - Fri 9am - 3pm",
+    "lat": "50.2648854",
+    "lng": "-5.0515976"
+  },
+  {
+    "title": "Torridge, North & Mid West Devon (Barnstaple)",
+    "address": "1 Bridge Buildings, The Strand, BARNSTAPLE, Devon, EX31 1HF",
+    "booking_centre": "CAB Cornwall (Camborne)",
+    "phone": "03333 442480",
+    "hours": "Mon - Fri 9am - 3pm",
+    "lat": "51.0783327",
+    "lng": "-4.0598845"
+  },
+  {
+    "title": "Torridge, North & Mid West Devon (Okehampton)",
+    "address": "The Ockment Centre, North Street, OKEHAMPTON, Devon, EX20 1AR",
+    "booking_centre": "CAB Cornwall (Camborne)",
+    "phone": "03333 442480",
+    "hours": "Mon - Fri 9am - 3pm",
+    "lat": "50.7405149",
+    "lng": "-4.0020212"
+  },
+  {
+    "title": "Coventry",
     "address": "Kirby House, Little Park Street, COVENTRY, West Midlands, CV1 2JZ",
+    "booking_centre": "Coventry",
     "phone": "02476 252621",
     "hours": "Mon - Fri 9:30am - 4pm",
-    "lat": 52.4059561,
-    "lng": -1.5085407
+    "lat": "52.4059561",
+    "lng": "-1.5085407"
   },
   {
-    "title": "Darlington Citizens Advice",
+    "title": "Bedworth Rugby & Nuneaton CAB - Bedworth",
+    "address": "25 Congreve Walk, Bedworth, Warwickshire, CV12 8LX",
+    "booking_centre": "Coventry",
+    "phone": "02476 252621",
+    "hours": "Mon - Fri 9:30am - 4pm",
+    "lat": "52.4796282",
+    "lng": "-1.473528"
+  },
+  {
+    "title": "Bedworth Rugby & Nuneaton CAB - Nuneaton",
+    "address": "19 Dugdale Street, NUNEATON, Warwickshire, CV11 5QJ",
+    "booking_centre": "Coventry",
+    "phone": "02476 252621",
+    "hours": "Mon - Fri 9:30am - 4pm",
+    "lat": "52.5220197",
+    "lng": "-1.4705276"
+  },
+  {
+    "title": "Bedworth Rugby & Nuneaton CAB - Rugby",
+    "address": "1st Floor, Chestnut House, 32 North Street, RUGBY, Warwickshire, CV21 2AG",
+    "booking_centre": "Coventry",
+    "phone": "02476 252621",
+    "hours": "Mon - Fri 9:30am - 4pm",
+    "lat": "52.3737269",
+    "lng": "-1.2621208"
+  },
+  {
+    "title": "Birmingham Citizens Advice Bureau Service - Northfield CAB",
+    "address": "Northfield Library, 77 Church Road, Northfield, BIRMINGHAM, West Midlands, B31 2LB",
+    "booking_centre": "Coventry",
+    "phone": "02476 252621",
+    "hours": "Mon - Fri 9:30am - 4pm",
+    "lat": "52.4147184",
+    "lng": "-1.9667458"
+  },
+  {
+    "title": "Birmingham Citizens Advice Bureau Service -Tyseley CAB",
+    "address": "744-746 Warwick Road, Tyseley, BIRMINGHAM, West Midlands, B11 2HG",
+    "booking_centre": "Coventry",
+    "phone": "02476 252621",
+    "hours": "Mon - Fri 9:30am - 4pm",
+    "lat": "52.4530043",
+    "lng": "-1.8389169"
+  },
+  {
+    "title": "Citizens Advice Solihull Borough - Chelmsley Wood",
+    "address": "176 Bosworth Drive, Chelmsley Wood, SOLIHULL, West Midlands, B37 5DZ",
+    "booking_centre": "Coventry",
+    "phone": "02476 252621",
+    "hours": "Mon - Fri 9:30am - 4pm",
+    "lat": "52.479504",
+    "lng": "-1.7498676"
+  },
+  {
+    "title": "Citizens Advice Solihull Borough - Shirley",
+    "address": "Shirley Centre, 274 Stratford Rd, Shirley, SOLIHULL, West Midlands, B90 3AD",
+    "booking_centre": "Coventry",
+    "phone": "02476 252621",
+    "hours": "Mon - Fri 9:30am - 4pm",
+    "lat": "52.4144814",
+    "lng": "-1.828792"
+  },
+  {
+    "title": "Citizens Advice Solihull Borough - Solihull",
+    "address": "The Priory, Church Hill Road, SOLIHULL, West Midlands, B91 3LF",
+    "booking_centre": "Coventry",
+    "phone": "02476 252621",
+    "hours": "Mon - Fri 9:30am - 4pm",
+    "lat": "52.4113371",
+    "lng": "-1.7768266"
+  },
+  {
+    "title": "North Warwickshire CAB",
+    "address": "The Parish Rooms, Welcome Street, ATHERSTONE, Warwickshire, CV9 1DU",
+    "booking_centre": "Coventry",
+    "phone": "02476 252621",
+    "hours": "Mon - Fri 9:30am - 4pm",
+    "lat": "52.5756418",
+    "lng": "-1.5429732"
+  },
+  {
+    "title": "Stratford-upon-Avon & District CAB",
+    "address": "25 Meer Street, STRATFORD UPON AVON, Warwickshire, CV37 6QB",
+    "booking_centre": "Coventry",
+    "phone": "02476 252621",
+    "hours": "Mon - Fri 9:30am - 4pm",
+    "lat": "52.1932638",
+    "lng": "-1.7083338"
+  },
+  {
+    "title": "Warwick District CAB",
+    "address": "10 Hamilton Terrace, LEAMINGTON SPA, Warwickshire, CV32 4LY",
+    "booking_centre": "Coventry",
+    "phone": "02476 252621",
+    "hours": "Mon - Fri 9:30am - 4pm",
+    "lat": "52.2891596",
+    "lng": "-1.5328772"
+  },
+  {
+    "title": "Darlington CAB",
     "address": "Bennet House, 14 Horsemarket, DARLINGTON, County Durham, DL1 5PT",
+    "booking_centre": "Darlington CAB",
     "phone": "01325 249833",
     "hours": "Mon, Tue, Thur, Fri 9am - 5pm; Wed 9am - 6pm",
-    "lat": 54.523996,
-    "lng": -1.5545461
+    "lat": "54.523996",
+    "lng": "-1.5545461"
   },
   {
-    "title": "Denbighshire Citizens Advice",
+    "title": "CitA County Durham - Durham",
+    "address": "32 Claypath, DURHAM, County Durham, DH1 1RH",
+    "booking_centre": "Darlington CAB",
+    "phone": "01325 249833",
+    "hours": "Mon, Tue, Thur, Fri 9am - 5pm; Wed 9am - 6pm",
+    "lat": "54.7782714",
+    "lng": "-1.5728014"
+  },
+  {
+    "title": "Hartlepool CAB",
+    "address": "87 Park Road, HARTLEPOOL, TS26 9HP",
+    "booking_centre": "Darlington CAB",
+    "phone": "01325 249833",
+    "hours": "Mon, Tue, Thur, Fri 9am - 5pm; Wed 9am - 6pm",
+    "lat": "54.6823126",
+    "lng": "-1.2181049"
+  },
+  {
+    "title": "Middlesbrough CAB",
+    "address": "3 Bolckow Street, MIDDLESBROUGH, Cleveland, TS1 1TH",
+    "booking_centre": "Darlington CAB",
+    "phone": "01325 249833",
+    "hours": "Mon, Tue, Thur, Fri 9am - 5pm; Wed 9am - 6pm",
+    "lat": "54.5778381",
+    "lng": "-1.2378594"
+  },
+  {
+    "title": "Redcar & Cleveland CAB",
+    "address": "Grangetown Neighbourhood Centre, Bolckow Road, Grangetown, Redcar and Cleveland, MIDDLESBROUGH, Cleveland, TS6 7BS",
+    "booking_centre": "Darlington CAB",
+    "phone": "01325 249833",
+    "hours": "Mon, Tue, Thur, Fri 9am - 5pm; Wed 9am - 6pm",
+    "lat": "54.578266",
+    "lng": "-1.152041"
+  },
+  {
+    "title": "Stockton & District Advice & Information Service",
+    "address": "Bath Lane, STOCKTON-ON-TEES, Cleveland, TS18 2DS",
+    "booking_centre": "Darlington CAB",
+    "phone": "01325 249833",
+    "hours": "Mon, Tue, Thur, Fri 9am - 5pm; Wed 9am - 6pm",
+    "lat": "54.5683074",
+    "lng": "-1.3087006"
+  },
+  {
+    "title": "Denbighshire CAB - Denbigh",
     "address": "23 High Street, DENBIGH, Denbighshire, LL16 3HY",
+    "booking_centre": "Denbighshire CAB - Denbigh",
     "phone": "01745 818081",
     "hours": "Mon - Fri 9:30am - 2:30pm",
-    "lat": 53.1834688,
-    "lng": -3.4197901
+    "lat": "53.1834688",
+    "lng": "-3.4197901"
   },
   {
-    "title": "Derbyshire Districts Citizens Advice",
+    "title": "Denbighshire CAB - Rhyl",
+    "address": "11 Water Street, RHYL, Denbighshire, LL18 1SP",
+    "booking_centre": "Denbighshire CAB - Denbigh",
+    "phone": "01745 818081",
+    "hours": "Mon - Fri 9:30am - 2:30pm",
+    "lat": "53.3201841",
+    "lng": "-3.4925896"
+  },
+  {
+    "title": "Denbighshire CAB - Ruthin",
+    "address": "The Old Fire Station, Market Street, RUTHIN, Denbighshire, LL15 1BE",
+    "booking_centre": "Denbighshire CAB - Denbigh",
+    "phone": "01745 818081",
+    "hours": "Mon - Fri 9:30am - 2:30pm",
+    "lat": "53.1156062",
+    "lng": "-3.3084347"
+  },
+  {
+    "title": "Cylch Conwy District CAB",
+    "address": "District Office, Eryl Wen, Eryl Place, LLANDUDNO, Conwy, LL30 2TX",
+    "booking_centre": "Denbighshire CAB - Denbigh",
+    "phone": "01745 818081",
+    "hours": "Mon - Fri 9:30am - 2:30pm",
+    "lat": "53.3182443",
+    "lng": "-3.8364053"
+  },
+  {
+    "title": "Flintshire CAB - Deeside",
+    "address": "Cable Street, Off Tuscan Way, Connah's Quay, Flintshire, DEESIDE, Flintshire, CH5 4DZ",
+    "booking_centre": "Denbighshire CAB - Denbigh",
+    "phone": "01745 818081",
+    "hours": "Mon - Fri 9:30am - 2:30pm",
+    "lat": "53.2196653",
+    "lng": "-3.060149"
+  },
+  {
+    "title": "Flintshire CAB - Holywell",
+    "address": "The Old Library, Post Office Lane, HOLYWELL, Flintshire, CH8 7LH",
+    "booking_centre": "Denbighshire CAB - Denbigh",
+    "phone": "01745 818081",
+    "hours": "Mon - Fri 9:30am - 2:30pm",
+    "lat": "53.273559",
+    "lng": "-3.2222565"
+  },
+  {
+    "title": "Flintshire CAB - Mold",
+    "address": "The Annexe Terrig House, Chester Street, MOLD, Flintshire, CH7 1EG",
+    "booking_centre": "Denbighshire CAB - Denbigh",
+    "phone": "01745 818081",
+    "hours": "Mon - Fri 9:30am - 2:30pm",
+    "lat": "53.1672064",
+    "lng": "-3.1402197"
+  },
+  {
+    "title": "Abergele CAB",
+    "address": "125 Bridge Street, Abergele, LL22 7HA",
+    "booking_centre": "Denbighshire CAB - Denbigh",
+    "phone": "01745 818081",
+    "hours": "Mon - Fri 9.30am - 2.30pm",
+    "lat": "53.2840581",
+    "lng": "-3.5797902"
+  },
+  {
+    "title": "Llanwrst CAB",
+    "address": "Bridge Street, Llanwrst LL26 0ET",
+    "booking_centre": "Denbighshire CAB - Denbigh",
+    "phone": "01745 818081",
+    "hours": "Mon - Fri 9.30am - 2.30pm",
+    "lat": "53.406127",
+    "lng": "-2.9900211"
+  },
+  {
+    "title": "Gwynedd & De Ynys Mon CAB - Meirionnydd Advice Centre",
+    "address": "Doldir, DOLGELLAU, Gwynedd, LL40 1HA",
+    "booking_centre": "Denbighshire CAB - Denbigh",
+    "phone": "01745 818081",
+    "hours": "Mon - Fri 9:30am - 2:30pm",
+    "lat": "52.7426269",
+    "lng": "-3.87877"
+  },
+  {
+    "title": "Wrexham CAB",
+    "address": "35 Grosvenor Road, WREXHAM, LL11 1BT",
+    "booking_centre": "Denbighshire CAB - Denbigh",
+    "phone": "01745 818081",
+    "hours": "Mon - Fri 9:30am - 2:30pm",
+    "lat": "53.050144",
+    "lng": "-2.9956521"
+  },
+  {
+    "title": "Derbyshire Districts CAB",
     "address": "26 Spring Gardens, High Peak, BUXTON, Derbyshire, SK17 6DE",
+    "booking_centre": "Derbyshire Districts CAB",
     "phone": "0808 146 7709",
     "hours": "Mon - Fri 9am - 5pm",
-    "lat": 53.2588544,
-    "lng": -1.9120955
+    "lat": "53.2588544",
+    "lng": "-1.9120955"
   },
   {
-    "title": "Diss, Thetford and District Citizens Advice",
+    "title": "Derbyshire Districts (Matlock) CAB",
+    "address": "Town Hall, Bank Road, MATLOCK, Derbyshire, DE4 3NN",
+    "booking_centre": "Derbyshire Districts CAB",
+    "phone": "0808 146 7709",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "53.1395349",
+    "lng": "-1.5540241"
+  },
+  {
+    "title": "Chesterfield CAB",
+    "address": "6-8 Broad Pavement, CHESTERFIELD, Derbyshire, S40 1RP",
+    "booking_centre": "Derbyshire Districts CAB",
+    "phone": "0808 146 7709",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "53.2368052",
+    "lng": "-1.4261892"
+  },
+  {
+    "title": "Derby CAB and Law Centre",
+    "address": "Stuart House, Green Lane, DERBY, Derbyshire, DE1 1RS",
+    "booking_centre": "Derbyshire Districts CAB",
+    "phone": "0808 146 7709",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "52.9207182",
+    "lng": "-1.4776856"
+  },
+  {
+    "title": "Mansfield CAB",
+    "address": "Advicehub, 16 Regent Street, MANSFIELD, Nottinghamshire, NG18 1SS",
+    "booking_centre": "Derbyshire Districts CAB",
+    "phone": "0808 146 7709",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "53.1451751",
+    "lng": "-1.1959846"
+  },
+  {
+    "title": "Diss, Thetford & District CAB",
     "address": "Shelfanger Road, DISS, Norfolk, IP22 4EH",
+    "booking_centre": "Diss, Thetford & District CAB",
     "phone": "01379 658205",
     "hours": "Mon, Wed, Fri 10am - 3pm; Tue, Thur 10am - 8pm",
-    "lat": 52.3795521,
-    "lng": 1.1064057
+    "lat": "52.3795521",
+    "lng": "1.1064057"
   },
   {
-    "title": "East End Citizens Advice",
-    "address": "300 Mare Street, Hackney, Hackney, LONDON, E8 1HE",
+    "title": "Diss, Thetford & District CAB - Thetford",
+    "address": "Level 3, Breckland House, THETFORD, Norfolk, IP24 1BT",
+    "booking_centre": "Diss, Thetford & District CAB",
+    "phone": "01379 658205",
+    "hours": "Mon, Wed, Fri 10am - 3pm; Tue, Thur 10am - 8pm",
+    "lat": "52.4152805",
+    "lng": "0.7463784"
+  },
+  {
+    "title": "Felixstowe CAB",
+    "address": "2-6 Orwell Road, FELIXSTOWE, Suffolk, IP11 7HD",
+    "booking_centre": "Diss, Thetford & District CAB",
+    "phone": "01379 658205",
+    "hours": "Mon, Wed, Fri 10am - 3pm; Tue, Thur 10am - 8pm",
+    "lat": "51.9616",
+    "lng": "1.3524001"
+  },
+  {
+    "title": "Ipswich & District CAB",
+    "address": "19 Tower Street, IPSWICH, Suffolk, IP1 3BE",
+    "booking_centre": "Diss, Thetford & District CAB",
+    "phone": "01379 658205",
+    "hours": "Mon, Wed, Fri 10am - 3pm; Tue, Thur 10am - 8pm",
+    "lat": "52.0589324",
+    "lng": "1.1553105"
+  },
+  {
+    "title": "Mid Suffolk CAB - Stowmarket",
+    "address": "5 Milton Road South, STOWMARKET, Suffolk, IP14 1EZ",
+    "booking_centre": "Diss, Thetford & District CAB",
+    "phone": "01379 658205",
+    "hours": "Mon, Wed, Fri 10am - 3pm; Tue, Thur 10am - 8pm",
+    "lat": "52.1866522",
+    "lng": "0.9987634"
+  },
+  {
+    "title": "North East Suffolk (Beccles) CAB",
+    "address": "12 New Market, BECCLES, Suffolk, NR34 9HB",
+    "booking_centre": "Diss, Thetford & District CAB",
+    "phone": "01379 658205",
+    "hours": "Mon, Wed, Fri 10am - 3pm; Tue, Thur 10am - 8pm",
+    "lat": "52.4578579",
+    "lng": "1.5625489"
+  },
+  {
+    "title": "Norfolk CAB - Norwich",
+    "address": "St Crispin's House, St Georges Street, NORWICH, Norfolk, NR3 1PD",
+    "booking_centre": "Diss, Thetford & District CAB",
+    "phone": "01379 658205",
+    "hours": "Mon, Wed, Fri 10am - 3pm; Tue, Thur 10am - 8pm",
+    "lat": "52.6345314",
+    "lng": "1.2937828"
+  },
+  {
+    "title": "Norfolk CAB - Fakenham",
+    "address": "The Old Rectory, 21 Oak Street, FAKENHAM, Norfolk, NR21 9DX",
+    "booking_centre": "Diss, Thetford & District CAB",
+    "phone": "01379 658205",
+    "hours": "Mon, Wed, Fri 10am - 3pm; Tue, Thur 10am - 8pm",
+    "lat": "52.8313413",
+    "lng": "0.8460769"
+  },
+  {
+    "title": "Sudbury CAB",
+    "address": "Belle Vue, Newton Road, Babergh, SUDBURY, Suffolk, CO10 2RG",
+    "booking_centre": "Diss, Thetford & District CAB",
+    "phone": "01379 658205",
+    "hours": "Mon, Wed, Fri 10am - 3pm; Tue, Thur 10am - 8pm",
+    "lat": "52.0383682",
+    "lng": "0.7348284"
+  },
+  {
+    "title": "Suffolk West  (Bury St Edmunds) CAB",
+    "address": "The Risbygate Centre, 90 Risbygate Street, BURY ST EDMUNDS, Suffolk, IP33 3AA",
+    "booking_centre": "Diss, Thetford & District CAB",
+    "phone": "01379 658205",
+    "hours": "Mon, Wed, Fri 10am - 3pm; Tue, Thur 10am - 8pm",
+    "lat": "52.247326",
+    "lng": "0.7096467"
+  },
+  {
+    "title": "East End CAB - Hackney",
+    "address": "300 Mare St, HACKNEY, London, E8 1HE",
+    "booking_centre": "East End CAB - Hackney",
     "phone": "0208 525 6360",
     "hours": "Mon - Fri 9:30am - 5pm",
-    "lat": 51.5443177,
-    "lng": -0.0553779
+    "lat": "51.5461062",
+    "lng": "-0.0552525"
   },
   {
-    "title": "Hambelton and Richmondshire Citizens Advice",
+    "title": "East End CAB - Newham",
+    "address": "39 Freemasons Road, Newham, London, E16 3PJ",
+    "booking_centre": "East End CAB - Hackney",
+    "phone": "0208 525 6360",
+    "hours": "Mon - Fri 9:30am - 5pm",
+    "lat": "51.5114659",
+    "lng": "0.0247158"
+  },
+  {
+    "title": "East End CAB - Tower Hamlets",
+    "address": "32 Greatorex Street, TOWER HAMLETS, London, E1 5NP",
+    "booking_centre": "East End CAB - Hackney",
+    "phone": "0208 525 6360",
+    "hours": "Mon - Fri 9:30am - 5pm",
+    "lat": "51.5184379",
+    "lng": "-0.0675526"
+  },
+  {
+    "title": "Enfield CAB",
+    "address": "Unit 3, Vincent House, 2E Nags Head Road, Ponders End, ENFIELD, Middlesex, EN3 7FN",
+    "booking_centre": "East End CAB - Hackney",
+    "phone": "0208 525 6360",
+    "hours": "Mon - Fri 9:30am - 5pm",
+    "lat": "51.6485331",
+    "lng": "-0.0459844"
+  },
+  {
+    "title": "Haringey District CAB - Tottenham",
+    "address": "551B Tottenham High Road, HARINGEY, London, N17 6SB",
+    "booking_centre": "East End CAB - Hackney",
+    "phone": "0208 525 6360",
+    "hours": "Mon - Fri 9:30am - 5pm",
+    "lat": "51.5955922",
+    "lng": "-0.0692058"
+  },
+  {
+    "title": "Hambleton and Richmondshire CAB (Hambleton)",
     "address": "277 High Street, NORTHALLERTON, North Yorkshire, DL7 8DW",
+    "booking_centre": "Hambleton and Richmondshire CAB (Hambleton)",
     "phone": "01609 767555",
     "hours": "Mon, Tue, Thur 10am - 3pm",
-    "lat": 54.3430232,
-    "lng": -1.4376947
+    "lat": "54.3430232",
+    "lng": "-1.4376947"
   },
   {
-    "title": "Hastings and Rother 1066 Citizens Advice",
-    "address": "Advice and Community Hub, Renaissance House, London Road, St Leonards on sea, East Sussex, TN37 6AN",
+    "title": "Hambleton and Richmondshire CAB - Richmond",
+    "address": "23 Newbiggin, RICHMOND, North Yorkshire, DL10 4DX",
+    "booking_centre": "Hambleton and Richmondshire CAB (Hambleton)",
+    "phone": "01609 767555",
+    "hours": "Mon, Tue, Thur 10am - 3pm",
+    "lat": "54.4036813",
+    "lng": "-1.7404847"
+  },
+  {
+    "title": "Craven & Harrogate Districts CAB - Craven",
+    "address": "St Andrews Church Hall, Newmarket Street, SKIPTON, North Yorkshire, BD23 2JE",
+    "booking_centre": "Hambleton and Richmondshire CAB (Hambleton)",
+    "phone": "01609 767555",
+    "hours": "Mon, Tue, Thur 10am - 3pm",
+    "lat": "53.9606504",
+    "lng": "-2.0143172"
+  },
+  {
+    "title": "Craven & Harrogate Districts CAB - Harrogate",
+    "address": "Audrey Burton House, Queensway, HARROGATE, North Yorkshire, HG1 5LX",
+    "booking_centre": "Hambleton and Richmondshire CAB (Hambleton)",
+    "phone": "01609 767555",
+    "hours": "Mon, Tue, Thur 10am - 3pm",
+    "lat": "53.992797",
+    "lng": "-1.535382"
+  },
+  {
+    "title": "Craven & Harrogate Districts CAB - Ripon",
+    "address": "Sharow View, 75 Allhallowgate, RIPON, North Yorkshire, HG4 1LE",
+    "booking_centre": "Hambleton and Richmondshire CAB (Hambleton)",
+    "phone": "01609 767555",
+    "hours": "Mon, Tue, Thur 10am - 3pm",
+    "lat": "54.1381828",
+    "lng": "-1.5217297"
+  },
+  {
+    "title": "Ryedale CAB",
+    "address": "Stanley Harrison House, Norton Road, Norton, MALTON, North Yorkshire, YO17 9RD",
+    "booking_centre": "Hambleton and Richmondshire CAB (Hambleton)",
+    "phone": "01609 767555",
+    "hours": "Mon, Tue, Thur 10am - 3pm",
+    "lat": "54.1323146",
+    "lng": "-0.7969702"
+  },
+  {
+    "title": "Selby District CAB",
+    "address": "Rear of 4 Park Street, SELBY, North Yorkshire, YO8 4PW",
+    "booking_centre": "Hambleton and Richmondshire CAB (Hambleton)",
+    "phone": "01609 767555",
+    "hours": "Mon, Tue, Thur 10am - 3pm",
+    "lat": "53.7826743",
+    "lng": "-1.0670817"
+  },
+  {
+    "title": "York & District CAB",
+    "address": "West Offices, Station Rise, YORK, North Yorkshire, YO1 6GA",
+    "booking_centre": "Hambleton and Richmondshire CAB (Hambleton)",
+    "phone": "01609 767555",
+    "hours": "Mon, Tue, Thur 10am - 3pm",
+    "lat": "53.9586148",
+    "lng": "-1.0888701"
+  },
+  {
+    "title": "Whitby CAB",
+    "address": "Church House, Flowergate, WHITBY, North Yorkshire, YO21 3BA",
+    "booking_centre": "Hambleton and Richmondshire CAB (Hambleton)",
+    "phone": "01609 767555",
+    "hours": "Mon, Tue, Thur 10am - 3pm",
+    "lat": "54.4864889",
+    "lng": "-0.6155863"
+  },
+  {
+    "title": "Hastings & Rother (1066) CAB",
+    "address": "Advice and Community Hub, Renaissance House, London Road, St Leonards on Sea, East Sussex, TN37 6AN",
+    "booking_centre": "Hastings & Rother (1066) CAB",
     "phone": "01424 452700",
     "hours": "Mon - Fri 9:30am - 4pm",
-    "lat": 50.85303320000001,
-    "lng": 0.5600564
+    "lat": "50.8530332",
+    "lng": "0.5600564"
   },
   {
-    "title": "High Wycombe Citizens Advice",
+    "title": "Lewes District CAB - Lewes",
+    "address": "The Barn, 3 North Court, LEWES, East Sussex, BN7 2AR",
+    "booking_centre": "Hastings & Rother (1066) CAB",
+    "phone": "01424 452700",
+    "hours": "Mon - Fri 9:30am - 4pm",
+    "lat": "50.8747045",
+    "lng": "0.0173336"
+  },
+  {
+    "title": "Lewes District CAB - Seaford",
+    "address": "37 Church Street, SEAFORD, East Sussex, BN25 1HG",
+    "booking_centre": "Hastings & Rother (1066) CAB",
+    "phone": "01424 452700",
+    "hours": "Mon - Fri 9:30am - 4pm",
+    "lat": "50.7712107",
+    "lng": "0.1013229"
+  },
+  {
+    "title": "Wealden District CAB - Crowborough",
+    "address": "Croham Lodge, Croham Road CROWBOROUGH, East Sussex, TN6 2RH",
+    "booking_centre": "Hastings & Rother (1066) CAB",
+    "phone": "01424 452700",
+    "hours": "Mon - Fri 9:30am - 4pm",
+    "lat": "51.059046",
+    "lng": "0.1641776"
+  },
+  {
+    "title": "Wealden District CAB - Hailsham",
+    "address": "Southview, Western Road, HAILSHAM, East Sussex, BN27 3DN",
+    "booking_centre": "Hastings & Rother (1066) CAB",
+    "phone": "01424 452700",
+    "hours": "Mon - Fri 9:30am - 4pm",
+    "lat": "50.8625793",
+    "lng": "0.2554104"
+  },
+  {
+    "title": "Wealden District CAB - Uckfield",
+    "address": "The Hub, Civic Approach, UCKFIELD, East Sussex, TN22 1AL",
+    "booking_centre": "Hastings & Rother (1066) CAB",
+    "phone": "01424 452700",
+    "hours": "Mon - Fri 9:30am - 4pm",
+    "lat": "50.9711018",
+    "lng": "0.0954333"
+  },
+  {
+    "title": "Rother District CAB - Bexhill",
+    "address": "Bank Chambers, Buckhurst Road, BEXHILL-ON-SEA, East Sussex, TN40 1QF",
+    "booking_centre": "Hastings & Rother (1066) CAB",
+    "phone": "01424 452700",
+    "hours": "Mon - Fri 9:30am - 4pm",
+    "lat": "50.8421127",
+    "lng": "0.4726982"
+  },
+  {
+    "title": "Eastbourne CAB",
+    "address": "Unit 6, Highlight House, 8 St Leonards Road, EASTBOURNE, East Sussex, BN21 3UH",
+    "booking_centre": "Hastings & Rother (1066) CAB",
+    "phone": "01424 452700",
+    "hours": "Mon - Fri 9:30am - 4pm",
+    "lat": "50.7704737",
+    "lng": "0.2803217"
+  },
+  {
+    "title": "Brighton & Hove CAB",
+    "address": "1 Tisbury Road, HOVE, East Sussex, BN3 4AH",
+    "booking_centre": "Hastings & Rother (1066) CAB",
+    "phone": "01424 452700",
+    "hours": "Mon - Fri 9:30am - 4pm",
+    "lat": "50.827704",
+    "lng": "-0.1700667"
+  },
+  {
+    "title": "High Wycombe & District CAB",
     "address": "8 Easton St, High Wycombe District, HIGH WYCOMBE, Buckinghamshire, HP11 1NJ",
+    "booking_centre": "High Wycombe & District CAB",
     "phone": "01494 533330",
     "hours": "Tue 12pm - 7:30pm; Wed, Fri 10am - 4pm; Thur 10am - 7:30pm",
-    "lat": 51.6282414,
-    "lng": -0.7472395000000001
+    "lat": "51.6282414",
+    "lng": "-0.7472395"
   },
   {
-    "title": "Hull and East Riding Citizens Advice",
-    "address": "The Wilson Centre (1st floor), Alfred Gelder Street, HULL, East Yorkshire, HU1 2AG",
+    "title": "Aylesbury & District CAB (Aylesbury)",
+    "address": "2 Pebble Lane, AYLESBURY, Buckinghamshire, HP20 2JH",
+    "booking_centre": "High Wycombe & District CAB",
+    "phone": "01494 533330",
+    "hours": "Tue 12pm - 7:30pm; Wed, Fri 10am - 4pm; Thur 10am - 7:30pm",
+    "lat": "51.8175448",
+    "lng": "-0.8144989"
+  },
+  {
+    "title": "Aylesbury & District CAB (Buckingham)",
+    "address": "Wheeldon House, Market Hill, BUCKINGHAM, Buckinghamshire, MK18 1JX",
+    "booking_centre": "High Wycombe & District CAB",
+    "phone": "01494 533330",
+    "hours": "Tue 12pm - 7:30pm; Wed, Fri 10am - 4pm; Thur 10am - 7:30pm",
+    "lat": "52.0004516",
+    "lng": "-0.9873949"
+  },
+  {
+    "title": "Chiltern CAB - Amersham",
+    "address": "Barn Hall Annexe, Chiltern Avenue, AMERSHAM, Buckinghamshire, HP6 5AH",
+    "booking_centre": "High Wycombe & District CAB",
+    "phone": "01494 533330",
+    "hours": "Tue 12pm - 7:30pm; Wed, Fri 10am - 4pm; Thur 10am - 7:30pm",
+    "lat": "51.6765159",
+    "lng": "-0.6029234"
+  },
+  {
+    "title": "Citizens Advice Slough",
+    "address": "27 Church Street, SLOUGH, Berkshire, SL1 1PL",
+    "booking_centre": "High Wycombe & District CAB",
+    "phone": "01494 533330",
+    "hours": "Tue 12pm - 7:30pm; Wed, Fri 10am - 4pm; Thur 10am - 7:30pm",
+    "lat": "51.507433",
+    "lng": "-0.593542"
+  },
+  {
+    "title": "Maidenhead CAB",
+    "address": "4 Marlow Road, MAIDENHEAD, Berkshire, SL6 7YR",
+    "booking_centre": "High Wycombe & District CAB",
+    "phone": "01494 533330",
+    "hours": "Tue 12pm - 7:30pm; Wed, Fri 10am - 4pm; Thur 10am - 7:30pm",
+    "lat": "51.524556",
+    "lng": "-0.725994"
+  },
+  {
+    "title": "Dacorum District CAB",
+    "address": "Dacre House, 19 Hillfield Road, HEMEL HEMPSTEAD, Hertfordshire, HP2 4AA",
+    "booking_centre": "High Wycombe & District CAB",
+    "phone": "01494 533330",
+    "hours": "Tue 12pm - 7:30pm; Wed, Fri 10am - 4pm; Thur 10am - 7:30pm",
+    "lat": "51.7527644",
+    "lng": "-0.470137"
+  },
+  {
+    "title": "Three Rivers CAB (Abbots Langley)",
+    "address": "The Old Stables, St Lawrences Vicarage, High Street, ABBOTS LANGLEY, Hertfordshire, WD5 0AS",
+    "booking_centre": "High Wycombe & District CAB",
+    "phone": "01494 533330",
+    "hours": "Tue 12pm - 7:30pm; Wed, Fri 10am - 4pm; Thur 10am - 7:30pm",
+    "lat": "51.3892163",
+    "lng": "1.381282"
+  },
+  {
+    "title": "Watford CAB",
+    "address": "St Mary's Churchyard, High St, WATFORD, Hertfordshire, WD17 2BE",
+    "booking_centre": "High Wycombe & District CAB",
+    "phone": "01494 533330",
+    "hours": "Tue 12pm - 7:30pm; Wed, Fri 10am - 4pm; Thur 10am - 7:30pm",
+    "lat": "51.6542031",
+    "lng": "-0.395227"
+  },
+  {
+    "title": "South Bucks CAB",
+    "address": "South Bucks District Council Offices, Capswood, Oxford Rd, Denham UB9 4LH",
+    "booking_centre": "High Wycombe & District CAB",
+    "phone": "01494 533330",
+    "hours": "Tue 12pm - 7:30pm; Wed, Fri 10am - 4pm; Thur 10am - 7:30pm",
+    "lat": "52.9980467",
+    "lng": "-0.4079576"
+  },
+  {
+    "title": "Hull and East Riding (Hull) CAB",
+    "address": "The Wilson Centre (1st floor,) Alfred Gelder Street, HULL, East Yorkshire, HU1 2AG",
+    "booking_centre": "Hull and East Riding (Hull) CAB",
     "phone": "01482 816308",
     "hours": "Mon - Fri 9am - 4:30pm",
-    "lat": 53.7442573,
-    "lng": -0.3359857
+    "lat": "53.7442573",
+    "lng": "-0.3359857"
   },
   {
-    "title": "Kirklees Citizens Advice",
+    "title": "Hull & East Riding CAB - Beverley",
+    "address": "100 Lairgate, BEVERLEY, East Yorkshire, HU17 8JQ",
+    "booking_centre": "Hull and East Riding (Hull) CAB",
+    "phone": "01482 816308",
+    "hours": "Mon - Fri 9am - 4:30pm",
+    "lat": "53.8382624",
+    "lng": "-0.43042"
+  },
+  {
+    "title": "Hull & East Riding CAB - Bridlington",
+    "address": "5a Prospect Arcade BRIDLINGTON East Yorkshire, YO15 2AL",
+    "booking_centre": "Hull and East Riding (Hull) CAB",
+    "phone": "01482 816308",
+    "hours": "Mon - Fri 9am - 4:30pm",
+    "lat": "54.0837563",
+    "lng": "-0.1930034"
+  },
+  {
+    "title": "Hull & East Riding CAB - Goole",
+    "address": "80 Pasture Road, GOOLE, East Yorkshire, DN14 6HD",
+    "booking_centre": "Hull and East Riding (Hull) CAB",
+    "phone": "01482 816308",
+    "hours": "Mon - Fri 9am - 4:30pm",
+    "lat": "53.7071063",
+    "lng": "-0.8742458"
+  },
+  {
+    "title": "Driffield CAB",
+    "address": "Portacabin, West Garth,Mill Street,Driffield, East Yorkshire, YO25 6TN",
+    "booking_centre": "Hull and East Riding (Hull) CAB",
+    "phone": "01482 816308",
+    "hours": "Mon - Fri 9am - 4:30pm",
+    "lat": "51.1276999",
+    "lng": "1.3146712"
+  },
+  {
+    "title": "Grimsby, Cleethhorpes & District CAB - Grimsby",
+    "address": "16 Town Hall Street, GRIMSBY, North East Lincolnshire, DN31 1HZ",
+    "booking_centre": "Hull and East Riding (Hull) CAB",
+    "phone": "01482 816308",
+    "hours": "Mon - Fri 9am - 4:30pm",
+    "lat": "53.5655453",
+    "lng": "-0.082322"
+  },
+  {
+    "title": "Scarborough & District CAB - Scarborough",
+    "address": "4 Elders Street, SCARBOROUGH, North Yorkshire, YO11 1DZ",
+    "booking_centre": "Hull and East Riding (Hull) CAB",
+    "phone": "01482 816308",
+    "hours": "Mon - Fri 9am - 4:30pm",
+    "lat": "54.2844199",
+    "lng": "-0.3998149"
+  },
+  {
+    "title": "Scunthorpe CAB",
+    "address": "12 Oswald Road, SCUNTHORPE, North Lincolnshire, DN15 7PT",
+    "booking_centre": "Hull and East Riding (Hull) CAB",
+    "phone": "01482 816308",
+    "hours": "Mon - Fri 9am - 4:30pm",
+    "lat": "53.5902704",
+    "lng": "-0.6540567"
+  },
+  {
+    "title": "Kirklees Citizens Advice and Law Centre - Dewsbury",
     "address": "Units 5/6 Empire House, Wakefield Old Road, DEWSBURY, West Yorkshire, WF12 8DJ",
+    "booking_centre": "Kirklees Citizens Advice and Law Centre - Dewsbury",
     "phone": "01924 869835",
     "hours": "Mon - Fri 9:30am - 3:30pm",
-    "lat": 53.6921264,
-    "lng": -1.6262008
+    "lat": "53.6921264",
+    "lng": "-1.6262008"
   },
   {
-    "title": "Lancashire West Citizens Advice",
+    "title": "Kirklees CAB - Huddersfield",
+    "address": "2nd Floor,  Standard House, Half Moon Street, HUDDERSFIELD, West Yorkshire, HD1 2JF",
+    "booking_centre": "Kirklees Citizens Advice and Law Centre - Dewsbury",
+    "phone": "01924 869835",
+    "hours": "Mon - Fri 9:30am - 3:30pm",
+    "lat": "53.6463988",
+    "lng": "-1.785427"
+  },
+  {
+    "title": "Calderdale and District CAB - Halifax",
+    "address": "37 Harrison Road, Calderdale, HALIFAX, West Yorkshire, HX1 2AF",
+    "booking_centre": "Kirklees Citizens Advice and Law Centre - Dewsbury",
+    "phone": "01924 869835",
+    "hours": "Mon - Fri 9:30am - 3:30pm",
+    "lat": "53.719079",
+    "lng": "-1.8627959"
+  },
+  {
+    "title": "Calderdale and District CAB - Hebden Bridge",
+    "address": "New Oxford House, Albert Street, Calderdale, HEBDEN BRIDGE, West Yorkshire, HX7 8AH",
+    "booking_centre": "Kirklees Citizens Advice and Law Centre - Dewsbury",
+    "phone": "01924 869835",
+    "hours": "Mon - Fri 9:30am - 3:30pm",
+    "lat": "53.7416873",
+    "lng": "-2.0116909"
+  },
+  {
+    "title": "Wakefield District CAB - Wakefield",
+    "address": "Ground Floor, 27 King Street, WAKEFIELD, West Yorkshire, WF1 2SR",
+    "booking_centre": "Kirklees Citizens Advice and Law Centre - Dewsbury",
+    "phone": "01924 869835",
+    "hours": "Mon - Fri 9:30am - 3:30pm",
+    "lat": "53.6834133",
+    "lng": "-1.5013094"
+  },
+  {
+    "title": "Lancashire West Citizens Advice Bureaux",
     "address": "35-39 Market Street, CHORLEY, Lancashire, PR7 2SW",
+    "booking_centre": "Lancashire West Citizens Advice Bureaux",
     "phone": "01772 425916",
     "hours": "Mon - Fri 9am - 5pm",
-    "lat": 53.6112348,
-    "lng": -2.6050257
+    "lat": "53.6112348",
+    "lng": "-2.6050257"
   },
   {
-    "title": "Leeds Citizens Advice",
+    "title": "Lancashire West CAB - Skelmersdale",
+    "address": "Unit 47, The Concourse Shopping Centre, SKELMERSDALE, Lancashire, WN8 6LN",
+    "booking_centre": "Lancashire West Citizens Advice Bureaux",
+    "phone": "01772 425916",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "53.5498767",
+    "lng": "-2.7742915"
+  },
+  {
+    "title": "Lancashire West CAB - Leyland (South Ribble)",
+    "address": "South Ribble Bureau, 78 Towngate, LEYLAND, Lancashire, PR25 2LR",
+    "booking_centre": "Lancashire West Citizens Advice Bureaux",
+    "phone": "01772 425916",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "53.6912266",
+    "lng": "-2.6972125"
+  },
+  {
+    "title": "Lancashire West CAB - Fleetwood (Wyre)",
+    "address": "122 Poulton Road, FLEETWOOD, Lancashire, FY7 7AR",
+    "booking_centre": "Lancashire West Citizens Advice Bureaux",
+    "phone": "01772 425916",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "53.9207449",
+    "lng": "-3.0218448"
+  },
+  {
+    "title": "Clitheroe Citizens Advice Bureau",
+    "address": "19/21 Wesleyan Row,Parson Lane,Ribble Valley,CLITHEROE,Lancashire,BB7 2JY",
+    "booking_centre": "Lancashire West Citizens Advice Bureaux",
+    "phone": "01772 425916",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.7904094",
+    "lng": "1.156777"
+  },
+  {
+    "title": "Blackburn with Darwen CAB",
+    "address": "Blackburn Central Library, Town Hall Street, BLACKBURN, Lancashire, BB2 1AG",
+    "booking_centre": "Lancashire West Citizens Advice Bureaux",
+    "phone": "01772 425916",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "53.7496815",
+    "lng": "-2.4850267"
+  },
+  {
+    "title": "Burnley & Pendle CAB - Nelson",
+    "address": "61/63 Every Street, NELSON, Lancashire, BB9 2LT",
+    "booking_centre": "Lancashire West Citizens Advice Bureaux",
+    "phone": "01772 425916",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "53.8381893",
+    "lng": "-2.216197"
+  },
+  {
+    "title": "Fylde CAB",
+    "address": "Council Offices, Moor Street, Kirkham, Fylde, PRESTON, Lancashire, PR4 2AU",
+    "booking_centre": "Lancashire West Citizens Advice Bureaux",
+    "phone": "01772 425916",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "53.7815275",
+    "lng": "-2.8783506"
+  },
+  {
+    "title": "Hyndburn CAB",
+    "address": "New Era Centre, Paradise Street, ACCRINGTON, Lancashire, BB5 1PB",
+    "booking_centre": "Lancashire West Citizens Advice Bureaux",
+    "phone": "01772 425916",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "53.7512857",
+    "lng": "-2.3663372"
+  },
+  {
+    "title": "North Lancashire - Morecambe",
+    "address": "Oban House, 87-89 Queen Street, North West, MORECAMBE, Lancashire, LA4 5EN",
+    "booking_centre": "Lancashire West Citizens Advice Bureaux",
+    "phone": "01772 425916",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "54.0455898",
+    "lng": "-2.8001107"
+  },
+  {
+    "title": "North Lancashire - Lancaster",
+    "address": "87 King Street, LANCASTER, Lancashire, LA1 1RH",
+    "booking_centre": "Lancashire West Citizens Advice Bureaux",
+    "phone": "01772 425916",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "54.0455898",
+    "lng": "-2.8001107"
+  },
+  {
+    "title": "Ribble Valley CAB",
+    "address": "19/21 Wesleyan Row, Parson Lane, Ribble Valley, CLITHEROE, Lancashire, BB7 2JY",
+    "booking_centre": "Lancashire West Citizens Advice Bureaux",
+    "phone": "01772 425916",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "53.8710897",
+    "lng": "-2.3949679"
+  },
+  {
+    "title": "Leeds CAB City Centre Bureau",
     "address": "Westminster Buildings, 31 New York Street, LEEDS, West Yorkshire, LS2 7DT",
+    "booking_centre": "Leeds CAB City Centre Bureau",
     "phone": "0113 281 6738",
     "hours": "Mon - Fri 9am - 5pm",
-    "lat": 53.7965208,
-    "lng": -1.5371239
+    "lat": "53.7965208",
+    "lng": "-1.5371232"
   },
   {
-    "title": "Leicestershire Citizens Advice",
-    "address": "Council Offices, Desford Road, Narborough, Leicestershire, LE19 2EP",
+    "title": "Leeds CAB (East) - Crossgates",
+    "address": "Methodist Schoolroom, Austhorpe Road, Crossgates, LEEDS, West Yorkshire, LS15 8QR",
+    "booking_centre": "Leeds CAB City Centre Bureau",
+    "phone": "0113 281 6738",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "53.8076433",
+    "lng": "-1.4513321"
+  },
+  {
+    "title": "Leeds CAB (North) - Otley",
+    "address": "The Courthouse, Courthouse Street, Otley, Leeds, West Yorkshire, LS21 1BG",
+    "booking_centre": "Leeds CAB City Centre Bureau",
+    "phone": "0113 281 6738",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "53.9063246",
+    "lng": "-1.6931702"
+  },
+  {
+    "title": "Bradford & Airedale CAB - Bradford",
+    "address": "George Street, BRADFORD, West Yorkshire, BD1 5AA",
+    "booking_centre": "Leeds CAB City Centre Bureau",
+    "phone": "0113 281 6738",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "53.792516",
+    "lng": "-1.7467313"
+  },
+  {
+    "title": "Bradford & Airedale CAB - Keighley",
+    "address": "Central Hall, Alice Street, KEIGHLEY, West Yorkshire, BD21 3JD",
+    "booking_centre": "Leeds CAB City Centre Bureau",
+    "phone": "0113 281 6738",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "53.8694142",
+    "lng": "-1.9090674"
+  },
+  {
+    "title": "Bradford & Airedale CAB - Shipley",
+    "address": "6 - 8 Windsor Road SHIPLEY, West Yorkshire, BD18 3EQ",
+    "booking_centre": "Leeds CAB City Centre Bureau",
+    "phone": "0113 281 6738",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "53.8332324",
+    "lng": "-1.779764"
+  },
+  {
+    "title": "Leicestershire Citizens Advice Bureau (Blaby)",
+    "address": "Council Offices, Desford Road, Narborough, Leicester, Leicestershire, LE19 2EP",
+    "booking_centre": "Leicestershire Citizens Advice Bureau (Blaby)",
     "phone": "0116 326 6326",
-    "hours": "Mon - F; Tue 9am - 6pm; Fri 9am - 4:30pmri 9am - 5pm",
-    "lat": 52.6351881,
-    "lng": -1.1295463
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "52.5731189",
+    "lng": "-1.2050393"
   },
   {
-    "title": "Lincoln  and District Citizens Advice",
+    "title": "Leicestershire CAB - Leicester City",
+    "address": "3rd Floor, 60 Charles Street, LEICESTER, LE1 1FB",
+    "booking_centre": "Leicestershire Citizens Advice Bureau (Blaby)",
+    "phone": "0116 326 6326",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "52.6351881",
+    "lng": "-1.1295463"
+  },
+  {
+    "title": "Leicestershire CAB - Coalville",
+    "address": "Council Offices, North West, COALVILLE, Leicestershire, LE67 3FJ",
+    "booking_centre": "Leicestershire Citizens Advice Bureau (Blaby)",
+    "phone": "0116 326 6326",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "52.7243209",
+    "lng": "-1.368038"
+  },
+  {
+    "title": "Leicestershire CAB - Hinckley",
+    "address": "Hinckley Hub, Rugby Road, HINCKLEY, Leicestershire, LE10 OFR",
+    "booking_centre": "Leicestershire Citizens Advice Bureau (Blaby)",
+    "phone": "0116 326 6326",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "52.535529",
+    "lng": "-1.37682"
+  },
+  {
+    "title": "Leicestershire CAB - Lutterworth",
+    "address": "One Stop Shop, Wycliffe House, Gilmorton Road, Leicester, LUTTERWORTH, Leicestershire, LE17 4DY",
+    "booking_centre": "Leicestershire Citizens Advice Bureau (Blaby)",
+    "phone": "0116 326 6326",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "52.4584336",
+    "lng": "-1.1973041"
+  },
+  {
+    "title": "Leicestershire CAB - Melton",
+    "address": "Melton Borough Council Office,s Parkside Station Approach, Burton Street, Melton Mowbray, LE13 1GH",
+    "booking_centre": "Leicestershire Citizens Advice Bureau (Blaby)",
+    "phone": "0116 326 6326",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "52.7623846",
+    "lng": "-0.8846334"
+  },
+  {
+    "title": "Leicestershire CAB - South Wigston",
+    "address": "South Wigston office, Rear of LCC Social Services offices, Bassett Street, SOUTH WIGSTON, Leicestershire, LE18 4PE",
+    "booking_centre": "Leicestershire Citizens Advice Bureau (Blaby)",
+    "phone": "0116 326 6326",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "52.5789684",
+    "lng": "-1.1340854"
+  },
+  {
+    "title": "Charnwood CAB (Loughborough)",
+    "address": "Woodgate Chambers, 70 Woodgate, LOUGHBOROUGH, Leicestershire, LE11 2TZ",
+    "booking_centre": "Leicestershire Citizens Advice Bureau (Blaby)",
+    "phone": "0116 326 6326",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "52.7694831",
+    "lng": "-1.2060781"
+  },
+  {
+    "title": "Rutland",
+    "address": "56 High Street, OAKHAM, Rutland, LE15 6AL",
+    "booking_centre": "Leicestershire Citizens Advice Bureau (Blaby)",
+    "phone": "0116 326 6326",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "52.6698759",
+    "lng": "-0.730145"
+  },
+  {
+    "title": "Lincoln & District Citizens Advice Bureau Ltd",
     "address": "Beaumont Lodge, Beaumont Fee, LINCOLN, Lincolnshire, LN1 1UL",
+    "booking_centre": "Lincoln & District Citizens Advice Bureau Ltd",
+    "phone": "01522 828617",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "53.2311876",
+    "lng": "-0.5421441"
+  },
+  {
+    "title": "East Lindsey CAB - Louth",
+    "address": "Unit 1, Meridian House, 41 Eastgate, LOUTH, Lincolnshire, LN11 9NH",
+    "booking_centre": "Lincoln & District Citizens Advice Bureau Ltd",
     "phone": "01522 828617",
     "hours": "Mon - Fri 9am - 4pm",
-    "lat": 53.2311876,
-    "lng": -0.5421441
+    "lat": "53.3672384",
+    "lng": "-0.0050754"
   },
   {
-    "title": "Maidstone Citizens Advice",
+    "title": "East Lindsey CAB - Mablethorpe",
+    "address": "Inter Agency Centre Stanley Avenue MABLETHORPE Lincolnshire, LN12 1DP",
+    "booking_centre": "Lincoln & District Citizens Advice Bureau Ltd",
+    "phone": "01522 828617",
+    "hours": "Mon - Fri 9am - 4pm",
+    "lat": "53.3383543",
+    "lng": "0.2577373"
+  },
+  {
+    "title": "East Lindsey CAB - Skegness",
+    "address": "20 Algitha Road SKEGNESS Lincolnshire, PE25 2AG",
+    "booking_centre": "Lincoln & District Citizens Advice Bureau Ltd",
+    "phone": "01522 828617",
+    "hours": "Mon - Fri 9am - 4pm",
+    "lat": "53.1443501",
+    "lng": "0.3379971"
+  },
+  {
+    "title": "West Lindsey CAB - Gainsborough",
+    "address": "26 North Street, GAINSBOROUGH, Lincolnshire, DN21 2HU",
+    "booking_centre": "Lincoln & District Citizens Advice Bureau Ltd",
+    "phone": "01522 828617",
+    "hours": "Mon - Fri 9am - 4pm",
+    "lat": "53.4013628",
+    "lng": "-0.7748421"
+  },
+  {
+    "title": "Sleaford & District CAB - Sleaford",
+    "address": "The Advice Centre, Money's Yard, Carre Stree,t SLEAFORD, Lincolnshire, NG34 7TW",
+    "booking_centre": "Lincoln & District Citizens Advice Bureau Ltd",
+    "phone": "01522 828617",
+    "hours": "Mon - Fri 9am - 4pm",
+    "lat": "52.9980467",
+    "lng": "-0.4079576"
+  },
+  {
+    "title": "South Holland (Spalding) CAB",
+    "address": "Council Offices, Priory Road, SPALDING, Lincolnshire, PE11 2XE",
+    "booking_centre": "Lincoln & District Citizens Advice Bureau Ltd",
+    "phone": "01522 828617",
+    "hours": "Mon - Fri 9am - 4pm",
+    "lat": "52.785221",
+    "lng": "-0.1530721"
+  },
+  {
+    "title": "South Kesteven CAB - Grantham",
+    "address": "Guild Hall Arts Centre, St Peters Hill, GRANTHAM, Lincolnshire, NG31 6PZ",
+    "booking_centre": "Lincoln & District Citizens Advice Bureau Ltd",
+    "phone": "01522 828617",
+    "hours": "Mon - Fri 9am - 4pm",
+    "lat": "52.91086",
+    "lng": "-0.6394876"
+  },
+  {
+    "title": "South Kesteven CAB - Stamford",
+    "address": "39 High Stree,t STAMFORD, Lincolnshire, PE9 2BB",
+    "booking_centre": "Lincoln & District Citizens Advice Bureau Ltd",
+    "phone": "01522 828617",
+    "hours": "Mon - Fri 9am - 4pm",
+    "lat": "52.653002",
+    "lng": "-0.4767722"
+  },
+  {
+    "title": "Sherwood & Newark - Newark",
+    "address": "5 Forest CourT New Ollerton NEWARK Nottinghamshire, NG22 9PL",
+    "booking_centre": "Lincoln & District Citizens Advice Bureau Ltd",
+    "phone": "01522 828617",
+    "hours": "Mon - Fri 9am - 4pm",
+    "lat": "53.2043754",
+    "lng": "-1.0027841"
+  },
+  {
+    "title": "Bassetlaw - Worksop",
+    "address": "The Annexe, Queens Building, District of Bassetlaw WORKSOP Nottinghamshire, S80 2AE",
+    "booking_centre": "Lincoln & District Citizens Advice Bureau Ltd",
+    "phone": "01522 828617",
+    "hours": "Mon - Fri 9am - 4pm",
+    "lat": "53.3023977",
+    "lng": "-1.1225227"
+  },
+  {
+    "title": "Maidstone Citizens Advice Bureau",
     "address": "2 Bower Terrace, Tonbridge Road, MAIDSTONE, Kent, ME16 8RY",
+    "booking_centre": "Maidstone Citizens Advice Bureau",
     "phone": "01622 756989",
     "hours": "Mon - Fri 10am - 4pm",
-    "lat": 51.2697032,
-    "lng": 0.5122767
+    "lat": "51.2697032",
+    "lng": "0.5122767"
   },
   {
-    "title": "Manchester Citizens Advice",
+    "title": "Ashford",
+    "address": "Seabrooke House, Church Road, ASHFORD, Kent, TN23 1RD",
+    "booking_centre": "Maidstone Citizens Advice Bureau",
+    "phone": "01622 756989",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "51.146208",
+    "lng": "0.8732633"
+  },
+  {
+    "title": "Canterbury District CAB - Canterbury",
+    "address": "3 Westgate Hall Rd, CANTERBURY, Kent, CT1 2BT",
+    "booking_centre": "Maidstone Citizens Advice Bureau",
+    "phone": "01622 756989",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "51.2812567",
+    "lng": "1.0776118"
+  },
+  {
+    "title": "Canterbury District CAB - Herne bay",
+    "address": "185/187 High Street, HERNE BAY, Kent, CT6 5AF",
+    "booking_centre": "Maidstone Citizens Advice Bureau",
+    "phone": "01622 756989",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "51.3714358",
+    "lng": "1.1315694"
+  },
+  {
+    "title": "Dartford CAB",
+    "address": "Trinity Resource Centre High Street DARTFORD Kent, DA1 1DE",
+    "booking_centre": "Maidstone Citizens Advice Bureau",
+    "phone": "01622 756989",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "51.4441432",
+    "lng": "0.2195807"
+  },
+  {
+    "title": "Dover, Deal & District CAB - Deal",
+    "address": "The Cedars, 26 Victoria Road, DEAL, Kent, CT14 7BJ",
+    "booking_centre": "Maidstone Citizens Advice Bureau",
+    "phone": "01622 756989",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "51.2214706",
+    "lng": "1.4026479"
+  },
+  {
+    "title": "Dover, Deal & District CAB - Dover",
+    "address": "Maison Dieu Gardens, Maison Dieu Road, DOVER, Kent, CT16 1RW",
+    "booking_centre": "Maidstone Citizens Advice Bureau",
+    "phone": "01622 756989",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "51.1276999",
+    "lng": "1.3146712"
+  },
+  {
+    "title": "Edenbridge & Westerham CAB - Edenbridge",
+    "address": "The Eden Centre, Four Elms Road, Sevenoaks District, EDENBRIDGE, Kent, TN8 6BT",
+    "booking_centre": "Maidstone Citizens Advice Bureau",
+    "phone": "01622 756989",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "51.209512",
+    "lng": "0.080961"
+  },
+  {
+    "title": "Folkestone (Shepway) CAB",
+    "address": "6th Floor, Europa House, 49 Sandgate Road, Folkestone, CT20 1RU",
+    "booking_centre": "Maidstone Citizens Advice Bureau",
+    "phone": "01622 756989",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "51.0795312",
+    "lng": "1.1813765"
+  },
+  {
+    "title": "Medway District CAB (Gillingham)",
+    "address": "Kingsley House, 37-39 Balmoral Road, Medway, GILLINGHAM, Kent, ME7 4PF",
+    "booking_centre": "Maidstone Citizens Advice Bureau",
+    "phone": "01622 756989",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "51.3846593",
+    "lng": "0.5486686"
+  },
+  {
+    "title": "North & West Kent CAB - Gravesham CAB",
+    "address": "First Floor Civic Centre, Windmill Street, GRAVESEND, Kent, DA12 1AU",
+    "booking_centre": "Maidstone Citizens Advice Bureau",
+    "phone": "01622 756989",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "51.4397835",
+    "lng": "0.369012"
+  },
+  {
+    "title": "North & West Kent CAB - Sevenoaks CAB",
+    "address": "Buckhurst Lane, SEVENOAKS, Kent, TN13 1HW",
+    "booking_centre": "Maidstone Citizens Advice Bureau",
+    "phone": "01622 756989",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "51.2711566",
+    "lng": "0.1945918"
+  },
+  {
+    "title": "North & West Kent CAB  - Swanley",
+    "address": "16 High Street, SWANLEY, Kent, BR8 8BG",
+    "booking_centre": "Maidstone Citizens Advice Bureau",
+    "phone": "01622 756989",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "51.3950287",
+    "lng": "0.1775834"
+  },
+  {
+    "title": "Thanet District CAB - Margate",
+    "address": "2nd Floor, Mill Lane House, Mill Lane Thanet, MARGATE, Kent, CT9 1LB",
+    "booking_centre": "Maidstone Citizens Advice Bureau",
+    "phone": "01622 756989",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "51.3892163",
+    "lng": "1.381282"
+  },
+  {
+    "title": "Tonbridge & Malling CAB - Tonbridge",
+    "address": "3/4 River Walk, TONBRIDGE, Kent, TN9 1DT",
+    "booking_centre": "Maidstone Citizens Advice Bureau",
+    "phone": "01622 756989",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "51.1951579",
+    "lng": "0.2733903"
+  },
+  {
+    "title": "Turnbridge Wells & District CAB - Tunbridge Wells",
+    "address": "5th Floor Vale House, Clarence Road, TUNBRIDGE WELLS, Kent, TN1 1HE",
+    "booking_centre": "Maidstone Citizens Advice Bureau",
+    "phone": "01622 756989",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "51.1302938",
+    "lng": "0.2607181"
+  },
+  {
+    "title": "Turnbridge Wells & District CAB - Cranbrook",
+    "address": "Cranbrook Library, Carriers Road, CRANBROOK, Kent, TN17 3JT",
+    "booking_centre": "Maidstone Citizens Advice Bureau",
+    "phone": "01622 756989",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "51.098004",
+    "lng": "0.5351811"
+  },
+  {
+    "title": "CAB in Swale - Faversham",
+    "address": "43 Stone Street, FAVERSHAM, Kent, ME13 8PH",
+    "booking_centre": "Maidstone Citizens Advice Bureau",
+    "phone": "01622 756989",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "51.3140015",
+    "lng": "0.8897538"
+  },
+  {
+    "title": "CAB in Swale - Sheppey",
+    "address": "Hope Street Centre, Hope Street, SHEPPEY, Kent, ME12 1QH",
+    "booking_centre": "Maidstone Citizens Advice Bureau",
+    "phone": "01622 756989",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "51.4399233",
+    "lng": "0.7611999"
+  },
+  {
+    "title": "CAB in Swale - Sittingbourne",
+    "address": "17 Station Street, SITTINGBOURNE, Kent, ME10 3DU",
+    "booking_centre": "Maidstone Citizens Advice Bureau",
+    "phone": "01622 756989",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "51.3410962",
+    "lng": "0.7335159"
+  },
+  {
+    "title": "Manchester District CAB",
     "address": "Swan Buildings, 20 Swan Street, MANCHESTER, Greater Manchester, M4 5JW",
+    "booking_centre": "Manchester District CAB",
     "phone": "0161 830 2070",
     "hours": "Mon - Fri 9am - 5pm",
-    "lat": 53.48536379999999,
-    "lng": -2.2333344
+    "lat": "53.4853638",
+    "lng": "-2.2333344"
   },
   {
-    "title": "Merton and Lambeth Citizens Advice",
+    "title": "Stockport Citizens Advice",
+    "address": "Ground Floor, Fred Perry House, Edward Street, Stockport, Greater Manchester, SK1 3XE",
+    "booking_centre": "Manchester District CAB",
+    "phone": "0161 830 2070",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "52.091092",
+    "lng": "-1.9407977"
+  },
+  {
+    "title": "Marple Citizens Advice",
+    "address": "Hollins House, Memorial Park, Marple, STOCKPORT, Greater Manchester, SK6 6BA",
+    "booking_centre": "Manchester District CAB",
+    "phone": "0161 830 2070",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "53.1451751",
+    "lng": "-1.1959846"
+  },
+  {
+    "title": "Cheadle & Gatley Citizens Advice",
+    "address": "C/o Cheadle Library, Ashfield Road, CHEADLE, Greater Manchester, SK8 1BB",
+    "booking_centre": "Manchester District CAB",
+    "phone": "0161 830 2070",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "52.7694831",
+    "lng": "-1.2060781"
+  },
+  {
+    "title": "Altrincham Citizens Advice",
+    "address": "20 Stamford New Rd, ALTRINCHAM, Greater Manchester, WA14 1EJ",
+    "booking_centre": "Manchester District CAB",
+    "phone": "0161 830 2070",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "53.3883024",
+    "lng": "-2.3474756"
+  },
+  {
+    "title": "Citizens Advice Trafford - Partington",
+    "address": "Partington Community Centre, Central Road , Partington Trafford, MANCHESTER, Greater Manchester, M31 4FL",
+    "booking_centre": "Manchester District CAB",
+    "phone": "0161 830 2070",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "52.4113371",
+    "lng": "-1.7768266"
+  },
+  {
+    "title": "Sale Citizens Advice",
+    "address": "1 Waterside Plaza, SALE, Greater Manchester, M33 7BS",
+    "booking_centre": "Manchester District CAB",
+    "phone": "0161 830 2070",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "54.1323146",
+    "lng": "-0.7969702"
+  },
+  {
+    "title": "Tameside District CAB - Ashton-under-Lyne",
+    "address": "Ground Floor Office, Tameside Metropolitan Borough Council Offices, Wellington Road, Tameside, ASHTON-UNDER-LYNE, Greater Manchester, OL6 6DL",
+    "booking_centre": "Manchester District CAB",
+    "phone": "0161 830 2070",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "53.4905045",
+    "lng": "-2.0942521"
+  },
+  {
+    "title": "Merton & Lambeth CAB - Morden",
     "address": "7 Crown Parade, Crown Lane, Merton, MORDEN, Surrey, SM4 5DA",
+    "booking_centre": "Merton & Lambeth CAB - Morden",
     "phone": "0203 559 7400",
     "hours": "Mon - Fri 10am - 4pm",
-    "lat": 51.4016301,
-    "lng": -0.1967284
+    "lat": "51.4016301",
+    "lng": "-0.1967284"
   },
   {
-    "title": "North Liverpool Citizens Advice",
-    "address": "36/38 Breckfield Rd North, Anfield, LIVERPOOL, Merseyside, L5 4NH",
+    "title": "M&L - Streatham Hill",
+    "address": "1 Barrhill Road, Streatham Hill, Lambeth & Merton, LONDON, SW2 4RJ",
+    "booking_centre": "Merton & Lambeth CAB - Morden",
+    "phone": "0203 559 7400",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "51.4402498",
+    "lng": "-0.1257637"
+  },
+  {
+    "title": "M&L - Mitcham",
+    "address": "Kellaway House, 326 London Road, Merton & Lambeth, MITCHAM, Surrey, CR4 3ND",
+    "booking_centre": "Merton & Lambeth CAB - Morden",
+    "phone": "0203 559 7400",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "51.8784676",
+    "lng": "-0.4176619"
+  },
+  {
+    "title": "Hillingdon Citizens Advice Bureau",
+    "address": "106 High Street, Yiewsley, Middlesex, UB7 7BQ",
+    "booking_centre": "Merton & Lambeth CAB - Morden",
+    "phone": "0203 559 7400",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "51.5438395",
+    "lng": "-0.4765975"
+  },
+  {
+    "title": "Hounslow District - Brentford & Chiswick",
+    "address": "Town Hall, Heathfield Terrace, Hounslow CHISWICK, London, W4 4JN",
+    "booking_centre": "Merton & Lambeth CAB - Morden",
+    "phone": "0203 559 7400",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "51.4914695",
+    "lng": "-0.2651865"
+  },
+  {
+    "title": "Richmond Borough - Twickenham",
+    "address": "5th Floor, Regal House, 70 London Road, Richmond, TWICKENHAM, Middlesex, TW1 3QS",
+    "booking_centre": "Merton & Lambeth CAB - Morden",
+    "phone": "0203 559 7400",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "51.4495076",
+    "lng": "-0.3297364"
+  },
+  {
+    "title": "Wandsworth CAB - Mission House",
+    "address": "14 York Road, Wandsworth, LONDON, SW11 3QA",
+    "booking_centre": "Merton & Lambeth CAB - Morden",
+    "phone": "0203 559 7400",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "51.469928",
+    "lng": "-0.1723866"
+  },
+  {
+    "title": "Wandsworth CAB - Roehampton",
+    "address": "166 Roehampton Lane, Wandsworth, LONDON, SW15 4HR",
+    "booking_centre": "Merton & Lambeth CAB - Morden",
+    "phone": "0203 559 7400",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "51.4528278",
+    "lng": "-0.2443239"
+  },
+  {
+    "title": "Hammersmith and Fulham Citizens Advice Bureau",
+    "address": "The Advice Centre, 338 Uxbridge Road, White City London W12",
+    "booking_centre": "Merton & Lambeth CAB - Morden",
+    "phone": "0203 559 7400",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "54.3430232",
+    "lng": "-1.4376947"
+  },
+  {
+    "title": "Hammersmith and Fulham Citizens Advice Bureau",
+    "address": "Avonmore Library & Neighbourhood Centre, 7 North End Crescent, London, W14 8TG",
+    "booking_centre": "Merton & Lambeth CAB - Morden",
+    "phone": "0203 559 7400",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "54.3430232",
+    "lng": "-1.4376947"
+  },
+  {
+    "title": "North Liverpool CAB - Anfield",
+    "address": "36/38 Breckfield Rd, North Anfield, LIVERPOOL, Merseyside, L5 4NH",
+    "booking_centre": "North Liverpool CAB - Anfield",
     "phone": "0151 285 1081",
     "hours": "Mon - Fri 9am - 5pm",
-    "lat": 53.4232627,
-    "lng": -2.961027
+    "lat": "53.4232627",
+    "lng": "-2.961027"
   },
   {
-    "title": "North Tyneside Citizens Advice",
+    "title": "North Liverpool CAB - Norris Green",
+    "address": "138 Scargreen Avenue, Norris Green, LIVERPOOL, Merseyside, L11 3BE",
+    "booking_centre": "North Liverpool CAB - Anfield",
+    "phone": "0151 285 1081",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "53.4473471",
+    "lng": "-2.9197405"
+  },
+  {
+    "title": "North Liverpool CAB - Walton",
+    "address": "37/39 Walton Road, LIVERPOOL, Merseyside, L4 4AD",
+    "booking_centre": "North Liverpool CAB - Anfield",
+    "phone": "0151 285 1081",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "53.4311654",
+    "lng": "-2.9696529"
+  },
+  {
+    "title": "Liverpool Central CAB",
+    "address": "2nd Floor, 1 Union Court, Cook Street, LIVERPOOL, Merseyside, L2 4SJ",
+    "booking_centre": "North Liverpool CAB - Anfield",
+    "phone": "0151 285 1081",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "53.406127",
+    "lng": "-2.9900211"
+  },
+  {
+    "title": "Knowsley District CAB - Huyton",
+    "address": "Nutgrove Villa, 1 Griffiths Road, Huyton Knowsley, Liverpool, Merseyside, L36 6NA",
+    "booking_centre": "North Liverpool CAB - Anfield",
+    "phone": "0151 285 1081",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "53.4103621",
+    "lng": "-2.8409412"
+  },
+  {
+    "title": "St Helens Citizens Advice",
+    "address": "Millennium Centre, Corporation Street, ST HELENS, Merseyside, WA10 1HJ",
+    "booking_centre": "North Liverpool CAB - Anfield",
+    "phone": "0151 285 1081",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "53.4533232",
+    "lng": "-2.7316828"
+  },
+  {
+    "title": "South Liverpool (Garston) Citizens Advice",
+    "address": "Garston Community House, Garston Village, 2 Speke Road, LIVERPOOL, Merseyside, L19 2PA",
+    "booking_centre": "North Liverpool CAB - Anfield",
+    "phone": "0151 285 1081",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "54.376167",
+    "lng": "-2.9063778"
+  },
+  {
+    "title": "South Liverpool (Toxteth) Citizens Advice",
+    "address": "15 High Park Street, Toxteth, LIVERPOOL, Merseyside, L8 8DX",
+    "booking_centre": "North Liverpool CAB - Anfield",
+    "phone": "0151 285 1081",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "54.376167",
+    "lng": "-2.9063778"
+  },
+  {
+    "title": "Sefton - Southport Citizens Advice",
+    "address": "24 Wright Street, Southport, Merseyside, PR9 0TL",
+    "booking_centre": "North Liverpool CAB - Anfield",
+    "phone": "0151 285 1081",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.1345901",
+    "lng": "-3.007229"
+  },
+  {
+    "title": "North Tyneside Citizens Advice Bureau",
     "address": "1 Roxburgh Terrace, Whitley Bay, Tyne & Wear, NE26 1DR",
+    "booking_centre": "North Tyneside Citizens Advice Bureau",
     "phone": "0191 270 4485",
     "hours": "Mon - Fri 9am - 5pm",
-    "lat": 55.0428755,
-    "lng": -1.4483052
+    "lat": "55.0428755",
+    "lng": "-1.4483052"
   },
   {
-    "title": "Pembrokeshire Citizens Advice",
-    "address": "38 Meyrick Street, PEMBROKE DOCK, Pembrokeshire, SA72 6UT",
+    "title": "Wallsand (North Tyneside)",
+    "address": "St Lukes Church House, Hugh Street, WALLSEND, Tyne & Wear, NE28 6RL",
+    "booking_centre": "North Tyneside Citizens Advice Bureau",
+    "phone": "0191 270 4485",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "54.9900991",
+    "lng": "-1.5339298"
+  },
+  {
+    "title": "Northumbrian - Alnwick",
+    "address": "First Floor, Lloyds Bank Chambers, 24 Bondgate, Within ALNWICK, Northumberland, NE66 1TD",
+    "booking_centre": "North Tyneside Citizens Advice Bureau",
+    "phone": "0191 270 4485",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "55.413366",
+    "lng": "-1.7049048"
+  },
+  {
+    "title": "Northumbrian - Berwick",
+    "address": "5 Tweed Street, BERWICK-UPON-TWEED, Northumberland, TD15 1NG",
+    "booking_centre": "North Tyneside Citizens Advice Bureau",
+    "phone": "0191 270 4485",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "55.771565",
+    "lng": "-2.0085049"
+  },
+  {
+    "title": "Northumbrian - Hexham",
+    "address": "The Community Centre, Gilesgate, HEXHAM, Northumberland, NE46 3NP",
+    "booking_centre": "North Tyneside Citizens Advice Bureau",
+    "phone": "0191 270 4485",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "54.9728037",
+    "lng": "-2.1032287"
+  },
+  {
+    "title": "CAB Sunderland - Washington",
+    "address": "The Elms, 19 Front Street, Concord , WASHINGTON, Tyne & Wear, NE37 2BA",
+    "booking_centre": "North Tyneside Citizens Advice Bureau",
+    "phone": "0191 270 4485",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "54.9127409",
+    "lng": "-1.5191001"
+  },
+  {
+    "title": "Central & East Northamptonhire CAB",
+    "address": "Town Centre House 7/8 Mercers Row NORTHAMPTON Northamptonshire, NN1 2QL",
+    "booking_centre": "Central & East Northamptonhire CAB",
+    "phone": "0300 3239940",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "52.2375028",
+    "lng": "-0.8962067"
+  },
+  {
+    "title": "Central & East Northamptonhire CAB - Wellingborough",
+    "address": "2b High Street, Wellingborough, WELLINGBOROUGH, Northamptonshire, NN8 4HR",
+    "booking_centre": "Central & East Northamptonhire CAB",
+    "phone": "0300 3239940",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "52.3022016",
+    "lng": "-0.6963211"
+  },
+  {
+    "title": "Citizens Advice Services Corby & Kettering - Corby",
+    "address": "The Corby Cube, Parkland Gateway, George Street, CORBY, Northamptonshire, NN17 1QG",
+    "booking_centre": "Central & East Northamptonhire CAB",
+    "phone": "0300 3239940",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "52.4887513",
+    "lng": "-0.7038945"
+  },
+  {
+    "title": "Citizens Advice Services Corby & Kettering - Kettering",
+    "address": "Municipal Offices, Bowling Green Road, KETTERING, Northamptonshire, NN15 7QX",
+    "booking_centre": "Central & East Northamptonhire CAB",
+    "phone": "0300 3239940",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "52.3954921",
+    "lng": "-0.726171"
+  },
+  {
+    "title": "Citizens Advice Daventry & District  - Daventry",
+    "address": "The Abbey, Market Square, DAVENTRY, Northamptonshire, NN11 4XG",
+    "booking_centre": "Central & East Northamptonhire CAB",
+    "phone": "0300 3239940",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "52.2590467",
+    "lng": "-1.160031"
+  },
+  {
+    "title": "Bedford & District CAB",
+    "address": "7a St Paul's Square, BEDFORD, Bedfordshire, MK40 1SQ",
+    "booking_centre": "Central & East Northamptonhire CAB",
+    "phone": "0300 3239940",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "52.1350291",
+    "lng": "-0.4678803"
+  },
+  {
+    "title": "Pembrokeshire (Pembroke Dock) CAB",
+    "address": "38 Meyrick Street PEMBROKE DOCK Pembrokeshire, SA72 6UT",
+    "booking_centre": "Pembrokeshire (Pembroke Dock) CAB",
     "phone": "01646 621884",
     "hours": "Mon - Fri 9am - 5pm",
-    "lat": 51.6914341,
-    "lng": -4.9431067
+    "lat": "51.6914341",
+    "lng": "-4.9431067"
   },
   {
-    "title": "Peterborough Citizens Advice",
+    "title": "Pembrokshire - Haverfordwest",
+    "address": "43 Cartlett Haverfordwest Pembrokeshire, SA61 2LH",
+    "booking_centre": "Pembrokeshire (Pembroke Dock) CAB",
+    "phone": "01646 621884",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.8024626",
+    "lng": "-4.9618351"
+  },
+  {
+    "title": "Peterborough Citizens Advice Bureau",
     "address": "16-17 St Mark's Street, PETERBOROUGH, Cambridgeshire, PE1 2TU",
+    "booking_centre": "Peterborough Citizens Advice Bureau",
     "phone": "01733 887922",
     "hours": "Mon - Fri 9am - 5pm",
-    "lat": 52.5792817,
-    "lng": -0.2414297
+    "lat": "52.5792817",
+    "lng": "-0.2414297"
   },
   {
-    "title": "Plymouth Citizens Advice",
-    "address": "3rd Floor, Cobourg House, 32 Mayflower Street, PLYMOUTH, Devon, PL1 1QX",
+    "title": "Rural Cambs CAB - Ely",
+    "address": "70 Market Street, ELY, Cambridgeshire, CB7 4LS",
+    "booking_centre": "Peterborough Citizens Advice Bureau",
+    "phone": "01733 887922",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "52.4004048",
+    "lng": "0.263493"
+  },
+  {
+    "title": "Rural Cambs CAB - Huntingdon",
+    "address": "The Town Hall, Market Hill, HUNTINGDON, Cambs, PE29 3PJ",
+    "booking_centre": "Peterborough Citizens Advice Bureau",
+    "phone": "01733 887922",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "52.330388",
+    "lng": "-0.184246"
+  },
+  {
+    "title": "Rural Cambs CAB - Wisbech",
+    "address": "9 Church Mews, WISBECH, Cambridgeshire, PE13 1HL",
+    "booking_centre": "Peterborough Citizens Advice Bureau",
+    "phone": "01733 887922",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "52.6650886",
+    "lng": "0.1624418"
+  },
+  {
+    "title": "Plymouth Citizens Advice Bureau",
+    "address": "3rd Floor, Cobourg House 32 Mayflower Street PLYMOUTH Devon, PL1 1QX",
+    "booking_centre": "Plymouth Citizens Advice Bureau",
     "phone": "01752 502695",
     "hours": "Mon - Fri 9am - 5pm",
-    "lat": 50.3737073,
-    "lng": -4.1408532
+    "lat": "50.3737073",
+    "lng": "-4.1408531"
   },
   {
-    "title": "Powys Citizens Advice",
-    "address": "Ladywell House, Frolic Street Entrance, Park Street, Powys, NEWTOWN, Powys, SY16 1QS",
+    "title": "Exeter CAB",
+    "address": "Dix's Field, EXETER, Devon, EX1 1QA",
+    "booking_centre": "Plymouth Citizens Advice Bureau",
+    "phone": "01752 502695",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "50.7241425",
+    "lng": "-3.5247091"
+  },
+  {
+    "title": "South Hams - Totnes",
+    "address": "Follaton House, Plymouth Road, TOTNES, Devon, TQ9 5NE",
+    "booking_centre": "Plymouth Citizens Advice Bureau",
+    "phone": "01752 502695",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "50.4315354",
+    "lng": "-3.7091382"
+  },
+  {
+    "title": "Teignbridge - Newton Abbot",
+    "address": "36-38 Market Walk, NEWTON ABBOT, Devon, TQ12 2RX",
+    "booking_centre": "Plymouth Citizens Advice Bureau",
+    "phone": "01752 502695",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "50.5305031",
+    "lng": "-3.6107679"
+  },
+  {
+    "title": "Teignbridge - Teignbridge",
+    "address": "Teignmouth Library, Fore Street, TEIGNMOUTH, Devon, TQ14 8DY",
+    "booking_centre": "Plymouth Citizens Advice Bureau",
+    "phone": "01752 502695",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "50.5475513",
+    "lng": "-3.4979016"
+  },
+  {
+    "title": "Torbay CAB - Paignton",
+    "address": "29 Palace Avenue PAIGNTON Devon, TQ3 3EQ",
+    "booking_centre": "Plymouth Citizens Advice Bureau",
+    "phone": "01752 502695",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "50.4356747",
+    "lng": "-3.5695915"
+  },
+  {
+    "title": "Torbay CAB - Torquay Debt Advice Unit",
+    "address": "11 Castle Road, TORQUAY, Devon, TQ3 3BB",
+    "booking_centre": "Plymouth Citizens Advice Bureau",
+    "phone": "01752 502695",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "50.4686228",
+    "lng": "-3.5295425"
+  },
+  {
+    "title": "Teignbridge - Dawlish",
+    "address": "Manor House, Old Town Street, Dawlish, Devon, EX7 9AP",
+    "booking_centre": "Plymouth Citizens Advice Bureau",
+    "phone": "01752 502695",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.015309",
+    "lng": "-3.100556"
+  },
+  {
+    "title": "Powys CAB - Newtown Advice Centre",
+    "address": "Ladywell House, Frolic Street Entrance, Park Street, NEWTOWN, Powys, SY16 1QS",
+    "booking_centre": "Powys CAB - Newtown Advice Centre",
     "phone": "01686 617648",
     "hours": "Mon - Fri 9am - 5pm",
-    "lat": 52.5052117,
-    "lng": -3.3234537
+    "lat": "52.5135295",
+    "lng": "-3.3161388"
   },
   {
-    "title": "Rushmoor Citizens Advice",
+    "title": "Powys CAB - Brecon",
+    "address": "11 Glamorgan Street, Powys, BRECON, Powys, LD3 7DW",
+    "booking_centre": "Powys CAB - Newtown Advice Centre",
+    "phone": "01686 617648",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.9464443",
+    "lng": "-3.3903995"
+  },
+  {
+    "title": "Powys CAB - Ystradgynlais",
+    "address": "Welfare Hall, Brecon Road, YSTRADGYNLAIS, Powys, SA9 1JJ",
+    "booking_centre": "Powys CAB - Newtown Advice Centre",
+    "phone": "01686 617648",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.7785533",
+    "lng": "-3.7575993"
+  },
+  {
+    "title": "Gwynedd & De Ynys Mon CAB - Meironnydd Advice Centre (Dolgellau)",
+    "address": "Doldir, DOLGELLAU, Gwynedd, LL40 1HA",
+    "booking_centre": "Powys CAB - Newtown Advice Centre",
+    "phone": "01686 617648",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "52.7426269",
+    "lng": "-3.87877"
+  },
+  {
+    "title": "Swansea Neath Port Talbot CAB - Swansea",
+    "address": "Llys Glas,  Pleasant Street, SWANSEA, SA1 5DS",
+    "booking_centre": "Powys CAB - Newtown Advice Centre",
+    "phone": "01686 617648",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.6232934",
+    "lng": "-3.944148"
+  },
+  {
+    "title": "Rushmoor CAB - Farnborough",
     "address": "Elles Hall, Meudon Avenue, FARNBOROUGH, Hampshire, GU14 7LE",
+    "booking_centre": "Rushmoor CAB - Farnborough",
     "phone": "01252 894288",
     "hours": "Mon - Fri 9am - 5pm",
-    "lat": 51.28896719999999,
-    "lng": -0.7563766
+    "lat": "51.2889672",
+    "lng": "-0.7563766"
+  },
+  {
+    "title": "Rushmoor CAB - Aldershot",
+    "address": "39 High Street, ALDERSHOT, Hampshire, GU11 1BH",
+    "booking_centre": "Rushmoor CAB - Farnborough",
+    "phone": "01252 894288",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.249925",
+    "lng": "-0.7632616"
+  },
+  {
+    "title": "Bracknell CAB",
+    "address": "Lower Ground Floor, The Columbia Centre, Market Street, BRACKNELL, Berkshire, RG12 1JG",
+    "booking_centre": "Rushmoor CAB - Farnborough",
+    "phone": "01252 894288",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.414611",
+    "lng": "-0.752584"
+  },
+  {
+    "title": "Eastleigh CAB",
+    "address": "101 Leigh Road, EASTLEIGH, Hampshire, SO50 9DR",
+    "booking_centre": "Rushmoor CAB - Farnborough",
+    "phone": "01252 894288",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "50.9698318",
+    "lng": "-1.3580933"
+  },
+  {
+    "title": "Guildford CAB",
+    "address": "15 - 21 Haydon Place, GUILDFORD, Surrey, GU1 4LL",
+    "booking_centre": "Rushmoor CAB - Farnborough",
+    "phone": "01252 894288",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.2372795",
+    "lng": "-0.5727229"
+  },
+  {
+    "title": "Tadley CAB",
+    "address": "Franklin Avenue, TADLEY, Hampshire, RG26 4ET",
+    "booking_centre": "Rushmoor CAB - Farnborough",
+    "phone": "01252 894288",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.3566432",
+    "lng": "-1.1473488"
+  },
+  {
+    "title": "Test Valley CAB - Andover",
+    "address": "35 London Street, ANDOVER, Hampshire, SP10 2NU",
+    "booking_centre": "Rushmoor CAB - Farnborough",
+    "phone": "01252 894288",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.2063555",
+    "lng": "-1.4776176"
+  },
+  {
+    "title": "West Berkshire CAB - Newbury",
+    "address": "2nd Floor, Broadway House, 4-8 The Broadway, Northbrook Street, NEWBURY, Berkshire, RG14 1BA",
+    "booking_centre": "Rushmoor CAB - Farnborough",
+    "phone": "01252 894288",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.403402",
+    "lng": "-1.3245343"
+  },
+  {
+    "title": "Wokingham Citizens Advice Bureau",
+    "address": "Woodley Extension Bureau Headley Road Woodley, Headley Road, WOODLEY, Berkshire, RG5 4JA",
+    "booking_centre": "Rushmoor CAB - Farnborough",
+    "phone": "01252 894288",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "53.4185718",
+    "lng": "-3.0423103"
   },
   {
     "title": "Sheffield Citizens Advice",
     "address": "Unit 9b, The Old Dairy, Broadfield Road, SHEFFIELD, South Yorkshire, S8 0XQ",
+    "booking_centre": "Sheffield Citizens Advice",
     "phone": "0114 2536706",
     "hours": "Mon - Fri 9am - 5pm",
-    "lat": 53.3598492,
-    "lng": -1.4773071
+    "lat": "53.3598492",
+    "lng": "-1.4773071"
   },
   {
-    "title": "Shropshire Citizens Advice",
+    "title": "Sheffield Citizens Advice (Bawtry Office)",
+    "address": "120-126 Bawtry Road, SHEFFIELD, South Yorkshire, S9 1UE",
+    "booking_centre": "Sheffield Citizens Advice",
+    "phone": "0114 2536706",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "53.4124565",
+    "lng": "-1.3981017"
+  },
+  {
+    "title": "Sheffield Citizens Advice (Chapel Street, Woodhouse)",
+    "address": "5 Chapel Street, Woodhouse, SHEFFIELD, South Yorkshire, S13 7JL",
+    "booking_centre": "Sheffield Citizens Advice",
+    "phone": "0114 2536706",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "53.3594492",
+    "lng": "-1.3714904"
+  },
+  {
+    "title": "Sheffield Citizens Advice - Legal Service Unit",
+    "address": "The Circle, 33 Rockingham Lane, Sheffield, S1 4FW",
+    "booking_centre": "Sheffield Citizens Advice",
+    "phone": "0114 2536706",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "53.3598492",
+    "lng": "-1.4773071"
+  },
+  {
+    "title": "Rotherham & District Citizens Advice",
+    "address": "The Rain Building, Old Market Building, Eastwood Lane, Rotherham, S65 1EQ",
+    "booking_centre": "Sheffield Citizens Advice",
+    "phone": "0114 2536706",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "50.8421127",
+    "lng": "0.4726982"
+  },
+  {
+    "title": "Barnsley & Disctrict Citizens Advice",
+    "address": "1st Floor, Wellington House, 36 Wellington Street, BARNSLEY, South Yorkshire, S70 1WA",
+    "booking_centre": "Sheffield Citizens Advice",
+    "phone": "0114 2536706",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "53.9155269",
+    "lng": "-2.1869039"
+  },
+  {
+    "title": "Sheffield Citizens Advice - Proctor Place Office (Hillsborough)",
+    "address": "Proctor Place Office, Proctor Place, SHEFFIELD, S6 4HF",
+    "booking_centre": "Sheffield Citizens Advice",
+    "phone": "0114 2536706",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "53.3598492",
+    "lng": "-1.4773071"
+  },
+  {
+    "title": "Citizens Advice Shropshire - Shrewsbury",
     "address": "Fletcher House, 15 College Hill, SHREWSBURY, Shropshire, SY1 1LY",
+    "booking_centre": "Citizens Advice Shropshire - Shrewsbury",
     "phone": "01743 284165",
     "hours": "Mon - Fri 9am - 5pm",
-    "lat": 52.7066831,
-    "lng": -2.754261
+    "lat": "52.8605044",
+    "lng": "-3.0560286"
   },
   {
-    "title": "Southwark Citizens Advice",
-    "address": "8 Market Place, Southwark Park Road, Southwark, LONDON, SE16 3UQ",
+    "title": "Citizens Advice Shropshire - Ludlow",
+    "address": "Ludlow Youth Centre, Lower Galdeford, LUDLOW, Shropshire, SY8 1RT",
+    "booking_centre": "Citizens Advice Shropshire - Shrewsbury",
+    "phone": "01743 284165",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "52.3676341",
+    "lng": "-2.7120014"
+  },
+  {
+    "title": "Citizens Advice Shropshire - Shrewsbury",
+    "address": "34 Arthur Street, OSWESTRY, Shropshire, SY11 1JN",
+    "booking_centre": "Citizens Advice Shropshire - Shrewsbury",
+    "phone": "01743 284165",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "52.8605044",
+    "lng": "-3.0560286"
+  },
+  {
+    "title": "Southwark CAB - Bermondsey",
+    "address": "8 Market Place, Southwark Park Road, Southwark, London, SE16 3UQ",
+    "booking_centre": "Southwark CAB - Bermondsey",
     "phone": "020 7064 9710",
     "hours": "Mon - Fri 10am - 5pm",
-    "lat": 51.49217350000001,
-    "lng": -0.06394749999999999
+    "lat": "51.4921735",
+    "lng": "-0.0639475"
   },
   {
-    "title": "Staffordshire SouthWest Citizens Advice",
-    "address": "17 Eastgate Street (opposite The Royal British Legion), STAFFORD, Staffordshire, ST16 2LZ",
-    "phone": "0344 411 1444",
+    "title": "Southwark CAB - Peckham",
+    "address": "97 Peckham High Street, Southwark, London, SE15 5RS",
+    "booking_centre": "Southwark CAB - Bermondsey",
+    "phone": "020 7064 9710",
+    "hours": "Mon - Fri 10am - 5pm",
+    "lat": "51.4736877",
+    "lng": "-0.0693057"
+  },
+  {
+    "title": "Greenwich District CAB (Woolwich)",
+    "address": "Old Town Hall, Polytechnic Street, Greenwich, London, SE18 6PN",
+    "booking_centre": "Southwark CAB - Bermondsey",
+    "phone": "020 7064 9710",
+    "hours": "Mon - Fri 10am - 5pm",
+    "lat": "51.490648",
+    "lng": "0.0644161"
+  },
+  {
+    "title": "Staffordshire South West (Stafford) Citizens Advice Bureau",
+    "address": "17 Eastgate Street, (opposite The Royal British Legion), STAFFORD, Staffordshire, ST16 2LZ",
+    "booking_centre": "Staffordshire South West (Stafford) Citizens Advice Bureau",
+    "phone": "01785 283019",
     "hours": "Mon - Fri 9am - 5pm",
-    "lat": 52.80663010000001,
-    "lng": -2.1130982
+    "lat": "52.8066301",
+    "lng": "-2.1130982"
   },
   {
-    "title": "Stevenage Citizens Advice",
-    "address": "Swingate House, Danestrete, STEVENAGE, Hertfordshire, SG1 1AF",
+    "title": "Staffs Sth West - Cannock",
+    "address": "48 Allport Road, CANNOCK, Staffordshire, WS11 1DY",
+    "booking_centre": "Staffordshire South West (Stafford) Citizens Advice Bureau",
+    "phone": "01785 283019",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "52.690765",
+    "lng": "-2.0276863"
+  },
+  {
+    "title": "Staffs Sth West - Rugeley",
+    "address": "7 Brook Square, RUGELEY, Staffordshire, WS15 2DU",
+    "booking_centre": "Staffordshire South West (Stafford) Citizens Advice Bureau",
+    "phone": "01785 283019",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "52.7265523",
+    "lng": "-1.883401"
+  },
+  {
+    "title": "Staffs Sth West - Stone",
+    "address": "Stone Town Council Offices, 15 Station Road, STONE, Staffordshire, ST15 8JP",
+    "booking_centre": "Staffordshire South West (Stafford) Citizens Advice Bureau",
+    "phone": "01785 283019",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "52.9035858",
+    "lng": "-2.1491367"
+  },
+  {
+    "title": "East Staffordshire CAB",
+    "address": "Suite 8 Anson Court, Horninglow Street, East Staffordshire, BURTON-ON-TRENT, Staffordshire, DE14 1NG",
+    "booking_centre": "Staffordshire South West (Stafford) Citizens Advice Bureau",
+    "phone": "01785 283019",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "52.8071823",
+    "lng": "-1.6272791"
+  },
+  {
+    "title": "Staffs North & Stoke on Trent CAB (Stoke-on-Trent CAB)",
+    "address": "Advice House, Cheapside, Hanley, STOKE-ON-TRENT, Staffordshire, ST1 1HL",
+    "booking_centre": "Staffordshire South West (Stafford) Citizens Advice Bureau",
+    "phone": "01785 283019",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "53.0249749",
+    "lng": "-2.176392"
+  },
+  {
+    "title": "Leek CAB",
+    "address": "C/0 Leek Library, Nicholson Institute, Stockwell Street, LEEK, Staffordshire, ST13 6DW",
+    "booking_centre": "Staffordshire South West (Stafford) Citizens Advice Bureau",
+    "phone": "01785 283019",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "53.1069875",
+    "lng": "-2.023105"
+  },
+  {
+    "title": "Sth Staffordshire CAB",
+    "address": "Civic Centre, Gravel Hill, South Staffordshire, WOMBOURNE, Staffordshire, WV5 9HA",
+    "booking_centre": "Staffordshire South West (Stafford) Citizens Advice Bureau",
+    "phone": "01785 283019",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "52.5340435",
+    "lng": "-2.1856194"
+  },
+  {
+    "title": "Stevenage",
+    "address": "Swingate House Danestrete STEVENAGE Hertfordshire, SG1 1AF",
+    "booking_centre": "Stevenage",
     "phone": "01438 721760",
     "hours": "Mon, Wed, Fri 9am - 12:30pm; Tue 1pm - 4pm",
-    "lat": 51.90273999999999,
-    "lng": -0.2037096
+    "lat": "51.90274",
+    "lng": "-0.2037096"
   },
   {
-    "title": "Sutton Borough Citizens Advice",
+    "title": "Bedford & District CAB",
+    "address": "7a St Paul's Square, BEDFORD, Bedfordshire, MK40 1SQ",
+    "booking_centre": "Stevenage",
+    "phone": "01438 721760",
+    "hours": "Mon, Wed, Fri 9am - 12:30pm; Tue 1pm - 4pm",
+    "lat": "52.1350291",
+    "lng": "-0.4678803"
+  },
+  {
+    "title": "East Herts Citizens Advice Service - Hertford CAB",
+    "address": "4 Yeoman's Court, Ware Road, HERTFORD, Hertfordshire, SG13 7HJ",
+    "booking_centre": "Stevenage",
+    "phone": "01438 721760",
+    "hours": "Mon, Wed, Fri 9am - 12:30pm; Tue 1pm - 4pm",
+    "lat": "51.8007269",
+    "lng": "-0.0581795"
+  },
+  {
+    "title": "Leighton Linsdale CAB",
+    "address": "Bossard House, West Street, LEIGHTON BUZZARD, Bedfordshire, LU7 1DA",
+    "booking_centre": "Stevenage",
+    "phone": "01438 721760",
+    "hours": "Mon, Wed, Fri 9am - 12:30pm; Tue 1pm - 4pm",
+    "lat": "51.9176098",
+    "lng": "-0.6620651"
+  },
+  {
+    "title": "Luton CAB",
+    "address": "24-26 King Street, LUTON, Bedfordshire, LU1 2DP",
+    "booking_centre": "Stevenage",
+    "phone": "01438 721760",
+    "hours": "Mon, Wed, Fri 9am - 12:30pm; Tue 1pm - 4pm",
+    "lat": "51.8784676",
+    "lng": "-0.4176619"
+  },
+  {
+    "title": "Mid Beds CAB - Ampthill",
+    "address": "10 Bedford Street, AMPTHILL, Bedfordshire, MK45 2NB",
+    "booking_centre": "Stevenage",
+    "phone": "01438 721760",
+    "hours": "Mon, Wed, Fri 9am - 12:30pm; Tue 1pm - 4pm",
+    "lat": "52.0324296",
+    "lng": "-0.4935109"
+  },
+  {
+    "title": "Mid Beds CAB - Biggleswade",
+    "address": "Century House, Market Square, BIGGLESWADE, Bedfordshire, SG18 8UU",
+    "booking_centre": "Stevenage",
+    "phone": "01438 721760",
+    "hours": "Mon, Wed, Fri 9am - 12:30pm; Tue 1pm - 4pm",
+    "lat": "52.086608",
+    "lng": "-0.264803"
+  },
+  {
+    "title": "Sutton Borough CAB (Carshalton & Wallington)",
     "address": "68 Parkgate Road, Sutton, WALLINGTON, Surrey, SM6 0AH",
+    "booking_centre": "Sutton Borough CAB (Carshalton & Wallington)",
     "phone": "020 3478 2145",
     "hours": "Mon - Fri 10am - 4pm",
-    "lat": 51.364854,
-    "lng": -0.1567287
+    "lat": "51.364854",
+    "lng": "-0.1567287"
   },
   {
-    "title": "Taunton Citizens Advice",
-    "address": "St Mary's House, Magdalene Street, TAUNTON, Somerset, TA1 1SB",
+    "title": "Sutton Borough CAB",
+    "address": "The Central Library, St Nicholas Way, Sutton, SM1 1EA",
+    "booking_centre": "Sutton Borough CAB (Carshalton & Wallington)",
+    "phone": "020 3478 2145",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "51.3616716",
+    "lng": "-0.1941411"
+  },
+  {
+    "title": "Bromley CAB",
+    "address": "Community House, South Street, BROMLEY, Kent, BR1 1RH",
+    "booking_centre": "Sutton Borough CAB (Carshalton & Wallington)",
+    "phone": "020 3478 2145",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "51.4067327",
+    "lng": "0.0165631"
+  },
+  {
+    "title": "Central & South Sussex CAB - Crawley",
+    "address": "The Orchard, 1-2 Gleneagles Court, Brighton Road, Southgate, CRAWLEY, West Sussex, RH10 6AD",
+    "booking_centre": "Sutton Borough CAB (Carshalton & Wallington)",
+    "phone": "020 3478 2145",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "51.1112871",
+    "lng": "-0.1907122"
+  },
+  {
+    "title": "Croydon CAB - Sth Norwood",
+    "address": "48-50 Portland Road, South Norwood, Croydon, LONDON, SE25 4PQ",
+    "booking_centre": "Sutton Borough CAB (Carshalton & Wallington)",
+    "phone": "020 3478 2145",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "51.3971393",
+    "lng": "-0.0708217"
+  },
+  {
+    "title": "Epsom and Ewell CAB",
+    "address": "The Old Town Hall, The Parade, EPSOM, Surrey, KT18 5AG",
+    "booking_centre": "Sutton Borough CAB (Carshalton & Wallington)",
+    "phone": "020 3478 2145",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "51.3331268",
+    "lng": "-0.26538"
+  },
+  {
+    "title": "Kingston Borough CAB",
+    "address": "Neville House,  55 Eden Street, Kingston,  Surrey, KT1 1BW",
+    "booking_centre": "Sutton Borough CAB (Carshalton & Wallington)",
+    "phone": "020 3478 2145",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "51.4099822",
+    "lng": "-0.3027189"
+  },
+  {
+    "title": "Taunton",
+    "address": "St Mary's House Magdalene Street TAUNTON Somerset, TA1 1SB",
+    "booking_centre": "Taunton",
     "phone": "01823 448970",
     "hours": "Mon - Fri 9am - 5pm",
-    "lat": 51.01530899999999,
-    "lng": -3.100556
+    "lat": "51.015309",
+    "lng": "-3.100556"
   },
   {
-    "title": "Waltham Forest Citizens Advice",
-    "address": "Church Hill Business Centre, 6 Church Hill, Walthamstow, Waltham Forest, LONDON, E17 3AG",
+    "title": "Mendip (Shepton Mallet) CAB",
+    "address": "9/9a Market Place, SHEPTON MALLET, Somerset, BA4 5AZ",
+    "booking_centre": "Taunton",
+    "phone": "01823 448970",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.1906781",
+    "lng": "-2.5464172"
+  },
+  {
+    "title": "North Somerset CAB",
+    "address": "The Badger Centre, 3-6 Wadham Street, WESTON-SUPER-MARE Somerset, BS23 1JY",
+    "booking_centre": "Taunton",
+    "phone": "01823 448970",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.350733",
+    "lng": "-2.9798683"
+  },
+  {
+    "title": "Sedgemoor CAB",
+    "address": "Clarence House, High Street, Bridgwater, BRIDGWATER, Somerset, TA6 3BH",
+    "booking_centre": "Taunton",
+    "phone": "01823 448970",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.1345901",
+    "lng": "-3.007229"
+  },
+  {
+    "title": "South Somerset CAB",
+    "address": "Petters House, Petters Way, YEOVIL, Somerset, BA20 1SH",
+    "booking_centre": "Taunton",
+    "phone": "01823 448970",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "50.9387951",
+    "lng": "-2.6345731"
+  },
+  {
+    "title": "Waltham Forest CAB",
+    "address": "220 Hoe Street, Walthamstow, London, E17 3AH",
+    "booking_centre": "Waltham Forest CAB",
     "phone": "0203 233 0250",
     "hours": "Mon - Fri 9am - 5pm",
-    "lat": 51.5849623,
-    "lng": -0.0189104
+    "lat": "51.5849623",
+    "lng": "-0.0189104"
   },
   {
-    "title": "West Oxon Citizens Advice",
+    "title": "Barking and Dagenham Citizens Advice Bureau",
+    "address": "55 Ripple Road, Barking & Dagenham, BARKING, Essex, IG11 7NT",
+    "booking_centre": "Waltham Forest CAB",
+    "phone": "0203 233 0250",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.5439554",
+    "lng": "0.1476503"
+  },
+  {
+    "title": "Havering CAB - Romford",
+    "address": "9 Victoria Road, Havering, ROMFORD, RM1 2JT",
+    "booking_centre": "Waltham Forest CAB",
+    "phone": "0203 233 0250",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.5746038",
+    "lng": "0.1854298"
+  },
+  {
+    "title": "Redbridge CAB - Redbridge",
+    "address": "Broadway Chambers, 1 Cranbrook Road, Redbridge, ILFORD, Essex, IG1 4DU",
+    "booking_centre": "Waltham Forest CAB",
+    "phone": "0203 233 0250",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.5589146",
+    "lng": "0.0698723"
+  },
+  {
+    "title": "West Oxfordshire CAB - Witney",
     "address": "The Old Print House, Marlborough Lane, WITNEY, Oxfordshire, OX28 6DY",
+    "booking_centre": "West Oxfordshire CAB - Witney",
     "phone": "03003 030127",
     "hours": "Mon - Fri 10am - 4pm",
-    "lat": 51.7842565,
-    "lng": -1.4868905
+    "lat": "51.7842565",
+    "lng": "-1.4868905"
   },
   {
-    "title": "Wigan Citizens Advice",
-    "address": "6 The Avenue, Leigh, WN7 1ES",
+    "title": "Oxfordshire Sth & Vale CAB- Abingdon",
+    "address": "The Old Abbey House, Abbey Close, ABINGDON, Oxfordshire, OX14 3JD",
+    "booking_centre": "West Oxfordshire CAB - Witney",
+    "phone": "03003 030127",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "51.6702453",
+    "lng": "-1.2795761"
+  },
+  {
+    "title": "Oxfordshire Sth & Vale CAB - Didcot",
+    "address": "Dales', 9-15 High Street, DIDCOT, Oxfordshire, OX11 8EQ",
+    "booking_centre": "West Oxfordshire CAB - Witney",
+    "phone": "03003 030127",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "51.6051474",
+    "lng": "-1.2364488"
+  },
+  {
+    "title": "Oxfordshire Sth & Vale CAB - Henley",
+    "address": "32 Market Place, HENLEY-ON-THAMES, Oxfordshire, RG9 2AH",
+    "booking_centre": "West Oxfordshire CAB - Witney",
+    "phone": "03003 030127",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "51.5376844",
+    "lng": "-0.9058951"
+  },
+  {
+    "title": "Oxfordshire Sth & Vale CAB - Thame",
+    "address": "Market House, North Street, THAME, Oxfordshire, OX9 3HH",
+    "booking_centre": "West Oxfordshire CAB - Witney",
+    "phone": "03003 030127",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "51.7467298",
+    "lng": "-0.976697"
+  },
+  {
+    "title": "Banbury CAB",
+    "address": "Cornhill House, 26 Cornhill, BANBURY, Oxfordshire, OX16 5NG",
+    "booking_centre": "West Oxfordshire CAB - Witney",
+    "phone": "03003 030127",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "52.0626999",
+    "lng": "-1.3363967"
+  },
+  {
+    "title": "Citizens Advice  Bicester",
+    "address": "The Garth, Launton Road, BICESTER, Oxfordshire, OX26 6PS",
+    "booking_centre": "West Oxfordshire CAB - Witney",
+    "phone": "03003 030127",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "51.8960646",
+    "lng": "-1.1468028"
+  },
+  {
+    "title": "Milton Keyes District - Milton Keynes Central CAB",
+    "address": "Acorn House, 361 Midsummer Boulevard, MILTON KEYNES, Buckinghamshire, MK9 3HP",
+    "booking_centre": "West Oxfordshire CAB - Witney",
+    "phone": "03003 030127",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "52.0396102",
+    "lng": "-0.7630364"
+  },
+  {
+    "title": "Oxford CAB",
+    "address": "95 St Aldates, OXFORD, Oxfordshire, OX1 1DA",
+    "booking_centre": "West Oxfordshire CAB - Witney",
+    "phone": "03003 030127",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "51.7506659",
+    "lng": "-1.2569824"
+  },
+  {
+    "title": "Reading CAB",
+    "address": "Minster Street, READING, Berkshire, RG1 2JB",
+    "booking_centre": "West Oxfordshire CAB - Witney",
+    "phone": "03003 030127",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "51.4547125",
+    "lng": "-0.9713698"
+  },
+  {
+    "title": "Chipping Norton CAB",
+    "address": "Chipping Norton Health Centre, Russell Way, CHIPPING NORTON, OX7 5FA",
+    "booking_centre": "West Oxfordshire CAB - Witney",
+    "phone": "03003 030127",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "51.6765159",
+    "lng": "-0.6029234"
+  },
+  {
+    "title": "Wigan Borough Citizens Advice Bureau",
+    "address": "6 The Avenue Leigh, WN7 1ES",
+    "booking_centre": "Wigan Borough Citizens Advice Bureau",
     "phone": "01942 267965",
     "hours": "Mon - Fri 10am - 4pm",
-    "lat": 53.4994733,
-    "lng": -2.5178255
+    "lat": "53.4994733",
+    "lng": "-2.5178255"
   },
   {
-    "title": "Wiltshire Citizens Advice",
-    "address": "3 Avon Reach, Monkton Hill , Chippenham , Wiltshire , SN15 1EE",
+    "title": "Wigan Borough - Wigan",
+    "address": "2nd Floor Wigan Life Centre  The Wiend WIGAN Greater Manchester, WN1 1NH",
+    "booking_centre": "Wigan Borough Citizens Advice Bureau",
+    "phone": "01942 267965",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "53.5455303",
+    "lng": "-2.6302968"
+  },
+  {
+    "title": "Bolton and District",
+    "address": "26-28 Mawdsley Street BOLTON Greater Manchester, BL1 1JL",
+    "booking_centre": "Wigan Borough Citizens Advice Bureau",
+    "phone": "01942 267965",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "53.5773869",
+    "lng": "-2.4282283"
+  },
+  {
+    "title": "Bury District - Prestwich",
+    "address": "7 Fairfax Road Prestwich Greater Manchester, M25 1AS",
+    "booking_centre": "Wigan Borough Citizens Advice Bureau",
+    "phone": "01942 267965",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "53.5341181",
+    "lng": "-2.2838074"
+  },
+  {
+    "title": "Bury District - Radclife",
+    "address": "1-3 Blackburn Street Radcliffe Greater Manchester, M26 1NN",
+    "booking_centre": "Wigan Borough Citizens Advice Bureau",
+    "phone": "01942 267965",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "53.5587746",
+    "lng": "-2.3247087"
+  },
+  {
+    "title": "Wiltshire Citizens Advice- Chippenham",
+    "address": "3 Avon Reach, Monkton Hill,  Chippenham, Wiltshire, SN15 1EE",
+    "booking_centre": "Wiltshire Citizens Advice- Chippenham",
     "phone": "01722 580052",
     "hours": "Mon - Fri 9am - 5pm",
-    "lat": 51.4605063,
-    "lng": -2.1167758
+    "lat": "51.4605063",
+    "lng": "-2.1167758"
   },
   {
-    "title": "Wolverhampton Citizens Advice",
-    "address": "William Leigh House, 15 Walsall Street, Bilston, WOLVERHAMPTON, West Midlands, WV14 0AT",
+    "title": "Wiltshire Citizens Advice - Devizes",
+    "address": "New Park Street, DEVIZES, Wiltshire, SN10 1DY",
+    "booking_centre": "Wiltshire Citizens Advice- Chippenham",
+    "phone": "01722 580052",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.3539676",
+    "lng": "-1.9978997"
+  },
+  {
+    "title": "Wiltshire Citizens Advice - Salisbury",
+    "address": "18 College Street, SALISBURY, Wiltshire, SP1 3AL",
+    "booking_centre": "Wiltshire Citizens Advice- Chippenham",
+    "phone": "01722 580052",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.0730523",
+    "lng": "-1.7889431"
+  },
+  {
+    "title": "Wiltshire Citizens Advice - Trowbridge",
+    "address": "1 Mill Street, TROWBRIDGE, Wiltshire, BA14 8EB",
+    "booking_centre": "Wiltshire Citizens Advice- Chippenham",
+    "phone": "01722 580052",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.3195698",
+    "lng": "-2.2087081"
+  },
+  {
+    "title": "Bath & NE Somerset CAB - Bath",
+    "address": "2 Edgar Buildings, George Street, BATH, Somerset, BA1 2EE",
+    "booking_centre": "Wiltshire Citizens Advice- Chippenham",
+    "phone": "01722 580052",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.3849873",
+    "lng": "-2.3624063"
+  },
+  {
+    "title": "Bristol CAB",
+    "address": "1 Quay Street, Bristol BS1 2JL",
+    "booking_centre": "Wiltshire Citizens Advice- Chippenham",
+    "phone": "01722 580052",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.4552148",
+    "lng": "-2.5935468"
+  },
+  {
+    "title": "Sth Gloucestershire (Yate) CAB",
+    "address": "Kennedy Way, YATE, South Gloucestershire, BS37 4DQ",
+    "booking_centre": "Wiltshire Citizens Advice- Chippenham",
+    "phone": "01722 580052",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.5393722",
+    "lng": "-2.4151242"
+  },
+  {
+    "title": "Stroud & District CAB - Stroud",
+    "address": "Unit 8, 1st Floor Brunel Mall, London Road STROUD, Gloucestershire, GL5 2BP",
+    "booking_centre": "Wiltshire Citizens Advice- Chippenham",
+    "phone": "01722 580052",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.7434664",
+    "lng": "-2.2160458"
+  },
+  {
+    "title": "Stroud & District CAB - Dursley",
+    "address": "The New Library, May Lane, DURSLEY, Gloucestershire, GL11 4JE",
+    "booking_centre": "Wiltshire Citizens Advice- Chippenham",
+    "phone": "01722 580052",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.6803901",
+    "lng": "-2.3575819"
+  },
+  {
+    "title": "Swindon CAB",
+    "address": "Sanford House, College Street entrance, SWINDON, Wiltshire, SN1 1QH",
+    "booking_centre": "Wiltshire Citizens Advice- Chippenham",
+    "phone": "01722 580052",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "51.5617717",
+    "lng": "-1.7836099"
+  },
+  {
+    "title": "Midsomer Norton",
+    "address": "The Hollies, High Street, Midsomer Norton, BA3 2DP",
+    "booking_centre": "Wiltshire Citizens Advice- Chippenham",
+    "phone": "01722 580052",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "54.5778381",
+    "lng": "-1.2378594"
+  },
+  {
+    "title": "Cirencester",
+    "address": "2-3 The Mews, Crickdale Street, Cirencester, GL7 1HY",
+    "booking_centre": "Wiltshire Citizens Advice- Chippenham",
+    "phone": "01722 580052",
+    "hours": "Mon - Fri 9am - 5pm",
+    "lat": "50.7350612",
+    "lng": "-1.7795971"
+  },
+  {
+    "title": "Wolverhampton District (Bilston) CAB",
+    "address": "William Leigh House 15 Walsall Street Bilston WOLVERHAMPTON West Midlands, WV14 0AT",
+    "booking_centre": "Wolverhampton District (Bilston) CAB",
     "phone": "01902 572048",
     "hours": "Mon - Thur 9:30am - 2pm; Fri 9:30am - 1pm",
-    "lat": 52.5660518,
-    "lng": -2.0761111
+    "lat": "52.5660518",
+    "lng": "-2.0761111"
   },
   {
-    "title": "Worcestershire and WHABAC Citizens Advice",
+    "title": "Wolverhampton District (City Centre) CAB",
+    "address": "26 Snow Hill, WOLVERHAMPTON, West Midlands, WV2 4AD",
+    "booking_centre": "Wolverhampton District (Bilston) CAB",
+    "phone": "01902 572048",
+    "hours": "Mon - Thur 9:30am - 2pm; Fri 9:30am - 1pm",
+    "lat": "52.5819877",
+    "lng": "-2.1258782"
+  },
+  {
+    "title": "Wolverhampton District (Low Hill) CAB",
+    "address": "Ground Floor, Housing Office Showell Circus Low Hill WOLVERHAMPTON West Midlands, WV10 9JL",
+    "booking_centre": "Wolverhampton District (Bilston) CAB",
+    "phone": "01902 572048",
+    "hours": "Mon - Thur 9:30am - 2pm; Fri 9:30am - 1pm",
+    "lat": "52.610561",
+    "lng": "-2.1125721"
+  },
+  {
+    "title": "Birmingham CAB Service",
+    "address": "Ground Floor, Gazette Buildings, 168 Corporation Street, BIRMINGHAM, West Midlands, B4 6TF",
+    "booking_centre": "Wolverhampton District (Bilston) CAB",
+    "phone": "01902 572048",
+    "hours": "Mon - Thur 9:30am - 2pm; Fri 9:30am - 1pm",
+    "lat": "52.4825468",
+    "lng": "-1.893497"
+  },
+  {
+    "title": "Dudley District  (Stourbridge) CAB",
+    "address": "69 Market Street, STOURBRIDGE, West Midlands, DY8 1AQ",
+    "booking_centre": "Wolverhampton District (Bilston) CAB",
+    "phone": "01902 572048",
+    "hours": "Mon - Thur 9:30am - 2pm; Fri 9:30am - 1pm",
+    "lat": "52.4551671",
+    "lng": "-2.1477308"
+  },
+  {
+    "title": "Birmingham CAB Service - Kingstanding",
+    "address": "Perry Common Library, College Road, Kingstanding, BIRMINGHAM, West Midlands, B44 0HH",
+    "booking_centre": "Wolverhampton District (Bilston) CAB",
+    "phone": "01902 572048",
+    "hours": "Mon - Thur 9:30am - 2pm; Fri 9:30am - 1pm",
+    "lat": "52.534245",
+    "lng": "-1.8792765"
+  },
+  {
+    "title": "Walsall CAB",
+    "address": "139-144 Lichfield Street, (opposite The Town Hall), WALSALL, West Midlands, WS1 1SE",
+    "booking_centre": "Wolverhampton District (Bilston) CAB",
+    "phone": "01902 572048",
+    "hours": "Mon - Thur 9:30am - 2pm; Fri 9:30am - 1pm",
+    "lat": "52.5853758",
+    "lng": "-1.9791017"
+  },
+  {
+    "title": "Worcestershire and WHABAC - Hopmarket",
     "address": "The Hopmarket, The Foregate, WORCESTER, Worcestershire, WR1 1DL",
+    "booking_centre": "Worcestershire and WHABAC - Hopmarket",
     "phone": "01905 721892",
     "hours": "Mon - Fri 10am - 4pm",
-    "lat": 52.194209,
-    "lng": -2.2209041
+    "lat": "52.194209",
+    "lng": "-2.2209041"
   },
   {
-    "title": "Ynys Mon Citizens Advice",
-    "address": "4/10 Ffordd yr Efail, Llangefni, Ynys Mon, LL77 7ER",
-    "phone": "01248 723785",
-    "hours": "Mon - Thur 9am - 5pm; Fri 9am - 4pm",
-    "lat": 53.2562205,
-    "lng": -4.3118206
+    "title": "Worcester & WHABAC - Lowesmoor",
+    "address": "The Old Glove Factory, 13a Lowesmoor, WORCESTER, Worcestershire, WR1 2RS",
+    "booking_centre": "Worcestershire and WHABAC - Hopmarket",
+    "phone": "01905 721892",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "52.1951779",
+    "lng": "-2.2172075"
+  },
+  {
+    "title": "Herefordshire - Hereford",
+    "address": "8 St Owen Street, HEREFORD, Herefordshire, HR1 2PJ",
+    "booking_centre": "Worcestershire and WHABAC - Hopmarket",
+    "phone": "01905 721892",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "52.0551877",
+    "lng": "-2.7122147"
+  },
+  {
+    "title": "Herefordshire - Leominster",
+    "address": "Multi-Agency Office, Conningsby Road, LEOMINSTER, Herefordshire, HR6 8LR",
+    "booking_centre": "Worcestershire and WHABAC - Hopmarket",
+    "phone": "01905 721892",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "52.2272165",
+    "lng": "-2.7377451"
+  },
+  {
+    "title": "Sth Worcestershire - Malvern Hills",
+    "address": "Malvern Heights, Chequers Close, Enigma Business Park, MALVERN, Worcestershire, WR14 1BF",
+    "booking_centre": "Worcestershire and WHABAC - Hopmarket",
+    "phone": "01905 721892",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "52.1293422",
+    "lng": "-2.3021846"
+  },
+  {
+    "title": "Sth Worcestershire - Wychavon",
+    "address": "13 Port Street, EVESHAM, Worcestershire, WR11 3LD",
+    "booking_centre": "Worcestershire and WHABAC - Hopmarket",
+    "phone": "01905 721892",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "52.091092",
+    "lng": "-1.9407977"
+  },
+  {
+    "title": "Bromsgrove & District - Bromsgrove",
+    "address": "50-52 Birmingham Road, BROMSGROVE, Worcestershire, B61 0DD",
+    "booking_centre": "Worcestershire and WHABAC - Hopmarket",
+    "phone": "01905 721892",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "52.338975",
+    "lng": "-2.05552"
+  },
+  {
+    "title": "Wyre Forest CAB",
+    "address": "21-23 New Road, KIDDERMINSTER, Worcestershire, DY10 1AF",
+    "booking_centre": "Worcestershire and WHABAC - Hopmarket",
+    "phone": "01905 721892",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "52.3845426",
+    "lng": "-2.247786"
+  },
+  {
+    "title": "Brent Citizens Advice Bureau",
+    "address": "270-272 High Road, LONDON, NW10 2EY",
+    "booking_centre": "Southwark CAB - Bermondsey",
+    "phone": "020 84381240",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "51.8007669",
+    "lng": "0.639218"
+  },
+  {
+    "title": "Camden Citizens Advice Bureau",
+    "address": "141a Robert Street, LONDON, NW1 3QT",
+    "booking_centre": "Southwark CAB - Bermondsey",
+    "phone": "020 84381240",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "53.7416873",
+    "lng": "-2.0116909"
+  },
+  {
+    "title": "Harrow CAB",
+    "address": "Civic 9 Station Road, Harrow, Middlesex, HA1 2XH",
+    "booking_centre": "Southwark CAB - Bermondsey",
+    "phone": "020 84381240",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "51.7705513",
+    "lng": "0.0933527"
+  },
+  {
+    "title": "Kensington CAB",
+    "address": "2 Acklam Road, LONDON, W10 5QZ",
+    "booking_centre": "Southwark CAB - Bermondsey",
+    "phone": "020 84381240",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "54.3295506",
+    "lng": "-2.7450833"
+  },
+  {
+    "title": "Westminster CAB",
+    "address": "21a Conduit PLace, LONDON, W2 1HS",
+    "booking_centre": "Southwark CAB - Bermondsey",
+    "phone": "020 84381240",
+    "hours": "Mon - Fri 10am - 4pm",
+    "lat": "51.7842565",
+    "lng": "-1.4868905"
   }
 ]
