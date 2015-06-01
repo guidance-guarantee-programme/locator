@@ -92,12 +92,24 @@ function placeMarkers() {
       title: l['title']
     });
 
-    var content = [
+    var elements = [
       '<b>', l['title'], '</b>',
-      '<p>', l['address'], '</p>',
+      '<p>', l['address'], '</p>'
+    ];
+
+    if(l['booking_centre'] && l['booking_centre'] != l['title']) {
+      elements.push(
+        '<p><b>Booking Centre Details</b></p>', 
+        '<p>', l['booking_centre'], '</p>'
+      );
+    }
+
+    elements.push(
       '<p>', l['hours'], '</p>',
       l['phone']
-    ].join("\n");
+    );
+
+    var content = elements.join("\n");
 
     google.maps.event.addListener(markers[i], 'click', makeHandler(markers[i], content));
   }
