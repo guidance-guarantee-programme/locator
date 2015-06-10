@@ -1,0 +1,23 @@
+#!/usr/bin/env ruby
+
+require 'json'
+require 'rgeo'
+require 'rgeo/geo_json'
+
+geometry = RGeo::Geographic.spherical_factory
+geo_json_entities = RGeo::GeoJSON::EntityFactory.instance
+
+location_data = JSON.parse(File.read(ARGV.first))
+
+features = location_data.map do |l|
+  point = geometry.point(l['lng'], l['lat'])
+  properties = l.reject { |key| %w(lat lng).include?(key) }
+
+  geo_json_entities.feature(point, nil, properties)
+end
+
+feature_collection = geo_json_entities.feature_collection(features)
+
+geo_json = RGeo::GeoJSON.encode(feature_collection)
+
+puts JSON.pretty_generate(geo_json)
