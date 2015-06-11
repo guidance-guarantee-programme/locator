@@ -23,8 +23,18 @@ end]
 
 json = JSON.parse(File.read(current_json_data_path))
 
+updates_count = updates.values.count { |u| !u.empty? }
+updated_record_count = 0
+
 json.map! do |record|
-  record.merge(updates[record['title']])
+  new_record = record.merge(updates[record['title']])
+  updated_record_count += 1 unless record == new_record
+
+  new_record
 end
 
 puts JSON.pretty_generate(json)
+
+$stderr.puts "CSV contained updates for #{updates_count} records"
+$stderr.puts "#{updates_count - updated_record_count} resulted in no change"
+$stderr.puts "#{updated_record_count} updates changed records"
