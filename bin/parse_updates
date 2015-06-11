@@ -15,7 +15,7 @@ updates = Hash[csv.map do |row|
   updates = {}
   %w(title address phone).each do |field|
     updated_value = row[:"new_#{field}"]
-    updates.store(field, updated_value) if updated_value
+    updates.store(field, updated_value) unless updated_value.to_s.strip.empty?
   end
 
   [row[:title], updates]
