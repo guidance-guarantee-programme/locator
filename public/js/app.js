@@ -115,6 +115,26 @@ function placeMarkers() {
   }
 }
 
+function parseGeoJSON(geojson){
+    var
+      results = [],
+      features = geojson['features'];
+
+    for(i in features) {
+      var
+        feature = features[i],
+        coordinates = feature['geometry']['coordinates'],
+        location = feature['properties'];
+
+      location['lng'] = coordinates[0];
+      location['lat'] = coordinates[1];
+
+      results.push(location);
+    }
+
+    return results;
+}
+
 function initialise() {
   geocoder = new google.maps.Geocoder();
 
@@ -126,17 +146,9 @@ function initialise() {
     center: latLng
   });
 
-  getJSON('/js/nicab.json', function(json) {
-    locations = locations.concat(json);
-
-    getJSON('/js/cas.json', function(json) {
-      locations = locations.concat(json);
-
-      getJSON('/js/cita.json', function(json) {
-        locations = locations.concat(json);
-        placeMarkers();
-      });
-    });
+  getJSON('/locations.json', function(json) {
+    locations = parseGeoJSON(json);
+    placeMarkers();
   });
 }
 
