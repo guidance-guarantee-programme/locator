@@ -22,7 +22,8 @@ $ git clone https://github.com/guidance-guarantee-programme/locator.git
 To start the application:
 
 ```sh
-$ go run locator.go
+$ go build .
+$ ./locator
 ```
 
 ## Contributing
