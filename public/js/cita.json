@@ -2837,7 +2837,7 @@
   {
     "title": "Southwark CAB - Bermondsey",
     "address": "8 Market Place, Southwark Park Road, Southwark, London, SE16 3UQ",
-    "booking_centre": "Southwark CAB - Bermondsey",
+    "booking_centre": "Brent Citizens Advice Bureau",
     "phone": "020 7064 9710",
     "hours": "Mon - Fri 10am - 5pm",
     "lat": 51.49217350000001,
@@ -2846,7 +2846,7 @@
   {
     "title": "Southwark CAB - Peckham",
     "address": "97 Peckham High Street, Southwark, London, SE15 5RS",
-    "booking_centre": "Southwark CAB - Bermondsey",
+    "booking_centre": "Brent Citizens Advice Bureau",
     "phone": "020 7064 9710",
     "hours": "Mon - Fri 10am - 5pm",
     "lat": 51.4736877,
@@ -2855,7 +2855,7 @@
   {
     "title": "Greenwich District CAB (Woolwich)",
     "address": "Old Town Hall, Polytechnic Street, Greenwich, London, SE18 6PN",
-    "booking_centre": "Southwark CAB - Bermondsey",
+    "booking_centre": "Brent Citizens Advice Bureau",
     "phone": "020 7064 9710",
     "hours": "Mon - Fri 10am - 5pm",
     "lat": 51.4906665,
@@ -3530,7 +3530,7 @@
   {
     "title": "Brent Citizens Advice Bureau",
     "address": "270-272 High Road, LONDON, NW10 2EY",
-    "booking_centre": "Southwark CAB - Bermondsey",
+    "booking_centre": "Brent Citizens Advice Bureau",
     "phone": "020 84381240",
     "hours": "Mon - Fri 10am - 4pm",
     "lat": 51.5486481,
@@ -3539,7 +3539,7 @@
   {
     "title": "Camden Citizens Advice Bureau",
     "address": "141a Robert Street, LONDON, NW1 3QT",
-    "booking_centre": "Southwark CAB - Bermondsey",
+    "booking_centre": "Brent Citizens Advice Bureau",
     "phone": "020 84381240",
     "hours": "Mon - Fri 10am - 4pm",
     "lat": 51.528399,
@@ -3548,7 +3548,7 @@
   {
     "title": "Harrow CAB",
     "address": "Civic 9 Station Road, Harrow, Middlesex, HA1 2XH",
-    "booking_centre": "Southwark CAB - Bermondsey",
+    "booking_centre": "Brent Citizens Advice Bureau",
     "phone": "020 84381240",
     "hours": "Mon - Fri 10am - 4pm",
     "lat": 51.5889707,
@@ -3557,7 +3557,7 @@
   {
     "title": "Kensington CAB",
     "address": "2 Acklam Road, LONDON, W10 5QZ",
-    "booking_centre": "Southwark CAB - Bermondsey",
+    "booking_centre": "Brent Citizens Advice Bureau",
     "phone": "020 84381240",
     "hours": "Mon - Fri 10am - 4pm",
     "lat": 51.52148709999999,
@@ -3566,7 +3566,7 @@
   {
     "title": "Westminster CAB",
     "address": "21a Conduit PLace, LONDON, W2 1HS",
-    "booking_centre": "Southwark CAB - Bermondsey",
+    "booking_centre": "Brent Citizens Advice Bureau",
     "phone": "020 84381240",
     "hours": "Mon - Fri 10am - 4pm",
     "lat": 51.5154347,
