@@ -13,8 +13,8 @@ csv = CSV.table(updates_csv_path)
 
 updates = Hash[csv.map do |row|
   updates = {}
-  %w(title address phone).each do |field|
-    updated_value = row[:"new_#{field}"]
+  row.select { |k, _| k.to_s.start_with?('new_') }.each do |key, updated_value|
+    field = key.to_s.gsub(/^new_/, '')
     updates.store(field, updated_value) unless updated_value.to_s.strip.empty?
   end
 
