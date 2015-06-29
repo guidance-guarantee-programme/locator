@@ -9,6 +9,7 @@ import (
 )
 
 type Location struct {
+	Id            string  `json:"id"`
 	Title         string  `json:"title"`
 	Address       string  `json:"address"`
 	BookingCentre string  `json:"booking_centre"`
@@ -33,6 +34,7 @@ type FeatureProperties struct {
 
 type Feature struct {
 	Type       string            `json:"type"`
+	Id         string            `json:"id"`
 	Geometry   FeatureGeometry   `json:"geometry"`
 	Properties FeatureProperties `json:"properties"`
 }
@@ -73,6 +75,7 @@ func NewFeatureProperties(l Location) FeatureProperties {
 func NewFeature(l Location) Feature {
 	return Feature{
 		Type:       "Feature",
+		Id:         l.Id,
 		Geometry:   NewFeatureGeometry(l),
 		Properties: NewFeatureProperties(l),
 	}
