@@ -1,7 +1,6 @@
 package main
 
 import (
-	"flag"
 	"fmt"
 	"io/ioutil"
 	"mime"
@@ -11,11 +10,7 @@ import (
 	"strings"
 )
 
-var (
-	port int
-)
-
-func handler(w http.ResponseWriter, r *http.Request) {
+func StaticHandler(w http.ResponseWriter, r *http.Request) {
 	var responseCode int
 
 	// check for requested path under public/
@@ -46,18 +41,4 @@ func handler(w http.ResponseWriter, r *http.Request) {
 	}
 
 	fmt.Printf("%s %s %d\n", r.Method, r.URL.Path, responseCode)
-}
-
-func init() {
-	flag.IntVar(&port, "p", 8080, "Port to listen on")
-	flag.Parse()
-}
-
-func main() {
-	fmt.Printf("> Starting on http://0.0.0.0:%d\n", port)
-	http.HandleFunc("/", handler)
-	err := http.ListenAndServe(fmt.Sprintf(":%d", port), nil)
-	if err != nil {
-		fmt.Println("Error starting!")
-	}
 }

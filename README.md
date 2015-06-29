@@ -1,5 +1,7 @@
 # Locator
 
+[![Build Status](https://travis-ci.org/guidance-guarantee-programme/locator.svg)](https://travis-ci.org/guidance-guarantee-programme/locator)
+
 Locate branches of the Citizens Advice service providing [Pension Wise] face to face guidance appointments.
 
 
@@ -22,7 +24,8 @@ $ git clone https://github.com/guidance-guarantee-programme/locator.git
 To start the application:
 
 ```sh
-$ go run locator.go
+$ go build .
+$ ./locator
 ```
 
 ## Contributing
