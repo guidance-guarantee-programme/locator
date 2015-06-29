@@ -5,7 +5,8 @@
     "phone": "028 9442 8176",
     "hours": "Mon - Thurs 10am - 12pm and 2pm - 4pm, Fri 10am - 12 and 1:30pm - 2:30pm",
     "lat": 54.71857499999999,
-    "lng": -6.188037599999999
+    "lng": -6.188037599999999,
+    "id": "73abedb4-f822-4f5f-b7a9-6aa1f627f41a"
   },
   {
     "title": "Ards Citizens Advice Bureau",
@@ -13,7 +14,8 @@
     "phone": "028 9180 1929",
     "hours": "Mon - Fri 9:30am - 3:30pm",
     "lat": 54.5952592,
-    "lng": -5.7019008
+    "lng": -5.7019008,
+    "id": "8862652c-a7e0-4aba-8846-91f836ebbffe"
   },
   {
     "title": "Armagh Citizens Advice Bureau",
@@ -21,7 +23,8 @@
     "phone": "028 3752 6699",
     "hours": "Mon - Fri 9:30am - 3:30pm",
     "lat": 54.3580091,
-    "lng": -6.641012799999999
+    "lng": -6.641012799999999,
+    "id": "f0946066-3417-4db8-8b8b-c43d7a66b89f"
   },
   {
     "title": "Ballymena Citizens Advice Bureau",
@@ -29,7 +32,8 @@
     "phone": "028 2565 5970",
     "hours": "Mon - Fri 9am - 4pm except Thurs 9am - 8pm",
     "lat": 54.8657556,
-    "lng": -6.2742356
+    "lng": -6.2742356,
+    "id": "2d320a0c-89f0-44d7-9cf9-6f29e4f97dd8"
   },
   {
     "title": "Banbridge Citizens Advice Bureau",
@@ -37,7 +41,8 @@
     "phone": "028 4066 2174",
     "hours": "Mon - Fri 10am - 2pm",
     "lat": 54.3488771,
-    "lng": -6.2699194
+    "lng": -6.2699194,
+    "id": "87aaf9ab-7619-4ebb-81e8-ad5abef8785e"
   },
   {
     "title": "Bangor Citizens Advice Bureau",
@@ -45,7 +50,8 @@
     "phone": "028 9145 0787",
     "hours": "Mon 9:30am - 3:30pm",
     "lat": 54.6620252,
-    "lng": -5.663684099999999
+    "lng": -5.663684099999999,
+    "id": "db7c39db-d64c-4561-a2a4-e4556690a64c"
   },
   {
     "title": "Belfast Citizens Advice Bureau",
@@ -53,7 +59,8 @@
     "phone": "0300 1 233 233",
     "hours": "Mon - Fri 9am - 12:30pm and 1pm - 4pm",
     "lat": 54.5957306,
-    "lng": -5.9341485
+    "lng": -5.9341485,
+    "id": "1de9b76c-c349-4e2a-a3a7-bb0f59b0807e"
   },
   {
     "title": "Carrickfergus Citizens Advice Bureau",
@@ -61,7 +68,8 @@
     "phone": "028 9335 1808",
     "hours": "Mon - Fri 10am - 4pm",
     "lat": 54.7165468,
-    "lng": -5.8082569
+    "lng": -5.8082569,
+    "id": "4d220dda-00f3-40cd-85a1-de97d76788c3"
   },
   {
     "title": "Coleraine Citizens Advice Bureau",
@@ -69,7 +77,8 @@
     "phone": "028 7032 9775",
     "hours": "Mon - Fri 9:30am - 1pm and 2pm - 4pm",
     "lat": 55.1315202,
-    "lng": -6.6656869
+    "lng": -6.6656869,
+    "id": "ae357a58-ce26-45ec-9339-d173120ee167"
   },
   {
     "title": "Cookstown Citizens Advice Bureau",
@@ -77,7 +86,8 @@
     "phone": "028 8676 6891",
     "hours": "Mon - Fri 10am - 3pm",
     "lat": 54.6278908,
-    "lng": -6.7569631
+    "lng": -6.7569631,
+    "id": "9de3a232-35bb-483b-9d8a-ce28004da478"
   },
   {
     "title": "Craigavon Citizens Advice Bureau",
@@ -85,7 +95,8 @@
     "phone": "028 3833 3571",
     "hours": "Mon - Fri 9am - 5pm",
     "lat": 54.4609688,
-    "lng": -6.3313305
+    "lng": -6.3313305,
+    "id": "5a9df3a1-06e5-4f25-974f-2dcf6080fe3d"
   },
   {
     "title": "Derry Citizens Advice Bureau",
@@ -93,7 +104,8 @@
     "phone": "028 7134 7047",
     "hours": "Mon - Fri 9:30am - 12:30pm and 2pm - 4pm",
     "lat": 54.99967789999999,
-    "lng": -7.3219594
+    "lng": -7.3219594,
+    "id": "03ca70f3-f76a-4563-a243-571000f80ab4"
   },
   {
     "title": "Downpatrick Citizens Advice Bureau",
@@ -101,7 +113,8 @@
     "phone": "028 4461 4110",
     "hours": "Mon - Thurs 9am - 4pm Fri 9am - 1pm",
     "lat": 54.3286751,
-    "lng": -5.7153462
+    "lng": -5.7153462,
+    "id": "bc0cdad0-7e6c-4aa3-a423-416f56cb26dc"
   },
   {
     "title": "Dungannon Citizens Advice Bureau",
@@ -109,7 +122,8 @@
     "phone": "028 8772 3458",
     "hours": "Mon - Fri 9:30am- 3pm",
     "lat": 54.5049094,
-    "lng": -6.770258999999999
+    "lng": -6.770258999999999,
+    "id": "4fbed63d-5cff-4366-bb3c-7e0011e01214"
   },
   {
     "title": "Fermanagh Citizens Advice Bureau",
@@ -117,7 +131,8 @@
     "phone": "028 6632 4334",
     "hours": "Mon - Thurs 9:30am - 1pm and Fri 2pm - 3:30pm",
     "lat": 54.3454797,
-    "lng": -7.6416001
+    "lng": -7.6416001,
+    "id": "5a2c0f21-0e97-44ce-aca6-8f0594a828b8"
   },
   {
     "title": "Holywood Citizens Advice Bureau",
@@ -125,7 +140,8 @@
     "phone": "0300 123 3233",
     "hours": "Mon - Fri 9:30am - 3:30pm",
     "lat": 54.6411866,
-    "lng": -5.837807799999999
+    "lng": -5.837807799999999,
+    "id": "35347b64-0059-4bf8-bdcb-7871ac72b5ab"
   },
   {
     "title": "Larne Citizens Advice Bureau",
@@ -133,7 +149,8 @@
     "phone": "028 2826 0379",
     "hours": "Mon - Fri 10am - 4pm",
     "lat": 54.8538116,
-    "lng": -5.8148294
+    "lng": -5.8148294,
+    "id": "b5c1e099-8038-4675-9e5b-74218945e9ac"
   },
   {
     "title": "Lisburn Citizens Advice Bureau",
@@ -141,7 +158,8 @@
     "phone": "028 9266 2251",
     "hours": "Mon - Fri 9:30am - 12pm and 1:30pm - 4pm",
     "lat": 54.513456,
-    "lng": -6.0442709
+    "lng": -6.0442709,
+    "id": "37453886-59a0-467e-acae-2d7aec449c2b"
   },
   {
     "title": "Newry Citizens Advice Bureau",
@@ -149,7 +167,8 @@
     "phone": "028 3026 2591",
     "hours": "Mon - Fri 9:30am - 1pm and 2pm - 5pm",
     "lat": 54.1731229,
-    "lng": -6.343651899999999
+    "lng": -6.343651899999999,
+    "id": "4cb189d7-a788-4914-b57b-9d0aa2436ce8"
   },
   {
     "title": "Newtownabbey Citizens Advice Bureau",
@@ -157,7 +176,8 @@
     "phone": "028 9085 3271",
     "hours": "Mon - Fri 9am - 1pm and 1:30pm - 4pm",
     "lat": 54.664403,
-    "lng": -5.9169166
+    "lng": -5.9169166,
+    "id": "26d6c706-3a40-4123-b17d-9f4d4274d7b3"
   },
   {
     "title": "Strabane Citizens Advice Bureau",
@@ -165,6 +185,7 @@
     "phone": "028 7134 7047",
     "hours": "Mon - Fri 9:30am - 12:30pm and 2pm - 4pm",
     "lat": 54.8292993,
-    "lng": -7.4647269
+    "lng": -7.4647269,
+    "id": "beafeb21-7cd6-4a88-a372-d632fc63f291"
   }
 ]
