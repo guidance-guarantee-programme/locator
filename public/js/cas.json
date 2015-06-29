@@ -5,7 +5,8 @@
     "phone": "01224 569 750",
     "hours": "",
     "lat": 57.14722339999999,
-    "lng": -2.0959203
+    "lng": -2.0959203,
+    "id": "c002c214-7a39-4ff2-b21f-a4f3b45b14a1"
   },
   {
     "title": "Airdrie Citizens Advice Bureau",
@@ -13,7 +14,8 @@
     "phone": "01236 754 109",
     "hours": "",
     "lat": 55.8669483,
-    "lng": -3.9820245
+    "lng": -3.9820245,
+    "id": "ead14905-96be-4032-bdf5-2e076efb27bc"
   },
   {
     "title": "Angus Citizens Advice Bureau - Arbroath",
@@ -21,7 +23,8 @@
     "phone": "01241 870661 ext 25",
     "hours": "",
     "lat": 56.5581472,
-    "lng": -2.5863387
+    "lng": -2.5863387,
+    "id": "c55496a1-2c34-4ddb-a2e7-5e18367ce256"
   },
   {
     "title": "Angus Citizens Advice Bureau - Forfar",
@@ -29,7 +32,8 @@
     "phone": "01241 870661 ext 25",
     "hours": "",
     "lat": 56.645145,
-    "lng": -2.8875885
+    "lng": -2.8875885,
+    "id": "0e57a050-bd51-42f7-bedf-65df38b8e26e"
   },
   {
     "title": "Angus Citizens Advice Bureau - Montrose",
@@ -37,7 +41,8 @@
     "phone": "01241 870661 ext 25",
     "hours": "",
     "lat": 56.708893,
-    "lng": -2.4706502
+    "lng": -2.4706502,
+    "id": "18bfeb4e-3b8b-4dd6-adc6-5351ec54ef71"
   },
   {
     "title": "Annan Citizens Advice Bureau (DAGCAS)",
@@ -45,7 +50,8 @@
     "phone": "0300 303 4321",
     "hours": "",
     "lat": 54.9869107,
-    "lng": -3.262255
+    "lng": -3.262255,
+    "id": "37516769-0325-430d-a7f6-e40f4ebd8e10"
   },
   {
     "title": "Argyll and Bute Citizens Advice Bureau",
@@ -53,7 +59,8 @@
     "phone": "08456 123808",
     "hours": "",
     "lat": 56.0438038,
-    "lng": -5.441284599999999
+    "lng": -5.441284599999999,
+    "id": "e50a0813-d8bc-422b-b0f0-0850992f5ba4"
   },
   {
     "title": "Argyll and Bute Citizens Advice Bureau Helensburgh",
@@ -61,7 +68,8 @@
     "phone": "08456 123808",
     "hours": "",
     "lat": 56.0046889,
-    "lng": -4.738566899999999
+    "lng": -4.738566899999999,
+    "id": "7546ac30-5cba-4329-b49d-6ef30506731c"
   },
   {
     "title": "Arran Citizens Advice Bureau (NACAS)",
@@ -69,7 +77,8 @@
     "phone": "01294 608 147",
     "hours": "",
     "lat": 55.5772177,
-    "lng": -5.152120399999999
+    "lng": -5.152120399999999,
+    "id": "b5dd79cd-6b49-4f97-8c70-8106a8fd6212"
   },
   {
     "title": "Banff and Buchan Citizens Advice Bureau",
@@ -77,7 +86,8 @@
     "phone": "01779 471515",
     "hours": "",
     "lat": 57.5047776,
-    "lng": -1.7769888
+    "lng": -1.7769888,
+    "id": "72b7cc89-b147-4e8e-ac81-b112428c32d2"
   },
   {
     "title": "Barra Citizens Advice Bureau (Western Isles)",
@@ -85,7 +95,8 @@
     "phone": "01871 810608",
     "hours": "",
     "lat": 56.9552008,
-    "lng": -7.489373199999999
+    "lng": -7.489373199999999,
+    "id": "dc6b9656-29b3-4c9b-9672-534e67d71887"
   },
   {
     "title": "Bellshill Citizens Advice Bureau",
@@ -93,7 +104,8 @@
     "phone": "01698 748615",
     "hours": "",
     "lat": 55.8184733,
-    "lng": -4.0257939
+    "lng": -4.0257939,
+    "id": "a2b7d5d5-fd01-4353-a8be-3aceebb191d2"
   },
   {
     "title": "Caithness Citizens Advice Bureau",
@@ -101,7 +113,8 @@
     "phone": "01847 894243",
     "hours": "",
     "lat": 58.59550280000001,
-    "lng": -3.5198997
+    "lng": -3.5198997,
+    "id": "7d04db02-c5c5-4161-8b7b-5929ae2046f5"
   },
   {
     "title": "Caithness Citizens Advice Bureau Wick Extension",
@@ -109,7 +122,8 @@
     "phone": "01955 605989",
     "hours": "",
     "lat": 58.4426405,
-    "lng": -3.0900055
+    "lng": -3.0900055,
+    "id": "1f6334a9-3f52-4ddd-9e60-c46fe05eddcc"
   },
   {
     "title": "Castle Douglas Citizens Advice Bureau (DAGCAS)",
@@ -117,7 +131,8 @@
     "phone": "0300 303 4321",
     "hours": "",
     "lat": 54.9392795,
-    "lng": -3.932960899999999
+    "lng": -3.932960899999999,
+    "id": "05e60f20-5601-47a8-b183-e6c76f532a21"
   },
   {
     "title": "Central Borders Citizens Advice Bureau",
@@ -125,7 +140,8 @@
     "phone": "01896 753889",
     "hours": "",
     "lat": 55.6185398,
-    "lng": -2.811775
+    "lng": -2.811775,
+    "id": "ca04da6b-850f-4035-9c4c-b4f973f70980"
   },
   {
     "title": "Citizens Advice and Rights Fife (CARF) - Cowdenbeath",
@@ -133,7 +149,8 @@
     "phone": "0345 1400 095",
     "hours": "",
     "lat": 56.1098144,
-    "lng": -3.3431333
+    "lng": -3.3431333,
+    "id": "4239eda5-25d5-46a9-90c1-b03fd21abc35"
   },
   {
     "title": "Citizens Advice and Rights Fife (CARF) - Cupar",
@@ -141,7 +158,8 @@
     "phone": "0345 1400 095",
     "hours": "",
     "lat": 56.3194962,
-    "lng": -3.0103638
+    "lng": -3.0103638,
+    "id": "49f8f6d5-0274-474f-829d-84f92673f235"
   },
   {
     "title": "Citizens Advice and Rights Fife (CARF) - Dunfermline",
@@ -149,7 +167,8 @@
     "phone": "0345 1400 095",
     "hours": "",
     "lat": 56.069997,
-    "lng": -3.4607091
+    "lng": -3.4607091,
+    "id": "771a583e-05b3-4ddd-9013-b6697349f24f"
   },
   {
     "title": "Citizens Advice and Rights Fife (CARF) - Glenrothes",
@@ -157,7 +176,8 @@
     "phone": "0345 1400 095",
     "hours": "",
     "lat": 56.1893429,
-    "lng": -3.1844721
+    "lng": -3.1844721,
+    "id": "3f34a89b-b08e-485c-9146-4c92169dfe7b"
   },
   {
     "title": "Citizens Advice and Rights Fife (CARF) - Kirkcaldy",
@@ -165,7 +185,8 @@
     "phone": "0345 1400 095",
     "hours": "",
     "lat": 56.11117119999999,
-    "lng": -3.1639852
+    "lng": -3.1639852,
+    "id": "8fcccbd5-1f34-4f89-9b7f-adaf4417b549"
   },
   {
     "title": "Citizens Advice and Rights Fife (CARF) - Leven",
@@ -173,7 +194,8 @@
     "phone": "0345 1400 095",
     "hours": "",
     "lat": 56.170838,
-    "lng": -3.0383031
+    "lng": -3.0383031,
+    "id": "692be951-f991-4e1a-b8dc-7313b60e10e9"
   },
   {
     "title": "Citizens Advice Bureau West Lothian",
@@ -181,7 +203,8 @@
     "phone": "01506 444814",
     "hours": "",
     "lat": 55.8966532,
-    "lng": -3.4972636
+    "lng": -3.4972636,
+    "id": "d547d683-3da6-419b-a77b-15de065e7b67"
   },
   {
     "title": "Citizens Advice Direct",
@@ -189,7 +212,8 @@
     "phone": "0808 800 9060",
     "hours": "",
     "lat": 55.85849109999999,
-    "lng": -4.247635799999999
+    "lng": -4.247635799999999,
+    "id": "aa7425cf-48f5-474f-870a-887d117c9f99"
   },
   {
     "title": "Citizens Advice Edinburgh - Dundas Street Citizens Advice Bureau",
@@ -197,7 +221,8 @@
     "phone": "0131 555 3907",
     "hours": "",
     "lat": 55.95809,
-    "lng": -3.2000949
+    "lng": -3.2000949,
+    "id": "e28ba8d7-da7c-4f57-8a97-3a28db685ce4"
   },
   {
     "title": "Citizens Advice Edinburgh - Gorgie/Dalry Citizens Advice Bureau",
@@ -205,7 +230,8 @@
     "phone": "0131 555 3907",
     "hours": "",
     "lat": 55.9402762,
-    "lng": -3.2183327
+    "lng": -3.2183327,
+    "id": "d86a600f-609e-42d5-819f-e28954d6d7a9"
   },
   {
     "title": "Citizens Advice Edinburgh - Leith Citizens Advice Bureau",
@@ -213,7 +239,8 @@
     "phone": "0131 555 3907",
     "hours": "",
     "lat": 55.9757843,
-    "lng": -3.1672877
+    "lng": -3.1672877,
+    "id": "cabdfee8-acfb-4e22-b619-b7f8f6e38535"
   },
   {
     "title": "Citizens Advice Edinburgh - Pilton Citizens Advice Bureau",
@@ -221,7 +248,8 @@
     "phone": "0131 555 3907",
     "hours": "",
     "lat": 55.9675161,
-    "lng": -3.2455201
+    "lng": -3.2455201,
+    "id": "efe106b0-24f9-43dc-88d7-da9d6991951b"
   },
   {
     "title": "Citizens Advice Edinburgh - Portobello Citizens Advice Bureau",
@@ -229,7 +257,8 @@
     "phone": "0131 555 3907",
     "hours": "",
     "lat": 55.9533474,
-    "lng": -3.1137855
+    "lng": -3.1137855,
+    "id": "24a48fdd-68d9-4124-ac55-c8803af9b470"
   },
   {
     "title": "Clackmannanshire Citizens Advice Bureau",
@@ -237,7 +266,8 @@
     "phone": "01259 219404",
     "hours": "",
     "lat": 56.1161913,
-    "lng": -3.793483999999999
+    "lng": -3.793483999999999,
+    "id": "e00ab932-4160-455d-a487-a8aaa1a49696"
   },
   {
     "title": "Clydesdale Citizens Advice Bureau",
@@ -245,7 +275,8 @@
     "phone": "01555 664 301",
     "hours": "",
     "lat": 55.6740258,
-    "lng": -3.7802904
+    "lng": -3.7802904,
+    "id": "db91f640-c85f-4c97-8493-16fb5e0a0e34"
   },
   {
     "title": "Coatbridge Citizens Advice Bureau",
@@ -253,7 +284,8 @@
     "phone": "01236 421447",
     "hours": "",
     "lat": 55.8612627,
-    "lng": -4.0286997
+    "lng": -4.0286997,
+    "id": "c9600eda-d142-4b99-82bb-1fd2a227619e"
   },
   {
     "title": "Cumbernauld Citizens Advice Bureau",
@@ -261,7 +293,8 @@
     "phone": "01236 735165",
     "hours": "",
     "lat": 55.9468624,
-    "lng": -3.9907348
+    "lng": -3.9907348,
+    "id": "7e09a502-997d-401d-8ac5-f78b967ee829"
   },
   {
     "title": "Dalkeith and District Citizens Advice Bureau",
@@ -269,7 +302,8 @@
     "phone": "0131 660 1636",
     "hours": "",
     "lat": 55.8928767,
-    "lng": -3.0714093
+    "lng": -3.0714093,
+    "id": "de5a9adb-13c7-4a8e-aa3a-b456ea551b55"
   },
   {
     "title": "Denny and Dunipace Citizens Advice Bureau",
@@ -277,7 +311,8 @@
     "phone": "01324 485290",
     "hours": "",
     "lat": 56.0230711,
-    "lng": -3.9088867
+    "lng": -3.9088867,
+    "id": "c5814777-1f92-455f-9b34-0920f2b9cd3d"
   },
   {
     "title": "Dumfries Citizens Advice Bureau (DAGCAS)",
@@ -285,7 +320,8 @@
     "phone": "0300 303 4321",
     "hours": "",
     "lat": 55.0672297,
-    "lng": -3.6114505
+    "lng": -3.6114505,
+    "id": "167c9f8d-755d-4ab5-b4b3-adcc7af96cb2"
   },
   {
     "title": "Dundee Citizens Advice Bureau",
@@ -293,7 +329,8 @@
     "phone": "01382 431581",
     "hours": "",
     "lat": 56.4638925,
-    "lng": -2.9694461
+    "lng": -2.9694461,
+    "id": "210ce462-58bf-4c65-b2ce-154cd9abe9da"
   },
   {
     "title": "East Ayrshire CAB - Cumnock Extension",
@@ -301,7 +338,8 @@
     "phone": "01290 429500",
     "hours": "",
     "lat": 55.45442389999999,
-    "lng": -4.2621638
+    "lng": -4.2621638,
+    "id": "ef9f327d-d57b-47b5-81e1-9d83e3b5db2d"
   },
   {
     "title": "East Ayrshire Citizens Advice Bureau",
@@ -309,7 +347,8 @@
     "phone": "01563 544744",
     "hours": "",
     "lat": 55.61016799999999,
-    "lng": -4.4991595
+    "lng": -4.4991595,
+    "id": "1ef49a6b-efc9-4b24-9466-4a079e5cc546"
   },
   {
     "title": "East Dunbartonshire CAB - Bishopbriggs Outreach",
@@ -317,7 +356,8 @@
     "phone": "0141 563 0220",
     "hours": "",
     "lat": 55.903352,
-    "lng": -4.2226129
+    "lng": -4.2226129,
+    "id": "8fde0339-8164-498c-bee4-fc0c2e65870b"
   },
   {
     "title": "East Dunbartonshire Citizens Advice Bureau",
@@ -325,7 +365,8 @@
     "phone": "0141 775 3220",
     "hours": "",
     "lat": 55.9381408,
-    "lng": -4.155945099999999
+    "lng": -4.155945099999999,
+    "id": "75ceb56c-a17b-430c-8f46-ba4db12cb3d2"
   },
   {
     "title": "East Kilbride Citizens Advice Bureau",
@@ -333,7 +374,8 @@
     "phone": "01355 263698",
     "hours": "",
     "lat": 55.7603344,
-    "lng": -4.1737161
+    "lng": -4.1737161,
+    "id": "050da183-dead-4525-a685-65f92435faf2"
   },
   {
     "title": "East Renfrewshire Citizens Advice Bureau",
@@ -341,7 +383,8 @@
     "phone": "0141 881 2032",
     "hours": "",
     "lat": 55.8015643,
-    "lng": -4.3872873
+    "lng": -4.3872873,
+    "id": "f1b32460-99c4-4719-b6a8-e44b3d16a0c0"
   },
   {
     "title": "East Sutherland Citizens Advice Bureau",
@@ -349,7 +392,8 @@
     "phone": "01408 634410",
     "hours": "",
     "lat": 57.9722735,
-    "lng": -3.9827167
+    "lng": -3.9827167,
+    "id": "ccc73c1c-426f-437d-9b2d-e91239891b77"
   },
   {
     "title": "Falkirk Citizens Advice Bureau",
@@ -357,7 +401,8 @@
     "phone": "01324 485290",
     "hours": "",
     "lat": 56.0008822,
-    "lng": -3.7841002
+    "lng": -3.7841002,
+    "id": "5d96aacc-9340-4d44-8273-c4a831ff0d31"
   },
   {
     "title": "Glasgow - Bridgeton Citizens Advice Bureau",
@@ -365,7 +410,8 @@
     "phone": "0141 554 0336",
     "hours": "",
     "lat": 55.8478003,
-    "lng": -4.2265999
+    "lng": -4.2265999,
+    "id": "f828eb49-dc4f-4fbc-ad73-ff31cff00fe1"
   },
   {
     "title": "Glasgow - Castlemilk Citizens Advice Bureau",
@@ -373,7 +419,8 @@
     "phone": "0141 634 0338",
     "hours": "",
     "lat": 55.8072105,
-    "lng": -4.234699
+    "lng": -4.234699,
+    "id": "811099c3-5e6d-46cf-ad6e-02fe370717ae"
   },
   {
     "title": "Glasgow - Central Citizens Advice Bureau",
@@ -381,7 +428,8 @@
     "phone": "07539 952 655",
     "hours": "",
     "lat": 55.8575752,
-    "lng": -4.243297399999999
+    "lng": -4.243297399999999,
+    "id": "0ba85379-e906-4b86-8c62-c28935d16217"
   },
   {
     "title": "Glasgow - Drumchapel Citizens Advice Bureau",
@@ -389,7 +437,8 @@
     "phone": "0141 944 7398",
     "hours": "",
     "lat": 55.9084595,
-    "lng": -4.3750212
+    "lng": -4.3750212,
+    "id": "0c686436-de02-4d92-8dc7-26c97bb7c5bb"
   },
   {
     "title": "Glasgow - Easterhouse Citizens Advice Bureau",
@@ -397,7 +446,8 @@
     "phone": "0141 771 2328",
     "hours": "",
     "lat": 55.8677966,
-    "lng": -4.1230551
+    "lng": -4.1230551,
+    "id": "56c1ddbf-0fb5-4db4-8fb1-fc5b588a2532"
   },
   {
     "title": "Glasgow - Greater Pollok Citizens Advice Bureau",
@@ -405,7 +455,8 @@
     "phone": "0141 876 4401",
     "hours": "",
     "lat": 55.8229524,
-    "lng": -4.3455998
+    "lng": -4.3455998,
+    "id": "b3126c66-1b09-4775-bdac-10da6dea2ba3"
   },
   {
     "title": "Glasgow - Maryhill & Possilpark CAB - Possilpark Office",
@@ -413,7 +464,8 @@
     "phone": "0141 336 3405",
     "hours": "",
     "lat": 55.8820387,
-    "lng": -4.253980400000001
+    "lng": -4.253980400000001,
+    "id": "b590426b-8154-45b1-8d17-c562f06cc281"
   },
   {
     "title": "Glasgow - Maryhill and Possilpark Citizens Advice Bureau",
@@ -421,7 +473,8 @@
     "phone": "0141 946 6373",
     "hours": "",
     "lat": 55.8851251,
-    "lng": -4.2823062
+    "lng": -4.2823062,
+    "id": "c223779a-d18d-4544-8162-49e79069ad54"
   },
   {
     "title": "Glasgow - Parkhead Citizens Advice Bureau",
@@ -429,7 +482,8 @@
     "phone": "0141 554 0004",
     "hours": "",
     "lat": 55.8522463,
-    "lng": -4.1998182
+    "lng": -4.1998182,
+    "id": "d0cd2b5a-27dc-4d1d-8d3b-d7b93b5afd4a"
   },
   {
     "title": "Grangemouth and Bo'ness Citizens Advice Bureau",
@@ -437,7 +491,8 @@
     "phone": "01324 485290",
     "hours": "",
     "lat": 56.01781889999999,
-    "lng": -3.7242684
+    "lng": -3.7242684,
+    "id": "6d0f4779-d3db-4630-aca0-49b3ad0fe52e"
   },
   {
     "title": "Haddington Citizens Advice Bureau",
@@ -445,7 +500,8 @@
     "phone": "01620 824471",
     "hours": "",
     "lat": 55.9559588,
-    "lng": -2.7812391
+    "lng": -2.7812391,
+    "id": "e03fcdbb-47a5-4c1b-b5a5-82fdaa64ba5d"
   },
   {
     "title": "Hamilton Citizens Advice Bureau",
@@ -453,7 +509,8 @@
     "phone": "01698 283477",
     "hours": "",
     "lat": 55.7788839,
-    "lng": -4.0483221
+    "lng": -4.0483221,
+    "id": "9b63ac8f-c239-4ec6-a118-b6c0b9c707a8"
   },
   {
     "title": "Harris Citizens Advice Bureau (Western Isles)",
@@ -461,7 +518,8 @@
     "phone": "01859 502431",
     "hours": "",
     "lat": 57.89771409999999,
-    "lng": -6.798449100000001
+    "lng": -6.798449100000001,
+    "id": "6ea75339-4984-4480-9288-4d8aae0272d8"
   },
   {
     "title": "Inverness Badenoch and Strathspey Citizens Advice Bureau",
@@ -469,7 +527,8 @@
     "phone": "01463 237664",
     "hours": "",
     "lat": 57.4807265,
-    "lng": -4.2280107
+    "lng": -4.2280107,
+    "id": "aba2e538-2866-43c4-aa17-2f6bc734677a"
   },
   {
     "title": "Inverness Badenoch & Strathspey CAB - Aviemore Extension",
@@ -477,7 +536,8 @@
     "phone": "01479 810919",
     "hours": "",
     "lat": 57.18955589999999,
-    "lng": -3.8290538
+    "lng": -3.8290538,
+    "id": "69924b24-044f-49ea-bca5-306b23e60531"
   },
   {
     "title": "Inverness Badenoch & Strathspey CAB - Grantown-on-Spey Extension",
@@ -485,7 +545,8 @@
     "phone": "01479 810919",
     "hours": "",
     "lat": 57.3299171,
-    "lng": -3.6096264
+    "lng": -3.6096264,
+    "id": "5ecf97f4-29f6-4173-97ab-faa2ac9cdbcc"
   },
   {
     "title": "Inverness Badenoch & Strathspey CAB - Raigmore Hospital Extension",
@@ -493,7 +554,8 @@
     "phone": "01463 706014",
     "hours": "",
     "lat": 57.47432999999999,
-    "lng": -4.192495399999999
+    "lng": -4.192495399999999,
+    "id": "cd256fe7-9378-49c8-9abc-7e00d5eac221"
   },
   {
     "title": "Irvine Citizens Advice Bureau (NACAS)",
@@ -501,7 +563,8 @@
     "phone": "01294 608 147",
     "hours": "",
     "lat": 55.6171944,
-    "lng": -4.6684287
+    "lng": -4.6684287,
+    "id": "7ba7fee9-280e-4033-8d67-b3809ea428ea"
   },
   {
     "title": "Kilbirnie Citizens Advice Bureau (NACAS)",
@@ -509,7 +572,8 @@
     "phone": "01294 608 147",
     "hours": "",
     "lat": 55.75499420000001,
-    "lng": -4.685559899999999
+    "lng": -4.685559899999999,
+    "id": "2305088a-e842-45d4-bcef-7878cb451454"
   },
   {
     "title": "Kincardine and Mearns Citizens Advice Bureau",
@@ -517,7 +581,8 @@
     "phone": "01569 766 578",
     "hours": "",
     "lat": 56.9629497,
-    "lng": -2.208823
+    "lng": -2.208823,
+    "id": "4e9842bc-7b3a-44c8-bb54-b8cd1bd9fe3e"
   },
   {
     "title": "Largs Citizens Advice Bureau (NACAS)",
@@ -525,7 +590,8 @@
     "phone": "01294 608 147",
     "hours": "",
     "lat": 55.7961554,
-    "lng": -4.866681199999999
+    "lng": -4.866681199999999,
+    "id": "f44b84db-4705-4cb4-87d0-7ec560835b70"
   },
   {
     "title": "Lewis Citizens Advice Bureau (Western Isles)",
@@ -533,7 +599,8 @@
     "phone": "01851 705727",
     "hours": "",
     "lat": 58.2154924,
-    "lng": -6.3818457
+    "lng": -6.3818457,
+    "id": "88905b48-61ad-4c8c-b811-c4c2cdb117e5"
   },
   {
     "title": "Lochaber Citizens Advice Bureau",
@@ -541,7 +608,8 @@
     "phone": "01397 705311",
     "hours": "",
     "lat": 56.81834809999999,
-    "lng": -5.1083136
+    "lng": -5.1083136,
+    "id": "d8d31ec5-9a49-4f2a-8f15-2290225c51f3"
   },
   {
     "title": "Moray Citizens Advice Bureau",
@@ -549,7 +617,8 @@
     "phone": "01343 550088",
     "hours": "",
     "lat": 57.6477552,
-    "lng": -3.3164207
+    "lng": -3.3164207,
+    "id": "25d212ed-7d96-457b-a2fc-14a55bd312d3"
   },
   {
     "title": "Motherwell and Wishaw Citizens Advice Bureau",
@@ -557,7 +626,8 @@
     "phone": "01698 265349",
     "hours": "",
     "lat": 55.7847424,
-    "lng": -3.983301499999999
+    "lng": -3.983301499999999,
+    "id": "818bda02-543c-4a8f-9eb4-69178e787596"
   },
   {
     "title": "Musselburgh & District Citizens Advice Bureau",
@@ -565,7 +635,8 @@
     "phone": "0131 653 2748",
     "hours": "",
     "lat": 55.9424639,
-    "lng": -3.0517583
+    "lng": -3.0517583,
+    "id": "1e2f4e66-20be-4852-9911-11b94144dbce"
   },
   {
     "title": "Nairn Citizens Advice Bureau",
@@ -573,7 +644,8 @@
     "phone": "01667 456677",
     "hours": "",
     "lat": 57.5837982,
-    "lng": -3.8704429
+    "lng": -3.8704429,
+    "id": "2924c6b3-f4b6-408c-ace2-084437a9943f"
   },
   {
     "title": "North and West Sutherland Citizens Advice Bureau",
@@ -581,7 +653,8 @@
     "phone": "01971 521 730",
     "hours": "",
     "lat": 58.4585297,
-    "lng": -5.0523766
+    "lng": -5.0523766,
+    "id": "1e1d1b46-fe65-4131-8512-8df2c68b920e"
   },
   {
     "title": "Orkney Citizens Advice Bureau",
@@ -589,7 +662,8 @@
     "phone": "01856 875266",
     "hours": "",
     "lat": 58.98419080000001,
-    "lng": -2.9583093
+    "lng": -2.9583093,
+    "id": "d224e094-11ec-4949-b613-135d53035c56"
   },
   {
     "title": "Peebles and District Citizens Advice Bureau",
@@ -597,7 +671,8 @@
     "phone": "01721 721722",
     "hours": "",
     "lat": 55.65160479999999,
-    "lng": -3.1904812
+    "lng": -3.1904812,
+    "id": "3f963bc4-9b22-4d51-8fa8-ddc36d987c77"
   },
   {
     "title": "Penicuik Citizens Advice Bureau",
@@ -605,7 +680,8 @@
     "phone": "01968 675259",
     "hours": "",
     "lat": 55.8275076,
-    "lng": -3.2224102
+    "lng": -3.2224102,
+    "id": "3de41c57-6fec-45f4-acc9-8610eca1de3a"
   },
   {
     "title": "Perth Citizens Advice Bureau",
@@ -613,7 +689,8 @@
     "phone": "01738 450596",
     "hours": "",
     "lat": 56.3991803,
-    "lng": -3.4313131
+    "lng": -3.4313131,
+    "id": "70710524-824d-4e22-a2c1-c0a0c94ba79d"
   },
   {
     "title": "Renfrewshire Citizens Advice Bureau",
@@ -621,7 +698,8 @@
     "phone": "0141 375 7328",
     "hours": "",
     "lat": 55.8421724,
-    "lng": -4.430813
+    "lng": -4.430813,
+    "id": "a0256c3a-6a60-4acd-b2dd-8b339c8ed75a"
   },
   {
     "title": "Ross and Cromarty Citizens Advice Bureau",
@@ -629,7 +707,8 @@
     "phone": "01349 883333",
     "hours": "",
     "lat": 57.69628319999999,
-    "lng": -4.2597897
+    "lng": -4.2597897,
+    "id": "982a0299-3f39-45f9-abc3-61ce0add30b6"
   },
   {
     "title": "Roxburgh and Berwickshire Citizens Advice Bureau",
@@ -637,7 +716,8 @@
     "phone": "01450 374266",
     "hours": "",
     "lat": 55.42135709999999,
-    "lng": -2.7874585
+    "lng": -2.7874585,
+    "id": "76557407-0fb2-4b94-a6a8-67f6e34d207e"
   },
   {
     "title": "Rutherglen and Cambuslang Citizens Advice Bureau",
@@ -645,7 +725,8 @@
     "phone": "0141 646 3191",
     "hours": "",
     "lat": 55.8188938,
-    "lng": -4.165875
+    "lng": -4.165875,
+    "id": "4ab008a6-72d5-4b36-b683-48eb0c527beb"
   },
   {
     "title": "Saltcoats Citizens Advice Bureau (NACAS)",
@@ -653,7 +734,8 @@
     "phone": "01294 608 147",
     "hours": "",
     "lat": 55.63292810000001,
-    "lng": -4.7871305
+    "lng": -4.7871305,
+    "id": "793e1b97-429d-4a6e-806c-ec07f5984211"
   },
   {
     "title": "Shetland Islands Citizens Advice Bureau",
@@ -661,7 +743,8 @@
     "phone": "01595 744596",
     "hours": "",
     "lat": 60.15555860000001,
-    "lng": -1.1461098
+    "lng": -1.1461098,
+    "id": "1f82d904-a323-4af5-83f3-33943141e1d4"
   },
   {
     "title": "Skye and Lochalsh Citizens Advice Bureau",
@@ -669,7 +752,8 @@
     "phone": "01478 612032",
     "hours": "",
     "lat": 57.41256139999999,
-    "lng": -6.194899800000001
+    "lng": -6.194899800000001,
+    "id": "7007f2be-d1c0-4dbe-a6fe-737b8d2e8bd0"
   },
   {
     "title": "South West Aberdeenshire Citizens Advice Bureau",
@@ -677,7 +761,8 @@
     "phone": "01224 747714",
     "hours": "",
     "lat": 57.15401499999999,
-    "lng": -2.27843
+    "lng": -2.27843,
+    "id": "3530de46-c1a3-4b9b-99f1-51d3878068bb"
   },
   {
     "title": "Stirling District Citizens Advice Bureau Ltd",
@@ -685,7 +770,8 @@
     "phone": "01786 470239",
     "hours": "",
     "lat": 56.11633930000001,
-    "lng": -3.9355092
+    "lng": -3.9355092,
+    "id": "d566c947-1b34-4b89-b55a-6d5aaff8385a"
   },
   {
     "title": "Stranraer Citizens Advice Bureau (DAGCAS)",
@@ -693,7 +779,8 @@
     "phone": "0300 303 4321",
     "hours": "",
     "lat": 54.9029482,
-    "lng": -5.0270678
+    "lng": -5.0270678,
+    "id": "ced01a69-7a4d-4bac-a6b5-28c1c5c31679"
   },
   {
     "title": "Turriff and District Citizens Advice Bureau",
@@ -701,7 +788,8 @@
     "phone": "01888 562 495",
     "hours": "",
     "lat": 57.5398496,
-    "lng": -2.4637553
+    "lng": -2.4637553,
+    "id": "562f5626-5e9d-43bf-86de-cca89ecb310e"
   },
   {
     "title": "Uist Citizens Advice Bureau (Western Isles)",
@@ -709,7 +797,8 @@
     "phone": "01870 602421",
     "hours": "",
     "lat": 57.4731067,
-    "lng": -7.388172699999999
+    "lng": -7.388172699999999,
+    "id": "b88818f2-3ab9-4a04-a51a-e416a1af0ad3"
   },
   {
     "title": "West Dunbartonshire Citizens Advice Bureau",
@@ -717,7 +806,8 @@
     "phone": "01389 744 693",
     "hours": "",
     "lat": 55.9431376,
-    "lng": -4.570066499999999
+    "lng": -4.570066499999999,
+    "id": "14d99fda-8707-4543-94dc-737fad7d8a1e"
   },
   {
     "title": "West Dunbartonshire CAB - Clydebank Extension",
@@ -725,6 +815,7 @@
     "phone": "01389 744 693",
     "hours": "",
     "lat": 55.90205479999999,
-    "lng": -4.4058514
+    "lng": -4.4058514,
+    "id": "1309ee8b-c6a1-4277-bc12-a96c5b8fca79"
   }
 ]

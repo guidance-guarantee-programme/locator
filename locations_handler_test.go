@@ -12,6 +12,7 @@ var geoJSON = []byte(`
   "features": [
     {
       "type": "Feature",
+      "id": "2554b26e-6683-4de9-9b4f-f32d8e60cfb0",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -44,6 +45,10 @@ func TestParseLocationsFromJson(t *testing.T) {
 	}
 
 	location = locations[0]
+
+	if location.Id != "2554b26e-6683-4de9-9b4f-f32d8e60cfb0" {
+		t.Error("Location id should be set")
+	}
 
 	if location.Title != "Antrim Citizens Advice Bureau" {
 		t.Error("Location title should be set")
