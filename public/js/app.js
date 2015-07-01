@@ -94,7 +94,7 @@ function placeMarkers() {
 
     var elements = [
       '<b>', l['title'], '</b>',
-      '<p>', l['address'], '</p>'
+      '<p>', l['address'].replace(/(?:\r\n|\r|\n)/g, '<br />'), '</p>'
     ];
 
     if(l['booking_centre'] && l['booking_centre'] != l['title']) {
