@@ -94,7 +94,7 @@ function placeMarkers() {
 
     var elements = [
       '<b>', l['title'], '</b>',
-      '<p>', l['address'], '</p>'
+      '<p>', l['address'].replace(/(?:\r\n|\r|\n)/g, '<br />'), '</p>'
     ];
 
     if(l['booking_centre'] && l['booking_centre'] != l['title']) {
@@ -105,7 +105,7 @@ function placeMarkers() {
     }
 
     elements.push(
-      '<p>', l['hours'], '</p>',
+      '<p>', l['hours'].replace(/(?:\r\n|\r|\n)/g, '<br />'), '</p>',
       l['phone']
     );
 

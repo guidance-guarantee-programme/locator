@@ -1,7 +1,7 @@
 [
   {
-    "title": "Aberdeen Citizens Advice Bureau",
-    "address": "41 Union Street, Aberdeen, AB11 5BN",
+    "title": "Aberdeen Citizens Advice",
+    "address": "41 Union Street\nAberdeen\nAB11 5BN",
     "phone": "01224 569 750",
     "hours": "",
     "lat": 57.14722339999999,
@@ -9,8 +9,8 @@
     "id": "c002c214-7a39-4ff2-b21f-a4f3b45b14a1"
   },
   {
-    "title": "Airdrie Citizens Advice Bureau",
-    "address": "Resource Centre, 14 Anderson Street, Airdrie, ML6 0AA",
+    "title": "Airdrie Citizens Advice",
+    "address": "Resource Centre\n14 Anderson Street\nAirdrie\nML6 0AA",
     "phone": "01236 754 109",
     "hours": "",
     "lat": 55.8669483,
@@ -18,8 +18,8 @@
     "id": "ead14905-96be-4032-bdf5-2e076efb27bc"
   },
   {
-    "title": "Angus Citizens Advice Bureau - Arbroath",
-    "address": "11 Millgate, Arbroath, DD11 1NN",
+    "title": "Arbroath Citizens Advice",
+    "address": "11 Millgate\nArbroath\nDD11 1NN",
     "phone": "01241 870661 ext 25",
     "hours": "",
     "lat": 56.5581472,
@@ -27,8 +27,8 @@
     "id": "c55496a1-2c34-4ddb-a2e7-5e18367ce256"
   },
   {
-    "title": "Angus Citizens Advice Bureau - Forfar",
-    "address": "19 Queen Street, Forfar, DD8 3AJ",
+    "title": "Forfar Citizens Advice",
+    "address": "19 Queen Street\nForfar\nDD8 3AJ",
     "phone": "01241 870661 ext 25",
     "hours": "",
     "lat": 56.645145,
@@ -36,8 +36,8 @@
     "id": "0e57a050-bd51-42f7-bedf-65df38b8e26e"
   },
   {
-    "title": "Angus Citizens Advice Bureau - Montrose",
-    "address": "32 Castle Street, Montrose, DD10 8AG",
+    "title": "Montrose Citizens Advice",
+    "address": "32 Castle Street\nMontrose\nDD10 8AG",
     "phone": "01241 870661 ext 25",
     "hours": "",
     "lat": 56.708893,
@@ -45,8 +45,8 @@
     "id": "18bfeb4e-3b8b-4dd6-adc6-5351ec54ef71"
   },
   {
-    "title": "Annan Citizens Advice Bureau (DAGCAS)",
-    "address": "19a Bank Street, Annan, DG12 6AA",
+    "title": "Annan Citizens Advice",
+    "address": "19a Bank Street\nAnnan\nDG12 6AA",
     "phone": "0300 303 4321",
     "hours": "",
     "lat": 54.9869107,
@@ -54,8 +54,8 @@
     "id": "37516769-0325-430d-a7f6-e40f4ebd8e10"
   },
   {
-    "title": "Argyll and Bute Citizens Advice Bureau",
-    "address": "Riverside, Oban Road, Lochgilphead, PA31 8NG",
+    "title": "Lochgilphead Citizens Advice",
+    "address": "Riverside\nOban Road\nLochgilphead\nPA31 8NG",
     "phone": "08456 123808",
     "hours": "",
     "lat": 56.0438038,
@@ -63,8 +63,8 @@
     "id": "e50a0813-d8bc-422b-b0f0-0850992f5ba4"
   },
   {
-    "title": "Argyll and Bute Citizens Advice Bureau Helensburgh",
-    "address": "65-67 West Princes Street, Helensburgh, G84 8BN",
+    "title": "Helensburgh Citizens Advice",
+    "address": "65-67 West Princes Street\nHelensburgh\nG84 8BN",
     "phone": "08456 123808",
     "hours": "",
     "lat": 56.0046889,
@@ -72,8 +72,8 @@
     "id": "7546ac30-5cba-4329-b49d-6ef30506731c"
   },
   {
-    "title": "Arran Citizens Advice Bureau (NACAS)",
-    "address": "Ormidale Sports Centre, Shore Road, Brodick, KA27 8DL",
+    "title": "Arran Citizens Advice",
+    "address": "Ormidale Sports Centre\nShore Road\nBrodick\nKA27 8DL",
     "phone": "01294 608 147",
     "hours": "",
     "lat": 55.5772177,
@@ -81,8 +81,8 @@
     "id": "b5dd79cd-6b49-4f97-8c70-8106a8fd6212"
   },
   {
-    "title": "Banff and Buchan Citizens Advice Bureau",
-    "address": "Townhouse, Broad Street, Peterhead, AB42 1BY",
+    "title": "Banff and Buchan Citizens Advice",
+    "address": "Townhouse\nBroad Street\nPeterhead\nAB42 1BY",
     "phone": "01779 471515",
     "hours": "",
     "lat": 57.5047776,
@@ -90,8 +90,8 @@
     "id": "72b7cc89-b147-4e8e-ac81-b112428c32d2"
   },
   {
-    "title": "Barra Citizens Advice Bureau (Western Isles)",
-    "address": "Castlebay, Isle of Barra, HS9 5XD",
+    "title": "Barra Citizens Advice",
+    "address": "Castlebay\nIsle of Barra\nHS9 5XD",
     "phone": "01871 810608",
     "hours": "",
     "lat": 56.9552008,
@@ -99,8 +99,8 @@
     "id": "dc6b9656-29b3-4c9b-9672-534e67d71887"
   },
   {
-    "title": "Bellshill Citizens Advice Bureau",
-    "address": "6 Hamilton Road, Bellshill, ML4 1AQ",
+    "title": "Bellshill Citizens Advice",
+    "address": "6 Hamilton Road\nBellshill\nML4 1AQ",
     "phone": "01698 748615",
     "hours": "",
     "lat": 55.8184733,
@@ -108,8 +108,8 @@
     "id": "a2b7d5d5-fd01-4353-a8be-3aceebb191d2"
   },
   {
-    "title": "Caithness Citizens Advice Bureau",
-    "address": "1A Beach Court, Thurso, KW14 8AD",
+    "title": "Thurso Citizens Advice",
+    "address": "1A Beach Court\nThurso\nKW14 8AD",
     "phone": "01847 894243",
     "hours": "",
     "lat": 58.59550280000001,
@@ -117,8 +117,8 @@
     "id": "7d04db02-c5c5-4161-8b7b-5929ae2046f5"
   },
   {
-    "title": "Caithness Citizens Advice Bureau Wick Extension",
-    "address": "123 High Street, Wick, KW1 4LR",
+    "title": "Wick Citizens Advice",
+    "address": "123 High Street\nWick\nKW1 4LR",
     "phone": "01955 605989",
     "hours": "",
     "lat": 58.4426405,
@@ -126,8 +126,8 @@
     "id": "1f6334a9-3f52-4ddd-9e60-c46fe05eddcc"
   },
   {
-    "title": "Castle Douglas Citizens Advice Bureau (DAGCAS)",
-    "address": "3 St Andrew Street, Castle Douglas, DG7 1DE",
+    "title": "Castle Douglas Citizens Advice",
+    "address": "3 St Andrew Street\nCastle Douglas\nDG7 1DE",
     "phone": "0300 303 4321",
     "hours": "",
     "lat": 54.9392795,
@@ -135,8 +135,8 @@
     "id": "05e60f20-5601-47a8-b183-e6c76f532a21"
   },
   {
-    "title": "Central Borders Citizens Advice Bureau",
-    "address": "111 High Street, Galashiels, TD1 1RZ",
+    "title": "Central Borders Citizens Advice",
+    "address": "111 High Street\nGalashiels\nTD1 1RZ",
     "phone": "01896 753889",
     "hours": "",
     "lat": 55.6185398,
@@ -144,8 +144,8 @@
     "id": "ca04da6b-850f-4035-9c4c-b4f973f70980"
   },
   {
-    "title": "Citizens Advice and Rights Fife (CARF) - Cowdenbeath",
-    "address": "322 High Street, Cowdenbeath, KY4 9NT",
+    "title": "Cowdenbeath Citizens Advice",
+    "address": "322 High Street\nCowdenbeath\nKY4 9NT",
     "phone": "0345 1400 095",
     "hours": "",
     "lat": 56.1098144,
@@ -153,8 +153,8 @@
     "id": "4239eda5-25d5-46a9-90c1-b03fd21abc35"
   },
   {
-    "title": "Citizens Advice and Rights Fife (CARF) - Cupar",
-    "address": "Local County buildings, St Catherine Street, Cupar, KY15 4TA",
+    "title": "Cupar Citizens Advice",
+    "address": "Local County buildings\nSt Catherine Street\nCupar\nKY15 4TA",
     "phone": "0345 1400 095",
     "hours": "",
     "lat": 56.3194962,
@@ -162,8 +162,8 @@
     "id": "49f8f6d5-0274-474f-829d-84f92673f235"
   },
   {
-    "title": "Citizens Advice and Rights Fife (CARF) - Dunfermline",
-    "address": "4 Abbey Park Place, Dunfermline, KY12 7PD",
+    "title": "Dunfermline Citizens Advice",
+    "address": "4 Abbey Park Place\nDunfermline\nKY12 7PD",
     "phone": "0345 1400 095",
     "hours": "",
     "lat": 56.069997,
@@ -171,8 +171,8 @@
     "id": "771a583e-05b3-4ddd-9013-b6697349f24f"
   },
   {
-    "title": "Citizens Advice and Rights Fife (CARF) - Glenrothes",
-    "address": "10 - 12 Pentland CourtSaltire Centre, Glenrothes, KY6 2DA",
+    "title": "Glenrothes Citizens Advice",
+    "address": "10 - 12 Pentland Court\nSaltire Centre\nGlenrothes\nKY6 2DA",
     "phone": "0345 1400 095",
     "hours": "",
     "lat": 56.1893429,
@@ -180,8 +180,8 @@
     "id": "3f34a89b-b08e-485c-9146-4c92169dfe7b"
   },
   {
-    "title": "Citizens Advice and Rights Fife (CARF) - Kirkcaldy",
-    "address": "15 Wemyssfield, Kirkcaldy, KY1 1XN",
+    "title": "Kirkcaldy Citizens Advice",
+    "address": "15 Wemyssfield\nKirkcaldy\nKY1 1XN",
     "phone": "0345 1400 095",
     "hours": "",
     "lat": 56.11117119999999,
@@ -189,8 +189,8 @@
     "id": "8fcccbd5-1f34-4f89-9b7f-adaf4417b549"
   },
   {
-    "title": "Citizens Advice and Rights Fife (CARF) - Leven",
-    "address": "The Adam Smith College,, Victoria Road, Leven, KY8 4RN",
+    "title": "Leven Citizens Advice",
+    "address": "The Adam Smith College\nVictoria Road\nLeven\nKY8 4RN",
     "phone": "0345 1400 095",
     "hours": "",
     "lat": 56.170838,
@@ -198,8 +198,8 @@
     "id": "692be951-f991-4e1a-b8dc-7313b60e10e9"
   },
   {
-    "title": "Citizens Advice Bureau West Lothian",
-    "address": "Unit 1, Almondbank Centre, Shiel Walk, Livingston, EH54 5EH",
+    "title": "West Lothian Citizens Advice",
+    "address": "Unit 1\nAlmondbank Centre\nShiel Walk\nLivingston\nEH54 5EH",
     "phone": "01506 444814",
     "hours": "",
     "lat": 55.8966532,
@@ -207,8 +207,8 @@
     "id": "d547d683-3da6-419b-a77b-15de065e7b67"
   },
   {
-    "title": "Citizens Advice Direct",
-    "address": "2nd Floor, Brunswick House, 51 Wilson Street, Glasgow, G1 1UZ",
+    "title": "Glasgow Citizens Advice",
+    "address": "2nd Floor\nBrunswick House\n51 Wilson Street\nGlasgow\nG1 1UZ",
     "phone": "0808 800 9060",
     "hours": "",
     "lat": 55.85849109999999,
@@ -216,8 +216,8 @@
     "id": "aa7425cf-48f5-474f-870a-887d117c9f99"
   },
   {
-    "title": "Citizens Advice Edinburgh - Dundas Street Citizens Advice Bureau",
-    "address": "58 Dundas Street, Edinburgh, EH3 6QZ",
+    "title": "Edinburgh (Dundas Street) Citizens Advice",
+    "address": "58 Dundas Street\nEdinburgh\nEH3 6QZ",
     "phone": "0131 555 3907",
     "hours": "",
     "lat": 55.95809,
@@ -225,8 +225,8 @@
     "id": "e28ba8d7-da7c-4f57-8a97-3a28db685ce4"
   },
   {
-    "title": "Citizens Advice Edinburgh - Gorgie/Dalry Citizens Advice Bureau",
-    "address": "Fountainbridge Library, 137 Dundee Street, Edinburgh, EH11 1BG",
+    "title": "Gorgie/Dalry Citizens Advice",
+    "address": "Fountainbridge Library\n137 Dundee Street\nEdinburgh\nEH11 1BG",
     "phone": "0131 555 3907",
     "hours": "",
     "lat": 55.9402762,
@@ -234,8 +234,8 @@
     "id": "d86a600f-609e-42d5-819f-e28954d6d7a9"
   },
   {
-    "title": "Citizens Advice Edinburgh - Leith Citizens Advice Bureau",
-    "address": "12 Bernard Street, Edinburgh, EH6 6PP",
+    "title": "Leith Citizens Advice",
+    "address": "12 Bernard Street\nEdinburgh\nEH6 6PP",
     "phone": "0131 555 3907",
     "hours": "",
     "lat": 55.9757843,
@@ -243,8 +243,8 @@
     "id": "cabdfee8-acfb-4e22-b619-b7f8f6e38535"
   },
   {
-    "title": "Citizens Advice Edinburgh - Pilton Citizens Advice Bureau",
-    "address": "661 Ferry Road, Edinburgh, EH4 2TX",
+    "title": "Pilton Citizens Advice",
+    "address": "661 Ferry Road\nEdinburgh\nEH4 2TX",
     "phone": "0131 555 3907",
     "hours": "",
     "lat": 55.9675161,
@@ -252,8 +252,8 @@
     "id": "efe106b0-24f9-43dc-88d7-da9d6991951b"
   },
   {
-    "title": "Citizens Advice Edinburgh - Portobello Citizens Advice Bureau",
-    "address": "8a - 8b Bath Street, Portobello, EH15 1EY",
+    "title": "Portobello Citizens Advice",
+    "address": "8a - 8b Bath Street\nPortobello\nEH15 1EY",
     "phone": "0131 555 3907",
     "hours": "",
     "lat": 55.9533474,
@@ -261,8 +261,8 @@
     "id": "24a48fdd-68d9-4124-ac55-c8803af9b470"
   },
   {
-    "title": "Clackmannanshire Citizens Advice Bureau",
-    "address": "47 Drysdale Street, Alloa, FK10 1JA",
+    "title": "Clackmannanshire Citizens Advice",
+    "address": "47 Drysdale Street\nAlloa\nFK10 1JA",
     "phone": "01259 219404",
     "hours": "",
     "lat": 56.1161913,
@@ -270,8 +270,8 @@
     "id": "e00ab932-4160-455d-a487-a8aaa1a49696"
   },
   {
-    "title": "Clydesdale Citizens Advice Bureau",
-    "address": "10 - 12 Wide Close, Lanark, ML11 7LX",
+    "title": "Clydesdale Citizens Advice",
+    "address": "10 - 12 Wide Close\nLanark\nML11 7LX",
     "phone": "01555 664 301",
     "hours": "",
     "lat": 55.6740258,
@@ -279,8 +279,8 @@
     "id": "db91f640-c85f-4c97-8493-16fb5e0a0e34"
   },
   {
-    "title": "Coatbridge Citizens Advice Bureau",
-    "address": "Unit 10, Fountain Business Centre, Ellis Street, Coatbridge, ML5 3AA",
+    "title": "Coatbridge Citizens Advice",
+    "address": "Unit 10\nFountain Business Centre\nEllis Street\nCoatbridge\nML5 3AA",
     "phone": "01236 421447",
     "hours": "",
     "lat": 55.8612627,
@@ -288,8 +288,8 @@
     "id": "c9600eda-d142-4b99-82bb-1fd2a227619e"
   },
   {
-    "title": "Cumbernauld Citizens Advice Bureau",
-    "address": "2 Annan House, 3rd Floor, Town Centre, Cumbernauld, G67 1DP",
+    "title": "Cumbernauld and Kilsyth Citizens Advice",
+    "address": "2 Annan House\n3rd Floor\nTown Centre\nCumbernauld\nG67 1DP",
     "phone": "01236 735165",
     "hours": "",
     "lat": 55.9468624,
@@ -297,8 +297,8 @@
     "id": "7e09a502-997d-401d-8ac5-f78b967ee829"
   },
   {
-    "title": "Dalkeith and District Citizens Advice Bureau",
-    "address": "8 Buccleuch Street, Dalkeith, EH22 1HA",
+    "title": "Dalkeith & District Citizens Advice",
+    "address": "8 Buccleuch Street\nDalkeith\nEH22 1HA",
     "phone": "0131 660 1636",
     "hours": "",
     "lat": 55.8928767,
@@ -306,8 +306,8 @@
     "id": "de5a9adb-13c7-4a8e-aa3a-b456ea551b55"
   },
   {
-    "title": "Denny and Dunipace Citizens Advice Bureau",
-    "address": "24 Duke Street, Denny, FK6 6DD",
+    "title": "Denny and Dunipace Citizens Advice",
+    "address": "24 Duke Street\nDenny\nFK6 6DD",
     "phone": "01324 485290",
     "hours": "",
     "lat": 56.0230711,
@@ -315,8 +315,8 @@
     "id": "c5814777-1f92-455f-9b34-0920f2b9cd3d"
   },
   {
-    "title": "Dumfries Citizens Advice Bureau (DAGCAS)",
-    "address": "81-85 Irish Street, Dumfries, DG1 2PQ",
+    "title": "Dumfries Citizens Advice",
+    "address": "81-85 Irish Street\nDumfries\nDG1 2PQ",
     "phone": "0300 303 4321",
     "hours": "",
     "lat": 55.0672297,
@@ -324,8 +324,8 @@
     "id": "167c9f8d-755d-4ab5-b4b3-adcc7af96cb2"
   },
   {
-    "title": "Dundee Citizens Advice Bureau",
-    "address": "Dundee Central Library, Level 4 Wellgate Centre, Dundee, DD1 2DB",
+    "title": "Dundee Citizens Advice",
+    "address": "Dundee Central Library\nLevel 4 Wellgate Centre\nDundee\nDD1 2DB",
     "phone": "01382 431581",
     "hours": "",
     "lat": 56.4638925,
@@ -333,8 +333,8 @@
     "id": "210ce462-58bf-4c65-b2ce-154cd9abe9da"
   },
   {
-    "title": "East Ayrshire CAB - Cumnock Extension",
-    "address": "77a Townhead Street, Cumnock, KA18 1LF",
+    "title": "Cumnock Citizens Advice",
+    "address": "77a Townhead Street\nCumnock\nKA18 1LF",
     "phone": "01290 429500",
     "hours": "",
     "lat": 55.45442389999999,
@@ -342,8 +342,8 @@
     "id": "ef9f327d-d57b-47b5-81e1-9d83e3b5db2d"
   },
   {
-    "title": "East Ayrshire Citizens Advice Bureau",
-    "address": "3 John Dickie Street, Kilmarnock, KA1 1HW",
+    "title": "Kilmarnock Citizens Advice",
+    "address": "3 John Dickie Street\nKilmarnock\nKA1 1HW",
     "phone": "01563 544744",
     "hours": "",
     "lat": 55.61016799999999,
@@ -351,8 +351,8 @@
     "id": "1ef49a6b-efc9-4b24-9466-4a079e5cc546"
   },
   {
-    "title": "East Dunbartonshire CAB - Bishopbriggs Outreach",
-    "address": "Unit 5, Springfield House,, Emerson Road, Bishopbriggs, G64 1QE",
+    "title": "Bishopbriggs Citizens Advice",
+    "address": "Unit 5\nSpringfield House,\nEmerson Road\nBishopbriggs\nG64 1QE",
     "phone": "0141 563 0220",
     "hours": "",
     "lat": 55.903352,
@@ -360,8 +360,8 @@
     "id": "8fde0339-8164-498c-bee4-fc0c2e65870b"
   },
   {
-    "title": "East Dunbartonshire Citizens Advice Bureau",
-    "address": "11 Alexandra Street, Kirkintilloch, G66 1HB",
+    "title": "Kirkintilloch Citizens Advice",
+    "address": "11 Alexandra Street\nKirkintilloch\nG66 1HB",
     "phone": "0141 775 3220",
     "hours": "",
     "lat": 55.9381408,
@@ -369,8 +369,8 @@
     "id": "75ceb56c-a17b-430c-8f46-ba4db12cb3d2"
   },
   {
-    "title": "East Kilbride Citizens Advice Bureau",
-    "address": "9 Olympia Way,Town Centre, East Kilbride, G74 1JT",
+    "title": "East Kilbride Citizens Advice",
+    "address": "9 Olympia Way\nTown Centre\nEast Kilbride\nG74 1JT",
     "phone": "01355 263698",
     "hours": "",
     "lat": 55.7603344,
@@ -378,8 +378,8 @@
     "id": "050da183-dead-4525-a685-65f92435faf2"
   },
   {
-    "title": "East Renfrewshire Citizens Advice Bureau",
-    "address": "216 Main Street, Barrhead, G78 1SN",
+    "title": "East Renfrewshire Citizens Advice",
+    "address": "216 Main Street\nBarrhead\nG78 1SN",
     "phone": "0141 881 2032",
     "hours": "",
     "lat": 55.8015643,
@@ -387,8 +387,8 @@
     "id": "f1b32460-99c4-4719-b6a8-e44b3d16a0c0"
   },
   {
-    "title": "East Sutherland Citizens Advice Bureau",
-    "address": "Station Road, Golspie, KW10 6SN",
+    "title": "Golspie Citizens Advice",
+    "address": "Station Road\nGolspie\nKW10 6SN",
     "phone": "01408 634410",
     "hours": "",
     "lat": 57.9722735,
@@ -396,8 +396,8 @@
     "id": "ccc73c1c-426f-437d-9b2d-e91239891b77"
   },
   {
-    "title": "Falkirk Citizens Advice Bureau",
-    "address": "27-29 Vicar Street, Falkirk, FK1 1LL",
+    "title": "Falkirk Citizens Advice",
+    "address": "27-29 Vicar Street\nFalkirk\nFK1 1LL",
     "phone": "01324 485290",
     "hours": "",
     "lat": 56.0008822,
@@ -405,8 +405,8 @@
     "id": "5d96aacc-9340-4d44-8273-c4a831ff0d31"
   },
   {
-    "title": "Glasgow - Bridgeton Citizens Advice Bureau",
-    "address": "35 Main Street, Glasgow, G40 1QB",
+    "title": "Bridgeton Citizens Advice",
+    "address": "35 Main Street\nGlasgow\nG40 1QB",
     "phone": "0141 554 0336",
     "hours": "",
     "lat": 55.8478003,
@@ -414,8 +414,8 @@
     "id": "f828eb49-dc4f-4fbc-ad73-ff31cff00fe1"
   },
   {
-    "title": "Glasgow - Castlemilk Citizens Advice Bureau",
-    "address": "27 Dougrie DriveCastlemilk, Glasgow, G45 9AD",
+    "title": "Castlemilk Citizens Advice",
+    "address": "27 Dougrie Drive\nCastlemilk\nGlasgow\nG45 9AD",
     "phone": "0141 634 0338",
     "hours": "",
     "lat": 55.8072105,
@@ -423,8 +423,8 @@
     "id": "811099c3-5e6d-46cf-ad6e-02fe370717ae"
   },
   {
-    "title": "Glasgow - Central Citizens Advice Bureau",
-    "address": "1st Floor, 88 Bell Street, Glasgow, G1 1LQ",
+    "title": "Glasgow Central Citizens Advice",
+    "address": "1st Floor\n88 Bell Street\nGlasgow\nG1 1LQ",
     "phone": "0141 559 6290",
     "hours": "",
     "lat": 55.8575752,
@@ -432,8 +432,8 @@
     "id": "0ba85379-e906-4b86-8c62-c28935d16217"
   },
   {
-    "title": "Glasgow - Drumchapel Citizens Advice Bureau",
-    "address": "195C Drumry Road East, Glasgow, G15 8NS",
+    "title": "Drumchapel Citizens Advice",
+    "address": "195C Drumry Road East\nGlasgow\nG15 8NS",
     "phone": "0141 944 7398",
     "hours": "",
     "lat": 55.9084595,
@@ -441,8 +441,8 @@
     "id": "0c686436-de02-4d92-8dc7-26c97bb7c5bb"
   },
   {
-    "title": "Glasgow - Easterhouse Citizens Advice Bureau",
-    "address": "46 Shandwick Square, Glasgow, G34 9DT",
+    "title": "Easterhouse Citizens Advice",
+    "address": "46 Shandwick Square\nGlasgow\nG34 9DT",
     "phone": "0141 771 2328",
     "hours": "",
     "lat": 55.8677966,
@@ -450,8 +450,8 @@
     "id": "56c1ddbf-0fb5-4db4-8fb1-fc5b588a2532"
   },
   {
-    "title": "Glasgow - Greater Pollok Citizens Advice Bureau",
-    "address": "Pollok Civic Realm,, 27 Cowglen Road, Glasgow, G53 6EW",
+    "title": "Greater Pollok Citizens Advice",
+    "address": "Pollok Civic Realm\n27 Cowglen Road\nGlasgow\nG53 6EW",
     "phone": "0141 876 4401",
     "hours": "",
     "lat": 55.8229524,
@@ -459,8 +459,8 @@
     "id": "b3126c66-1b09-4775-bdac-10da6dea2ba3"
   },
   {
-    "title": "Glasgow - Maryhill & Possilpark CAB - Possilpark Office",
-    "address": "Glasgow - Maryhill CAB - Possilpark Extension, 160-162 Saracen Street Possilpark, Glasgow, G22 5AS",
+    "title": "Possilpark Citizens Advice",
+    "address": "160-162 Saracen Street\nPossilpark\nGlasgow\nG22 5AS",
     "phone": "0141 336 3405",
     "hours": "",
     "lat": 55.8820387,
@@ -468,8 +468,8 @@
     "id": "b590426b-8154-45b1-8d17-c562f06cc281"
   },
   {
-    "title": "Glasgow - Maryhill and Possilpark Citizens Advice Bureau",
-    "address": "25 Avenuepark Street, Glasgow, G20 8TS",
+    "title": "Maryhill Citizens Advice",
+    "address": "25 Avenuepark Street\nGlasgow\nG20 8TS",
     "phone": "0141 946 6373",
     "hours": "",
     "lat": 55.8851251,
@@ -477,8 +477,8 @@
     "id": "c223779a-d18d-4544-8162-49e79069ad54"
   },
   {
-    "title": "Glasgow - Parkhead Citizens Advice Bureau",
-    "address": "1361 - 1363 Gallowgate, Glasgow, G31 4DN",
+    "title": "Parkhead Citizens Advice",
+    "address": "1361 - 1363 Gallowgate\nGlasgow\nG31 4DN",
     "phone": "0141 554 0004",
     "hours": "",
     "lat": 55.8522463,
@@ -486,8 +486,8 @@
     "id": "d0cd2b5a-27dc-4d1d-8d3b-d7b93b5afd4a"
   },
   {
-    "title": "Grangemouth and Bo'ness Citizens Advice Bureau",
-    "address": "1 Kerse Road, Grangemouth, FK3 8HW",
+    "title": "Grangemouth Citizens Advice",
+    "address": "1 Kerse Road\nGrangemouth\nFK3 8HW",
     "phone": "01324 485290",
     "hours": "",
     "lat": 56.01781889999999,
@@ -495,8 +495,8 @@
     "id": "6d0f4779-d3db-4630-aca0-49b3ad0fe52e"
   },
   {
-    "title": "Haddington Citizens Advice Bureau",
-    "address": "46 Court Street, Haddington, EH41 3NP",
+    "title": "Haddington Citizens Advice",
+    "address": "46 Court Street\nHaddington\nEH41 3NP",
     "phone": "01620 824471",
     "hours": "",
     "lat": 55.9559588,
@@ -504,8 +504,8 @@
     "id": "e03fcdbb-47a5-4c1b-b5a5-82fdaa64ba5d"
   },
   {
-    "title": "Hamilton Citizens Advice Bureau",
-    "address": "Almada Tower, 67 Almada Street, Hamilton, ML3 OHQ",
+    "title": "Hamilton Citizens Advice",
+    "address": "Almada Tower\n67 Almada Street\nHamilton\nML3 OHQ",
     "phone": "01698 283477",
     "hours": "",
     "lat": 55.7788839,
@@ -513,8 +513,8 @@
     "id": "9b63ac8f-c239-4ec6-a118-b6c0b9c707a8"
   },
   {
-    "title": "Harris Citizens Advice Bureau (Western Isles)",
-    "address": "Pier Road, Tarbert, HS3 3BG",
+    "title": "Harris Citizens Advice",
+    "address": "Pier Road\nTarbert\nHS3 3BG",
     "phone": "01859 502431",
     "hours": "",
     "lat": 57.89771409999999,
@@ -522,8 +522,8 @@
     "id": "6ea75339-4984-4480-9288-4d8aae0272d8"
   },
   {
-    "title": "Inverness Badenoch and Strathspey Citizens Advice Bureau",
-    "address": "103 Academy Street, Inverness, IV1 1LX",
+    "title": "Inverness Citizens Advice",
+    "address": "103 Academy Street\nInverness\nIV1 1LX",
     "phone": "01463 237664",
     "hours": "",
     "lat": 57.4807265,
@@ -531,8 +531,8 @@
     "id": "aba2e538-2866-43c4-aa17-2f6bc734677a"
   },
   {
-    "title": "Inverness Badenoch & Strathspey CAB - Aviemore Extension",
-    "address": "2 Inverewe, Grampian Road, Aviemore, PH22 1RH",
+    "title": "Aviemore Citizens Advice",
+    "address": "2 Inverewe\nGrampian Road\nAviemore\nPH22 1RH",
     "phone": "01479 810919",
     "hours": "",
     "lat": 57.18955589999999,
@@ -540,8 +540,8 @@
     "id": "69924b24-044f-49ea-bca5-306b23e60531"
   },
   {
-    "title": "Inverness Badenoch & Strathspey CAB - Grantown-on-Spey Extension",
-    "address": "41C High Street, Grantown on Spey, PH26 3EG",
+    "title": "Grantown-on-Spey Citizens Advice",
+    "address": "41C High Street\nGrantown on Spey\nPH26 3EG",
     "phone": "01479 810919",
     "hours": "",
     "lat": 57.3299171,
@@ -549,8 +549,8 @@
     "id": "5ecf97f4-29f6-4173-97ab-faa2ac9cdbcc"
   },
   {
-    "title": "Inverness Badenoch & Strathspey CAB - Raigmore Hospital Extension",
-    "address": "Raigmore Hospital, Old Perth Road, Inverness, IV2 3UJ",
+    "title": "Inverness (Raigmore Hospital) Citizens Advice",
+    "address": "Raigmore Hospital\nOld Perth Road\nInverness\nIV2 3UJ",
     "phone": "01463 706014",
     "hours": "",
     "lat": 57.47432999999999,
@@ -558,8 +558,8 @@
     "id": "cd256fe7-9378-49c8-9abc-7e00d5eac221"
   },
   {
-    "title": "Irvine Citizens Advice Bureau (NACAS)",
-    "address": "22A Eglinton Street, Irvine, KA12 8AS",
+    "title": "Irvine Citizens Advice",
+    "address": "22A Eglinton Street\nIrvine\nKA12 8AS",
     "phone": "01294 608 147",
     "hours": "",
     "lat": 55.6171944,
@@ -567,8 +567,8 @@
     "id": "7ba7fee9-280e-4033-8d67-b3809ea428ea"
   },
   {
-    "title": "Kilbirnie Citizens Advice Bureau (NACAS)",
-    "address": "43 Main Street, Kilbirnie, KA25 7BX",
+    "title": "Kilbirnie Citizens Advice",
+    "address": "43 Main Street\nKilbirnie\nKA25 7BX",
     "phone": "01294 608 147",
     "hours": "",
     "lat": 55.75499420000001,
@@ -576,8 +576,8 @@
     "id": "2305088a-e842-45d4-bcef-7878cb451454"
   },
   {
-    "title": "Kincardine and Mearns Citizens Advice Bureau",
-    "address": "9 Cameron Street, Stonehaven, AB39 2BL",
+    "title": "Kincardine and Mearns Citizens Advice",
+    "address": "9 Cameron Street\nStonehaven\nAB39 2BL",
     "phone": "01569 766 578",
     "hours": "",
     "lat": 56.9629497,
@@ -585,8 +585,8 @@
     "id": "4e9842bc-7b3a-44c8-bb54-b8cd1bd9fe3e"
   },
   {
-    "title": "Largs Citizens Advice Bureau (NACAS)",
-    "address": "32-34 Boyd Street, Largs, KA30 8LE",
+    "title": "Largs Citizens Advice",
+    "address": "32-34 Boyd Street\nLargs\nKA30 8LE",
     "phone": "01294 608 147",
     "hours": "",
     "lat": 55.7961554,
@@ -594,8 +594,8 @@
     "id": "f44b84db-4705-4cb4-87d0-7ec560835b70"
   },
   {
-    "title": "Lewis Citizens Advice Bureau (Western Isles)",
-    "address": "41-43 Westview Terrace, Stornoway, HS1 2HP",
+    "title": "Lewis Citizens Advice",
+    "address": "41-43 Westview Terrace\nStornoway\nHS1 2HP",
     "phone": "01851 705727",
     "hours": "",
     "lat": 58.2154924,
@@ -603,8 +603,8 @@
     "id": "88905b48-61ad-4c8c-b811-c4c2cdb117e5"
   },
   {
-    "title": "Lochaber Citizens Advice Bureau",
-    "address": "Dudley Road, Lochaber, Fort William, PH33 6JB",
+    "title": "Lochaber Citizens Advice",
+    "address": "Dudley Road\nLochaber\nFort William\nPH33 6JB",
     "phone": "01397 705311",
     "hours": "",
     "lat": 56.81834809999999,
@@ -612,8 +612,8 @@
     "id": "d8d31ec5-9a49-4f2a-8f15-2290225c51f3"
   },
   {
-    "title": "Moray Citizens Advice Bureau",
-    "address": "30 - 32 Batchen Street, Elgin, IV30 1BH",
+    "title": "Moray Citizens Advice",
+    "address": "30 - 32 Batchen Street\nElgin\nIV30 1BH",
     "phone": "01343 550088",
     "hours": "",
     "lat": 57.6477552,
@@ -621,8 +621,8 @@
     "id": "25d212ed-7d96-457b-a2fc-14a55bd312d3"
   },
   {
-    "title": "Motherwell and Wishaw Citizens Advice Bureau",
-    "address": "32 Civic Square, Motherwell, ML1 1TP",
+    "title": "Motherwell & Wishaw Citizens Advice",
+    "address": "32 Civic Square\nMotherwell\nML1 1TP",
     "phone": "01698 265349",
     "hours": "",
     "lat": 55.7847424,
@@ -630,8 +630,8 @@
     "id": "818bda02-543c-4a8f-9eb4-69178e787596"
   },
   {
-    "title": "Musselburgh & District Citizens Advice Bureau",
-    "address": "141 High Street, Musselburgh, EH21 7DD",
+    "title": "Musselburgh Citizens Advice",
+    "address": "141 High Street\nMusselburgh\nEH21 7DD",
     "phone": "0131 653 2748",
     "hours": "",
     "lat": 55.9424639,
@@ -639,8 +639,8 @@
     "id": "1e2f4e66-20be-4852-9911-11b94144dbce"
   },
   {
-    "title": "Nairn Citizens Advice Bureau",
-    "address": "6 High Street, Nairn, IV12 4BJ",
+    "title": "Nairn Citizens Advice",
+    "address": "6 High Street\nNairn\nIV12 4BJ",
     "phone": "01667 456677",
     "hours": "",
     "lat": 57.5837982,
@@ -648,8 +648,8 @@
     "id": "2924c6b3-f4b6-408c-ace2-084437a9943f"
   },
   {
-    "title": "North and West Sutherland Citizens Advice Bureau",
-    "address": "The Pier, Kinlochbervie, IV27 4RR",
+    "title": "North and West Sutherland Citizens Advice",
+    "address": "The Pier\nKinlochbervie\nIV27 4RR",
     "phone": "01971 521 730",
     "hours": "",
     "lat": 58.4585297,
@@ -657,8 +657,8 @@
     "id": "1e1d1b46-fe65-4131-8512-8df2c68b920e"
   },
   {
-    "title": "Orkney Citizens Advice Bureau",
-    "address": "Anchor Buildings,, 6 Bridge Street, Kirkwall, KW15 1HR",
+    "title": "Orkney Citizens Advice",
+    "address": "Anchor Buildings,\n6 Bridge Street\nKirkwall\nKW15 1HR",
     "phone": "01856 875266",
     "hours": "",
     "lat": 58.98419080000001,
@@ -666,8 +666,8 @@
     "id": "d224e094-11ec-4949-b613-135d53035c56"
   },
   {
-    "title": "Peebles and District Citizens Advice Bureau",
-    "address": "Chambers Institution,, High Street, Peebles, EH45 8AJ",
+    "title": "Peebles Citizens Advice",
+    "address": "Chambers Institution\nHigh Street\nPeebles\nEH45 8AJ",
     "phone": "01721 721722",
     "hours": "",
     "lat": 55.65160479999999,
@@ -675,8 +675,8 @@
     "id": "3f963bc4-9b22-4d51-8fa8-ddc36d987c77"
   },
   {
-    "title": "Penicuik Citizens Advice Bureau",
-    "address": "14a John Street, Penicuik, EH26 8AB",
+    "title": "Penicuik Citizens Advice",
+    "address": "14a John Street\nPenicuik\nEH26 8AB",
     "phone": "01968 675259",
     "hours": "",
     "lat": 55.8275076,
@@ -684,8 +684,8 @@
     "id": "3de41c57-6fec-45f4-acc9-8610eca1de3a"
   },
   {
-    "title": "Perth Citizens Advice Bureau",
-    "address": "7 Atholl Crescent, Perth, PH1 5NG",
+    "title": "Perth Citizens Advice",
+    "address": "7 Atholl Crescent\nPerth\nPH1 5NG",
     "phone": "01738 450596",
     "hours": "",
     "lat": 56.3991803,
@@ -693,8 +693,8 @@
     "id": "70710524-824d-4e22-a2c1-c0a0c94ba79d"
   },
   {
-    "title": "Renfrewshire Citizens Advice Bureau",
-    "address": "45 George Street, Paisley, PA1 2JY",
+    "title": "Renfrewshire Citizens Advice",
+    "address": "45 George Street\nPaisley\nPA1 2JY",
     "phone": "0141 375 7328",
     "hours": "",
     "lat": 55.8421724,
@@ -702,8 +702,8 @@
     "id": "a0256c3a-6a60-4acd-b2dd-8b339c8ed75a"
   },
   {
-    "title": "Ross and Cromarty Citizens Advice Bureau",
-    "address": "Balallan,, 4 Novar Road, Alness, IV17 0QG",
+    "title": "Alness Citizens Advice",
+    "address": "Balallan,\n4 Novar Road\nAlness\nIV17 0QG",
     "phone": "01349 883333",
     "hours": "",
     "lat": 57.69628319999999,
@@ -711,8 +711,8 @@
     "id": "982a0299-3f39-45f9-abc3-61ce0add30b6"
   },
   {
-    "title": "Roxburgh and Berwickshire Citizens Advice Bureau",
-    "address": "1 Towerdykeside, Hawick, TD9 9EA",
+    "title": "Roxburgh and Berwickshire Citizens Advice",
+    "address": "1 Towerdykeside\nHawick\nTD9 9EA",
     "phone": "01450 374266",
     "hours": "",
     "lat": 55.42135709999999,
@@ -720,8 +720,8 @@
     "id": "76557407-0fb2-4b94-a6a8-67f6e34d207e"
   },
   {
-    "title": "Rutherglen and Cambuslang Citizens Advice Bureau",
-    "address": "Kyle Court,, 17 Main Street, Cambuslang, G72 7EX",
+    "title": "Cambuslang Citizens Advice",
+    "address": "Kyle Court\n17 Main Street\nCambuslang\nG72 7EX",
     "phone": "0141 646 3191",
     "hours": "",
     "lat": 55.8188938,
@@ -729,8 +729,8 @@
     "id": "4ab008a6-72d5-4b36-b683-48eb0c527beb"
   },
   {
-    "title": "Saltcoats Citizens Advice Bureau (NACAS)",
-    "address": "87 Dockhead Street, Saltcoats, KA21 5ED",
+    "title": "Saltcoats Citizens Advice",
+    "address": "87 Dockhead Street\nSaltcoats\nKA21 5ED",
     "phone": "01294 608 147",
     "hours": "",
     "lat": 55.63292810000001,
@@ -738,8 +738,8 @@
     "id": "793e1b97-429d-4a6e-806c-ec07f5984211"
   },
   {
-    "title": "Shetland Islands Citizens Advice Bureau",
-    "address": "Market House,, 14 Market Street, Lerwick, ZE1 0JP",
+    "title": "Shetland Islands Citizens Advice",
+    "address": "Market House,\n14 Market Street\nLerwick\nZE1 0JP",
     "phone": "01595 744596",
     "hours": "",
     "lat": 60.15555860000001,
@@ -747,8 +747,8 @@
     "id": "1f82d904-a323-4af5-83f3-33943141e1d4"
   },
   {
-    "title": "Skye and Lochalsh Citizens Advice Bureau",
-    "address": "The Green, Portree, IV51 9BT",
+    "title": "Skye and Lochalsh Citizens Advice",
+    "address": "The Green\nPortree\nIV51 9BT",
     "phone": "01478 612032",
     "hours": "",
     "lat": 57.41256139999999,
@@ -756,8 +756,8 @@
     "id": "7007f2be-d1c0-4dbe-a6fe-737b8d2e8bd0"
   },
   {
-    "title": "South West Aberdeenshire Citizens Advice Bureau",
-    "address": "Suite 2, 1st Floor Offices, Westhill Shopping Centre, Old Skene Road, Westhill, AB32 6RL",
+    "title": "South West Aberdeenshire Citizens Advice",
+    "address": "Suite 2\n1st Floor Offices\nWesthill Shopping Centre\nOld Skene Road\nWesthill\nAB32 6RL",
     "phone": "01224 747714",
     "hours": "",
     "lat": 57.15401499999999,
@@ -765,8 +765,8 @@
     "id": "3530de46-c1a3-4b9b-99f1-51d3878068bb"
   },
   {
-    "title": "Stirling District Citizens Advice Bureau Ltd",
-    "address": "The Norman MacEwan Centre, Cameronian Street, Stirling, FK8 2DX",
+    "title": "Stirling Citizens Advice",
+    "address": "The Norman MacEwan Centre\nCameronian Street\nStirling\nFK8 2DX",
     "phone": "01786 470239",
     "hours": "",
     "lat": 56.11633930000001,
@@ -774,8 +774,8 @@
     "id": "d566c947-1b34-4b89-b55a-6d5aaff8385a"
   },
   {
-    "title": "Stranraer Citizens Advice Bureau (DAGCAS)",
-    "address": "23 Lewis Street, Stranraer, DG9 7AB",
+    "title": "Stranraer Citizens Advice",
+    "address": "23 Lewis Street\nStranraer\nDG9 7AB",
     "phone": "0300 303 4321",
     "hours": "",
     "lat": 54.9029482,
@@ -783,8 +783,8 @@
     "id": "ced01a69-7a4d-4bac-a6b5-28c1c5c31679"
   },
   {
-    "title": "Turriff and District Citizens Advice Bureau",
-    "address": "Masonic Building, Gladstone Terrace, Turriff, AB53 4AT",
+    "title": "Turriff Citizens Advice",
+    "address": "Masonic Building\nGladstone Terrace\nTurriff\nAB53 4AT",
     "phone": "01888 562 495",
     "hours": "",
     "lat": 57.5398496,
@@ -792,8 +792,8 @@
     "id": "562f5626-5e9d-43bf-86de-cca89ecb310e"
   },
   {
-    "title": "Uist Citizens Advice Bureau (Western Isles)",
-    "address": "45 Winfield Way, Balivanich, HS7 5LH",
+    "title": "Uist Citizens Advice",
+    "address": "45 Winfield Way\nBalivanich\nHS7 5LH",
     "phone": "01870 602421",
     "hours": "",
     "lat": 57.4731067,
@@ -801,8 +801,8 @@
     "id": "b88818f2-3ab9-4a04-a51a-e416a1af0ad3"
   },
   {
-    "title": "West Dunbartonshire Citizens Advice Bureau",
-    "address": "Bridgend House, 179 High Street, Dumbarton, G82 1NW",
+    "title": "Dumbarton Citizens Advice",
+    "address": "Bridgend House\n179 High Street\nDumbarton\nG82 1NW",
     "phone": "01389 744 693",
     "hours": "",
     "lat": 55.9431376,
@@ -810,8 +810,8 @@
     "id": "14d99fda-8707-4543-94dc-737fad7d8a1e"
   },
   {
-    "title": "West Dunbartonshire CAB - Clydebank Extension",
-    "address": "Social Economy Centre, 63 Kilbowie Road, Clydebank, G81 1BL",
+    "title": "Clydebank Citizens Advice",
+    "address": "Social Economy Centre\n63 Kilbowie Road\nClydebank\nG81 1BL",
     "phone": "01389 744 693",
     "hours": "",
     "lat": 55.90205479999999,
