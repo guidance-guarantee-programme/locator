@@ -105,7 +105,7 @@ function placeMarkers() {
     }
 
     elements.push(
-      '<p>', l['hours'], '</p>',
+      '<p>', l['hours'].replace(/(?:\r\n|\r|\n)/g, '<br />'), '</p>',
       l['phone']
     );
 
