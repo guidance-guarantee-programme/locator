@@ -120,6 +120,14 @@ function placeMarkers() {
 }
 
 function parseGeoJSON(geojson){
+    function findLocationProperties(locations, id) {
+        for(i in locations) {
+            if(locations[i]['id'] == id) {
+                return locations[i]['properties'];
+            }
+        }
+    }
+
     var
       results = [],
       features = geojson['features'];
@@ -132,6 +140,17 @@ function parseGeoJSON(geojson){
 
       location['lng'] = coordinates[0];
       location['lat'] = coordinates[1];
+
+      var bookingLocationId = location['booking_location_id'];
+
+      if(bookingLocationId && bookingLocationId != '') {
+        var bookingLocation = findLocationProperties(features, bookingLocationId);
+        if(bookingLocation) {
+          location['hours'] = bookingLocation['hours'];
+          location['phone'] = bookingLocation['phone'];
+          location['booking_centre'] = bookingLocation['title'];
+        }
+      }
 
       results.push(location);
     }
