@@ -24,6 +24,7 @@ var geoJSON = []byte(`
         "title": "Antrim Citizens Advice Bureau",
         "address": "Farranshane House, 1 Ballygore Road, Antrim, BT41 2RN",
         "booking_centre": "",
+        "booking_location_id": "dcabc50b-e475-48bb-b40d-ea2b81874147",
         "phone": "028 9442 8176",
         "hours": "Mon-Fri 9-5"
       }
@@ -48,6 +49,10 @@ func TestParseLocationsFromJson(t *testing.T) {
 
 	if location.Id != "2554b26e-6683-4de9-9b4f-f32d8e60cfb0" {
 		t.Error("Location id should be set")
+	}
+
+	if location.BookingLocationId != "dcabc50b-e475-48bb-b40d-ea2b81874147" {
+		t.Error("Booking location id should be set")
 	}
 
 	if location.Title != "Antrim Citizens Advice Bureau" {
@@ -94,6 +99,29 @@ func TestLocationIdsAreUnique(t *testing.T) {
 		id := location.Id
 		if idCounts[id] += 1; idCounts[id] > 1 {
 			t.Error("Duplicate location Ids found")
+		}
+	}
+}
+
+func TestBookingLocationIdsAreValidLocations(t *testing.T) {
+	locations := loadLocations()
+
+	for _, location := range locations {
+		if location.BookingLocationId == "" {
+			continue;
+		}
+
+		bookingLocationFound := false;
+
+		for _, otherLocation := range locations {
+			if location.BookingLocationId == otherLocation.Id {
+				bookingLocationFound = true;
+				break;
+			}
+		}
+
+		if !bookingLocationFound {
+			t.Error("Booking location not found:", location.BookingLocationId)
 		}
 	}
 }

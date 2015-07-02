@@ -9,14 +9,15 @@ import (
 )
 
 type Location struct {
-	Id            string  `json:"id"`
-	Title         string  `json:"title"`
-	Address       string  `json:"address"`
-	BookingCentre string  `json:"booking_centre"`
-	Phone         string  `json:"phone"`
-	Hours         string  `json:"hours"`
-	Lat           float64 `json:"lat"`
-	Lng           float64 `json:"lng"`
+	Id                string  `json:"id"`
+	BookingLocationId string  `json:"booking_location_id"`
+	Title             string  `json:"title"`
+	Address           string  `json:"address"`
+	BookingCentre     string  `json:"booking_centre"`
+	Phone             string  `json:"phone"`
+	Hours             string  `json:"hours"`
+	Lat               float64 `json:"lat"`
+	Lng               float64 `json:"lng"`
 }
 
 type FeatureGeometry struct {
@@ -25,11 +26,12 @@ type FeatureGeometry struct {
 }
 
 type FeatureProperties struct {
-	Title         string `json:"title"`
-	Address       string `json:"address"`
-	BookingCentre string `json:"booking_centre"`
-	Phone         string `json:"phone"`
-	Hours         string `json:"hours"`
+	Title             string `json:"title"`
+	Address           string `json:"address"`
+	BookingCentre     string `json:"booking_centre"`
+	BookingLocationId string `json:"booking_location_id"`
+	Phone             string `json:"phone"`
+	Hours             string `json:"hours"`
 }
 
 type Feature struct {
@@ -64,11 +66,12 @@ func NewFeatureGeometry(l Location) FeatureGeometry {
 
 func NewFeatureProperties(l Location) FeatureProperties {
 	return FeatureProperties{
-		Title:         l.Title,
-		Address:       l.Address,
-		BookingCentre: l.BookingCentre,
-		Phone:         l.Phone,
-		Hours:         l.Hours,
+		Title:             l.Title,
+		Address:           l.Address,
+		BookingCentre:     l.BookingCentre,
+		BookingLocationId: l.BookingLocationId,
+		Phone:             l.Phone,
+		Hours:             l.Hours,
 	}
 }
 
