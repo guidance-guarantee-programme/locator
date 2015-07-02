@@ -82,34 +82,38 @@ function lookupAddress() {
   });
 }
 
+function contentForLocation(l) {
+  var elements = [
+    '<b>', l['title'], '</b>',
+    '<p>', l['address'].replace(/(?:\r\n|\r|\n)/g, '<br />'), '</p>'
+  ];
+
+  if(l['booking_centre'] && l['booking_centre'] != l['title']) {
+    elements.push(
+      '<p><b>Booking Centre Details</b></p>',
+      '<p>', l['booking_centre'], '</p>'
+    );
+  }
+
+  elements.push(
+    '<p>', l['hours'].replace(/(?:\r\n|\r|\n)/g, '<br />'), '</p>',
+    l['phone']
+  );
+
+  return elements.join("\n");
+}
+
 function placeMarkers() {
   for(i in locations) {
-    var l = locations[i];
+    var
+      l = locations[i],
+      content = contentForLocation(l);
 
     markers[i] = new google.maps.Marker({
       position: new google.maps.LatLng(l['lat'], l['lng']),
       map: map,
       title: l['title']
     });
-
-    var elements = [
-      '<b>', l['title'], '</b>',
-      '<p>', l['address'].replace(/(?:\r\n|\r|\n)/g, '<br />'), '</p>'
-    ];
-
-    if(l['booking_centre'] && l['booking_centre'] != l['title']) {
-      elements.push(
-        '<p><b>Booking Centre Details</b></p>', 
-        '<p>', l['booking_centre'], '</p>'
-      );
-    }
-
-    elements.push(
-      '<p>', l['hours'].replace(/(?:\r\n|\r|\n)/g, '<br />'), '</p>',
-      l['phone']
-    );
-
-    var content = elements.join("\n");
 
     google.maps.event.addListener(markers[i], 'click', makeHandler(markers[i], content));
   }
