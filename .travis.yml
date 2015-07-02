@@ -2,6 +2,11 @@ language: go
 
 go:
   - 1.4.1
+install:
+  - bundle install
+script:
+  - go test -v ./...
+  - bundle exec rake
 deploy:
   provider: heroku
   api_key:

@@ -20,6 +20,12 @@ GEM
       net-http-persistent (>= 2.7)
       net-http-pipeline
     highline (1.7.2)
+    jasmine (2.3.0)
+      jasmine-core (~> 2.3)
+      phantomjs
+      rack (>= 1.2.1)
+      rake
+    jasmine-core (2.3.4)
     json (1.8.3)
     launchy (2.4.3)
       addressable (~> 2.3)
@@ -28,6 +34,7 @@ GEM
     multipart-post (2.0.0)
     net-http-persistent (2.9.4)
     net-http-pipeline (1.0.1)
+    phantomjs (1.9.8.0)
     pry (0.9.12.6)
       coderay (~> 1.0)
       method_source (~> 0.8)
@@ -35,6 +42,8 @@ GEM
     pusher-client (0.6.2)
       json
       websocket (~> 1.0)
+    rack (1.6.4)
+    rake (10.4.2)
     slop (3.6.0)
     travis (1.7.7)
       addressable (~> 2.3)
@@ -56,6 +65,7 @@ PLATFORMS
 
 DEPENDENCIES
   geocoder
+  jasmine
   travis
 
 BUNDLED WITH
