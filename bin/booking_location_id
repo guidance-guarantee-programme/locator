@@ -1,0 +1,23 @@
+#!/usr/bin/env ruby
+
+require 'bundler/setup'
+
+require 'json'
+
+json_path = ARGV[0] or
+    fail 'First argument must be the path to the json file'
+
+json = JSON.parse(File.read(json_path))
+
+json.each do |location|
+  booking_location_title = location['booking_centre']
+
+  booking_location = json.find { |l| l['title'] == booking_location_title }
+  fail "Can't find '#{booking_location_title}'" unless booking_location
+
+  unless booking_location_title == location['title']
+    location['booking_location_id'] = booking_location['id']
+  end
+end
+
+puts JSON.pretty_generate(json)
