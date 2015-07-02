@@ -2540,8 +2540,8 @@
     "id": "ed2d1182-635b-4acf-823d-4f1a4e1792f9"
   },
   {
-    "title": "Hammersmith and Fulham Citizens Advice",
-    "address": "Avonmore Library & Neighbourhood Centre\n7 North End Crescent\nLondon\nW14 8TG",
+    "title": "Shepherd’s Bush Citizens Advice",
+    "address": "338 Uxbridge Road\nLondon\nW12 7LL",
     "booking_centre": "Morden Citizens Advice",
     "phone": "0203 559 7400",
     "hours": "Monday to Friday, 10am to 4pm",
@@ -2758,16 +2758,6 @@
     "lat": 52.2590467,
     "lng": -1.160031,
     "id": "a4ef3b80-989c-4dc9-9059-15af609c55c8"
-  },
-  {
-    "title": "Bedford Citizens Advice",
-    "address": "7a St Paul's Square\nBEDFORD\nBedfordshire\nMK40 1SQ",
-    "booking_centre": "Stevenage Citizens Advice",
-    "phone": "0300 3239940",
-    "hours": "Monday, Wednesday, Friday, 9am to 12:30pm\nTuesday, 1pm to 4pm",
-    "lat": 52.1350291,
-    "lng": -0.4678803,
-    "id": "772a7a00-bf0e-4af7-bcf7-271fed54a06f"
   },
   {
     "title": "Pembroke Dock Citizens Advice",
@@ -3120,8 +3110,8 @@
     "id": "fbe3408f-fe33-4099-8695-504e34fb1b8b"
   },
   {
-    "title": "Oswestry Citizens Advice",
-    "address": "34 Arthur Street\nOSWESTRY\nShropshire\nSY11 1JN",
+    "title": "Shrewsbury Citizens Advice",
+    "address": "Fletcher House\n15 College Hill\nShrewsbury\nShropshire\nSY1 1LY",
     "booking_centre": "Shrewsbury Citizens Advice",
     "phone": "01743 284165",
     "hours": "Monday to Friday, 9am to 5pm",
