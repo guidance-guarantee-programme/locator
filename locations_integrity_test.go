@@ -20,15 +20,15 @@ func TestBookingLocationIdsAreValidLocations(t *testing.T) {
 
 	for _, location := range locations {
 		if location.BookingLocationId == "" {
-			continue;
+			continue
 		}
 
-		bookingLocationFound := false;
+		bookingLocationFound := false
 
 		for _, otherLocation := range locations {
 			if location.BookingLocationId == otherLocation.Id {
-				bookingLocationFound = true;
-				break;
+				bookingLocationFound = true
+				break
 			}
 		}
 
