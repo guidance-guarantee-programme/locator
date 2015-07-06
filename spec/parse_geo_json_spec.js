@@ -18,7 +18,6 @@ describe('parseGeoJSON()', function() {
           "properties": {
             "title": "Antrim Citizens Advice",
             "address": "Farranshane House\n1 Ballygore Road\nAntrim\nBT41 2RN",
-            "booking_centre": "",
             "phone": "028 9442 8176",
             "hours": "Monday to Thursday, 10am to 12pm and 2pm to 4pm"
           }
@@ -36,10 +35,9 @@ describe('parseGeoJSON()', function() {
           "properties": {
             "title": "Ards Citizens Advice",
             "address": "5 West Street\nNewtownards\nBT23 4EN",
-            "booking_centre": "",
             "booking_location_id": "73abedb4-f822-4f5f-b7a9-6aa1f627f41a",
-            "phone": "028 9180 1929",
-            "hours": "Monday to Friday, 9:30am to 3:30pm"
+            "phone": "",
+            "hours": ""
           }
         }
       ]
@@ -59,7 +57,6 @@ describe('parseGeoJSON()', function() {
         expected = {
           "title": "Antrim Citizens Advice",
           "address": "Farranshane House\n1 Ballygore Road\nAntrim\nBT41 2RN",
-          "booking_centre": "",
           "phone": "028 9442 8176",
           "hours": "Monday to Thursday, 10am to 12pm and 2pm to 4pm",
           "lat": 54.71857499999999,

@@ -23,7 +23,6 @@ var geoJSON = []byte(`
       "properties": {
         "title": "Antrim Citizens Advice Bureau",
         "address": "Farranshane House, 1 Ballygore Road, Antrim, BT41 2RN",
-        "booking_centre": "",
         "booking_location_id": "dcabc50b-e475-48bb-b40d-ea2b81874147",
         "phone": "028 9442 8176",
         "hours": "Mon-Fri 9-5"
