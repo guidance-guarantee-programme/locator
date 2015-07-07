@@ -4,6 +4,9 @@ import (
 	"flag"
 	"fmt"
 	"net/http"
+	"os"
+
+	"github.com/bugsnag/bugsnag-go"
 )
 
 var (
@@ -11,6 +14,11 @@ var (
 )
 
 func init() {
+	bugsnag.Configure(bugsnag.Configuration{
+		APIKey:       os.Getenv("BUGSNAG_API_KEY"),
+		ReleaseStage: os.Getenv("BUGSNAG_RELEASE_STAGE"),
+	})
+
 	flag.IntVar(&port, "p", 8080, "Port to listen on")
 	flag.Parse()
 }
@@ -21,7 +29,7 @@ func main() {
 	http.HandleFunc("/locations.json", LocationsHandler)
 	http.HandleFunc("/", StaticHandler)
 
-	err := http.ListenAndServe(fmt.Sprintf(":%d", port), nil)
+	err := http.ListenAndServe(fmt.Sprintf(":%d", port), bugsnag.Handler(nil))
 	if err != nil {
 		fmt.Println("Error starting!")
 	}

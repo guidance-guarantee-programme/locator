@@ -9,6 +9,7 @@ Locate branches of the Citizens Advice service providing [Pension Wise] face to 
 
 * [Go]
 * [Git]
+* [A configured GOPATH](https://github.com/golang/go/wiki/GOPATH)
 
 
 ## Installation
@@ -16,7 +17,14 @@ Locate branches of the Citizens Advice service providing [Pension Wise] face to 
 Clone the repository:
 
 ```sh
+$ cd $GOPATH/src
 $ git clone https://github.com/guidance-guarantee-programme/locator.git
+```
+
+Install godep:
+
+```sh
+go get github.com/tools/godep
 ```
 
 ## Usage
@@ -24,7 +32,7 @@ $ git clone https://github.com/guidance-guarantee-programme/locator.git
 To start the application:
 
 ```sh
-$ go build .
+$ godep go build .
 $ ./locator
 ```
 
