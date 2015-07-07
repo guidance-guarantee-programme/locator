@@ -31,6 +31,6 @@ func main() {
 
 	err := http.ListenAndServe(fmt.Sprintf(":%d", port), bugsnag.Handler(nil))
 	if err != nil {
-		fmt.Println("Error starting!")
+		panic("Error starting!")
 	}
 }
