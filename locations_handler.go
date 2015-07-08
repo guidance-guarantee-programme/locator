@@ -5,7 +5,6 @@ import (
 	"fmt"
 	"io/ioutil"
 	"net/http"
-	"os"
 )
 
 type Location struct {
@@ -86,14 +85,12 @@ func loadLocationsJson(path string) []Location {
 
 	data, err := ioutil.ReadFile(path)
 	if err != nil {
-		fmt.Printf("> Can't read %s\n", path)
-		os.Exit(1)
+		panic(fmt.Sprintf("Can't read %s", path))
 	}
 
 	err = json.Unmarshal(data, &locations)
 	if err != nil {
-		fmt.Printf("> Can't parse %s\n", path)
-		os.Exit(1)
+		panic(fmt.Sprintf("Can't parse %s", path))
 	}
 
 	return locations
@@ -120,8 +117,7 @@ func buildFeatures(locations []Location) (features []Feature) {
 func generateGeojson(features []Feature) []byte {
 	geojson, err := json.Marshal(NewFeatureCollection(features))
 	if err != nil {
-		fmt.Println("> Can't Generate GeoJSON")
-		os.Exit(1)
+		panic("Can't Generate GeoJSON")
 	}
 
 	return geojson

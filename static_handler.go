@@ -36,7 +36,11 @@ func StaticHandler(w http.ResponseWriter, r *http.Request) {
 		}
 		// send the contents of the file
 		responseCode = http.StatusOK
-		contents, _ := ioutil.ReadFile(filename)
+		contents, err := ioutil.ReadFile(filename)
+		if err != nil {
+			panic(fmt.Sprintf("Can't read %s", filename))
+		}
+
 		w.Write(contents)
 	}
 
