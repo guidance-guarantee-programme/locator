@@ -36,6 +36,11 @@ $ godep go build .
 $ ./locator
 ```
 
+## Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
+
 ## Contributing
 
 Please see the [contributing guidelines](/CONTRIBUTING.md).
