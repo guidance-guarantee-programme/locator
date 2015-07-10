@@ -1157,16 +1157,6 @@
     "booking_location_id": "a75c52c0-7b36-42b5-b965-73c8949c252d"
   },
   {
-    "title": "Dolgellau Citizens Advice",
-    "address": "Doldir\nDOLGELLAU\nGwynedd\nLL40 1HA",
-    "phone": "",
-    "hours": "",
-    "lat": 52.7427886,
-    "lng": -3.8810436,
-    "id": "d64e4ccb-8795-400d-89e0-5337a8ba3458",
-    "booking_location_id": "a75c52c0-7b36-42b5-b965-73c8949c252d"
-  },
-  {
     "title": "Wrexham Citizens Advice",
     "address": "35 Grosvenor Road\nWREXHAM\nLL11 1BT",
     "phone": "",
