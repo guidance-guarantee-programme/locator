@@ -3094,12 +3094,11 @@
   {
     "title": "Bermondsey Citizens Advice",
     "address": "8 Market Place\nSouthwark Park Road\nSouthwark\nLondon\nSE16 3UQ",
-    "phone": "",
+    "phone": "020 7064 9710",
     "hours": "",
     "lat": 51.49217350000001,
     "lng": -0.06394749999999999,
-    "id": "b7de428f-99b2-476b-ad22-8a2455b52a5b",
-    "booking_location_id": "0b703eb5-64fa-44b5-85e0-fa378392ba55"
+    "id": "b7de428f-99b2-476b-ad22-8a2455b52a5b"
   },
   {
     "title": "Peckham Citizens Advice",
@@ -3109,7 +3108,7 @@
     "lat": 51.4736877,
     "lng": -0.0693057,
     "id": "56d74aa9-f2a0-4b90-8d86-91e11eb71b36",
-    "booking_location_id": "0b703eb5-64fa-44b5-85e0-fa378392ba55"
+    "booking_location_id": "b7de428f-99b2-476b-ad22-8a2455b52a5b"
   },
   {
     "title": "Woolwich Citizens Advice",
@@ -3119,7 +3118,7 @@
     "lat": 51.4906665,
     "lng": 0.06455269999999999,
     "id": "b6643177-9210-40da-a1fd-b50644db1f39",
-    "booking_location_id": "0b703eb5-64fa-44b5-85e0-fa378392ba55"
+    "booking_location_id": "b7de428f-99b2-476b-ad22-8a2455b52a5b"
   },
   {
     "title": "Stafford Citizens Advice",
