@@ -2,10 +2,10 @@ source 'https://rubygems.org'
 
 gem 'geocoder'
 
-group :development do
-  gem 'travis', require: false
+group :development, optional: true do
+  gem 'travis'
 end
 
 group :development, :test do
-  gem 'jasmine', require: false
+  gem 'jasmine'
 end
