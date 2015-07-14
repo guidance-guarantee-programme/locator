@@ -5,6 +5,8 @@ env:
   global:
   - secure: FypN9aGRel9NcsoigB1zCUvp+jthRKwXKjntEGt7IB0Tn7fuWYiEBPVeV+35s+Z5AafGCSpiMGeOhBYz4l+FboEDUrhvUe67EggRVBMg9d5du5jJ3UIjSxkmddTj+F8jIVzO+paZR83kYxovXljSXjoPPkpDl9urmIgrLKULCCo=
   - secure: lOfqql4RmmViu9aHtCIXrRlOnkWqY+fGG/8PRFXWh4MeS/4Rl6B7gFOIdvfr5xVWqL51Cb4jsQ+coRZ/HmiS/+g2+ZdrF9AnLLj1Fx7x/LeT13gFUE6g7OjPKMy1urv0IWaC8HcwvL5OFcbMJk78K8Vjmw2hBUXcan99iNb8fKg=
+before_install:
+  - gem update bundler
 install:
 - go get github.com/tools/godep
 - godep restore
