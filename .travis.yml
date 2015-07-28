@@ -1,14 +1,23 @@
 language: go
-
 go:
-  - 1.4.2
+- 1.4.2
+cache:
+  directories:
+  - node_modules
+env:
+  global:
+  - secure: cj7uF4Afsh/Yjh/zMqcIPeO3+C91Y+xWEQjWPRCe2cvs1plS/ODocHet7jwKH79K2vEx9PXf2dnYKfRWx8cKo7E4KGTgaayKYjal4paRoRnpbOSdYyXkHTKQwEEcg3WnSqUv8G63xo24Lo8rRjlrXcIUS12NQ1CSx4ZP2ISAKwE=
+  - secure: NSNK3Kt0dO7XCkHo+68nJb5GsRFI+Zln+xclQZg7898PnchnFoMEkgOmFr3X1WWvbI+oYICQO92HLl5gNIEwNSeOImqu1HaPsswipGgmPtGiroYEDB3kBtfYAxmGf97IukfRKucc3BoJMCtZhP1U9RbFs/CAjFWvhzTpbm1GLoQ=
 install:
-  - go get github.com/tools/godep
-  - godep restore
-  - bundle install
+- go get github.com/tools/godep
+- godep restore
+- bundle install
+- npm install
 script:
-  - go test -v ./...
-  - bundle exec rake
+- go test -v ./...
+- bundle exec rake
+after_script:
+- ./node_modules/.bin/travis-notify-geckoboard -a $GECKOBOARD_API_KEY -w $GECKOBOARD_WIDGET_KEY
 deploy:
   provider: heroku
   api_key:
