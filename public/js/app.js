@@ -84,7 +84,7 @@ function lookupAddress() {
 
 function contentForLocation(l) {
   var elements = [
-    '<b>', l['title'], '</b>',
+    '<b>', l['title'] + ' Citizens Advice', '</b>',
     '<p>', l['address'].replace(/(?:\r\n|\r|\n)/g, '<br />'), '</p>'
   ];
 

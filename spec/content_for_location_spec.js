@@ -1,16 +1,16 @@
 describe('contentForLocation()', function() {
   describe('with no separate booking location', function() {
     var locationWithoutBookingCentre = {
-      "title": "Antrim Citizens Advice",
+      "title": "Antrim",
       "address": "Farranshane House\n1 Ballygore Road\nAntrim\nBT41 2RN",
       "phone": "028 9442 8176",
       "hours": "Monday to Thursday, 10am to 12pm and 2pm to 4pm\nFriday, 10am to 12pm and 1:30pm to 2:30pm"
     };
 
     var locationWithDuplicateBookingCentre = {
-      "title": "Antrim Citizens Advice",
+      "title": "Antrim",
       "address": "Farranshane House\n1 Ballygore Road\nAntrim\nBT41 2RN",
-      "booking_centre": "Antrim Citizens Advice",
+      "booking_centre": "Antrim",
       "phone": "028 9442 8176",
       "hours": "Monday to Thursday, 10am to 12pm and 2pm to 4pm\nFriday, 10am to 12pm and 1:30pm to 2:30pm"
     };
@@ -43,7 +43,7 @@ describe('contentForLocation()', function() {
 
   describe('with a separate booking location', function() {
     var location = {
-      "title": "Antrim Citizens Advice",
+      "title": "Antrim",
       "address": "Farranshane House\n1 Ballygore Road\nAntrim\nBT41 2RN",
       "booking_centre": "Belfast Citizens Advice",
       "phone": "028 9442 8176",

@@ -1,6 +1,6 @@
 [
   {
-    "title": "Antrim Citizens Advice",
+    "title": "Antrim",
     "address": "Farranshane House\n1 Ballygore Road\nAntrim\nBT41 2RN",
     "phone": "028 9442 8176",
     "hours": "Monday to Thursday, 10am to 12pm and 2pm to 4pm\nFriday, 10am to 12pm and 1:30pm to 2:30pm",
@@ -9,7 +9,7 @@
     "id": "73abedb4-f822-4f5f-b7a9-6aa1f627f41a"
   },
   {
-    "title": "Ards Citizens Advice",
+    "title": "Ards",
     "address": "5 West Street\nNewtownards\nBT23 4EN",
     "phone": "028 9180 1929",
     "hours": "Monday to Friday, 9:30am to 3:30pm",
@@ -18,7 +18,7 @@
     "id": "8862652c-a7e0-4aba-8846-91f836ebbffe"
   },
   {
-    "title": "Armagh Citizens Advice",
+    "title": "Armagh",
     "address": "9 McCrums Court\nArmagh\nBT61 7RS",
     "phone": "028 3752 6699",
     "hours": "Monday to Friday, 9:30am to 3:30pm",
@@ -27,7 +27,7 @@
     "id": "f0946066-3417-4db8-8b8b-c43d7a66b89f"
   },
   {
-    "title": "Ballymena Citizens Advice",
+    "title": "Ballymena",
     "address": "4 Wellington Court\nBallymena\nBT43 6EQ",
     "phone": "028 2565 5970",
     "hours": "Monday, Tuesday, Wednesday, Friday, 9am to 4pm\nThursday, 9am to 8pm",
@@ -36,7 +36,7 @@
     "id": "2d320a0c-89f0-44d7-9cf9-6f29e4f97dd8"
   },
   {
-    "title": "Banbridge Citizens Advice",
+    "title": "Banbridge",
     "address": "77 Bridge Street\nBanbridge\nBT32 3JL",
     "phone": "028 4066 2174",
     "hours": "Monday to Friday, 10am to 2pm",
@@ -45,7 +45,7 @@
     "id": "87aaf9ab-7619-4ebb-81e8-ad5abef8785e"
   },
   {
-    "title": "Bangor Citizens Advice",
+    "title": "Bangor",
     "address": "1a Springfield Avenue\nBangor\nBT20 5BY",
     "phone": "028 9145 0787",
     "hours": "Monday, 9:30am to 3:30pm",
@@ -54,7 +54,7 @@
     "id": "db7c39db-d64c-4561-a2a4-e4556690a64c"
   },
   {
-    "title": "Belfast Citizens Advice",
+    "title": "Belfast",
     "address": "Merrion Business Centre\n58 Howard St\nBelfast\nBT1 6PJ",
     "phone": "0300 1 233 233",
     "hours": "Monday to Friday, 9am to 12:30pm and 1pm to 4pm",
@@ -63,7 +63,7 @@
     "id": "1de9b76c-c349-4e2a-a3a7-bb0f59b0807e"
   },
   {
-    "title": "Carrickfergus Citizens Advice",
+    "title": "Carrickfergus",
     "address": "65 North Street\nCarrickfergus\nBT38 7AE",
     "phone": "028 9335 1808",
     "hours": "Monday to Friday, 10am to 2pm",
@@ -72,7 +72,7 @@
     "id": "4d220dda-00f3-40cd-85a1-de97d76788c3"
   },
   {
-    "title": "Coleraine Citizens Advice",
+    "title": "Coleraine",
     "address": "24 Lodge Road\nColeraine\nBT52 1NB",
     "phone": "028 7032 9775",
     "hours": "Monday to Friday, 9:30am to 1pm and 2pm to 4pm",
@@ -81,7 +81,7 @@
     "id": "ae357a58-ce26-45ec-9339-d173120ee167"
   },
   {
-    "title": "Cookstown Citizens Advice",
+    "title": "Cookstown",
     "address": "7 - 11 William Street\nCookstown\nCo. Tyrone\nBT80 8AX",
     "phone": "028 8676 6891",
     "hours": "Monday to Friday, 10am to 3pm",
@@ -90,7 +90,7 @@
     "id": "9de3a232-35bb-483b-9d8a-ce28004da478"
   },
   {
-    "title": "Craigavon Citizens Advice",
+    "title": "Craigavon",
     "address": "The Town Hall\n6 Union Street\nCraigavon\nBT66 8DY",
     "phone": "028 3833 3571",
     "hours": "Monday to Friday, 9am to 5pm",
@@ -99,7 +99,7 @@
     "id": "5a9df3a1-06e5-4f25-974f-2dcf6080fe3d"
   },
   {
-    "title": "Derry Citizens Advice",
+    "title": "Derry",
     "address": "Embassy Court\n3 Strand Road\nDerry\nBT48 7BJ",
     "phone": "028 7134 7047",
     "hours": "Monday to Friday, 9:30am to 12:30pm and 2pm to 4pm",
@@ -108,7 +108,7 @@
     "id": "03ca70f3-f76a-4563-a243-571000f80ab4"
   },
   {
-    "title": "Downpatrick Citizens Advice",
+    "title": "Downpatrick",
     "address": "Magh-Inis House\n8-10 Irish Street\nDownpatrick\nBT30 6BP",
     "phone": "028 4461 4110",
     "hours": "Monday to Thursday 9am to 4pm\nFriday, 9am to 1pm",
@@ -117,7 +117,7 @@
     "id": "bc0cdad0-7e6c-4aa3-a423-416f56cb26dc"
   },
   {
-    "title": "Dungannon Citizens Advice",
+    "title": "Dungannon",
     "address": "5-6 Feeney's Lane\nDungannon\nBT70 1TX",
     "phone": "028 8772 3458",
     "hours": "Monday to Friday, 9:30am to 3pm",
@@ -126,7 +126,7 @@
     "id": "4fbed63d-5cff-4366-bb3c-7e0011e01214"
   },
   {
-    "title": "Fermanagh Citizens Advice",
+    "title": "Fermanagh",
     "address": "Fermanagh House\nBroadmeadow Place\nFermanagh\nBT74 7HR",
     "phone": "028 6632 4334",
     "hours": "Monday to Thursday, 9:30am to 1pm\nFriday, 2pm to 3:30pm",
@@ -135,7 +135,7 @@
     "id": "5a2c0f21-0e97-44ce-aca6-8f0594a828b8"
   },
   {
-    "title": "Holywood Citizens Advice",
+    "title": "Holywood",
     "address": "Queens Hall\nSullivan Place\nHolywood\nBT18 9JF",
     "phone": "0300 123 3233",
     "hours": "Monday to Friday, 9:30am to 3:30pm",
@@ -144,7 +144,7 @@
     "id": "35347b64-0059-4bf8-bdcb-7871ac72b5ab"
   },
   {
-    "title": "Larne Citizens Advice",
+    "title": "Larne",
     "address": "Park Lodge\n49 Victoria Road\nLarne\nBT40 1RT",
     "phone": "028 2826 0379",
     "hours": "Monday to Friday, 10am to 4pm",
@@ -153,7 +153,7 @@
     "id": "b5c1e099-8038-4675-9e5b-74218945e9ac"
   },
   {
-    "title": "Lisburn Citizens Advice",
+    "title": "Lisburn",
     "address": "Bridge Community Centre\n50 Railway Street\nLisburn\nBT28 1XP",
     "phone": "028 9266 2251",
     "hours": "Monday to Friday, 9:30am to 12pm and 1:30pm to 4pm",
@@ -162,7 +162,7 @@
     "id": "37453886-59a0-467e-acae-2d7aec449c2b"
   },
   {
-    "title": "Newry Citizens Advice",
+    "title": "Newry",
     "address": "Ballybot House\n28 Cornmarket\nNewry\nBT35 8BG",
     "phone": "028 3026 2591",
     "hours": "Monday to Friday, 9:30am to 1pm and 2pm to 5pm",
@@ -171,7 +171,7 @@
     "id": "4cb189d7-a788-4914-b57b-9d0aa2436ce8"
   },
   {
-    "title": "Newtownabbey Citizens Advice",
+    "title": "Newtownabbey",
     "address": "Dunanney Centre\nRathmullan Drive\nNewtownabbey\nBT37 9DQ",
     "phone": "028 9085 3271",
     "hours": "Monday to Friday, 9am to 1pm and 1:30pm to 4pm",
@@ -180,7 +180,7 @@
     "id": "26d6c706-3a40-4123-b17d-9f4d4274d7b3"
   },
   {
-    "title": "Strabane Citizens Advice",
+    "title": "Strabane",
     "address": "17 Dock Street\nStrabane\nBT82 8EE",
     "phone": "028 7134 7047",
     "hours": "Monday to Friday, 9:30am to 12:30pm and 2pm to 4pm",

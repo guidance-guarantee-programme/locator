@@ -1,6 +1,6 @@
 [
   {
-    "title": "Allerdale Citizens Advice",
+    "title": "Allerdale",
     "address": "Vulcans Lane\nWorkington\nCumbria\nCA14 2BT",
     "phone": "01900 68981",
     "hours": "Monday, Wednesday, Thursday 9am to 5pm\nTuesday, 9am to 6pm\nFriday, 9am to 4:30pm",
@@ -9,7 +9,7 @@
     "id": "ec825112-a3df-4c7d-9a07-460a35b57f5a"
   },
   {
-    "title": "Wigton Citizens Advice",
+    "title": "Wigton",
     "address": "Wigton Local Links\nCommunity Office\nMarket Hall\nChurch Street\nWigton\nCumbria\nCA7 9AA ",
     "phone": "",
     "hours": "",
@@ -19,7 +19,7 @@
     "booking_location_id": "ec825112-a3df-4c7d-9a07-460a35b57f5a"
   },
   {
-    "title": "Keswick Citizens Advice",
+    "title": "Keswick",
     "address": "Heads Lane\nKeswick\nCumbria\nCA12 5HD",
     "phone": "",
     "hours": "",
@@ -29,7 +29,7 @@
     "booking_location_id": "ec825112-a3df-4c7d-9a07-460a35b57f5a"
   },
   {
-    "title": "Carlisle Citizens Advice",
+    "title": "Carlisle",
     "address": "5 & 6 Old Post Office Court\nCarlisle\nCA3 8LE",
     "phone": "",
     "hours": "",
@@ -39,7 +39,7 @@
     "booking_location_id": "ec825112-a3df-4c7d-9a07-460a35b57f5a"
   },
   {
-    "title": "Kendal Citizens Advice",
+    "title": "Kendal",
     "address": "Blackhall Road\nKendal\nCumbria\nLA9 4BT",
     "phone": "",
     "hours": "",
@@ -49,7 +49,7 @@
     "booking_location_id": "ec825112-a3df-4c7d-9a07-460a35b57f5a"
   },
   {
-    "title": "Maryport Citizens Advice",
+    "title": "Maryport",
     "address": "Selby Terrace\nMaryport\nCumbria\nCA15 6NF",
     "phone": "",
     "hours": "",
@@ -59,7 +59,7 @@
     "booking_location_id": "ec825112-a3df-4c7d-9a07-460a35b57f5a"
   },
   {
-    "title": "Bognor Regis Citizens Advice",
+    "title": "Bognor Regis",
     "address": "Town Hall\nClarence Road\nBognor Regis\nWest Sussex\nPO21 1LD",
     "phone": "01243 860516",
     "hours": "Monday to Friday, 9am to 5pm",
@@ -68,7 +68,7 @@
     "id": "4c1c3978-ffad-4a47-97ba-210e6eb8857f"
   },
   {
-    "title": "Chichester Citizens Advice",
+    "title": "Chichester",
     "address": "Bell House\n6 Theatre Lane\nChichester\nWest Sussex\nPO19 1SR",
     "phone": "",
     "hours": "",
@@ -78,7 +78,7 @@
     "booking_location_id": "4c1c3978-ffad-4a47-97ba-210e6eb8857f"
   },
   {
-    "title": "Littlehampton Citizens Advice",
+    "title": "Littlehampton",
     "address": "14-16 Anchor Springs\nLITTLEHAMPTON\nWest Sussex\nBN17 6BP",
     "phone": "",
     "hours": "",
@@ -88,7 +88,7 @@
     "booking_location_id": "4c1c3978-ffad-4a47-97ba-210e6eb8857f"
   },
   {
-    "title": "Fareham Citizens Advice",
+    "title": "Fareham",
     "address": "1st Floor County Library Building\nOsborn Road\nFarehamHampshire\nPO16 7EN",
     "phone": "",
     "hours": "",
@@ -98,7 +98,7 @@
     "booking_location_id": "4c1c3978-ffad-4a47-97ba-210e6eb8857f"
   },
   {
-    "title": "Gosport Citizens Advice",
+    "title": "Gosport",
     "address": "Martin Snape House\n96 Pavilion Way\nSt George Barrack\nGOSPORT\nHampshire\nPO12 1GE",
     "phone": "",
     "hours": "",
@@ -108,7 +108,7 @@
     "booking_location_id": "4c1c3978-ffad-4a47-97ba-210e6eb8857f"
   },
   {
-    "title": "Lancing Citizens Advice",
+    "title": "Lancing",
     "address": "Parish Hall\n96 South Street\nLancing\nBN15 8AJ",
     "phone": "",
     "hours": "",
@@ -118,7 +118,7 @@
     "booking_location_id": "4c1c3978-ffad-4a47-97ba-210e6eb8857f"
   },
   {
-    "title": "Portsmouth Citizens Advice",
+    "title": "Portsmouth",
     "address": "Ark Royal House\nWinston Churchill Avenue\nPORTSMOUTH\nHampshire\nPO1 2GF",
     "phone": "",
     "hours": "",
@@ -128,7 +128,7 @@
     "booking_location_id": "4c1c3978-ffad-4a47-97ba-210e6eb8857f"
   },
   {
-    "title": "Burgess Hill Citizens Advice",
+    "title": "Burgess Hill",
     "address": "Delmon House\n38 Church Rd\nBURGESS HILL\nWest Sussex\nRH15 9AE",
     "phone": "",
     "hours": "",
@@ -138,7 +138,7 @@
     "booking_location_id": "4c1c3978-ffad-4a47-97ba-210e6eb8857f"
   },
   {
-    "title": "Haywards Heath Citizens Advice",
+    "title": "Haywards Heath",
     "address": "Oaklands\nPaddockhall Road\nHAYWARDS HEATH\nWest Sussex\nRH16 1HG",
     "phone": "",
     "hours": "",
@@ -148,7 +148,7 @@
     "booking_location_id": "4c1c3978-ffad-4a47-97ba-210e6eb8857f"
   },
   {
-    "title": "Bournemouth Citizens Advice",
+    "title": "Bournemouth",
     "address": "West Wing\nTown Hall\nBourne Avenue\nBOURNEMOUTH\nDorset\nBH2 6DX",
     "phone": "01202 203661",
     "hours": "Monday to Friday, 9:45am to 3:30pm",
@@ -157,7 +157,7 @@
     "id": "25d21505-bfeb-4539-b3df-250eb7628b1d"
   },
   {
-    "title": "Kinson Citizens Advice",
+    "title": "Kinson",
     "address": "Wimborne Road\nKinson\nBOURNEMOUTH\nDorset\nBH11 9AW",
     "phone": "",
     "hours": "",
@@ -167,7 +167,7 @@
     "booking_location_id": "25d21505-bfeb-4539-b3df-250eb7628b1d"
   },
   {
-    "title": "Bridport and District Citizens Advice",
+    "title": "Bridport and District",
     "address": "45 South Street\nBRIDPORT\nDorset\nDT6 3NY",
     "phone": "",
     "hours": "",
@@ -177,7 +177,7 @@
     "booking_location_id": "25d21505-bfeb-4539-b3df-250eb7628b1d"
   },
   {
-    "title": "Christchurch Citizens Advice",
+    "title": "Christchurch",
     "address": "2 Sopers Lane\nCHRISTCHURCH\nDorset\nBH23 1JG",
     "phone": "",
     "hours": "",
@@ -187,7 +187,7 @@
     "booking_location_id": "25d21505-bfeb-4539-b3df-250eb7628b1d"
   },
   {
-    "title": "Wimborne Citizens Advice",
+    "title": "Wimborne",
     "address": "Wimborne Community Learning and Resource Centre\nHanham Road\nWimborne\nDorset\nBH21 1AS",
     "phone": "",
     "hours": "",
@@ -197,7 +197,7 @@
     "booking_location_id": "25d21505-bfeb-4539-b3df-250eb7628b1d"
   },
   {
-    "title": "Exmouth Citizens Advice",
+    "title": "Exmouth",
     "address": "Town Hall\nSt Andrews Road\nEXMOUTH\nDevon\nEX8 1AW",
     "phone": "",
     "hours": "",
@@ -207,7 +207,7 @@
     "booking_location_id": "25d21505-bfeb-4539-b3df-250eb7628b1d"
   },
   {
-    "title": "Honiton Citizens Advice",
+    "title": "Honiton",
     "address": "Honiton Library & Information Centre\n48-50 New Street\nHONITON\nDevon\nEX14 1BS",
     "phone": "",
     "hours": "",
@@ -217,7 +217,7 @@
     "booking_location_id": "25d21505-bfeb-4539-b3df-250eb7628b1d"
   },
   {
-    "title": "Seaton Citizens Advice",
+    "title": "Seaton",
     "address": "23 Fore Street\nSEATON\nDevon\nEX12 2LE",
     "phone": "",
     "hours": "",
@@ -227,7 +227,7 @@
     "booking_location_id": "25d21505-bfeb-4539-b3df-250eb7628b1d"
   },
   {
-    "title": "Isle of Wight Citizens Advice",
+    "title": "Isle of Wight",
     "address": "Isle Help Advice Hub\n7 High Street\nNEWPORT\nIsle of Wight\nPO30 1SS",
     "phone": "",
     "hours": "",
@@ -237,7 +237,7 @@
     "booking_location_id": "25d21505-bfeb-4539-b3df-250eb7628b1d"
   },
   {
-    "title": "Weymouth Citizens Advice",
+    "title": "Weymouth",
     "address": "2 Mulberry Terrace\nGreat George Street\nWEYMOUTH\nDorset\nDT4 8NQ",
     "phone": "",
     "hours": "",
@@ -247,7 +247,7 @@
     "booking_location_id": "25d21505-bfeb-4539-b3df-250eb7628b1d"
   },
   {
-    "title": "Caerphilly Citizens Advice",
+    "title": "Caerphilly",
     "address": "2B De Clare House\n5 Alfred Owen Way\nPontygwindy Industrial Estate\nCAERPHILLY\nCF83 3HU",
     "phone": "01443 878054",
     "hours": "Monday to Friday, 9am to 5pm",
@@ -256,7 +256,7 @@
     "id": "fa064037-1467-403a-a3ca-a963853e9f89"
   },
   {
-    "title": "Bargoed Citizens Advice",
+    "title": "Bargoed",
     "address": "41b Hanbury Road\nBARGOED\nCaerphilly\nCF81 8QU",
     "phone": "",
     "hours": "",
@@ -266,7 +266,7 @@
     "booking_location_id": "fa064037-1467-403a-a3ca-a963853e9f89"
   },
   {
-    "title": "Blaina Citizens Advice",
+    "title": "Blaina",
     "address": "Arosfa House\nHigh Street\nBLAINA\nBlaenau Gwent\nNP13 3AN",
     "phone": "",
     "hours": "",
@@ -276,7 +276,7 @@
     "booking_location_id": "fa064037-1467-403a-a3ca-a963853e9f89"
   },
   {
-    "title": "Risca Citizens Advice",
+    "title": "Risca",
     "address": "Park Road\nRISCA\nCaerphilly\nNP11 6BJ",
     "phone": "",
     "hours": "",
@@ -286,7 +286,7 @@
     "booking_location_id": "fa064037-1467-403a-a3ca-a963853e9f89"
   },
   {
-    "title": "Monmouth Citizens Advice",
+    "title": "Monmouth",
     "address": "23a Whitecross Street\nMONMOUTH\nMonmouthshire\nNP25 3BY",
     "phone": "",
     "hours": "",
@@ -296,7 +296,7 @@
     "booking_location_id": "fa064037-1467-403a-a3ca-a963853e9f89"
   },
   {
-    "title": "Abergavenny Citizens Advice",
+    "title": "Abergavenny",
     "address": "19 a&b Cross Street\nABERGAVENNY\nMonmouthshire\nNP7 5EW",
     "phone": "",
     "hours": "",
@@ -316,7 +316,7 @@
     "booking_location_id": "fa064037-1467-403a-a3ca-a963853e9f89"
   },
   {
-    "title": "Chepstow Citizens Advice",
+    "title": "Chepstow",
     "address": "The Gate House\nHigh Street\nCHEPSTOW\nMonmouthshire\nNP16 5LH",
     "phone": "",
     "hours": "",
@@ -326,7 +326,7 @@
     "booking_location_id": "fa064037-1467-403a-a3ca-a963853e9f89"
   },
   {
-    "title": "Rhondda Cynon Taff Citizens Advice",
+    "title": "Rhondda Cynon Taff",
     "address": "5 Gelliwastad Road\nPONTYPRIDD\nRhondda Cynon Taff\nCF37 2BP",
     "phone": "",
     "hours": "",
@@ -336,7 +336,7 @@
     "booking_location_id": "fa064037-1467-403a-a3ca-a963853e9f89"
   },
   {
-    "title": "Torfaen Citizens Advice",
+    "title": "Torfaen",
     "address": "45 Gwent Square\nTorfaen\nCWMBRAN\nNP44 1PL",
     "phone": "",
     "hours": "",
@@ -346,7 +346,7 @@
     "booking_location_id": "fa064037-1467-403a-a3ca-a963853e9f89"
   },
   {
-    "title": "Merthyr Tydfil Citizens Advice",
+    "title": "Merthyr Tydfil",
     "address": "Tramroadside North\nMerthyr Tydfil\nCF47 0AP",
     "phone": "",
     "hours": "",
@@ -356,7 +356,7 @@
     "booking_location_id": "fa064037-1467-403a-a3ca-a963853e9f89"
   },
   {
-    "title": "Newport Citizens Advice",
+    "title": "Newport",
     "address": "8 Corn Street\nNEWPORT\nGwent\nNP20 1DJ",
     "phone": "",
     "hours": "",
@@ -366,7 +366,7 @@
     "booking_location_id": "fa064037-1467-403a-a3ca-a963853e9f89"
   },
   {
-    "title": "Llangefni Citizens Advice",
+    "title": "Llangefni",
     "address": "4/10 Ffordd yr Efail\nLlangefni\nYnys Mon\nLL77 7ER",
     "phone": "01248 723785",
     "hours": "Monday to Thursday, 9am to 5pm\nFriday, 9am to 4pm",
@@ -375,7 +375,7 @@
     "id": "b95b2a8f-d2c5-4f52-a630-c198537eae7a"
   },
   {
-    "title": "Amlwch Citizens Advice",
+    "title": "Amlwch",
     "address": "Town Council Offices\nLlawr y Llan\nLon Goch\nAMLWCH\nAnglesey\nLL68 9EN",
     "phone": "",
     "hours": "",
@@ -385,7 +385,7 @@
     "booking_location_id": "b95b2a8f-d2c5-4f52-a630-c198537eae7a"
   },
   {
-    "title": "Holyhead Citizens Advice",
+    "title": "Holyhead",
     "address": "6 Victoria Terrace\nHOLYHEAD\nAnglesey\nLL65 1UT",
     "phone": "",
     "hours": "",
@@ -395,7 +395,7 @@
     "booking_location_id": "b95b2a8f-d2c5-4f52-a630-c198537eae7a"
   },
   {
-    "title": "Bangor Citizens Advice",
+    "title": "Bangor",
     "address": "The Old Smithy\nSackville Road\nBANGOR\nGwynedd\nLL57 1LE",
     "phone": "",
     "hours": "",
@@ -405,7 +405,7 @@
     "booking_location_id": "b95b2a8f-d2c5-4f52-a630-c198537eae7a"
   },
   {
-    "title": "Caernarfon Citizens Advice",
+    "title": "Caernarfon",
     "address": "Victoria Chambers\nCrown Street\nCAERNARFON\nGwynedd\nLL55 1SY",
     "phone": "",
     "hours": "",
@@ -415,7 +415,7 @@
     "booking_location_id": "b95b2a8f-d2c5-4f52-a630-c198537eae7a"
   },
   {
-    "title": "Pwllheli Citizens Advice",
+    "title": "Pwllheli",
     "address": "Llys Cynan\n12 Penlan Street\nPWLLHELI\nGwynedd\nLL53 5DH",
     "phone": "",
     "hours": "",
@@ -425,7 +425,7 @@
     "booking_location_id": "b95b2a8f-d2c5-4f52-a630-c198537eae7a"
   },
   {
-    "title": "Barry Citizens Advice",
+    "title": "Barry",
     "address": "119 Broad Street\nBARRY\nVale of Glamorgan\nCF62 7TZ",
     "phone": "01446 704998",
     "hours": "Monday to Thursday, 9am to 5pm\nFriday, 9am to 4pm",
@@ -434,7 +434,7 @@
     "id": "525da418-ff2c-4522-90a9-bc70ba4ca78b"
   },
   {
-    "title": "Bridgend Citizens Advice",
+    "title": "Bridgend",
     "address": "Ground Floor\n26 Dunraven Place\nBRIDGEND\nCF31 1JD",
     "phone": "",
     "hours": "",
@@ -444,7 +444,7 @@
     "booking_location_id": "525da418-ff2c-4522-90a9-bc70ba4ca78b"
   },
   {
-    "title": "Cardiff Citizens Advice",
+    "title": "Cardiff",
     "address": "1st Floor\nMarland House\nCentral Square\nCardiff\nCF10 1EP",
     "phone": "",
     "hours": "",
@@ -454,7 +454,7 @@
     "booking_location_id": "525da418-ff2c-4522-90a9-bc70ba4ca78b"
   },
   {
-    "title": "Cardigan Citizens Advice",
+    "title": "Cardigan",
     "address": "Napier Street\nCARDIGAN\nCeredigion\nSA43 1ED",
     "phone": "01239 621594",
     "hours": "Monday to Friday, 9am to 4pm",
@@ -463,7 +463,7 @@
     "id": "18ef0b7d-b13a-4284-9765-aa888aa4ba09"
   },
   {
-    "title": "Aberystwyth Citizens Advice",
+    "title": "Aberystwyth",
     "address": "12 Cambrian Place\nABERYSTWYTH\nCeredigion\nSY23 1NT",
     "phone": "",
     "hours": "",
@@ -473,7 +473,7 @@
     "booking_location_id": "18ef0b7d-b13a-4284-9765-aa888aa4ba09"
   },
   {
-    "title": "Chelmsford Citizens Advice",
+    "title": "Chelmsford",
     "address": "Burgess Well House\nCoval Lane\nCHELMSFORD\nEssex\nCM1 1FW",
     "phone": "01245 205567",
     "hours": "Monday to Friday, 9am to 5pm",
@@ -482,7 +482,7 @@
     "id": "ecb39ba7-ad9e-4dca-b3a6-904bc3421436"
   },
   {
-    "title": "Basildon Citizens Advice",
+    "title": "Basildon",
     "address": "The Basildon Centre\nSt Martins Square\nBasildon Borough Council\nBASILDON\nEssex\nSS14 1DY",
     "phone": "",
     "hours": "",
@@ -492,7 +492,7 @@
     "booking_location_id": "ecb39ba7-ad9e-4dca-b3a6-904bc3421436"
   },
   {
-    "title": "Braintree Citizens Advice",
+    "title": "Braintree",
     "address": "2 St Michaels Road\nBraintree District\nBRAINTREE\nEssex\nCM7 1EX",
     "phone": "",
     "hours": "",
@@ -502,7 +502,7 @@
     "booking_location_id": "ecb39ba7-ad9e-4dca-b3a6-904bc3421436"
   },
   {
-    "title": "Witham Citizens Advice",
+    "title": "Witham",
     "address": "Collingwood Road (by Public Hall)\nBraintree District\nWITHAM\nEssex\nCM8 2DY",
     "phone": "",
     "hours": "",
@@ -512,7 +512,7 @@
     "booking_location_id": "ecb39ba7-ad9e-4dca-b3a6-904bc3421436"
   },
   {
-    "title": "Brentwood Citizens Advice",
+    "title": "Brentwood",
     "address": "8 - 12 Crown Street\nBRENTWOOD\nEssex\nCM14 4BA",
     "phone": "",
     "hours": "",
@@ -522,7 +522,7 @@
     "booking_location_id": "ecb39ba7-ad9e-4dca-b3a6-904bc3421436"
   },
   {
-    "title": "Benfleet Citizens Advice",
+    "title": "Benfleet",
     "address": "The Whitehouse\nRear of Council Offices\nKiln Road\nCastle Point\nBENFLEET\nEssex\nSS7 1TF",
     "phone": "",
     "hours": "",
@@ -532,7 +532,7 @@
     "booking_location_id": "ecb39ba7-ad9e-4dca-b3a6-904bc3421436"
   },
   {
-    "title": "Clacton-on-Sea (Tendring) Citizens Advice",
+    "title": "Clacton-on-Sea (Tendring)",
     "address": "18 Carnarvon Road\nCLACTON-ON-SEA\nEssex\nCO15 6QF",
     "phone": "",
     "hours": "",
@@ -542,7 +542,7 @@
     "booking_location_id": "ecb39ba7-ad9e-4dca-b3a6-904bc3421436"
   },
   {
-    "title": "Colchester Citizens Advice",
+    "title": "Colchester",
     "address": "Blackburn House\n32 Crouch Street\nCOLCHESTER\nEssex\nCO3 3HH",
     "phone": "",
     "hours": "",
@@ -552,7 +552,7 @@
     "booking_location_id": "ecb39ba7-ad9e-4dca-b3a6-904bc3421436"
   },
   {
-    "title": "Harlow Citizens Advice",
+    "title": "Harlow",
     "address": "13-15 East Gate\nThe High\nHARLOW\nEssex\nCM20 1HP",
     "phone": "",
     "hours": "",
@@ -562,7 +562,7 @@
     "booking_location_id": "ecb39ba7-ad9e-4dca-b3a6-904bc3421436"
   },
   {
-    "title": "Loughton Citizens Advice",
+    "title": "Loughton",
     "address": "St Marys Parish Centre\nHigh Road\nLOUGHTON\nEssex\nIG10 1BB",
     "phone": "",
     "hours": "",
@@ -572,7 +572,7 @@
     "booking_location_id": "ecb39ba7-ad9e-4dca-b3a6-904bc3421436"
   },
   {
-    "title": "Maldon and District Citizens Advice",
+    "title": "Maldon and District",
     "address": "St Cedds House\nPrinces Road\nMALDON\nEssex\nCM9 5NY",
     "phone": "",
     "hours": "",
@@ -582,7 +582,7 @@
     "booking_location_id": "ecb39ba7-ad9e-4dca-b3a6-904bc3421436"
   },
   {
-    "title": "Rayleigh Citizens Advice",
+    "title": "Rayleigh",
     "address": "Civic Suite\nHockley Road\nRAYLEIGH\nEssex\nSS6 8EB",
     "phone": "",
     "hours": "",
@@ -592,7 +592,7 @@
     "booking_location_id": "ecb39ba7-ad9e-4dca-b3a6-904bc3421436"
   },
   {
-    "title": "Southend Citizens Advice",
+    "title": "Southend",
     "address": "1 Church Road\nSOUTHEND-ON-SEA\nEssex\nSS1 2AL",
     "phone": "",
     "hours": "",
@@ -602,7 +602,7 @@
     "booking_location_id": "ecb39ba7-ad9e-4dca-b3a6-904bc3421436"
   },
   {
-    "title": "Thurrock Citizens Advice",
+    "title": "Thurrock",
     "address": "Voluntary & Community Resource Centre\nHigh Street\nThurrock\nGRAYS\nEssex\nRM17 6XP",
     "phone": "",
     "hours": "",
@@ -612,7 +612,7 @@
     "booking_location_id": "ecb39ba7-ad9e-4dca-b3a6-904bc3421436"
   },
   {
-    "title": "Saffron Walden Citizens Advice",
+    "title": "Saffron Walden",
     "address": "Barnard's Yard\nUttlesford\nSAFFRON WALDEN\nEssex\nCB11 4EB",
     "phone": "",
     "hours": "",
@@ -622,7 +622,7 @@
     "booking_location_id": "ecb39ba7-ad9e-4dca-b3a6-904bc3421436"
   },
   {
-    "title": "Winsford Citizens Advice",
+    "title": "Winsford",
     "address": "The Brunner Guildhall\nHigh Street\nWINSFORD\nCheshire\nCW7 2AU",
     "phone": "01606 596399",
     "hours": "Monday to Friday, 9am to 4pm",
@@ -631,7 +631,7 @@
     "id": "df38d9b9-e9a9-4bf0-b56b-4309965b815c"
   },
   {
-    "title": "Chester Citizens Advice",
+    "title": "Chester",
     "address": "Folliott House\n53 Northgate Street\nCHESTER\nCheshire\nCH1 2HQ",
     "phone": "",
     "hours": "",
@@ -641,7 +641,7 @@
     "booking_location_id": "df38d9b9-e9a9-4bf0-b56b-4309965b815c"
   },
   {
-    "title": "Ellesmere Port Citizens Advice",
+    "title": "Ellesmere Port",
     "address": "1 Whitby Road\nEllesmere Port\nELLESMERE PORT\nCheshire\nCH65 8AA",
     "phone": "",
     "hours": "",
@@ -651,7 +651,7 @@
     "booking_location_id": "df38d9b9-e9a9-4bf0-b56b-4309965b815c"
   },
   {
-    "title": "Northwich Citizens Advice",
+    "title": "Northwich",
     "address": "Meadow Court\nMeadow St\nNORTHWICH\nCheshire\nCW9 5FP",
     "phone": "",
     "hours": "",
@@ -661,7 +661,7 @@
     "booking_location_id": "df38d9b9-e9a9-4bf0-b56b-4309965b815c"
   },
   {
-    "title": "Crewe Citizens Advice",
+    "title": "Crewe",
     "address": "50 Victoria Street\nCREWE\nCheshire\nCW1 2JE",
     "phone": "",
     "hours": "",
@@ -671,7 +671,7 @@
     "booking_location_id": "df38d9b9-e9a9-4bf0-b56b-4309965b815c"
   },
   {
-    "title": "Macclesfield Citizens Advice",
+    "title": "Macclesfield",
     "address": "Sunderland House\nSunderland Street\nCheshire East\nMACCLESFIELD\nCheshire\nSK11 6JF",
     "phone": "",
     "hours": "",
@@ -681,7 +681,7 @@
     "booking_location_id": "df38d9b9-e9a9-4bf0-b56b-4309965b815c"
   },
   {
-    "title": "Runcorn Citizens Advice",
+    "title": "Runcorn",
     "address": "Runcorn Office\nGround Floor\nGrosvenor House\nRUNCORN\nCheshire\nWA7 2HF",
     "phone": "",
     "hours": "",
@@ -691,7 +691,7 @@
     "booking_location_id": "df38d9b9-e9a9-4bf0-b56b-4309965b815c"
   },
   {
-    "title": "Widnes Citizens Advice",
+    "title": "Widnes",
     "address": "Unit 3\nVictoria Buildings\nLugsdale Road\nWIDNES\nCheshire\nWA8 6DJ",
     "phone": "",
     "hours": "",
@@ -701,7 +701,7 @@
     "booking_location_id": "df38d9b9-e9a9-4bf0-b56b-4309965b815c"
   },
   {
-    "title": "Birkenhead Citizens Advice",
+    "title": "Birkenhead",
     "address": "50 Argyle Street\nWirral\nBIRKENHEAD\nCH41 6AF",
     "phone": "",
     "hours": "",
@@ -711,7 +711,7 @@
     "booking_location_id": "df38d9b9-e9a9-4bf0-b56b-4309965b815c"
   },
   {
-    "title": "Heswall Citizens Advice",
+    "title": "Heswall",
     "address": "Hillcroft\nRocky Lane\nHeswall\nWIRRAL\nCH60 0BY",
     "phone": "",
     "hours": "",
@@ -721,7 +721,7 @@
     "booking_location_id": "df38d9b9-e9a9-4bf0-b56b-4309965b815c"
   },
   {
-    "title": "Rock Ferry Citizens Advice",
+    "title": "Rock Ferry",
     "address": "Rock Ferry One Stop Shop\n257 Old Chester Road\nRock Ferry\nCH42 3TD",
     "phone": "",
     "hours": "",
@@ -731,7 +731,7 @@
     "booking_location_id": "df38d9b9-e9a9-4bf0-b56b-4309965b815c"
   },
   {
-    "title": "Wallasey Citizens Advice",
+    "title": "Wallasey",
     "address": "237-243 Liscard Road\nWirral\nWALLASEY\nCH44 5TH",
     "phone": "",
     "hours": "",
@@ -741,7 +741,7 @@
     "booking_location_id": "df38d9b9-e9a9-4bf0-b56b-4309965b815c"
   },
   {
-    "title": "Birchwood Citizens Advice",
+    "title": "Birchwood",
     "address": "99 Dewhurst Road\nBirchwood\nWARRINGTON\nCheshire\nWA3 7PG",
     "phone": "",
     "hours": "",
@@ -751,7 +751,7 @@
     "booking_location_id": "df38d9b9-e9a9-4bf0-b56b-4309965b815c"
   },
   {
-    "title": "Lymm Citizens Advice",
+    "title": "Lymm",
     "address": "Davies Way\nLYMM\nCheshire\nWA13 0QW",
     "phone": "",
     "hours": "",
@@ -761,7 +761,7 @@
     "booking_location_id": "df38d9b9-e9a9-4bf0-b56b-4309965b815c"
   },
   {
-    "title": "Warrington Citizens Advice",
+    "title": "Warrington",
     "address": "The Gateway\n89 Sankey Street\nWARRINGTON\nCheshire\nWA1 1SR",
     "phone": "",
     "hours": "",
@@ -771,7 +771,7 @@
     "booking_location_id": "df38d9b9-e9a9-4bf0-b56b-4309965b815c"
   },
   {
-    "title": "Camborne Citizens Advice",
+    "title": "Camborne",
     "address": "Camborne Office\nThe Community Centre\nSouth Terrace\nCAMBORNE\nCornwall\nTR14 8SU",
     "phone": "03333 442480",
     "hours": "Monday to Friday, 9am to 3pm",
@@ -780,7 +780,7 @@
     "id": "00b45549-f1da-40a4-8696-3f3c1ce42723"
   },
   {
-    "title": "Bodmin Citizens Advice",
+    "title": "Bodmin",
     "address": "Shire Hall\nMount Folly Square\nBODMIN\nCornwall\nPL31 2DQ",
     "phone": "",
     "hours": "",
@@ -790,7 +790,7 @@
     "booking_location_id": "00b45549-f1da-40a4-8696-3f3c1ce42723"
   },
   {
-    "title": "Bude Citizens Advice",
+    "title": "Bude",
     "address": "Neetside\nBUDE\nCornwall\nEX23 8LB",
     "phone": "",
     "hours": "",
@@ -800,7 +800,7 @@
     "booking_location_id": "00b45549-f1da-40a4-8696-3f3c1ce42723"
   },
   {
-    "title": "Falmouth Citizens Advice",
+    "title": "Falmouth",
     "address": "Mulberry Passage\nMarket Strand\nFALMOUTH\nCornwall\nTR11 3DB",
     "phone": "",
     "hours": "",
@@ -810,7 +810,7 @@
     "booking_location_id": "00b45549-f1da-40a4-8696-3f3c1ce42723"
   },
   {
-    "title": "Liskeard Citizens Advice",
+    "title": "Liskeard",
     "address": "Duchy House\n21 Dean Street\nLISKEARD\nCornwall\nPL14 4AB",
     "phone": "",
     "hours": "",
@@ -820,7 +820,7 @@
     "booking_location_id": "00b45549-f1da-40a4-8696-3f3c1ce42723"
   },
   {
-    "title": "Newquay Citizens Advice",
+    "title": "Newquay",
     "address": "The Public Library\nMarcus Hill\nNEWQUAY\nCornwall\nTR7 1BD",
     "phone": "",
     "hours": "",
@@ -830,7 +830,7 @@
     "booking_location_id": "00b45549-f1da-40a4-8696-3f3c1ce42723"
   },
   {
-    "title": "Penzance Citizens Advice",
+    "title": "Penzance",
     "address": "Cornwall Council One Stop Shop\nSt Clare\nPENZANCE\nCornwall\nTR18 3QW",
     "phone": "",
     "hours": "",
@@ -840,7 +840,7 @@
     "booking_location_id": "00b45549-f1da-40a4-8696-3f3c1ce42723"
   },
   {
-    "title": "Saltash Citizens Advice",
+    "title": "Saltash",
     "address": "Ground Floor\n18 Belle Vue Road\nSALTASH\nCornwall\nPL12 6ES",
     "phone": "",
     "hours": "",
@@ -850,7 +850,7 @@
     "booking_location_id": "00b45549-f1da-40a4-8696-3f3c1ce42723"
   },
   {
-    "title": "St Austell Citizens Advice",
+    "title": "St Austell",
     "address": "39 Penwinnick Road\nST AUSTELL\nCornwall\nPL25 5DS",
     "phone": "",
     "hours": "",
@@ -860,7 +860,7 @@
     "booking_location_id": "00b45549-f1da-40a4-8696-3f3c1ce42723"
   },
   {
-    "title": "Truro Citizens Advice",
+    "title": "Truro",
     "address": "The Library\nUnion Place\nTRURO\nCornwall\nTR1 1EP",
     "phone": "",
     "hours": "",
@@ -870,7 +870,7 @@
     "booking_location_id": "00b45549-f1da-40a4-8696-3f3c1ce42723"
   },
   {
-    "title": "Barnstaple Citizens Advice",
+    "title": "Barnstaple",
     "address": "1 Bridge Buildings\nThe Strand\nBARNSTAPLE\nDevon\nEX31 1HF",
     "phone": "",
     "hours": "",
@@ -880,7 +880,7 @@
     "booking_location_id": "00b45549-f1da-40a4-8696-3f3c1ce42723"
   },
   {
-    "title": "Okehampton Citizens Advice",
+    "title": "Okehampton",
     "address": "The Ockment Centre\nNorth Street\nOKEHAMPTON\nDevon\nEX20 1AR",
     "phone": "",
     "hours": "",
@@ -890,7 +890,7 @@
     "booking_location_id": "00b45549-f1da-40a4-8696-3f3c1ce42723"
   },
   {
-    "title": "Coventry Citizens Advice",
+    "title": "Coventry",
     "address": "Kirby House\nLittle Park Street\nCOVENTRY\nWest Midlands\nCV1 2JZ",
     "phone": "02476 252621",
     "hours": "Monday to Friday, 9:30am to 4pm",
@@ -899,7 +899,7 @@
     "id": "26f675df-fbc6-41a2-9594-485c2052ec2e"
   },
   {
-    "title": "Bedworth Citizens Advice",
+    "title": "Bedworth",
     "address": "25 Congreve Walk\nBedworth\nWarwickshire\nCV12 8LX",
     "phone": "",
     "hours": "",
@@ -909,7 +909,7 @@
     "booking_location_id": "26f675df-fbc6-41a2-9594-485c2052ec2e"
   },
   {
-    "title": "Nuneaton Citizens Advice",
+    "title": "Nuneaton",
     "address": "19 Dugdale Street\nNUNEATON\nWarwickshire\nCV11 5QJ",
     "phone": "",
     "hours": "",
@@ -919,7 +919,7 @@
     "booking_location_id": "26f675df-fbc6-41a2-9594-485c2052ec2e"
   },
   {
-    "title": "Rugby Citizens Advice",
+    "title": "Rugby",
     "address": "1st Floor\nChestnut House\n32 North Street\nRUGBY\nWarwickshire\nCV21 2AG",
     "phone": "",
     "hours": "",
@@ -929,7 +929,7 @@
     "booking_location_id": "26f675df-fbc6-41a2-9594-485c2052ec2e"
   },
   {
-    "title": "Northfield Citizens Advice",
+    "title": "Northfield",
     "address": "Northfield Library\n77 Church Road\nNorthfield\nBIRMINGHAM\nWest Midlands\nB31 2LB",
     "phone": "",
     "hours": "",
@@ -939,7 +939,7 @@
     "booking_location_id": "26f675df-fbc6-41a2-9594-485c2052ec2e"
   },
   {
-    "title": "Tyseley Citizens Advice",
+    "title": "Tyseley",
     "address": "744-746 Warwick Road\nTyseley\nBIRMINGHAM\nWest Midlands\nB11 2HG",
     "phone": "",
     "hours": "",
@@ -949,7 +949,7 @@
     "booking_location_id": "26f675df-fbc6-41a2-9594-485c2052ec2e"
   },
   {
-    "title": "Chelmsley Wood Citizens Advice",
+    "title": "Chelmsley Wood",
     "address": "176 Bosworth Drive\nChelmsley Wood\nSOLIHULL\nWest Midlands\nB37 5DZ",
     "phone": "",
     "hours": "",
@@ -959,7 +959,7 @@
     "booking_location_id": "26f675df-fbc6-41a2-9594-485c2052ec2e"
   },
   {
-    "title": "Shirley Citizens Advice",
+    "title": "Shirley",
     "address": "Shirley Centre\n274 Stratford Rd\nShirley\nSOLIHULL\nWest Midlands\nB90 3AD",
     "phone": "",
     "hours": "",
@@ -969,7 +969,7 @@
     "booking_location_id": "26f675df-fbc6-41a2-9594-485c2052ec2e"
   },
   {
-    "title": "Solihull Citizens Advice",
+    "title": "Solihull",
     "address": "The Priory\nChurch Hill Road\nSOLIHULL\nWest Midlands\nB91 3LF",
     "phone": "",
     "hours": "",
@@ -979,7 +979,7 @@
     "booking_location_id": "26f675df-fbc6-41a2-9594-485c2052ec2e"
   },
   {
-    "title": "North Warwickshire Citizens Advice",
+    "title": "North Warwickshire",
     "address": "The Parish Rooms\nWelcome Street\nATHERSTONE\nWarwickshire\nCV9 1DU",
     "phone": "",
     "hours": "",
@@ -989,7 +989,7 @@
     "booking_location_id": "26f675df-fbc6-41a2-9594-485c2052ec2e"
   },
   {
-    "title": "Stratford-upon-Avon Citizens Advice",
+    "title": "Stratford-upon-Avon",
     "address": "25 Meer Street\nSTRATFORD UPON AVON\nWarwickshire\nCV37 6QB",
     "phone": "",
     "hours": "",
@@ -999,7 +999,7 @@
     "booking_location_id": "26f675df-fbc6-41a2-9594-485c2052ec2e"
   },
   {
-    "title": "Leamington Spa Citizens Advice",
+    "title": "Leamington Spa",
     "address": "10 Hamilton Terrace\nLEAMINGTON SPA\nWarwickshire\nCV32 4LY",
     "phone": "",
     "hours": "",
@@ -1009,7 +1009,7 @@
     "booking_location_id": "26f675df-fbc6-41a2-9594-485c2052ec2e"
   },
   {
-    "title": "Darlington Citizens Advice",
+    "title": "Darlington",
     "address": "Bennet House\n14 Horsemarket\nDARLINGTON\nCounty Durham\nDL1 5PT",
     "phone": "01325 249833",
     "hours": "Monday, Tuesday, Thursday, Friday, 9am to 5pm\nWednesday, 9am to 6pm",
@@ -1018,7 +1018,7 @@
     "id": "ee399dec-f9c2-4201-b27f-e3da114d3e17"
   },
   {
-    "title": "Durham Citizens Advice",
+    "title": "Durham",
     "address": "32 Claypath\nDURHAM\nCounty Durham\nDH1 1RH",
     "phone": "",
     "hours": "",
@@ -1028,7 +1028,7 @@
     "booking_location_id": "ee399dec-f9c2-4201-b27f-e3da114d3e17"
   },
   {
-    "title": "Hartlepool Citizens Advice",
+    "title": "Hartlepool",
     "address": "87 Park Road\nHARTLEPOOL\nTS26 9HP",
     "phone": "",
     "hours": "",
@@ -1038,7 +1038,7 @@
     "booking_location_id": "ee399dec-f9c2-4201-b27f-e3da114d3e17"
   },
   {
-    "title": "Middlesbrough Citizens Advice",
+    "title": "Middlesbrough",
     "address": "3 Bolckow Street\nMIDDLESBROUGH\nCleveland\nTS1 1TH",
     "phone": "",
     "hours": "",
@@ -1048,7 +1048,7 @@
     "booking_location_id": "ee399dec-f9c2-4201-b27f-e3da114d3e17"
   },
   {
-    "title": "Redcar & Cleveland Citizens Advice",
+    "title": "Redcar & Cleveland",
     "address": "Grangetown Neighbourhood Centre\nBolckow Road\nGrangetown\nRedcar and Cleveland\nMIDDLESBROUGH\nCleveland\nTS6 7BS",
     "phone": "",
     "hours": "",
@@ -1058,7 +1058,7 @@
     "booking_location_id": "ee399dec-f9c2-4201-b27f-e3da114d3e17"
   },
   {
-    "title": "Stockton & District Citizens Advice",
+    "title": "Stockton & District",
     "address": "Bath Lane\nSTOCKTON-ON-TEES\nCleveland\nTS18 2DS",
     "phone": "",
     "hours": "",
@@ -1068,7 +1068,7 @@
     "booking_location_id": "ee399dec-f9c2-4201-b27f-e3da114d3e17"
   },
   {
-    "title": "Denbigh Citizens Advice",
+    "title": "Denbigh",
     "address": "23 High Street\nDENBIGH\nDenbighshire\nLL16 3HY",
     "phone": "01745 818081",
     "hours": "Monday to Friday, 9:30am to 2:30pm",
@@ -1077,7 +1077,7 @@
     "id": "a75c52c0-7b36-42b5-b965-73c8949c252d"
   },
   {
-    "title": "Rhyl Citizens Advice",
+    "title": "Rhyl",
     "address": "11 Water Street\nRHYL\nDenbighshire\nLL18 1SP",
     "phone": "",
     "hours": "",
@@ -1087,7 +1087,7 @@
     "booking_location_id": "a75c52c0-7b36-42b5-b965-73c8949c252d"
   },
   {
-    "title": "Ruthin Citizens Advice",
+    "title": "Ruthin",
     "address": "The Old Fire Station\nMarket Street\nRUTHIN\nDenbighshire\nLL15 1BE",
     "phone": "",
     "hours": "",
@@ -1097,7 +1097,7 @@
     "booking_location_id": "a75c52c0-7b36-42b5-b965-73c8949c252d"
   },
   {
-    "title": "Llandudno Citizens Advice",
+    "title": "Llandudno",
     "address": "District Office\nEryl Wen\nEryl Place\nLLANDUDNO\nConwy\nLL30 2TX",
     "phone": "",
     "hours": "",
@@ -1107,7 +1107,7 @@
     "booking_location_id": "a75c52c0-7b36-42b5-b965-73c8949c252d"
   },
   {
-    "title": "Deeside Citizens Advice",
+    "title": "Deeside",
     "address": "Cable Street\nOff Tuscan Way\nConnah's Quay\nFlintshire\nDEESIDE\nFlintshire\nCH5 4DZ",
     "phone": "",
     "hours": "",
@@ -1117,7 +1117,7 @@
     "booking_location_id": "a75c52c0-7b36-42b5-b965-73c8949c252d"
   },
   {
-    "title": "Holywell Citizens Advice",
+    "title": "Holywell",
     "address": "The Old Library\nPost Office Lane\nHOLYWELL\nFlintshire\nCH8 7LH",
     "phone": "",
     "hours": "",
@@ -1127,7 +1127,7 @@
     "booking_location_id": "a75c52c0-7b36-42b5-b965-73c8949c252d"
   },
   {
-    "title": "Mold Citizens Advice",
+    "title": "Mold",
     "address": "The Annexe Terrig House\nChester Street\nMOLD\nFlintshire\nCH7 1EG",
     "phone": "",
     "hours": "",
@@ -1137,7 +1137,7 @@
     "booking_location_id": "a75c52c0-7b36-42b5-b965-73c8949c252d"
   },
   {
-    "title": "Abergele Citizens Advice",
+    "title": "Abergele",
     "address": "125 Bridge Street\nAbergele\nLL22 7HA",
     "phone": "",
     "hours": "",
@@ -1147,7 +1147,7 @@
     "booking_location_id": "a75c52c0-7b36-42b5-b965-73c8949c252d"
   },
   {
-    "title": "Llanwrst Citizens Advice",
+    "title": "Llanwrst",
     "address": "Bridge Street\nLlanwrst\nLL26 0ET",
     "phone": "",
     "hours": "",
@@ -1157,7 +1157,7 @@
     "booking_location_id": "a75c52c0-7b36-42b5-b965-73c8949c252d"
   },
   {
-    "title": "Wrexham Citizens Advice",
+    "title": "Wrexham",
     "address": "35 Grosvenor Road\nWREXHAM\nLL11 1BT",
     "phone": "",
     "hours": "",
@@ -1167,7 +1167,7 @@
     "booking_location_id": "a75c52c0-7b36-42b5-b965-73c8949c252d"
   },
   {
-    "title": "Buxton Citizens Advice",
+    "title": "Buxton",
     "address": "26 Spring Gardens\nHigh Peak\nBUXTON\nDerbyshire\nSK17 6DE",
     "phone": "0808 146 7709",
     "hours": "Monday to Friday, 9am to 5pm",
@@ -1176,7 +1176,7 @@
     "id": "b63e0799-2161-482f-bdfe-5188f904da32"
   },
   {
-    "title": "Matlock Citizens Advice",
+    "title": "Matlock",
     "address": "Town Hall\nBank Road\nMATLOCK\nDerbyshire\nDE4 3NN",
     "phone": "",
     "hours": "",
@@ -1186,7 +1186,7 @@
     "booking_location_id": "b63e0799-2161-482f-bdfe-5188f904da32"
   },
   {
-    "title": "Chesterfield Citizens Advice",
+    "title": "Chesterfield",
     "address": "6-8 Broad Pavement\nCHESTERFIELD\nDerbyshire\nS40 1RP",
     "phone": "",
     "hours": "",
@@ -1196,7 +1196,7 @@
     "booking_location_id": "b63e0799-2161-482f-bdfe-5188f904da32"
   },
   {
-    "title": "Derby Citizens Advice",
+    "title": "Derby",
     "address": "Stuart House\nGreen Lane\nDERBY\nDerbyshire\nDE1 1RS",
     "phone": "",
     "hours": "",
@@ -1206,7 +1206,7 @@
     "booking_location_id": "b63e0799-2161-482f-bdfe-5188f904da32"
   },
   {
-    "title": "Mansfield Citizens Advice",
+    "title": "Mansfield",
     "address": "Advicehub\n16 Regent Street\nMANSFIELD\nNottinghamshire\nNG18 1SS",
     "phone": "",
     "hours": "",
@@ -1216,7 +1216,7 @@
     "booking_location_id": "b63e0799-2161-482f-bdfe-5188f904da32"
   },
   {
-    "title": "Diss Citizens Advice",
+    "title": "Diss",
     "address": "Shelfanger Road\nDISS\nNorfolk\nIP22 4EH",
     "phone": "01379 658205",
     "hours": "Monday to Friday, 9am to 5:30pm",
@@ -1225,7 +1225,7 @@
     "id": "b63c56e9-2111-43cc-bb72-c58ad4053bfc"
   },
   {
-    "title": "Thetford Citizens Advice",
+    "title": "Thetford",
     "address": "Level 3\nBreckland House\nTHETFORD\nNorfolk\nIP24 1BT",
     "phone": "",
     "hours": "",
@@ -1235,7 +1235,7 @@
     "booking_location_id": "b63c56e9-2111-43cc-bb72-c58ad4053bfc"
   },
   {
-    "title": "Felixstowe Citizens Advice",
+    "title": "Felixstowe",
     "address": "2-6 Orwell Road\nFELIXSTOWE\nSuffolk\nIP11 7HD",
     "phone": "",
     "hours": "",
@@ -1245,7 +1245,7 @@
     "booking_location_id": "b63c56e9-2111-43cc-bb72-c58ad4053bfc"
   },
   {
-    "title": "Ipswich Citizens Advice",
+    "title": "Ipswich",
     "address": "19 Tower Street\nIPSWICH\nSuffolk\nIP1 3BE",
     "phone": "",
     "hours": "",
@@ -1255,7 +1255,7 @@
     "booking_location_id": "b63c56e9-2111-43cc-bb72-c58ad4053bfc"
   },
   {
-    "title": "Stowmarket Citizens Advice",
+    "title": "Stowmarket",
     "address": "5 Milton Road South\nSTOWMARKET\nSuffolk\nIP14 1EZ",
     "phone": "",
     "hours": "",
@@ -1265,7 +1265,7 @@
     "booking_location_id": "b63c56e9-2111-43cc-bb72-c58ad4053bfc"
   },
   {
-    "title": "Beccles Citizens Advice",
+    "title": "Beccles",
     "address": "12 New Market\nBECCLES\nSuffolk\nNR34 9HB",
     "phone": "",
     "hours": "",
@@ -1275,7 +1275,7 @@
     "booking_location_id": "b63c56e9-2111-43cc-bb72-c58ad4053bfc"
   },
   {
-    "title": "Norwich Citizens Advice",
+    "title": "Norwich",
     "address": "St Crispin's House\nSt Georges Street\nNORWICH\nNorfolk\nNR3 1PD",
     "phone": "",
     "hours": "",
@@ -1285,7 +1285,7 @@
     "booking_location_id": "b63c56e9-2111-43cc-bb72-c58ad4053bfc"
   },
   {
-    "title": "Fakenham Citizens Advice",
+    "title": "Fakenham",
     "address": "The Old Rectory\n21 Oak Street\nFAKENHAM\nNorfolk\nNR21 9DX",
     "phone": "",
     "hours": "",
@@ -1295,7 +1295,7 @@
     "booking_location_id": "b63c56e9-2111-43cc-bb72-c58ad4053bfc"
   },
   {
-    "title": "Sudbury Citizens Advice",
+    "title": "Sudbury",
     "address": "Belle Vue\nNewton Road\nBabergh\nSUDBURY\nSuffolk\nCO10 2RG",
     "phone": "",
     "hours": "",
@@ -1305,7 +1305,7 @@
     "booking_location_id": "b63c56e9-2111-43cc-bb72-c58ad4053bfc"
   },
   {
-    "title": "Bury St Edmunds Citizens Advice",
+    "title": "Bury St Edmunds",
     "address": "The Risbygate Centre\n90 Risbygate Street\nBURY ST EDMUNDS\nSuffolk\nIP33 3AA",
     "phone": "",
     "hours": "",
@@ -1315,7 +1315,7 @@
     "booking_location_id": "b63c56e9-2111-43cc-bb72-c58ad4053bfc"
   },
   {
-    "title": "Hackney Citizens Advice",
+    "title": "Hackney",
     "address": "300 Mare St\nHACKNEY\nLondon\nE8 1HE",
     "phone": "0208 525 6360",
     "hours": "Monday to Friday, 9:30am to 5pm",
@@ -1324,7 +1324,7 @@
     "id": "ac7112c3-e3cf-45cd-a8ff-9ba827b8e7ef"
   },
   {
-    "title": "Newham Citizens Advice",
+    "title": "Newham",
     "address": "39 Freemasons Road\nNewham\nLondon\nE16 3PJ",
     "phone": "",
     "hours": "",
@@ -1334,7 +1334,7 @@
     "booking_location_id": "ac7112c3-e3cf-45cd-a8ff-9ba827b8e7ef"
   },
   {
-    "title": "Tower Hamlets Citizens Advice",
+    "title": "Tower Hamlets",
     "address": "32 Greatorex Street\nTOWER HAMLETS\nLondon\nE1 5NP",
     "phone": "",
     "hours": "",
@@ -1344,7 +1344,7 @@
     "booking_location_id": "ac7112c3-e3cf-45cd-a8ff-9ba827b8e7ef"
   },
   {
-    "title": "Enfield Citizens Advice",
+    "title": "Enfield",
     "address": "Unit 3\nVincent House\n2E Nags Head Road\nPonders End\nENFIELD\nMiddlesex\nEN3 7FN",
     "phone": "",
     "hours": "",
@@ -1354,7 +1354,7 @@
     "booking_location_id": "ac7112c3-e3cf-45cd-a8ff-9ba827b8e7ef"
   },
   {
-    "title": "Haringey Citizens Advice",
+    "title": "Haringey",
     "address": "551B Tottenham High Road\nHARINGEY\nLondon\nN17 6SB",
     "phone": "",
     "hours": "",
@@ -1364,7 +1364,7 @@
     "booking_location_id": "ac7112c3-e3cf-45cd-a8ff-9ba827b8e7ef"
   },
   {
-    "title": "Northallerton Citizens Advice",
+    "title": "Northallerton",
     "address": "277 High Street\nNORTHALLERTON\nNorth Yorkshire\nDL7 8DW",
     "phone": "01609 767555",
     "hours": "Monday, Tuesday, Thursday, 10am to 3pm",
@@ -1373,7 +1373,7 @@
     "id": "aaf2967c-871a-49f6-9912-c2483879879f"
   },
   {
-    "title": "Richmond Citizens Advice",
+    "title": "Richmond",
     "address": "23 Newbiggin\nRICHMOND\nNorth Yorkshire\nDL10 4DX",
     "phone": "",
     "hours": "",
@@ -1383,7 +1383,7 @@
     "booking_location_id": "aaf2967c-871a-49f6-9912-c2483879879f"
   },
   {
-    "title": "Craven Citizens Advice",
+    "title": "Craven",
     "address": "St Andrews Church Hall\nNewmarket Street\nSKIPTON\nNorth Yorkshire\nBD23 2JE",
     "phone": "",
     "hours": "",
@@ -1393,7 +1393,7 @@
     "booking_location_id": "aaf2967c-871a-49f6-9912-c2483879879f"
   },
   {
-    "title": "Harrogate Citizens Advice",
+    "title": "Harrogate",
     "address": "Audrey Burton House\nQueensway\nHARROGATE\nNorth Yorkshire\nHG1 5LX",
     "phone": "",
     "hours": "",
@@ -1403,7 +1403,7 @@
     "booking_location_id": "aaf2967c-871a-49f6-9912-c2483879879f"
   },
   {
-    "title": "Ripon Citizens Advice",
+    "title": "Ripon",
     "address": "Sharow View\n75 Allhallowgate\nRIPON\nNorth Yorkshire\nHG4 1LE",
     "phone": "",
     "hours": "",
@@ -1413,7 +1413,7 @@
     "booking_location_id": "aaf2967c-871a-49f6-9912-c2483879879f"
   },
   {
-    "title": "Ryedale Citizens Advice",
+    "title": "Ryedale",
     "address": "Stanley Harrison House\nNorton Road\nNorton\nMALTON\nNorth Yorkshire\nYO17 9RD",
     "phone": "",
     "hours": "",
@@ -1423,7 +1423,7 @@
     "booking_location_id": "aaf2967c-871a-49f6-9912-c2483879879f"
   },
   {
-    "title": "Selby Citizens Advice",
+    "title": "Selby",
     "address": "Rear of 4 Park Street\nSELBY\nNorth Yorkshire\nYO8 4PW",
     "phone": "",
     "hours": "",
@@ -1433,7 +1433,7 @@
     "booking_location_id": "aaf2967c-871a-49f6-9912-c2483879879f"
   },
   {
-    "title": "York Citizens Advice",
+    "title": "York",
     "address": "West Offices\nStation Rise\nYORK\nNorth Yorkshire\nYO1 6GA",
     "phone": "",
     "hours": "",
@@ -1443,7 +1443,7 @@
     "booking_location_id": "aaf2967c-871a-49f6-9912-c2483879879f"
   },
   {
-    "title": "Whitby Citizens Advice",
+    "title": "Whitby",
     "address": "Church House\nFlowergate\nWHITBY\nNorth Yorkshire\nYO21 3BA",
     "phone": "",
     "hours": "",
@@ -1453,7 +1453,7 @@
     "booking_location_id": "aaf2967c-871a-49f6-9912-c2483879879f"
   },
   {
-    "title": "St Leonards-on-Sea Citizens Advice",
+    "title": "St Leonards-on-Sea",
     "address": "Advice and Community Hub\nRenaissance House\nLondon Road\nSt Leonards on Sea\nEast Sussex\nTN37 6AN",
     "phone": "01424 452700",
     "hours": "Monday to Friday, 9:30am to 4pm",
@@ -1462,7 +1462,7 @@
     "id": "8e0e385f-2ec9-4e4f-b38e-63ca22d2ac1a"
   },
   {
-    "title": "Lewes Citizens Advice",
+    "title": "Lewes",
     "address": "The Barn\n3 North Court\nLEWES\nEast Sussex\nBN7 2AR",
     "phone": "",
     "hours": "",
@@ -1472,7 +1472,7 @@
     "booking_location_id": "8e0e385f-2ec9-4e4f-b38e-63ca22d2ac1a"
   },
   {
-    "title": "Seaford Citizens Advice",
+    "title": "Seaford",
     "address": "37 Church Street\nSEAFORD\nEast Sussex\nBN25 1HG",
     "phone": "",
     "hours": "",
@@ -1482,7 +1482,7 @@
     "booking_location_id": "8e0e385f-2ec9-4e4f-b38e-63ca22d2ac1a"
   },
   {
-    "title": "Crowborough Citizens Advice",
+    "title": "Crowborough",
     "address": "Croham Lodge\nCroham Road CROWBOROUGH\nEast Sussex\nTN6 2RH",
     "phone": "",
     "hours": "",
@@ -1492,7 +1492,7 @@
     "booking_location_id": "8e0e385f-2ec9-4e4f-b38e-63ca22d2ac1a"
   },
   {
-    "title": "Hailsham Citizens Advice",
+    "title": "Hailsham",
     "address": "Southview\nWestern Road\nHAILSHAM\nEast Sussex\nBN27 3DN",
     "phone": "",
     "hours": "",
@@ -1502,7 +1502,7 @@
     "booking_location_id": "8e0e385f-2ec9-4e4f-b38e-63ca22d2ac1a"
   },
   {
-    "title": "Uckfield Citizens Advice",
+    "title": "Uckfield",
     "address": "The Hub\nCivic Approach\nUCKFIELD\nEast Sussex\nTN22 1AL",
     "phone": "",
     "hours": "",
@@ -1512,7 +1512,7 @@
     "booking_location_id": "8e0e385f-2ec9-4e4f-b38e-63ca22d2ac1a"
   },
   {
-    "title": "Bexhill Citizens Advice",
+    "title": "Bexhill",
     "address": "Bank Chambers\nBuckhurst Road\nBEXHILL-ON-SEA\nEast Sussex\nTN40 1QF",
     "phone": "",
     "hours": "",
@@ -1522,7 +1522,7 @@
     "booking_location_id": "8e0e385f-2ec9-4e4f-b38e-63ca22d2ac1a"
   },
   {
-    "title": "Eastbourne Citizens Advice",
+    "title": "Eastbourne",
     "address": "Unit 6\nHighlight House\n8 St Leonards Road\nEASTBOURNE\nEast Sussex\nBN21 3UH",
     "phone": "",
     "hours": "",
@@ -1532,7 +1532,7 @@
     "booking_location_id": "8e0e385f-2ec9-4e4f-b38e-63ca22d2ac1a"
   },
   {
-    "title": "Brighton & Hove Citizens Advice",
+    "title": "Brighton & Hove",
     "address": "1 Tisbury Road\nHOVE\nEast Sussex\nBN3 4AH",
     "phone": "",
     "hours": "",
@@ -1542,7 +1542,7 @@
     "booking_location_id": "8e0e385f-2ec9-4e4f-b38e-63ca22d2ac1a"
   },
   {
-    "title": "High Wycombe & District Citizens Advice",
+    "title": "High Wycombe & District",
     "address": "8 Easton St\nHigh Wycombe District\nHIGH WYCOMBE\nBuckinghamshire\nHP11 1NJ",
     "phone": "01494 533330",
     "hours": "Tuesday, 12pm to 7:30pm\nWednesday, Friday, 10am to 4pm\nThursday, 10am to 7:30pm",
@@ -1551,7 +1551,7 @@
     "id": "f2ca5441-6a04-4984-9b7a-8106e48dacdf"
   },
   {
-    "title": "Aylesbury Citizens Advice",
+    "title": "Aylesbury",
     "address": "2 Pebble Lane\nAYLESBURY\nBuckinghamshire\nHP20 2JH",
     "phone": "",
     "hours": "",
@@ -1561,7 +1561,7 @@
     "booking_location_id": "f2ca5441-6a04-4984-9b7a-8106e48dacdf"
   },
   {
-    "title": "Buckingham Citizens Advice",
+    "title": "Buckingham",
     "address": "Wheeldon House\nMarket Hill\nBUCKINGHAM\nBuckinghamshire\nMK18 1JX",
     "phone": "",
     "hours": "",
@@ -1571,7 +1571,7 @@
     "booking_location_id": "f2ca5441-6a04-4984-9b7a-8106e48dacdf"
   },
   {
-    "title": "Amersham Citizens Advice",
+    "title": "Amersham",
     "address": "Barn Hall Annexe\nChiltern Avenue\nAMERSHAM\nBuckinghamshire\nHP6 5AH",
     "phone": "",
     "hours": "",
@@ -1581,7 +1581,7 @@
     "booking_location_id": "f2ca5441-6a04-4984-9b7a-8106e48dacdf"
   },
   {
-    "title": "Slough Citizens Advice",
+    "title": "Slough",
     "address": "27 Church Street\nSLOUGH\nBerkshire\nSL1 1PL",
     "phone": "",
     "hours": "",
@@ -1591,7 +1591,7 @@
     "booking_location_id": "f2ca5441-6a04-4984-9b7a-8106e48dacdf"
   },
   {
-    "title": "Maidenhead Citizens Advice",
+    "title": "Maidenhead",
     "address": "4 Marlow Road\nMAIDENHEAD\nBerkshire\nSL6 7YR",
     "phone": "",
     "hours": "",
@@ -1601,7 +1601,7 @@
     "booking_location_id": "f2ca5441-6a04-4984-9b7a-8106e48dacdf"
   },
   {
-    "title": "Dacorum District Citizens Advice",
+    "title": "Dacorum District",
     "address": "Dacre House\n19 Hillfield Road\nHEMEL HEMPSTEAD\nHertfordshire\nHP2 4AA",
     "phone": "",
     "hours": "",
@@ -1611,7 +1611,7 @@
     "booking_location_id": "f2ca5441-6a04-4984-9b7a-8106e48dacdf"
   },
   {
-    "title": "Abbots Langley Citizens Advice",
+    "title": "Abbots Langley",
     "address": "The Old Stables\nSt Lawrences Vicarage\nHigh Street\nABBOTS LANGLEY\nHertfordshire\nWD5 0AS",
     "phone": "",
     "hours": "",
@@ -1621,7 +1621,7 @@
     "booking_location_id": "f2ca5441-6a04-4984-9b7a-8106e48dacdf"
   },
   {
-    "title": "Watford Citizens Advice",
+    "title": "Watford",
     "address": "St Mary's Churchyard\nHigh St\nWATFORD\nHertfordshire\nWD17 2BE",
     "phone": "",
     "hours": "",
@@ -1631,7 +1631,7 @@
     "booking_location_id": "f2ca5441-6a04-4984-9b7a-8106e48dacdf"
   },
   {
-    "title": "South Bucks Citizens Advice",
+    "title": "South Bucks",
     "address": "South Bucks District Council Offices\nCapswood\nOxford Rd\nDenham\nUB9 4LH",
     "phone": "",
     "hours": "",
@@ -1641,7 +1641,7 @@
     "booking_location_id": "f2ca5441-6a04-4984-9b7a-8106e48dacdf"
   },
   {
-    "title": "Hull Citizens Advice",
+    "title": "Hull",
     "address": "The Wilson Centre (1st floor)\nAlfred Gelder Street\nHULL\nEast Yorkshire\nHU1 2AG",
     "phone": "01482 816308",
     "hours": "Monday to Friday, 9am to 4:30pm",
@@ -1650,7 +1650,7 @@
     "id": "bc588eed-fc08-4448-b793-a287e417c2be"
   },
   {
-    "title": "Beverley Citizens Advice",
+    "title": "Beverley",
     "address": "100 Lairgate\nBEVERLEY\nEast Yorkshire\nHU17 8JQ",
     "phone": "",
     "hours": "",
@@ -1660,7 +1660,7 @@
     "booking_location_id": "bc588eed-fc08-4448-b793-a287e417c2be"
   },
   {
-    "title": "Bridlington Citizens Advice",
+    "title": "Bridlington",
     "address": "5a Prospect Arcade\nBRIDLINGTON\nEast Yorkshire\nYO15 2AL",
     "phone": "",
     "hours": "",
@@ -1670,7 +1670,7 @@
     "booking_location_id": "bc588eed-fc08-4448-b793-a287e417c2be"
   },
   {
-    "title": "Goole Citizens Advice",
+    "title": "Goole",
     "address": "80 Pasture Road\nGOOLE\nEast Yorkshire\nDN14 6HD",
     "phone": "",
     "hours": "",
@@ -1680,7 +1680,7 @@
     "booking_location_id": "bc588eed-fc08-4448-b793-a287e417c2be"
   },
   {
-    "title": "Driffield Citizens Advice",
+    "title": "Driffield",
     "address": "Portacabin\nWest Garth\nMill Street\nDriffield\nEast Yorkshire\nYO25 6TN",
     "phone": "",
     "hours": "",
@@ -1690,7 +1690,7 @@
     "booking_location_id": "bc588eed-fc08-4448-b793-a287e417c2be"
   },
   {
-    "title": "Grimsby Citizens Advice",
+    "title": "Grimsby",
     "address": "16 Town Hall Street\nGRIMSBY\nNorth East Lincolnshire\nDN31 1HZ",
     "phone": "",
     "hours": "",
@@ -1700,7 +1700,7 @@
     "booking_location_id": "bc588eed-fc08-4448-b793-a287e417c2be"
   },
   {
-    "title": "Scarborough Citizens Advice",
+    "title": "Scarborough",
     "address": "4 Elders Street\nSCARBOROUGH\nNorth Yorkshire\nYO11 1DZ",
     "phone": "",
     "hours": "",
@@ -1710,7 +1710,7 @@
     "booking_location_id": "bc588eed-fc08-4448-b793-a287e417c2be"
   },
   {
-    "title": "Scunthorpe Citizens Advice",
+    "title": "Scunthorpe",
     "address": "12 Oswald Road\nSCUNTHORPE\nNorth Lincolnshire\nDN15 7PT",
     "phone": "",
     "hours": "",
@@ -1720,7 +1720,7 @@
     "booking_location_id": "bc588eed-fc08-4448-b793-a287e417c2be"
   },
   {
-    "title": "Dewsbury Citizens Advice",
+    "title": "Dewsbury",
     "address": "Units 5/6 Empire House\nWakefield Old Road\nDEWSBURY\nWest Yorkshire\nWF12 8DJ",
     "phone": "01924 869835",
     "hours": "Monday to Friday, 9:30am to 3:30pm",
@@ -1729,7 +1729,7 @@
     "id": "783722f2-e28c-4215-bb91-a4ffa6a5fee9"
   },
   {
-    "title": "Huddersfield Citizens Advice",
+    "title": "Huddersfield",
     "address": "2nd Floor\n Standard House\nHalf Moon Street\nHUDDERSFIELD\nWest Yorkshire\nHD1 2JF",
     "phone": "",
     "hours": "",
@@ -1739,7 +1739,7 @@
     "booking_location_id": "783722f2-e28c-4215-bb91-a4ffa6a5fee9"
   },
   {
-    "title": "Halifax Citizens Advice",
+    "title": "Halifax",
     "address": "37 Harrison Road\nCalderdale\nHALIFAX\nWest Yorkshire\nHX1 2AF",
     "phone": "",
     "hours": "",
@@ -1749,7 +1749,7 @@
     "booking_location_id": "783722f2-e28c-4215-bb91-a4ffa6a5fee9"
   },
   {
-    "title": "Hebden Bridge Citizens Advice",
+    "title": "Hebden Bridge",
     "address": "New Oxford House\nAlbert Street\nCalderdale\nHEBDEN BRIDGE\nWest Yorkshire\nHX7 8AH",
     "phone": "",
     "hours": "",
@@ -1759,7 +1759,7 @@
     "booking_location_id": "783722f2-e28c-4215-bb91-a4ffa6a5fee9"
   },
   {
-    "title": "Wakefield Citizens Advice",
+    "title": "Wakefield",
     "address": "Ground Floor\n27 King Street\nWAKEFIELD\nWest Yorkshire\nWF1 2SR",
     "phone": "",
     "hours": "",
@@ -1769,7 +1769,7 @@
     "booking_location_id": "783722f2-e28c-4215-bb91-a4ffa6a5fee9"
   },
   {
-    "title": "Chorley Citizens Advice",
+    "title": "Chorley",
     "address": "35-39 Market Street\nCHORLEY\nLancashire\nPR7 2SW",
     "phone": "01772 425916",
     "hours": "Monday to Friday, 9am to 5pm",
@@ -1778,7 +1778,7 @@
     "id": "c554946e-7b79-4446-b2cd-d930f668e54b"
   },
   {
-    "title": "Skelmersdale Citizens Advice",
+    "title": "Skelmersdale",
     "address": "Unit 47\nThe Concourse Shopping Centre\nSKELMERSDALE\nLancashire\nWN8 6LN",
     "phone": "",
     "hours": "",
@@ -1788,7 +1788,7 @@
     "booking_location_id": "c554946e-7b79-4446-b2cd-d930f668e54b"
   },
   {
-    "title": "South Ribble Citizens Advice",
+    "title": "South Ribble",
     "address": "South Ribble Bureau\n78 Towngate\nLEYLAND\nLancashire\nPR25 2LR",
     "phone": "",
     "hours": "",
@@ -1798,7 +1798,7 @@
     "booking_location_id": "c554946e-7b79-4446-b2cd-d930f668e54b"
   },
   {
-    "title": "Wyre Citizens Advice",
+    "title": "Wyre",
     "address": "122 Poulton Road\nFLEETWOOD\nLancashire\nFY7 7AR",
     "phone": "",
     "hours": "",
@@ -1808,7 +1808,7 @@
     "booking_location_id": "c554946e-7b79-4446-b2cd-d930f668e54b"
   },
   {
-    "title": "Clitheroe Citizens Advice",
+    "title": "Clitheroe",
     "address": "19/21 Wesleyan Row\nParson Lane\nRibble Valley\nCLITHEROE\nLancashire\nBB7 2JY",
     "phone": "",
     "hours": "",
@@ -1818,7 +1818,7 @@
     "booking_location_id": "c554946e-7b79-4446-b2cd-d930f668e54b"
   },
   {
-    "title": "Blackburn Citizens Advice",
+    "title": "Blackburn",
     "address": "Blackburn Central Library\nTown Hall Street\nBLACKBURN\nLancashire\nBB2 1AG",
     "phone": "",
     "hours": "",
@@ -1828,7 +1828,7 @@
     "booking_location_id": "c554946e-7b79-4446-b2cd-d930f668e54b"
   },
   {
-    "title": "Nelson Citizens Advice",
+    "title": "Nelson",
     "address": "61/63 Every Street\nNELSON\nLancashire\nBB9 2LT",
     "phone": "",
     "hours": "",
@@ -1838,7 +1838,7 @@
     "booking_location_id": "c554946e-7b79-4446-b2cd-d930f668e54b"
   },
   {
-    "title": "Fylde Citizens Advice",
+    "title": "Fylde",
     "address": "Council Offices\nMoor Street\nKirkham\nFylde\nPRESTON\nLancashire\nPR4 2AU",
     "phone": "",
     "hours": "",
@@ -1848,7 +1848,7 @@
     "booking_location_id": "c554946e-7b79-4446-b2cd-d930f668e54b"
   },
   {
-    "title": "Hyndburn Citizens Advice",
+    "title": "Hyndburn",
     "address": "New Era Centre\nParadise Street\nACCRINGTON\nLancashire\nBB5 1PB",
     "phone": "",
     "hours": "",
@@ -1858,7 +1858,7 @@
     "booking_location_id": "c554946e-7b79-4446-b2cd-d930f668e54b"
   },
   {
-    "title": "Morecambe Citizens Advice",
+    "title": "Morecambe",
     "address": "Oban House\n87-89 Queen Street\nNorth West\nMORECAMBE\nLancashire\nLA4 5EN",
     "phone": "",
     "hours": "",
@@ -1868,7 +1868,7 @@
     "booking_location_id": "c554946e-7b79-4446-b2cd-d930f668e54b"
   },
   {
-    "title": "Lancaster Citizens Advice",
+    "title": "Lancaster",
     "address": "87 King Street\nLANCASTER\nLancashire\nLA1 1RH",
     "phone": "",
     "hours": "",
@@ -1878,7 +1878,7 @@
     "booking_location_id": "c554946e-7b79-4446-b2cd-d930f668e54b"
   },
   {
-    "title": "Ribble Valley Citizens Advice",
+    "title": "Ribble Valley",
     "address": "19/21 Wesleyan Row\nParson Lane\nRibble Valley\nCLITHEROE\nLancashire\nBB7 2JY",
     "phone": "",
     "hours": "",
@@ -1888,7 +1888,7 @@
     "booking_location_id": "c554946e-7b79-4446-b2cd-d930f668e54b"
   },
   {
-    "title": "Leeds City Centre Citizens Advice",
+    "title": "Leeds City Centre",
     "address": "Westminster Buildings\n31 New York Street\nLEEDS\nWest Yorkshire\nLS2 7DT",
     "phone": "0113 281 6738",
     "hours": "Monday to Friday, 9am to 5pm",
@@ -1897,7 +1897,7 @@
     "id": "91b67ee6-f131-44d1-a05e-aac1306adba4"
   },
   {
-    "title": "Crossgates Citizens Advice",
+    "title": "Crossgates",
     "address": "Methodist Schoolroom\nAusthorpe Road\nCrossgates\nLEEDS\nWest Yorkshire\nLS15 8QR",
     "phone": "",
     "hours": "",
@@ -1907,7 +1907,7 @@
     "booking_location_id": "91b67ee6-f131-44d1-a05e-aac1306adba4"
   },
   {
-    "title": "Otley Citizens Advice",
+    "title": "Otley",
     "address": "The Courthouse\nCourthouse Street\nOtley\nLeeds\nWest Yorkshire\nLS21 1BG",
     "phone": "",
     "hours": "",
@@ -1917,7 +1917,7 @@
     "booking_location_id": "91b67ee6-f131-44d1-a05e-aac1306adba4"
   },
   {
-    "title": "Bradford Citizens Advice",
+    "title": "Bradford",
     "address": "George Street\nBRADFORD\nWest Yorkshire\nBD1 5AA",
     "phone": "",
     "hours": "",
@@ -1927,7 +1927,7 @@
     "booking_location_id": "91b67ee6-f131-44d1-a05e-aac1306adba4"
   },
   {
-    "title": "Keighley Citizens Advice",
+    "title": "Keighley",
     "address": "Central Hall\nAlice Street\nKEIGHLEY\nWest Yorkshire\nBD21 3JD",
     "phone": "",
     "hours": "",
@@ -1937,7 +1937,7 @@
     "booking_location_id": "91b67ee6-f131-44d1-a05e-aac1306adba4"
   },
   {
-    "title": "Shipley Citizens Advice",
+    "title": "Shipley",
     "address": "6 - 8 Windsor Road\nSHIPLEY\nWest Yorkshire\nBD18 3EQ",
     "phone": "",
     "hours": "",
@@ -1947,7 +1947,7 @@
     "booking_location_id": "91b67ee6-f131-44d1-a05e-aac1306adba4"
   },
   {
-    "title": "Blaby Citizens Advice",
+    "title": "Blaby",
     "address": "Council Offices\nDesford Road\nNarborough\nLeicester\nLeicestershire\nLE19 2EP",
     "phone": "0116 326 6326",
     "hours": "Monday to Friday, 9am to 5pm",
@@ -1956,7 +1956,7 @@
     "id": "fdcde285-37fd-4858-b00a-4ee31b4488b1"
   },
   {
-    "title": "Leicester City Centre Citizens Advice",
+    "title": "Leicester City Centre",
     "address": "3rd Floor\n60 Charles Street\nLEICESTER\nLE1 1FB",
     "phone": "",
     "hours": "",
@@ -1966,7 +1966,7 @@
     "booking_location_id": "fdcde285-37fd-4858-b00a-4ee31b4488b1"
   },
   {
-    "title": "Coalville Citizens Advice",
+    "title": "Coalville",
     "address": "Council Offices\nNorth West\nCOALVILLE\nLeicestershire\nLE67 3FJ",
     "phone": "",
     "hours": "",
@@ -1976,7 +1976,7 @@
     "booking_location_id": "fdcde285-37fd-4858-b00a-4ee31b4488b1"
   },
   {
-    "title": "Hinckley Citizens Advice",
+    "title": "Hinckley",
     "address": "Hinckley Hub\nRugby Road\nHINCKLEY\nLeicestershire\nLE10 OFR",
     "phone": "",
     "hours": "",
@@ -1986,7 +1986,7 @@
     "booking_location_id": "fdcde285-37fd-4858-b00a-4ee31b4488b1"
   },
   {
-    "title": "Lutterworth Citizens Advice",
+    "title": "Lutterworth",
     "address": "One Stop Shop\nWycliffe House\nGilmorton Road\nLeicester\nLUTTERWORTH\nLeicestershire\nLE17 4DY",
     "phone": "",
     "hours": "",
@@ -1996,7 +1996,7 @@
     "booking_location_id": "fdcde285-37fd-4858-b00a-4ee31b4488b1"
   },
   {
-    "title": "Melton Mowbray Citizens Advice",
+    "title": "Melton Mowbray",
     "address": "Melton Borough Council Offices\nParkside Station Approach\nBurton Street\nMelton Mowbray\nLE13 1GH",
     "phone": "",
     "hours": "",
@@ -2006,7 +2006,7 @@
     "booking_location_id": "fdcde285-37fd-4858-b00a-4ee31b4488b1"
   },
   {
-    "title": "South Wigston Citizens Advice",
+    "title": "South Wigston",
     "address": "South Wigston office\nRear of LCC Social Services offices\nBassett Street\nSOUTH WIGSTON\nLeicestershire\nLE18 4PE",
     "phone": "",
     "hours": "",
@@ -2016,7 +2016,7 @@
     "booking_location_id": "fdcde285-37fd-4858-b00a-4ee31b4488b1"
   },
   {
-    "title": "Loughborough Citizens Advice",
+    "title": "Loughborough",
     "address": "Woodgate Chambers\n70 Woodgate\nLOUGHBOROUGH\nLeicestershire\nLE11 2TZ",
     "phone": "",
     "hours": "",
@@ -2026,7 +2026,7 @@
     "booking_location_id": "fdcde285-37fd-4858-b00a-4ee31b4488b1"
   },
   {
-    "title": "Rutland Citizens Advice",
+    "title": "Rutland",
     "address": "56 High Street\nOAKHAM\nRutland\nLE15 6AL",
     "phone": "",
     "hours": "",
@@ -2036,7 +2036,7 @@
     "booking_location_id": "fdcde285-37fd-4858-b00a-4ee31b4488b1"
   },
   {
-    "title": "Lincoln & District Citizens Advice",
+    "title": "Lincoln & District",
     "address": "Beaumont Lodge\nBeaumont Fee\nLINCOLN\nLincolnshire\nLN1 1UL",
     "phone": "01522 828617",
     "hours": "Monday to Friday, 9am to 5pm",
@@ -2045,7 +2045,7 @@
     "id": "88aac83b-2bec-409d-ad0e-21fc81398d6c"
   },
   {
-    "title": "Louth Citizens Advice",
+    "title": "Louth",
     "address": "Unit 1\nMeridian House\n41 Eastgate\nLOUTH\nLincolnshire\nLN11 9NH",
     "phone": "",
     "hours": "",
@@ -2055,7 +2055,7 @@
     "booking_location_id": "88aac83b-2bec-409d-ad0e-21fc81398d6c"
   },
   {
-    "title": "Mablethorpe Citizens Advice",
+    "title": "Mablethorpe",
     "address": "Inter Agency Centre\nStanley Avenue\nMABLETHORPE\nLincolnshire\nLN12 1DP",
     "phone": "",
     "hours": "",
@@ -2065,7 +2065,7 @@
     "booking_location_id": "88aac83b-2bec-409d-ad0e-21fc81398d6c"
   },
   {
-    "title": "Skegness Citizens Advice",
+    "title": "Skegness",
     "address": "20 Algitha Road\nSKEGNESS\nLincolnshire\nPE25 2AG",
     "phone": "",
     "hours": "",
@@ -2075,7 +2075,7 @@
     "booking_location_id": "88aac83b-2bec-409d-ad0e-21fc81398d6c"
   },
   {
-    "title": "West Lindsey Citizens Advice",
+    "title": "West Lindsey",
     "address": "Guildhall\nMarshall's Yard\nGAINSBOROUGH\nLincolnshire\nDN21 2NA",
     "phone": "",
     "hours": "",
@@ -2085,7 +2085,7 @@
     "booking_location_id": "88aac83b-2bec-409d-ad0e-21fc81398d6c"
   },
   {
-    "title": "Sleaford Citizens Advice",
+    "title": "Sleaford",
     "address": "The Advice Centre\nMoney's Yard\nCarre Street\nSLEAFORD\nLincolnshire\nNG34 7TW",
     "phone": "",
     "hours": "",
@@ -2095,7 +2095,7 @@
     "booking_location_id": "88aac83b-2bec-409d-ad0e-21fc81398d6c"
   },
   {
-    "title": "Spalding Citizens Advice",
+    "title": "Spalding",
     "address": "Council Offices\nPriory Road\nSPALDING\nLincolnshire\nPE11 2XE",
     "phone": "",
     "hours": "",
@@ -2105,7 +2105,7 @@
     "booking_location_id": "88aac83b-2bec-409d-ad0e-21fc81398d6c"
   },
   {
-    "title": "Grantham Citizens Advice",
+    "title": "Grantham",
     "address": "Guild Hall Arts Centre\nSt Peters Hill\nGRANTHAM\nLincolnshire\nNG31 6PZ",
     "phone": "",
     "hours": "",
@@ -2115,7 +2115,7 @@
     "booking_location_id": "88aac83b-2bec-409d-ad0e-21fc81398d6c"
   },
   {
-    "title": "Stamford Citizens Advice",
+    "title": "Stamford",
     "address": "39 High Street\nSTAMFORD\nLincolnshire\nPE9 2BB",
     "phone": "",
     "hours": "",
@@ -2125,7 +2125,7 @@
     "booking_location_id": "88aac83b-2bec-409d-ad0e-21fc81398d6c"
   },
   {
-    "title": "Newark Citizens Advice",
+    "title": "Newark",
     "address": "5 Forest Court\nNew Ollerton\nNEWARK\nNottinghamshire\nNG22 9PL",
     "phone": "",
     "hours": "",
@@ -2135,7 +2135,7 @@
     "booking_location_id": "88aac83b-2bec-409d-ad0e-21fc81398d6c"
   },
   {
-    "title": "Worksop Citizens Advice",
+    "title": "Worksop",
     "address": "The Annexe\nQueens Building\nDistrict of Bassetlaw\nWORKSOP\nNottinghamshire\nS80 2AE",
     "phone": "",
     "hours": "",
@@ -2145,7 +2145,7 @@
     "booking_location_id": "88aac83b-2bec-409d-ad0e-21fc81398d6c"
   },
   {
-    "title": "Maidstone Citizens Advice",
+    "title": "Maidstone",
     "address": "2 Bower Terrace\nTonbridge Road\nMAIDSTONE\nKent\nME16 8RY",
     "phone": "01622 756989",
     "hours": "Monday to Friday, 10am to 4pm",
@@ -2154,7 +2154,7 @@
     "id": "de22845b-57f3-456b-a292-e36576ebe7e4"
   },
   {
-    "title": "Ashford Citizens Advice",
+    "title": "Ashford",
     "address": "Seabrooke House\nChurch Road\nASHFORD\nKent\nTN23 1RD",
     "phone": "",
     "hours": "",
@@ -2164,7 +2164,7 @@
     "booking_location_id": "de22845b-57f3-456b-a292-e36576ebe7e4"
   },
   {
-    "title": "Canterbury Citizens Advice",
+    "title": "Canterbury",
     "address": "3 Westgate Hall Rd\nCANTERBURY\nKent\nCT1 2BT",
     "phone": "",
     "hours": "",
@@ -2174,7 +2174,7 @@
     "booking_location_id": "de22845b-57f3-456b-a292-e36576ebe7e4"
   },
   {
-    "title": "Herne Bay Citizens Advice",
+    "title": "Herne Bay",
     "address": "185/187 High Street\nHERNE BAY\nKent\nCT6 5AF",
     "phone": "",
     "hours": "",
@@ -2184,7 +2184,7 @@
     "booking_location_id": "de22845b-57f3-456b-a292-e36576ebe7e4"
   },
   {
-    "title": "Dartford Citizens Advice",
+    "title": "Dartford",
     "address": "Trinity Resource Centre\nHigh Street\nDARTFORD\nKent\nDA1 1DE",
     "phone": "",
     "hours": "",
@@ -2194,7 +2194,7 @@
     "booking_location_id": "de22845b-57f3-456b-a292-e36576ebe7e4"
   },
   {
-    "title": "Deal Citizens Advice",
+    "title": "Deal",
     "address": "The Cedars\n26 Victoria Road\nDEAL\nKent\nCT14 7BJ",
     "phone": "",
     "hours": "",
@@ -2204,7 +2204,7 @@
     "booking_location_id": "de22845b-57f3-456b-a292-e36576ebe7e4"
   },
   {
-    "title": "Dover Citizens Advice",
+    "title": "Dover",
     "address": "Maison Dieu Gardens\nMaison Dieu Road\nDOVER\nKent\nCT16 1RW",
     "phone": "",
     "hours": "",
@@ -2214,7 +2214,7 @@
     "booking_location_id": "de22845b-57f3-456b-a292-e36576ebe7e4"
   },
   {
-    "title": "Edenbridge Citizens Advice",
+    "title": "Edenbridge",
     "address": "The Eden Centre\nFour Elms Road\nSevenoaks District\nEDENBRIDGE\nKent\nTN8 6BT",
     "phone": "",
     "hours": "",
@@ -2224,7 +2224,7 @@
     "booking_location_id": "de22845b-57f3-456b-a292-e36576ebe7e4"
   },
   {
-    "title": "Folkestone Citizens Advice",
+    "title": "Folkestone",
     "address": "6th Floor\nEuropa House\n49 Sandgate Road\nFolkestone\nCT20 1RU",
     "phone": "",
     "hours": "",
@@ -2234,7 +2234,7 @@
     "booking_location_id": "de22845b-57f3-456b-a292-e36576ebe7e4"
   },
   {
-    "title": "Gillingham Citizens Advice",
+    "title": "Gillingham",
     "address": "Kingsley House\n37-39 Balmoral Road\nMedway\nGILLINGHAM\nKent\nME7 4PF",
     "phone": "",
     "hours": "",
@@ -2244,7 +2244,7 @@
     "booking_location_id": "de22845b-57f3-456b-a292-e36576ebe7e4"
   },
   {
-    "title": "Gravesham Citizens Advice",
+    "title": "Gravesham",
     "address": "First Floor Civic Centre\nWindmill Street\nGRAVESEND\nKent\nDA12 1AU",
     "phone": "",
     "hours": "",
@@ -2254,7 +2254,7 @@
     "booking_location_id": "de22845b-57f3-456b-a292-e36576ebe7e4"
   },
   {
-    "title": "Sevenoaks Citizens Advice",
+    "title": "Sevenoaks",
     "address": "Buckhurst Lane\nSEVENOAKS\nKent\nTN13 1HW",
     "phone": "",
     "hours": "",
@@ -2264,7 +2264,7 @@
     "booking_location_id": "de22845b-57f3-456b-a292-e36576ebe7e4"
   },
   {
-    "title": "Swanley Citizens Advice",
+    "title": "Swanley",
     "address": "16 High Street\nSWANLEY\nKent\nBR8 8BG",
     "phone": "",
     "hours": "",
@@ -2274,7 +2274,7 @@
     "booking_location_id": "de22845b-57f3-456b-a292-e36576ebe7e4"
   },
   {
-    "title": "Margate Citizens Advice",
+    "title": "Margate",
     "address": "2nd Floor\nMill Lane House\nMill Lane Thanet\nMARGATE\nKent\nCT9 1LB",
     "phone": "",
     "hours": "",
@@ -2284,7 +2284,7 @@
     "booking_location_id": "de22845b-57f3-456b-a292-e36576ebe7e4"
   },
   {
-    "title": "Tonbridge Citizens Advice",
+    "title": "Tonbridge",
     "address": "3/4 River Walk\nTONBRIDGE\nKent\nTN9 1DT",
     "phone": "",
     "hours": "",
@@ -2294,7 +2294,7 @@
     "booking_location_id": "de22845b-57f3-456b-a292-e36576ebe7e4"
   },
   {
-    "title": "Tunbridge Wells Citizens Advice",
+    "title": "Tunbridge Wells",
     "address": "5th Floor Vale House\nClarence Road\nTUNBRIDGE WELLS\nKent\nTN1 1HE",
     "phone": "",
     "hours": "",
@@ -2304,7 +2304,7 @@
     "booking_location_id": "de22845b-57f3-456b-a292-e36576ebe7e4"
   },
   {
-    "title": "Cranbrook Citizens Advice",
+    "title": "Cranbrook",
     "address": "Cranbrook Library\nCarriers Road\nCRANBROOK\nKent\nTN17 3JT",
     "phone": "",
     "hours": "",
@@ -2314,7 +2314,7 @@
     "booking_location_id": "de22845b-57f3-456b-a292-e36576ebe7e4"
   },
   {
-    "title": "Faversham Citizens Advice",
+    "title": "Faversham",
     "address": "43 Stone Street\nFAVERSHAM\nKent\nME13 8PH",
     "phone": "",
     "hours": "",
@@ -2324,7 +2324,7 @@
     "booking_location_id": "de22845b-57f3-456b-a292-e36576ebe7e4"
   },
   {
-    "title": "Sheppey Citizens Advice",
+    "title": "Sheppey",
     "address": "Hope Street Centre\nHope Street\nSHEPPEY\nKent\nME12 1QH",
     "phone": "",
     "hours": "",
@@ -2334,7 +2334,7 @@
     "booking_location_id": "de22845b-57f3-456b-a292-e36576ebe7e4"
   },
   {
-    "title": "Sittingbourne Citizens Advice",
+    "title": "Sittingbourne",
     "address": "17 Station Street\nSITTINGBOURNE\nKent\nME10 3DU",
     "phone": "",
     "hours": "",
@@ -2344,7 +2344,7 @@
     "booking_location_id": "de22845b-57f3-456b-a292-e36576ebe7e4"
   },
   {
-    "title": "Manchester Citizens Advice",
+    "title": "Manchester",
     "address": "Swan Buildings\n20 Swan Street\nMANCHESTER\nGreater Manchester\nM4 5JW",
     "phone": "0161 830 2070",
     "hours": "Monday to Friday, 9am to 5pm",
@@ -2353,7 +2353,7 @@
     "id": "38fe9633-d556-4e96-ab99-518eeaf7d2a7"
   },
   {
-    "title": "Stockport Citizens Advice",
+    "title": "Stockport",
     "address": "Ground Floor\nFred Perry House\nEdward Street\nStockport\nGreater Manchester\nSK1 3XE",
     "phone": "",
     "hours": "",
@@ -2363,7 +2363,7 @@
     "booking_location_id": "38fe9633-d556-4e96-ab99-518eeaf7d2a7"
   },
   {
-    "title": "Marple Citizens Advice",
+    "title": "Marple",
     "address": "Hollins House\nMemorial Park\nMarple\nSTOCKPORT\nGreater Manchester\nSK6 6BA",
     "phone": "",
     "hours": "",
@@ -2373,7 +2373,7 @@
     "booking_location_id": "38fe9633-d556-4e96-ab99-518eeaf7d2a7"
   },
   {
-    "title": "Cheadle Citizens Advice",
+    "title": "Cheadle",
     "address": "C/o Cheadle Library\nAshfield Road\nCHEADLE\nGreater Manchester\nSK8 1BB",
     "phone": "",
     "hours": "",
@@ -2383,7 +2383,7 @@
     "booking_location_id": "38fe9633-d556-4e96-ab99-518eeaf7d2a7"
   },
   {
-    "title": "Altrincham Citizens Advice",
+    "title": "Altrincham",
     "address": "20 Stamford New Rd\nALTRINCHAM\nGreater Manchester\nWA14 1EJ",
     "phone": "",
     "hours": "",
@@ -2393,7 +2393,7 @@
     "booking_location_id": "38fe9633-d556-4e96-ab99-518eeaf7d2a7"
   },
   {
-    "title": "Partington Citizens Advice",
+    "title": "Partington",
     "address": "Partington Community Centre\nCentral Road \nPartington Trafford\nMANCHESTER\nGreater Manchester\nM31 4FL",
     "phone": "",
     "hours": "",
@@ -2403,7 +2403,7 @@
     "booking_location_id": "38fe9633-d556-4e96-ab99-518eeaf7d2a7"
   },
   {
-    "title": "Sale Citizens Advice",
+    "title": "Sale",
     "address": "1 Waterside Plaza\nSALE\nGreater Manchester\nM33 7BS",
     "phone": "",
     "hours": "",
@@ -2413,7 +2413,7 @@
     "booking_location_id": "38fe9633-d556-4e96-ab99-518eeaf7d2a7"
   },
   {
-    "title": "Tameside Citizens Advice",
+    "title": "Tameside",
     "address": "Ground Floor Office\nTameside Metropolitan Borough Council Offices\nWellington Road\nTameside\nASHTON-UNDER-LYNE\nGreater Manchester\nOL6 6DL",
     "phone": "",
     "hours": "",
@@ -2423,7 +2423,7 @@
     "booking_location_id": "38fe9633-d556-4e96-ab99-518eeaf7d2a7"
   },
   {
-    "title": "Morden Citizens Advice",
+    "title": "Morden",
     "address": "7 Crown Parade\nCrown Lane\nMerton\nMORDEN\nSurrey\nSM4 5DA",
     "phone": "0203 559 7400",
     "hours": "Monday to Friday, 10am to 4pm",
@@ -2432,7 +2432,7 @@
     "id": "253a5060-9fc7-4936-8ab2-805b8ac0e781"
   },
   {
-    "title": "Streatham Hill Citizens Advice",
+    "title": "Streatham Hill",
     "address": "1 Barrhill Road\nStreatham Hill\nLambeth & Merton\nLONDON\nSW2 4RJ",
     "phone": "",
     "hours": "",
@@ -2442,7 +2442,7 @@
     "booking_location_id": "253a5060-9fc7-4936-8ab2-805b8ac0e781"
   },
   {
-    "title": "Mitcham Citizens Advice",
+    "title": "Mitcham",
     "address": "Kellaway House\n326 London Road\nMerton & Lambeth\nMITCHAM\nSurrey\nCR4 3ND",
     "phone": "",
     "hours": "",
@@ -2452,7 +2452,7 @@
     "booking_location_id": "253a5060-9fc7-4936-8ab2-805b8ac0e781"
   },
   {
-    "title": "Hillingdon Citizens Advice",
+    "title": "Hillingdon",
     "address": "106 High Street\nYiewsley\nMiddlesex\nUB7 7BQ",
     "phone": "",
     "hours": "",
@@ -2462,7 +2462,7 @@
     "booking_location_id": "253a5060-9fc7-4936-8ab2-805b8ac0e781"
   },
   {
-    "title": "Brentford & Chiswick Citizens Advice",
+    "title": "Brentford & Chiswick",
     "address": "Town Hall\nHeathfield Terrace\nHounslow CHISWICK\nLondon\nW4 4JN",
     "phone": "",
     "hours": "",
@@ -2472,7 +2472,7 @@
     "booking_location_id": "253a5060-9fc7-4936-8ab2-805b8ac0e781"
   },
   {
-    "title": "Twickenham Citizens Advice",
+    "title": "Twickenham",
     "address": "5th Floor\nRegal House\n70 London Road\nRichmond\nTWICKENHAM\nMiddlesex\nTW1 3QS",
     "phone": "",
     "hours": "",
@@ -2482,7 +2482,7 @@
     "booking_location_id": "253a5060-9fc7-4936-8ab2-805b8ac0e781"
   },
   {
-    "title": "Mission House Citizens Advice",
+    "title": "Mission House",
     "address": "14 York Road\nWandsworth\nLONDON\nSW11 3QA",
     "phone": "",
     "hours": "",
@@ -2492,7 +2492,7 @@
     "booking_location_id": "253a5060-9fc7-4936-8ab2-805b8ac0e781"
   },
   {
-    "title": "Roehampton Citizens Advice",
+    "title": "Roehampton",
     "address": "166 Roehampton Lane\nWandsworth\nLONDON\nSW15 4HR",
     "phone": "",
     "hours": "",
@@ -2502,7 +2502,7 @@
     "booking_location_id": "253a5060-9fc7-4936-8ab2-805b8ac0e781"
   },
   {
-    "title": "Shepherd’s Bush Citizens Advice",
+    "title": "Shepherd’s Bush",
     "address": "338 Uxbridge Road\nLondon\nW12 7LL",
     "phone": "",
     "hours": "",
@@ -2512,7 +2512,7 @@
     "booking_location_id": "253a5060-9fc7-4936-8ab2-805b8ac0e781"
   },
   {
-    "title": "Hammersmith and Fulham Citizens Advice",
+    "title": "Hammersmith and Fulham",
     "address": "Avonmore Library & Neighbourhood Centre\n7 North End Crescent\nLondon\nW14 8TG",
     "phone": "",
     "hours": "",
@@ -2522,7 +2522,7 @@
     "booking_location_id": "253a5060-9fc7-4936-8ab2-805b8ac0e781"
   },
   {
-    "title": "Anfield Citizens Advice",
+    "title": "Anfield",
     "address": "36/38 Breckfield Rd\nNorth Anfield\nLIVERPOOL\nMerseyside\nL5 4NH",
     "phone": "0151 285 1081",
     "hours": "Monday to Friday, 9am to 5pm",
@@ -2531,7 +2531,7 @@
     "id": "3fa77737-34b7-421e-b01d-2b134878ea36"
   },
   {
-    "title": "Norris Green Citizens Advice",
+    "title": "Norris Green",
     "address": "138 Scargreen Avenue\nNorris Green\nLIVERPOOL\nMerseyside\nL11 3BE",
     "phone": "",
     "hours": "",
@@ -2541,7 +2541,7 @@
     "booking_location_id": "3fa77737-34b7-421e-b01d-2b134878ea36"
   },
   {
-    "title": "Walton Citizens Advice",
+    "title": "Walton",
     "address": "37/39 Walton Road\nLIVERPOOL\nMerseyside\nL4 4AD",
     "phone": "",
     "hours": "",
@@ -2551,7 +2551,7 @@
     "booking_location_id": "3fa77737-34b7-421e-b01d-2b134878ea36"
   },
   {
-    "title": "Liverpool City Centre Citizens Advice",
+    "title": "Liverpool City Centre",
     "address": "2nd Floor\n1 Union Court\nCook Street\nLIVERPOOL\nMerseyside\nL2 4SJ",
     "phone": "",
     "hours": "",
@@ -2561,7 +2561,7 @@
     "booking_location_id": "3fa77737-34b7-421e-b01d-2b134878ea36"
   },
   {
-    "title": "Knowsley Citizens Advice",
+    "title": "Knowsley",
     "address": "Nutgrove Villa\n1 Griffiths Road\nHuyton Knowsley\nLiverpool\nMerseyside\nL36 6NA",
     "phone": "",
     "hours": "",
@@ -2571,7 +2571,7 @@
     "booking_location_id": "3fa77737-34b7-421e-b01d-2b134878ea36"
   },
   {
-    "title": "St Helens Citizens Advice",
+    "title": "St Helens",
     "address": "Millennium Centre\nCorporation Street\nST HELENS\nMerseyside\nWA10 1HJ",
     "phone": "",
     "hours": "",
@@ -2581,7 +2581,7 @@
     "booking_location_id": "3fa77737-34b7-421e-b01d-2b134878ea36"
   },
   {
-    "title": "Garston Citizens Advice",
+    "title": "Garston",
     "address": "Garston Community House\nGarston Village\n2 Speke Road\nLIVERPOOL\nMerseyside\nL19 2PA",
     "phone": "",
     "hours": "",
@@ -2591,7 +2591,7 @@
     "booking_location_id": "3fa77737-34b7-421e-b01d-2b134878ea36"
   },
   {
-    "title": "Toxteth Citizens Advice",
+    "title": "Toxteth",
     "address": "15 High Park Street\nToxteth\nLIVERPOOL\nMerseyside\nL8 8DX",
     "phone": "",
     "hours": "",
@@ -2601,7 +2601,7 @@
     "booking_location_id": "3fa77737-34b7-421e-b01d-2b134878ea36"
   },
   {
-    "title": "Southport Citizens Advice",
+    "title": "Southport",
     "address": "24 Wright Street\nSouthport\nMerseyside\nPR9 0TL",
     "phone": "",
     "hours": "",
@@ -2611,7 +2611,7 @@
     "booking_location_id": "3fa77737-34b7-421e-b01d-2b134878ea36"
   },
   {
-    "title": "Whitley Bay Citizens Advice",
+    "title": "Whitley Bay",
     "address": "1 Roxburgh Terrace\nWhitley Bay\nTyne & Wear\nNE26 1DR",
     "phone": "0191 270 4485",
     "hours": "Monday to Friday, 9am to 5pm",
@@ -2620,7 +2620,7 @@
     "id": "bcfaa413-e6d3-4927-9f7c-47e97d00732c"
   },
   {
-    "title": "Wallsend Citizens Advice",
+    "title": "Wallsend",
     "address": "St Lukes Church House\nHugh Street\nWALLSEND\nTyne & Wear\nNE28 6RL",
     "phone": "",
     "hours": "",
@@ -2630,7 +2630,7 @@
     "booking_location_id": "bcfaa413-e6d3-4927-9f7c-47e97d00732c"
   },
   {
-    "title": "Alnwick Citizens Advice",
+    "title": "Alnwick",
     "address": "First Floor\nLloyds Bank Chambers\n24 Bondgate\nWithin ALNWICK\nNorthumberland\nNE66 1TD",
     "phone": "",
     "hours": "",
@@ -2640,7 +2640,7 @@
     "booking_location_id": "bcfaa413-e6d3-4927-9f7c-47e97d00732c"
   },
   {
-    "title": "Berwick Citizens Advice",
+    "title": "Berwick",
     "address": "5 Tweed Street\nBERWICK-UPON-TWEED\nNorthumberland\nTD15 1NG",
     "phone": "",
     "hours": "",
@@ -2650,7 +2650,7 @@
     "booking_location_id": "bcfaa413-e6d3-4927-9f7c-47e97d00732c"
   },
   {
-    "title": "Hexham Citizens Advice",
+    "title": "Hexham",
     "address": "The Community Centre\nGilesgate\nHEXHAM\nNorthumberland\nNE46 3NP",
     "phone": "",
     "hours": "",
@@ -2660,7 +2660,7 @@
     "booking_location_id": "bcfaa413-e6d3-4927-9f7c-47e97d00732c"
   },
   {
-    "title": "Washington Citizens Advice",
+    "title": "Washington",
     "address": "The Elms\n19 Front Street\nConcord \nWASHINGTON\nTyne & Wear\nNE37 2BA",
     "phone": "",
     "hours": "",
@@ -2670,7 +2670,7 @@
     "booking_location_id": "bcfaa413-e6d3-4927-9f7c-47e97d00732c"
   },
   {
-    "title": "Northampton Citizens Advice",
+    "title": "Northampton",
     "address": "Town Centre House\n7/8 Mercers Row\nNORTHAMPTON\nNorthamptonshire\nNN1 2QL",
     "phone": "0300 3239940",
     "hours": "Monday to Friday, 9am to 5pm",
@@ -2679,7 +2679,7 @@
     "id": "d4303701-3b39-4ede-b001-3b7234b05478"
   },
   {
-    "title": "Wellingborough Citizens Advice",
+    "title": "Wellingborough",
     "address": "2b High Street\nWellingborough\nWELLINGBOROUGH\nNorthamptonshire\nNN8 4HR",
     "phone": "",
     "hours": "",
@@ -2689,7 +2689,7 @@
     "booking_location_id": "d4303701-3b39-4ede-b001-3b7234b05478"
   },
   {
-    "title": "Corby Citizens Advice",
+    "title": "Corby",
     "address": "The Corby Cube\nParkland Gateway\nGeorge Street\nCORBY\nNorthamptonshire\nNN17 1QG",
     "phone": "",
     "hours": "",
@@ -2699,7 +2699,7 @@
     "booking_location_id": "d4303701-3b39-4ede-b001-3b7234b05478"
   },
   {
-    "title": "Kettering Citizens Advice",
+    "title": "Kettering",
     "address": "Municipal Offices\nBowling Green Road\nKETTERING\nNorthamptonshire\nNN15 7QX",
     "phone": "",
     "hours": "",
@@ -2709,7 +2709,7 @@
     "booking_location_id": "d4303701-3b39-4ede-b001-3b7234b05478"
   },
   {
-    "title": "Daventry Citizens Advice",
+    "title": "Daventry",
     "address": "The Abbey\nMarket Square\nDAVENTRY\nNorthamptonshire\nNN11 4XG",
     "phone": "",
     "hours": "",
@@ -2719,7 +2719,7 @@
     "booking_location_id": "d4303701-3b39-4ede-b001-3b7234b05478"
   },
   {
-    "title": "Pembroke Dock Citizens Advice",
+    "title": "Pembroke Dock",
     "address": "38 Meyrick Street\nPEMBROKE DOCK\nPembrokeshire\nSA72 6UT",
     "phone": "07931 998 203",
     "hours": "Monday to Friday, 9am to 5pm",
@@ -2728,7 +2728,7 @@
     "id": "beb75452-1762-4aa5-aa71-cf255a18f88e"
   },
   {
-    "title": "Haverfordwest Citizens Advice",
+    "title": "Haverfordwest",
     "address": "43 Cartlett\nHaverfordwest\nPembrokeshire\nSA61 2LH",
     "phone": "",
     "hours": "",
@@ -2738,7 +2738,7 @@
     "booking_location_id": "beb75452-1762-4aa5-aa71-cf255a18f88e"
   },
   {
-    "title": "Peterborough Citizens Advice",
+    "title": "Peterborough",
     "address": "16-17 St Mark's Street\nPETERBOROUGH\nCambridgeshire\nPE1 2TU",
     "phone": "01733 887922",
     "hours": "Monday to Friday, 9am to 5pm",
@@ -2747,7 +2747,7 @@
     "id": "1812446c-77a1-462f-b356-a13b3c203658"
   },
   {
-    "title": "Ely Citizens Advice",
+    "title": "Ely",
     "address": "70 Market Street\nELY\nCambridgeshire\nCB7 4LS",
     "phone": "",
     "hours": "",
@@ -2757,7 +2757,7 @@
     "booking_location_id": "1812446c-77a1-462f-b356-a13b3c203658"
   },
   {
-    "title": "Huntingdon Citizens Advice",
+    "title": "Huntingdon",
     "address": "The Town Hall\nMarket Hill\nHUNTINGDON\nCambs\nPE29 3PJ",
     "phone": "",
     "hours": "",
@@ -2767,7 +2767,7 @@
     "booking_location_id": "1812446c-77a1-462f-b356-a13b3c203658"
   },
   {
-    "title": "Wisbech Citizens Advice",
+    "title": "Wisbech",
     "address": "9 Church Mews\nWISBECH\nCambridgeshire\nPE13 1HL",
     "phone": "",
     "hours": "",
@@ -2777,7 +2777,7 @@
     "booking_location_id": "1812446c-77a1-462f-b356-a13b3c203658"
   },
   {
-    "title": "Plymouth Citizens Advice",
+    "title": "Plymouth",
     "address": "3rd Floor\nCobourg House\n32 Mayflower Street\nPLYMOUTH\nDevon\nPL1 1QX",
     "phone": "01752 502695",
     "hours": "Monday to Friday, 9am to 5pm",
@@ -2786,7 +2786,7 @@
     "id": "c312229b-c96d-49d0-8362-4a3f746b3ac4"
   },
   {
-    "title": "Exeter Citizens Advice",
+    "title": "Exeter",
     "address": "Dix's Field\nEXETER\nDevon\nEX1 1QA",
     "phone": "",
     "hours": "",
@@ -2796,7 +2796,7 @@
     "booking_location_id": "c312229b-c96d-49d0-8362-4a3f746b3ac4"
   },
   {
-    "title": "Totnes Citizens Advice",
+    "title": "Totnes",
     "address": "Follaton House\nPlymouth Road\nTOTNES\nDevon\nTQ9 5NE",
     "phone": "",
     "hours": "",
@@ -2806,7 +2806,7 @@
     "booking_location_id": "c312229b-c96d-49d0-8362-4a3f746b3ac4"
   },
   {
-    "title": "Newton Abbot Citizens Advice",
+    "title": "Newton Abbot",
     "address": "36-38 Market Walk\nNEWTON ABBOT\nDevon\nTQ12 2RX",
     "phone": "",
     "hours": "",
@@ -2816,7 +2816,7 @@
     "booking_location_id": "c312229b-c96d-49d0-8362-4a3f746b3ac4"
   },
   {
-    "title": "Teignbridge Citizens Advice",
+    "title": "Teignbridge",
     "address": "Teignmouth Library\nFore Street\nTEIGNMOUTH\nDevon\nTQ14 8DY",
     "phone": "",
     "hours": "",
@@ -2826,7 +2826,7 @@
     "booking_location_id": "c312229b-c96d-49d0-8362-4a3f746b3ac4"
   },
   {
-    "title": "Paignton Citizens Advice",
+    "title": "Paignton",
     "address": "29 Palace Avenue PAIGNTON Devon\nTQ3 3EQ",
     "phone": "",
     "hours": "",
@@ -2836,7 +2836,7 @@
     "booking_location_id": "c312229b-c96d-49d0-8362-4a3f746b3ac4"
   },
   {
-    "title": "Torquay Citizens Advice",
+    "title": "Torquay",
     "address": "11 Castle Road\nTORQUAY\nDevon\nTQ3 3BB",
     "phone": "",
     "hours": "",
@@ -2846,7 +2846,7 @@
     "booking_location_id": "c312229b-c96d-49d0-8362-4a3f746b3ac4"
   },
   {
-    "title": "Dawlish Citizens Advice",
+    "title": "Dawlish",
     "address": "Manor House\nOld Town Street\nDawlish\nDevon\nEX7 9AP",
     "phone": "",
     "hours": "",
@@ -2856,7 +2856,7 @@
     "booking_location_id": "c312229b-c96d-49d0-8362-4a3f746b3ac4"
   },
   {
-    "title": "Newtown Citizens Advice",
+    "title": "Newtown",
     "address": "Ladywell House\nFrolic Street Entrance\nPark Street\nNEWTOWN\nPowys\nSY16 1QS",
     "phone": "01686 617648",
     "hours": "Monday to Friday, 9am to 5pm",
@@ -2865,7 +2865,7 @@
     "id": "fef02333-6563-4643-b4dd-68224090d395"
   },
   {
-    "title": "Brecon Citizens Advice",
+    "title": "Brecon",
     "address": "11 Glamorgan Street\nPowys\nBRECON\nPowys\nLD3 7DW",
     "phone": "",
     "hours": "",
@@ -2875,7 +2875,7 @@
     "booking_location_id": "fef02333-6563-4643-b4dd-68224090d395"
   },
   {
-    "title": "Ystradgynlais Citizens Advice",
+    "title": "Ystradgynlais",
     "address": "Welfare Hall\nBrecon Road\nYSTRADGYNLAIS\nPowys\nSA9 1JJ",
     "phone": "",
     "hours": "",
@@ -2885,7 +2885,7 @@
     "booking_location_id": "fef02333-6563-4643-b4dd-68224090d395"
   },
   {
-    "title": "Dolgellau Citizens Advice",
+    "title": "Dolgellau",
     "address": "Doldir\nDOLGELLAU\nGwynedd\nLL40 1HA",
     "phone": "",
     "hours": "",
@@ -2895,7 +2895,7 @@
     "booking_location_id": "fef02333-6563-4643-b4dd-68224090d395"
   },
   {
-    "title": "Swansea Citizens Advice",
+    "title": "Swansea",
     "address": "Llys Glas\n Pleasant Street\nSWANSEA\nSA1 5DS",
     "phone": "",
     "hours": "",
@@ -2905,7 +2905,7 @@
     "booking_location_id": "fef02333-6563-4643-b4dd-68224090d395"
   },
   {
-    "title": "Farnborough Citizens Advice",
+    "title": "Farnborough",
     "address": "Elles Hall\nMeudon Avenue\nFARNBOROUGH\nHampshire\nGU14 7LE",
     "phone": "01252 894288",
     "hours": "Monday to Friday, 9am to 5pm",
@@ -2914,7 +2914,7 @@
     "id": "df6fdf18-e089-49a1-9453-1400d55b96e9"
   },
   {
-    "title": "Aldershot Citizens Advice",
+    "title": "Aldershot",
     "address": "39 High Street\nALDERSHOT\nHampshire\nGU11 1BH",
     "phone": "",
     "hours": "",
@@ -2924,7 +2924,7 @@
     "booking_location_id": "df6fdf18-e089-49a1-9453-1400d55b96e9"
   },
   {
-    "title": "Bracknell Citizens Advice",
+    "title": "Bracknell",
     "address": "Lower Ground Floor\nThe Columbia Centre\nMarket Street\nBRACKNELL\nBerkshire\nRG12 1JG",
     "phone": "",
     "hours": "",
@@ -2934,7 +2934,7 @@
     "booking_location_id": "df6fdf18-e089-49a1-9453-1400d55b96e9"
   },
   {
-    "title": "Eastleigh Citizens Advice",
+    "title": "Eastleigh",
     "address": "101 Leigh Road\nEASTLEIGH\nHampshire\nSO50 9DR",
     "phone": "",
     "hours": "",
@@ -2944,7 +2944,7 @@
     "booking_location_id": "df6fdf18-e089-49a1-9453-1400d55b96e9"
   },
   {
-    "title": "Guildford Citizens Advice",
+    "title": "Guildford",
     "address": "15 - 21 Haydon Place\nGUILDFORD\nSurrey\nGU1 4LL",
     "phone": "",
     "hours": "",
@@ -2954,7 +2954,7 @@
     "booking_location_id": "df6fdf18-e089-49a1-9453-1400d55b96e9"
   },
   {
-    "title": "Tadley Citizens Advice",
+    "title": "Tadley",
     "address": "Franklin Avenue\nTADLEY\nHampshire\nRG26 4ET",
     "phone": "",
     "hours": "",
@@ -2964,7 +2964,7 @@
     "booking_location_id": "df6fdf18-e089-49a1-9453-1400d55b96e9"
   },
   {
-    "title": "Andover Citizens Advice",
+    "title": "Andover",
     "address": "35 London Street\nANDOVER\nHampshire\nSP10 2NU",
     "phone": "",
     "hours": "",
@@ -2974,7 +2974,7 @@
     "booking_location_id": "df6fdf18-e089-49a1-9453-1400d55b96e9"
   },
   {
-    "title": "Newbury Citizens Advice",
+    "title": "Newbury",
     "address": "2nd Floor\nBroadway House\n4-8 The Broadway\nNorthbrook Street\nNEWBURY\nBerkshire\nRG14 1BA",
     "phone": "",
     "hours": "",
@@ -2984,7 +2984,7 @@
     "booking_location_id": "df6fdf18-e089-49a1-9453-1400d55b96e9"
   },
   {
-    "title": "Wokingham Citizens Advice",
+    "title": "Wokingham",
     "address": "Woodley Extension Bureau\nHeadley Road\nWoodley\nBerkshire\nRG5 4JA",
     "phone": "",
     "hours": "",
@@ -2994,7 +2994,7 @@
     "booking_location_id": "df6fdf18-e089-49a1-9453-1400d55b96e9"
   },
   {
-    "title": "Sheffield (Broadfield Road) Citizens Advice",
+    "title": "Sheffield (Broadfield Road)",
     "address": "Unit 9b\nThe Old Dairy\nBroadfield Road\nSHEFFIELD\nSouth Yorkshire\nS8 0XQ",
     "phone": "0114 2536706",
     "hours": "Monday to Friday, 9am to 5pm",
@@ -3003,7 +3003,7 @@
     "id": "a5a1ce85-91cd-4d1e-9a99-b614e5557fd3"
   },
   {
-    "title": "Sheffield (Bawtry Road) Citizens Advice",
+    "title": "Sheffield (Bawtry Road)",
     "address": "120-126 Bawtry Road\nSHEFFIELD\nSouth Yorkshire\nS9 1UE",
     "phone": "",
     "hours": "",
@@ -3013,7 +3013,7 @@
     "booking_location_id": "a5a1ce85-91cd-4d1e-9a99-b614e5557fd3"
   },
   {
-    "title": "Sheffield (Chapel Street, Woodhouse) Citizens Advice",
+    "title": "Sheffield (Chapel Street, Woodhouse)",
     "address": "5 Chapel Street\nWoodhouse\nSHEFFIELD\nSouth Yorkshire\nS13 7JL",
     "phone": "",
     "hours": "",
@@ -3023,7 +3023,7 @@
     "booking_location_id": "a5a1ce85-91cd-4d1e-9a99-b614e5557fd3"
   },
   {
-    "title": "Sheffield City Centre Citizens Advice",
+    "title": "Sheffield City Centre",
     "address": "The Circle\n33 Rockingham Lane\nSheffield\nS1 4FW",
     "phone": "",
     "hours": "",
@@ -3033,7 +3033,7 @@
     "booking_location_id": "a5a1ce85-91cd-4d1e-9a99-b614e5557fd3"
   },
   {
-    "title": "Rotherham Citizens Advice",
+    "title": "Rotherham",
     "address": "The Rain Building\nOld Market Building\nEastwood Lane\nRotherham\nS65 1EQ",
     "phone": "",
     "hours": "",
@@ -3043,7 +3043,7 @@
     "booking_location_id": "a5a1ce85-91cd-4d1e-9a99-b614e5557fd3"
   },
   {
-    "title": "Barnsley Citizens Advice",
+    "title": "Barnsley",
     "address": "1st Floor\nWellington House\n36 Wellington Street\nBARNSLEY\nSouth Yorkshire\nS70 1WA",
     "phone": "",
     "hours": "",
@@ -3053,7 +3053,7 @@
     "booking_location_id": "a5a1ce85-91cd-4d1e-9a99-b614e5557fd3"
   },
   {
-    "title": "Sheffield (Proctor Place) Citizens Advice",
+    "title": "Sheffield (Proctor Place)",
     "address": "Proctor Place Office\nProctor Place\nSHEFFIELD\nS6 4HF",
     "phone": "",
     "hours": "",
@@ -3063,7 +3063,7 @@
     "booking_location_id": "a5a1ce85-91cd-4d1e-9a99-b614e5557fd3"
   },
   {
-    "title": "Shrewsbury Citizens Advice",
+    "title": "Shrewsbury",
     "address": "Fletcher House\n15 College Hill\nShrewsbury\nShropshire\nSY1 1LY",
     "phone": "01743 284165",
     "hours": "Monday to Friday, 9am to 5pm",
@@ -3072,7 +3072,7 @@
     "id": "138175c6-02be-4f44-b08e-929c80e6598c"
   },
   {
-    "title": "Ludlow Citizens Advice",
+    "title": "Ludlow",
     "address": "Ludlow Youth Centre\nLower Galdeford\nLUDLOW\nShropshire\nSY8 1RT",
     "phone": "",
     "hours": "",
@@ -3082,7 +3082,7 @@
     "booking_location_id": "138175c6-02be-4f44-b08e-929c80e6598c"
   },
   {
-    "title": "Oswestry Citizens Advice",
+    "title": "Oswestry",
     "address": "34 Arthur Street\nOSWESTRY\nShropshire\nSY11 1JN",
     "phone": "",
     "hours": "",
@@ -3092,7 +3092,7 @@
     "booking_location_id": "138175c6-02be-4f44-b08e-929c80e6598c"
   },
   {
-    "title": "Bermondsey Citizens Advice",
+    "title": "Bermondsey",
     "address": "8 Market Place\nSouthwark Park Road\nSouthwark\nLondon\nSE16 3UQ",
     "phone": "020 7064 9710",
     "hours": "",
@@ -3101,7 +3101,7 @@
     "id": "b7de428f-99b2-476b-ad22-8a2455b52a5b"
   },
   {
-    "title": "Peckham Citizens Advice",
+    "title": "Peckham",
     "address": "97 Peckham High Street\nSouthwark\nLondon\nSE15 5RS",
     "phone": "",
     "hours": "",
@@ -3111,7 +3111,7 @@
     "booking_location_id": "b7de428f-99b2-476b-ad22-8a2455b52a5b"
   },
   {
-    "title": "Woolwich Citizens Advice",
+    "title": "Woolwich",
     "address": "Old Town Hall\nPolytechnic Street\nGreenwich\nLondon\nSE18 6PN",
     "phone": "",
     "hours": "",
@@ -3121,7 +3121,7 @@
     "booking_location_id": "b7de428f-99b2-476b-ad22-8a2455b52a5b"
   },
   {
-    "title": "Stafford Citizens Advice",
+    "title": "Stafford",
     "address": "17 Eastgate Street\n(opposite The Royal British Legion)\nSTAFFORD\nStaffordshire\nST16 2LZ",
     "phone": "01785 283019",
     "hours": "Monday to Friday, 9am to 5pm",
@@ -3130,7 +3130,7 @@
     "id": "64f46eb9-de5d-4227-b9fb-de3bdfcfe602"
   },
   {
-    "title": "Cannock Citizens Advice",
+    "title": "Cannock",
     "address": "48 Allport Road\nCANNOCK\nStaffordshire\nWS11 1DY",
     "phone": "",
     "hours": "",
@@ -3140,7 +3140,7 @@
     "booking_location_id": "64f46eb9-de5d-4227-b9fb-de3bdfcfe602"
   },
   {
-    "title": "Rugeley Citizens Advice",
+    "title": "Rugeley",
     "address": "7 Brook Square\nRUGELEY\nStaffordshire\nWS15 2DU",
     "phone": "",
     "hours": "",
@@ -3150,7 +3150,7 @@
     "booking_location_id": "64f46eb9-de5d-4227-b9fb-de3bdfcfe602"
   },
   {
-    "title": "Stone Citizens Advice",
+    "title": "Stone",
     "address": "Stone Town Council Offices\n15 Station Road\nSTONE\nStaffordshire\nST15 8JP",
     "phone": "",
     "hours": "",
@@ -3160,7 +3160,7 @@
     "booking_location_id": "64f46eb9-de5d-4227-b9fb-de3bdfcfe602"
   },
   {
-    "title": "Burton upon Trent Citizens Advice",
+    "title": "Burton upon Trent",
     "address": "Suite 8 Anson Court\nHorninglow Street\nEast Staffordshire\nBURTON-ON-TRENT\nStaffordshire\nDE14 1NG",
     "phone": "",
     "hours": "",
@@ -3170,7 +3170,7 @@
     "booking_location_id": "64f46eb9-de5d-4227-b9fb-de3bdfcfe602"
   },
   {
-    "title": "Stoke-on-Trent Citizens Advice",
+    "title": "Stoke-on-Trent",
     "address": "Advice House\nCheapside\nHanley\nSTOKE-ON-TRENT\nStaffordshire\nST1 1HL",
     "phone": "",
     "hours": "",
@@ -3180,7 +3180,7 @@
     "booking_location_id": "64f46eb9-de5d-4227-b9fb-de3bdfcfe602"
   },
   {
-    "title": "Leek Citizens Advice",
+    "title": "Leek",
     "address": "C/0 Leek Library\nNicholson Institute\nStockwell Street\nLEEK\nStaffordshire\nST13 6DW",
     "phone": "",
     "hours": "",
@@ -3190,7 +3190,7 @@
     "booking_location_id": "64f46eb9-de5d-4227-b9fb-de3bdfcfe602"
   },
   {
-    "title": "South Staffordshire Citizens Advice",
+    "title": "South Staffordshire",
     "address": "Civic Centre\nGravel Hill\nSouth Staffordshire\nWOMBOURNE\nStaffordshire\nWV5 9HA",
     "phone": "",
     "hours": "",
@@ -3200,7 +3200,7 @@
     "booking_location_id": "64f46eb9-de5d-4227-b9fb-de3bdfcfe602"
   },
   {
-    "title": "Stevenage Citizens Advice",
+    "title": "Stevenage",
     "address": "Swingate House\nDanestrete\nSTEVENAGE\nHertfordshire\nSG1 1AF",
     "phone": "01438 721760",
     "hours": "Monday to Friday, 9am to 5pm",
@@ -3209,7 +3209,7 @@
     "id": "d4397efb-65f3-4d93-ad1d-2e5272197c8f"
   },
   {
-    "title": "Bedford Citizens Advice",
+    "title": "Bedford",
     "address": "7a St Paul's Square\nBEDFORD\nBedfordshire\nMK40 1SQ",
     "phone": "",
     "hours": "",
@@ -3219,7 +3219,7 @@
     "booking_location_id": "d4397efb-65f3-4d93-ad1d-2e5272197c8f"
   },
   {
-    "title": "Hertford Citizens Advice",
+    "title": "Hertford",
     "address": "4 Yeoman's Court\nWare Road\nHERTFORD\nHertfordshire\nSG13 7HJ",
     "phone": "",
     "hours": "",
@@ -3229,7 +3229,7 @@
     "booking_location_id": "d4397efb-65f3-4d93-ad1d-2e5272197c8f"
   },
   {
-    "title": "Leighton-Linslade Citizens Advice",
+    "title": "Leighton-Linslade",
     "address": "Bossard House\nWest Street\nLEIGHTON BUZZARD\nBedfordshire\nLU7 1DA",
     "phone": "",
     "hours": "",
@@ -3239,7 +3239,7 @@
     "booking_location_id": "d4397efb-65f3-4d93-ad1d-2e5272197c8f"
   },
   {
-    "title": "Luton Citizens Advice",
+    "title": "Luton",
     "address": "24-26 King Street\nLUTON\nBedfordshire\nLU1 2DP",
     "phone": "",
     "hours": "",
@@ -3249,7 +3249,7 @@
     "booking_location_id": "d4397efb-65f3-4d93-ad1d-2e5272197c8f"
   },
   {
-    "title": "Ampthill Citizens Advice",
+    "title": "Ampthill",
     "address": "10 Bedford Street\nAMPTHILL\nBedfordshire\nMK45 2NB",
     "phone": "",
     "hours": "",
@@ -3259,7 +3259,7 @@
     "booking_location_id": "d4397efb-65f3-4d93-ad1d-2e5272197c8f"
   },
   {
-    "title": "Biggleswade Citizens Advice",
+    "title": "Biggleswade",
     "address": "Century House\nMarket Square\nBIGGLESWADE\nBedfordshire\nSG18 8UU",
     "phone": "",
     "hours": "",
@@ -3269,7 +3269,7 @@
     "booking_location_id": "d4397efb-65f3-4d93-ad1d-2e5272197c8f"
   },
   {
-    "title": "Carshalton and Wallington Citizens Advice",
+    "title": "Carshalton and Wallington",
     "address": "68 Parkgate Road\nSutton\nWALLINGTON\nSurrey\nSM6 0AH",
     "phone": "020 3478 2145",
     "hours": "Monday to Friday, 10am to 4pm",
@@ -3278,7 +3278,7 @@
     "id": "234fd904-6288-49a9-8d59-f46439ab9060"
   },
   {
-    "title": "Sutton Citizens Advice",
+    "title": "Sutton",
     "address": "The Central Library\nSt Nicholas Way\nSutton\nSM1 1EA",
     "phone": "",
     "hours": "",
@@ -3288,7 +3288,7 @@
     "booking_location_id": "234fd904-6288-49a9-8d59-f46439ab9060"
   },
   {
-    "title": "Bromley Citizens Advice",
+    "title": "Bromley",
     "address": "Community House\nSouth Street\nBROMLEY\nKent\nBR1 1RH",
     "phone": "",
     "hours": "",
@@ -3298,7 +3298,7 @@
     "booking_location_id": "234fd904-6288-49a9-8d59-f46439ab9060"
   },
   {
-    "title": "Crawley Citizens Advice",
+    "title": "Crawley",
     "address": "The Orchard\n1-2 Gleneagles Court\nBrighton Road\nSouthgate\nCRAWLEY\nWest Sussex\nRH10 6AD",
     "phone": "",
     "hours": "",
@@ -3308,7 +3308,7 @@
     "booking_location_id": "234fd904-6288-49a9-8d59-f46439ab9060"
   },
   {
-    "title": "South Norwood Citizens Advice",
+    "title": "South Norwood",
     "address": "48-50 Portland Road\nSouth Norwood\nCroydon\nLONDON\nSE25 4PQ",
     "phone": "",
     "hours": "",
@@ -3318,7 +3318,7 @@
     "booking_location_id": "234fd904-6288-49a9-8d59-f46439ab9060"
   },
   {
-    "title": "Epsom & Ewell Citizens Advice",
+    "title": "Epsom & Ewell",
     "address": "The Old Town Hall\nThe Parade\nEPSOM\nSurrey\nKT18 5AG",
     "phone": "",
     "hours": "",
@@ -3328,7 +3328,7 @@
     "booking_location_id": "234fd904-6288-49a9-8d59-f46439ab9060"
   },
   {
-    "title": "Kingston Citizens Advice",
+    "title": "Kingston",
     "address": "Neville House\n 55 Eden Street\nKingston\n Surrey\nKT1 1BW",
     "phone": "",
     "hours": "",
@@ -3338,7 +3338,7 @@
     "booking_location_id": "234fd904-6288-49a9-8d59-f46439ab9060"
   },
   {
-    "title": "Taunton Citizens Advice",
+    "title": "Taunton",
     "address": "St Mary's House\nMagdalene Street\nTAUNTON\nSomerset\nTA1 1SB",
     "phone": "01823 448970",
     "hours": "Monday to Friday, 9am to 5pm",
@@ -3347,7 +3347,7 @@
     "id": "7f916cf6-d2bd-4bcc-90dc-594207c8b1f4"
   },
   {
-    "title": "Shepton Mallet Citizens Advice",
+    "title": "Shepton Mallet",
     "address": "9/9a Market Place\nSHEPTON MALLET\nSomerset\nBA4 5AZ",
     "phone": "",
     "hours": "",
@@ -3357,7 +3357,7 @@
     "booking_location_id": "7f916cf6-d2bd-4bcc-90dc-594207c8b1f4"
   },
   {
-    "title": "North Somerset Citizens Advice",
+    "title": "North Somerset",
     "address": "The Badger Centre\n3-6 Wadham Street\nWESTON-SUPER-MARE\nSomerset\nBS23 1JY",
     "phone": "",
     "hours": "",
@@ -3367,7 +3367,7 @@
     "booking_location_id": "7f916cf6-d2bd-4bcc-90dc-594207c8b1f4"
   },
   {
-    "title": "Sedgemoor Citizens Advice",
+    "title": "Sedgemoor",
     "address": "Clarence House\nHigh Street\nBridgwater\nBRIDGWATER\nSomerset\nTA6 3BH",
     "phone": "",
     "hours": "",
@@ -3377,7 +3377,7 @@
     "booking_location_id": "7f916cf6-d2bd-4bcc-90dc-594207c8b1f4"
   },
   {
-    "title": "Yeovil Citizens Advice",
+    "title": "Yeovil",
     "address": "Petters House\nPetters Way\nYEOVIL\nSomerset\nBA20 1SH",
     "phone": "",
     "hours": "",
@@ -3387,7 +3387,7 @@
     "booking_location_id": "7f916cf6-d2bd-4bcc-90dc-594207c8b1f4"
   },
   {
-    "title": "Waltham Forest Citizens Advice",
+    "title": "Waltham Forest",
     "address": "220 Hoe Street\nWalthamstow\nLondon\nE17 3AH",
     "phone": "0203 233 0250",
     "hours": "Monday to Friday, 9am to 5pm",
@@ -3396,7 +3396,7 @@
     "id": "a77a031a-8037-4510-b1f7-63d4aab7b103"
   },
   {
-    "title": "Barking Citizens Advice",
+    "title": "Barking",
     "address": "55 Ripple Road\nBarking & Dagenham\nBARKING\nEssex\nIG11 7NT",
     "phone": "",
     "hours": "",
@@ -3406,7 +3406,7 @@
     "booking_location_id": "a77a031a-8037-4510-b1f7-63d4aab7b103"
   },
   {
-    "title": "Havering Citizens Advice",
+    "title": "Havering",
     "address": "9 Victoria Road\nHavering\nROMFORD\nRM1 2JT",
     "phone": "",
     "hours": "",
@@ -3416,7 +3416,7 @@
     "booking_location_id": "a77a031a-8037-4510-b1f7-63d4aab7b103"
   },
   {
-    "title": "Redbridge Citizens Advice",
+    "title": "Redbridge",
     "address": "Broadway Chambers\n1 Cranbrook Road\nRedbridge\nILFORD\nEssex\nIG1 4DU",
     "phone": "",
     "hours": "",
@@ -3426,7 +3426,7 @@
     "booking_location_id": "a77a031a-8037-4510-b1f7-63d4aab7b103"
   },
   {
-    "title": "Witney Citizens Advice",
+    "title": "Witney",
     "address": "The Old Print House\nMarlborough Lane\nWITNEY\nOxfordshire\nOX28 6DY",
     "phone": "03003 030127",
     "hours": "Monday to Friday, 10am to 4pm",
@@ -3435,7 +3435,7 @@
     "id": "2922aaf2-a3c9-4c89-8fe5-014c61199569"
   },
   {
-    "title": "Abingdon Citizens Advice",
+    "title": "Abingdon",
     "address": "The Old Abbey House\nAbbey Close\nABINGDON\nOxfordshire\nOX14 3JD",
     "phone": "",
     "hours": "",
@@ -3445,7 +3445,7 @@
     "booking_location_id": "2922aaf2-a3c9-4c89-8fe5-014c61199569"
   },
   {
-    "title": "Didcot Citizens Advice",
+    "title": "Didcot",
     "address": "Dales'\n9-15 High Street\nDIDCOT\nOxfordshire\nOX11 8EQ",
     "phone": "",
     "hours": "",
@@ -3455,7 +3455,7 @@
     "booking_location_id": "2922aaf2-a3c9-4c89-8fe5-014c61199569"
   },
   {
-    "title": "Henley Citizens Advice",
+    "title": "Henley",
     "address": "32 Market Place\nHENLEY-ON-THAMES\nOxfordshire\nRG9 2AH",
     "phone": "",
     "hours": "",
@@ -3465,7 +3465,7 @@
     "booking_location_id": "2922aaf2-a3c9-4c89-8fe5-014c61199569"
   },
   {
-    "title": "Thame Citizens Advice",
+    "title": "Thame",
     "address": "Market House\nNorth Street\nTHAME\nOxfordshire\nOX9 3HH",
     "phone": "",
     "hours": "",
@@ -3475,7 +3475,7 @@
     "booking_location_id": "2922aaf2-a3c9-4c89-8fe5-014c61199569"
   },
   {
-    "title": "Banbury Citizens Advice",
+    "title": "Banbury",
     "address": "Cornhill House\n26 Cornhill\nBANBURY\nOxfordshire\nOX16 5NG",
     "phone": "",
     "hours": "",
@@ -3485,7 +3485,7 @@
     "booking_location_id": "2922aaf2-a3c9-4c89-8fe5-014c61199569"
   },
   {
-    "title": "Bicester Citizens Advice",
+    "title": "Bicester",
     "address": "The Garth\nLaunton Road\nBICESTER\nOxfordshire\nOX26 6PS",
     "phone": "",
     "hours": "",
@@ -3495,7 +3495,7 @@
     "booking_location_id": "2922aaf2-a3c9-4c89-8fe5-014c61199569"
   },
   {
-    "title": "Milton Keynes Citizens Advice",
+    "title": "Milton Keynes",
     "address": "Acorn House\n361 Midsummer Boulevard\nMILTON KEYNES\nBuckinghamshire\nMK9 3HP",
     "phone": "",
     "hours": "",
@@ -3505,7 +3505,7 @@
     "booking_location_id": "2922aaf2-a3c9-4c89-8fe5-014c61199569"
   },
   {
-    "title": "Oxford Citizens Advice",
+    "title": "Oxford",
     "address": "95 St Aldates\nOXFORD\nOxfordshire\nOX1 1DA",
     "phone": "",
     "hours": "",
@@ -3515,7 +3515,7 @@
     "booking_location_id": "2922aaf2-a3c9-4c89-8fe5-014c61199569"
   },
   {
-    "title": "Reading Citizens Advice",
+    "title": "Reading",
     "address": "Minster Street\nREADING\nBerkshire\nRG1 2JB",
     "phone": "",
     "hours": "",
@@ -3525,7 +3525,7 @@
     "booking_location_id": "2922aaf2-a3c9-4c89-8fe5-014c61199569"
   },
   {
-    "title": "Chipping Norton Citizens Advice",
+    "title": "Chipping Norton",
     "address": "Chipping Norton Health Centre\nRussell Way\nCHIPPING NORTON\nOX7 5FA",
     "phone": "",
     "hours": "",
@@ -3535,7 +3535,7 @@
     "booking_location_id": "2922aaf2-a3c9-4c89-8fe5-014c61199569"
   },
   {
-    "title": "Leigh Citizens Advice",
+    "title": "Leigh",
     "address": "6 The Avenue Leigh\nWN7 1ES",
     "phone": "01942 267965",
     "hours": "Monday to Friday, 10am to 4pm",
@@ -3544,7 +3544,7 @@
     "id": "3713e3be-1b0d-4971-a064-25fa9a6af8bd"
   },
   {
-    "title": "Wigan Citizens Advice",
+    "title": "Wigan",
     "address": "2nd Floor Wigan Life Centre\nThe Wiend\nWIGAN\nGreater Manchester\nWN1 1NH",
     "phone": "",
     "hours": "",
@@ -3554,7 +3554,7 @@
     "booking_location_id": "3713e3be-1b0d-4971-a064-25fa9a6af8bd"
   },
   {
-    "title": "Bolton Citizens Advice",
+    "title": "Bolton",
     "address": "26-28 Mawdsley Street\nBOLTON\nGreater Manchester\nBL1 1JL",
     "phone": "",
     "hours": "",
@@ -3564,7 +3564,7 @@
     "booking_location_id": "3713e3be-1b0d-4971-a064-25fa9a6af8bd"
   },
   {
-    "title": "Prestwich Citizens Advice",
+    "title": "Prestwich",
     "address": "7 Fairfax Road\nPrestwich\nGreater Manchester\nM25 1AS",
     "phone": "",
     "hours": "",
@@ -3574,7 +3574,7 @@
     "booking_location_id": "3713e3be-1b0d-4971-a064-25fa9a6af8bd"
   },
   {
-    "title": "Radclife Citizens Advice",
+    "title": "Radclife",
     "address": "1-3 Blackburn Street\nRadcliffe\nGreater Manchester\nM26 1NN",
     "phone": "",
     "hours": "",
@@ -3584,7 +3584,7 @@
     "booking_location_id": "3713e3be-1b0d-4971-a064-25fa9a6af8bd"
   },
   {
-    "title": "Chippenham Citizens Advice",
+    "title": "Chippenham",
     "address": "3 Avon Reach\nMonkton Hill\nChippenham\nWiltshire\nSN15 1EE",
     "phone": "01722 580052",
     "hours": "Monday to Friday, 9am to 5pm",
@@ -3593,7 +3593,7 @@
     "id": "b74377da-d06b-48d0-9d74-cc362bbb53b3"
   },
   {
-    "title": "Devizes Citizens Advice",
+    "title": "Devizes",
     "address": "New Park Street\nDEVIZES\nWiltshire\nSN10 1DY",
     "phone": "",
     "hours": "",
@@ -3603,7 +3603,7 @@
     "booking_location_id": "b74377da-d06b-48d0-9d74-cc362bbb53b3"
   },
   {
-    "title": "Salisbury Citizens Advice",
+    "title": "Salisbury",
     "address": "18 College Street\nSALISBURY\nWiltshire\nSP1 3AL",
     "phone": "",
     "hours": "",
@@ -3613,7 +3613,7 @@
     "booking_location_id": "b74377da-d06b-48d0-9d74-cc362bbb53b3"
   },
   {
-    "title": "Trowbridge Citizens Advice",
+    "title": "Trowbridge",
     "address": "1 Mill Street\nTROWBRIDGE\nWiltshire\nBA14 8EB",
     "phone": "",
     "hours": "",
@@ -3623,7 +3623,7 @@
     "booking_location_id": "b74377da-d06b-48d0-9d74-cc362bbb53b3"
   },
   {
-    "title": "Bath Citizens Advice",
+    "title": "Bath",
     "address": "2 Edgar Buildings\nGeorge Street\nBATH\nSomerset\nBA1 2EE",
     "phone": "",
     "hours": "",
@@ -3633,7 +3633,7 @@
     "booking_location_id": "b74377da-d06b-48d0-9d74-cc362bbb53b3"
   },
   {
-    "title": "Bristol Citizens Advice",
+    "title": "Bristol",
     "address": "1 Quay Street\nBristol\nBS1 2JL",
     "phone": "",
     "hours": "",
@@ -3643,7 +3643,7 @@
     "booking_location_id": "b74377da-d06b-48d0-9d74-cc362bbb53b3"
   },
   {
-    "title": "Yate Citizens Advice",
+    "title": "Yate",
     "address": "Kennedy Way\nYATE\nSouth Gloucestershire\nBS37 4DQ",
     "phone": "",
     "hours": "",
@@ -3653,7 +3653,7 @@
     "booking_location_id": "b74377da-d06b-48d0-9d74-cc362bbb53b3"
   },
   {
-    "title": "Stroud Citizens Advice",
+    "title": "Stroud",
     "address": "Unit 8\n1st Floor Brunel Mall\nLondon Road\nSTROUD\nGloucestershire\nGL5 2BP",
     "phone": "",
     "hours": "",
@@ -3663,7 +3663,7 @@
     "booking_location_id": "b74377da-d06b-48d0-9d74-cc362bbb53b3"
   },
   {
-    "title": "Dursley Citizens Advice",
+    "title": "Dursley",
     "address": "The New Library\nMay Lane\nDURSLEY\nGloucestershire\nGL11 4JE",
     "phone": "",
     "hours": "",
@@ -3673,7 +3673,7 @@
     "booking_location_id": "b74377da-d06b-48d0-9d74-cc362bbb53b3"
   },
   {
-    "title": "Swindon Citizens Advice",
+    "title": "Swindon",
     "address": "Sanford House\nCollege Street entrance\nSWINDON\nWiltshire\nSN1 1QH",
     "phone": "",
     "hours": "",
@@ -3683,7 +3683,7 @@
     "booking_location_id": "b74377da-d06b-48d0-9d74-cc362bbb53b3"
   },
   {
-    "title": "Midsomer Norton Citizens Advice",
+    "title": "Midsomer Norton",
     "address": "The Hollies\nHigh Street\nMidsomer Norton\nBA3 2DP",
     "phone": "",
     "hours": "",
@@ -3693,7 +3693,7 @@
     "booking_location_id": "b74377da-d06b-48d0-9d74-cc362bbb53b3"
   },
   {
-    "title": "Cirencester Citizens Advice",
+    "title": "Cirencester",
     "address": "2-3 The Mews\nCrickdale Street\nCirencester\nGL7 1HY",
     "phone": "",
     "hours": "",
@@ -3703,7 +3703,7 @@
     "booking_location_id": "b74377da-d06b-48d0-9d74-cc362bbb53b3"
   },
   {
-    "title": "Wolverhampton (Bilston) Citizens Advice",
+    "title": "Wolverhampton (Bilston)",
     "address": "William Leigh House\n15 Walsall Street\nBilston\nWOLVERHAMPTON\nWest Midlands\nWV14 0AT",
     "phone": "01902 572048",
     "hours": "Monday to Thursday, 9:30am to 2pm\nFriday, 9:30am to 1pm",
@@ -3712,7 +3712,7 @@
     "id": "12481dc1-e871-4f64-9a3f-5ca3ac58c1a1"
   },
   {
-    "title": "Wolverhampton City Centre Citizens Advice",
+    "title": "Wolverhampton City Centre",
     "address": "26 Snow Hill\nWOLVERHAMPTON\nWest Midlands\nWV2 4AD",
     "phone": "",
     "hours": "",
@@ -3722,7 +3722,7 @@
     "booking_location_id": "12481dc1-e871-4f64-9a3f-5ca3ac58c1a1"
   },
   {
-    "title": "Wolverhampton (Low Hill) Citizens Advice",
+    "title": "Wolverhampton (Low Hill)",
     "address": "Ground Floor\nHousing Office\nShowell Circus\nLow Hill\nWolverhampton\nWest Midlands\nWV10 9JL",
     "phone": "",
     "hours": "",
@@ -3732,7 +3732,7 @@
     "booking_location_id": "12481dc1-e871-4f64-9a3f-5ca3ac58c1a1"
   },
   {
-    "title": "Birmingham Citizens Advice",
+    "title": "Birmingham",
     "address": "Ground Floor\nGazette Buildings\n168 Corporation Street\nBIRMINGHAM\nWest Midlands\nB4 6TF",
     "phone": "",
     "hours": "",
@@ -3742,7 +3742,7 @@
     "booking_location_id": "12481dc1-e871-4f64-9a3f-5ca3ac58c1a1"
   },
   {
-    "title": "Stourbridge Citizens Advice",
+    "title": "Stourbridge",
     "address": "69 Market Street\nSTOURBRIDGE\nWest Midlands\nDY8 1AQ",
     "phone": "",
     "hours": "",
@@ -3752,7 +3752,7 @@
     "booking_location_id": "12481dc1-e871-4f64-9a3f-5ca3ac58c1a1"
   },
   {
-    "title": "Kingstanding Citizens Advice",
+    "title": "Kingstanding",
     "address": "Perry Common Library\nCollege Road\nKingstanding\nBIRMINGHAM\nWest Midlands\nB44 0HH",
     "phone": "",
     "hours": "",
@@ -3762,7 +3762,7 @@
     "booking_location_id": "12481dc1-e871-4f64-9a3f-5ca3ac58c1a1"
   },
   {
-    "title": "Walsall Citizens Advice",
+    "title": "Walsall",
     "address": "139-144 Lichfield Street\n(opposite The Town Hall)\nWALSALL\nWest Midlands\nWS1 1SE",
     "phone": "",
     "hours": "",
@@ -3772,7 +3772,7 @@
     "booking_location_id": "12481dc1-e871-4f64-9a3f-5ca3ac58c1a1"
   },
   {
-    "title": "Worcester (The Hopmarket) Citizens Advice",
+    "title": "Worcester (The Hopmarket)",
     "address": "The Hopmarket\nThe Foregate\nWORCESTER\nWorcestershire\nWR1 1DL",
     "phone": "01905 721892",
     "hours": "Monday to Friday, 10am to 4pm",
@@ -3781,7 +3781,7 @@
     "id": "dfad96fe-c421-4ffe-8aa8-5061b2c26195"
   },
   {
-    "title": "Worcester (Lowesmoor) Citizens Advice",
+    "title": "Worcester (Lowesmoor)",
     "address": "The Old Glove Factory\n13a Lowesmoor\nWORCESTER\nWorcestershire\nWR1 2RS",
     "phone": "",
     "hours": "",
@@ -3791,7 +3791,7 @@
     "booking_location_id": "dfad96fe-c421-4ffe-8aa8-5061b2c26195"
   },
   {
-    "title": "Hereford Citizens Advice",
+    "title": "Hereford",
     "address": "8 St Owen Street\nHEREFORD\nHerefordshire\nHR1 2PJ",
     "phone": "",
     "hours": "",
@@ -3801,7 +3801,7 @@
     "booking_location_id": "dfad96fe-c421-4ffe-8aa8-5061b2c26195"
   },
   {
-    "title": "Leominster Citizens Advice",
+    "title": "Leominster",
     "address": "Multi-Agency Office\nConningsby Road\nLEOMINSTER\nHerefordshire\nHR6 8LR",
     "phone": "",
     "hours": "",
@@ -3811,7 +3811,7 @@
     "booking_location_id": "dfad96fe-c421-4ffe-8aa8-5061b2c26195"
   },
   {
-    "title": "Malvern Hills Citizens Advice",
+    "title": "Malvern Hills",
     "address": "Malvern Heights\nChequers Close\nEnigma Business Park\nMALVERN\nWorcestershire\nWR14 1BF",
     "phone": "",
     "hours": "",
@@ -3821,7 +3821,7 @@
     "booking_location_id": "dfad96fe-c421-4ffe-8aa8-5061b2c26195"
   },
   {
-    "title": "Wychavon Citizens Advice",
+    "title": "Wychavon",
     "address": "13 Port Street\nEVESHAM\nWorcestershire\nWR11 3LD",
     "phone": "",
     "hours": "",
@@ -3831,7 +3831,7 @@
     "booking_location_id": "dfad96fe-c421-4ffe-8aa8-5061b2c26195"
   },
   {
-    "title": "Bromsgrove Citizens Advice",
+    "title": "Bromsgrove",
     "address": "50-52 Birmingham Road\nBROMSGROVE\nWorcestershire\nB61 0DD",
     "phone": "",
     "hours": "",
@@ -3841,7 +3841,7 @@
     "booking_location_id": "dfad96fe-c421-4ffe-8aa8-5061b2c26195"
   },
   {
-    "title": "Wyre Forest Citizens Advice",
+    "title": "Wyre Forest",
     "address": "21-23 New Road\nKIDDERMINSTER\nWorcestershire\nDY10 1AF",
     "phone": "",
     "hours": "",
@@ -3851,7 +3851,7 @@
     "booking_location_id": "dfad96fe-c421-4ffe-8aa8-5061b2c26195"
   },
   {
-    "title": "Brent Citizens Advice",
+    "title": "Brent",
     "address": "270-272 High Road\nLONDON\nNW10 2EY",
     "phone": "020 84381240",
     "hours": "Monday to Friday, 10am to 4pm",
@@ -3860,7 +3860,7 @@
     "id": "0b703eb5-64fa-44b5-85e0-fa378392ba55"
   },
   {
-    "title": "Camden Citizens Advice",
+    "title": "Camden",
     "address": "141a Robert Street\nLONDON\nNW1 3QT",
     "phone": "",
     "hours": "",
@@ -3870,7 +3870,7 @@
     "booking_location_id": "0b703eb5-64fa-44b5-85e0-fa378392ba55"
   },
   {
-    "title": "Harrow Citizens Advice",
+    "title": "Harrow",
     "address": "Civic 9 Station Road\nHarrow\nMiddlesex\nHA1 2XH",
     "phone": "",
     "hours": "",
@@ -3880,7 +3880,7 @@
     "booking_location_id": "0b703eb5-64fa-44b5-85e0-fa378392ba55"
   },
   {
-    "title": "Kensington Citizens Advice",
+    "title": "Kensington",
     "address": "2 Acklam Road\nLONDON\nW10 5QZ",
     "phone": "",
     "hours": "",
@@ -3890,7 +3890,7 @@
     "booking_location_id": "0b703eb5-64fa-44b5-85e0-fa378392ba55"
   },
   {
-    "title": "Westminster Citizens Advice",
+    "title": "Westminster",
     "address": "21a Conduit Place\nLONDON\nW2 1HS",
     "phone": "",
     "hours": "",
