@@ -91,7 +91,7 @@ function contentForLocation(l) {
   if(l['booking_centre'] && l['booking_centre'] != l['title']) {
     elements.push(
       '<p><b>Booking Centre Details</b></p>',
-      '<p>', l['booking_centre'], '</p>'
+      '<p>', l['booking_centre'] + ' Citizens Advice', '</p>'
     );
   }
 

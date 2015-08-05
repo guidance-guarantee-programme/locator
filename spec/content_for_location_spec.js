@@ -45,7 +45,7 @@ describe('contentForLocation()', function() {
     var location = {
       "title": "Antrim",
       "address": "Farranshane House\n1 Ballygore Road\nAntrim\nBT41 2RN",
-      "booking_centre": "Belfast Citizens Advice",
+      "booking_centre": "Belfast",
       "phone": "028 9442 8176",
       "hours": "Monday to Thursday, 10am to 12pm and 2pm to 4pm\nFriday, 10am to 12pm and 1:30pm to 2:30pm"
     };
