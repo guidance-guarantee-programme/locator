@@ -1,6 +1,6 @@
 [
   {
-    "title": "Aberdeen Citizens Advice",
+    "title": "Aberdeen",
     "address": "41 Union Street\nAberdeen\nAB11 5BN",
     "phone": "01224 569 750",
     "hours": "",
@@ -9,7 +9,7 @@
     "id": "c002c214-7a39-4ff2-b21f-a4f3b45b14a1"
   },
   {
-    "title": "Airdrie Citizens Advice",
+    "title": "Airdrie",
     "address": "Resource Centre\n14 Anderson Street\nAirdrie\nML6 0AA",
     "phone": "01236 754 109",
     "hours": "",
@@ -18,7 +18,7 @@
     "id": "ead14905-96be-4032-bdf5-2e076efb27bc"
   },
   {
-    "title": "Arbroath Citizens Advice",
+    "title": "Arbroath",
     "address": "11 Millgate\nArbroath\nDD11 1NN",
     "phone": "01241 870661 ext 25",
     "hours": "",
@@ -27,7 +27,7 @@
     "id": "c55496a1-2c34-4ddb-a2e7-5e18367ce256"
   },
   {
-    "title": "Forfar Citizens Advice",
+    "title": "Forfar",
     "address": "19 Queen Street\nForfar\nDD8 3AJ",
     "phone": "01241 870661 ext 25",
     "hours": "",
@@ -36,7 +36,7 @@
     "id": "0e57a050-bd51-42f7-bedf-65df38b8e26e"
   },
   {
-    "title": "Montrose Citizens Advice",
+    "title": "Montrose",
     "address": "32 Castle Street\nMontrose\nDD10 8AG",
     "phone": "01241 870661 ext 25",
     "hours": "",
@@ -45,7 +45,7 @@
     "id": "18bfeb4e-3b8b-4dd6-adc6-5351ec54ef71"
   },
   {
-    "title": "Annan Citizens Advice",
+    "title": "Annan",
     "address": "19a Bank Street\nAnnan\nDG12 6AA",
     "phone": "0300 303 4321",
     "hours": "",
@@ -54,7 +54,7 @@
     "id": "37516769-0325-430d-a7f6-e40f4ebd8e10"
   },
   {
-    "title": "Lochgilphead Citizens Advice",
+    "title": "Lochgilphead",
     "address": "Riverside\nOban Road\nLochgilphead\nPA31 8NG",
     "phone": "08456 123808",
     "hours": "",
@@ -63,7 +63,7 @@
     "id": "e50a0813-d8bc-422b-b0f0-0850992f5ba4"
   },
   {
-    "title": "Helensburgh Citizens Advice",
+    "title": "Helensburgh",
     "address": "65-67 West Princes Street\nHelensburgh\nG84 8BN",
     "phone": "08456 123808",
     "hours": "",
@@ -72,7 +72,7 @@
     "id": "7546ac30-5cba-4329-b49d-6ef30506731c"
   },
   {
-    "title": "Arran Citizens Advice",
+    "title": "Arran",
     "address": "Ormidale Sports Centre\nShore Road\nBrodick\nKA27 8DL",
     "phone": "01294 608 147",
     "hours": "",
@@ -81,7 +81,7 @@
     "id": "b5dd79cd-6b49-4f97-8c70-8106a8fd6212"
   },
   {
-    "title": "Banff and Buchan Citizens Advice",
+    "title": "Banff and Buchan",
     "address": "Townhouse\nBroad Street\nPeterhead\nAB42 1BY",
     "phone": "01779 471515",
     "hours": "",
@@ -90,7 +90,7 @@
     "id": "72b7cc89-b147-4e8e-ac81-b112428c32d2"
   },
   {
-    "title": "Barra Citizens Advice",
+    "title": "Barra",
     "address": "Castlebay\nIsle of Barra\nHS9 5XD",
     "phone": "01871 810608",
     "hours": "",
@@ -99,7 +99,7 @@
     "id": "dc6b9656-29b3-4c9b-9672-534e67d71887"
   },
   {
-    "title": "Bellshill Citizens Advice",
+    "title": "Bellshill",
     "address": "6 Hamilton Road\nBellshill\nML4 1AQ",
     "phone": "01698 748615",
     "hours": "",
@@ -108,7 +108,7 @@
     "id": "a2b7d5d5-fd01-4353-a8be-3aceebb191d2"
   },
   {
-    "title": "Thurso Citizens Advice",
+    "title": "Thurso",
     "address": "1A Beach Court\nThurso\nKW14 8AD",
     "phone": "01847 894243",
     "hours": "",
@@ -117,7 +117,7 @@
     "id": "7d04db02-c5c5-4161-8b7b-5929ae2046f5"
   },
   {
-    "title": "Wick Citizens Advice",
+    "title": "Wick",
     "address": "123 High Street\nWick\nKW1 4LR",
     "phone": "01955 605989",
     "hours": "",
@@ -126,7 +126,7 @@
     "id": "1f6334a9-3f52-4ddd-9e60-c46fe05eddcc"
   },
   {
-    "title": "Castle Douglas Citizens Advice",
+    "title": "Castle Douglas",
     "address": "3 St Andrew Street\nCastle Douglas\nDG7 1DE",
     "phone": "0300 303 4321",
     "hours": "",
@@ -135,7 +135,7 @@
     "id": "05e60f20-5601-47a8-b183-e6c76f532a21"
   },
   {
-    "title": "Central Borders Citizens Advice",
+    "title": "Central Borders",
     "address": "111 High Street\nGalashiels\nTD1 1RZ",
     "phone": "01896 753889",
     "hours": "",
@@ -144,7 +144,7 @@
     "id": "ca04da6b-850f-4035-9c4c-b4f973f70980"
   },
   {
-    "title": "Cowdenbeath Citizens Advice",
+    "title": "Cowdenbeath",
     "address": "322 High Street\nCowdenbeath\nKY4 9NT",
     "phone": "0345 1400 095",
     "hours": "",
@@ -153,7 +153,7 @@
     "id": "4239eda5-25d5-46a9-90c1-b03fd21abc35"
   },
   {
-    "title": "Cupar Citizens Advice",
+    "title": "Cupar",
     "address": "Local County buildings\nSt Catherine Street\nCupar\nKY15 4TA",
     "phone": "0345 1400 095",
     "hours": "",
@@ -162,7 +162,7 @@
     "id": "49f8f6d5-0274-474f-829d-84f92673f235"
   },
   {
-    "title": "Dunfermline Citizens Advice",
+    "title": "Dunfermline",
     "address": "4 Abbey Park Place\nDunfermline\nKY12 7PD",
     "phone": "0345 1400 095",
     "hours": "",
@@ -171,7 +171,7 @@
     "id": "771a583e-05b3-4ddd-9013-b6697349f24f"
   },
   {
-    "title": "Glenrothes Citizens Advice",
+    "title": "Glenrothes",
     "address": "10 - 12 Pentland Court\nSaltire Centre\nGlenrothes\nKY6 2DA",
     "phone": "0345 1400 095",
     "hours": "",
@@ -180,7 +180,7 @@
     "id": "3f34a89b-b08e-485c-9146-4c92169dfe7b"
   },
   {
-    "title": "Kirkcaldy Citizens Advice",
+    "title": "Kirkcaldy",
     "address": "15 Wemyssfield\nKirkcaldy\nKY1 1XN",
     "phone": "0345 1400 095",
     "hours": "",
@@ -189,7 +189,7 @@
     "id": "8fcccbd5-1f34-4f89-9b7f-adaf4417b549"
   },
   {
-    "title": "Leven Citizens Advice",
+    "title": "Leven",
     "address": "The Adam Smith College\nVictoria Road\nLeven\nKY8 4RN",
     "phone": "0345 1400 095",
     "hours": "",
@@ -198,7 +198,7 @@
     "id": "692be951-f991-4e1a-b8dc-7313b60e10e9"
   },
   {
-    "title": "West Lothian Citizens Advice",
+    "title": "West Lothian",
     "address": "Unit 1\nAlmondbank Centre\nShiel Walk\nLivingston\nEH54 5EH",
     "phone": "01506 444814",
     "hours": "",
@@ -207,7 +207,7 @@
     "id": "d547d683-3da6-419b-a77b-15de065e7b67"
   },
   {
-    "title": "Glasgow Citizens Advice",
+    "title": "Glasgow",
     "address": "2nd Floor\nBrunswick House\n51 Wilson Street\nGlasgow\nG1 1UZ",
     "phone": "0808 800 9060",
     "hours": "",
@@ -216,7 +216,7 @@
     "id": "aa7425cf-48f5-474f-870a-887d117c9f99"
   },
   {
-    "title": "Edinburgh (Dundas Street) Citizens Advice",
+    "title": "Edinburgh (Dundas Street)",
     "address": "58 Dundas Street\nEdinburgh\nEH3 6QZ",
     "phone": "0131 555 3907",
     "hours": "",
@@ -225,7 +225,7 @@
     "id": "e28ba8d7-da7c-4f57-8a97-3a28db685ce4"
   },
   {
-    "title": "Gorgie/Dalry Citizens Advice",
+    "title": "Gorgie/Dalry",
     "address": "Fountainbridge Library\n137 Dundee Street\nEdinburgh\nEH11 1BG",
     "phone": "0131 555 3907",
     "hours": "",
@@ -234,7 +234,7 @@
     "id": "d86a600f-609e-42d5-819f-e28954d6d7a9"
   },
   {
-    "title": "Leith Citizens Advice",
+    "title": "Leith",
     "address": "12 Bernard Street\nEdinburgh\nEH6 6PP",
     "phone": "0131 555 3907",
     "hours": "",
@@ -243,7 +243,7 @@
     "id": "cabdfee8-acfb-4e22-b619-b7f8f6e38535"
   },
   {
-    "title": "Pilton Citizens Advice",
+    "title": "Pilton",
     "address": "661 Ferry Road\nEdinburgh\nEH4 2TX",
     "phone": "0131 555 3907",
     "hours": "",
@@ -252,7 +252,7 @@
     "id": "efe106b0-24f9-43dc-88d7-da9d6991951b"
   },
   {
-    "title": "Portobello Citizens Advice",
+    "title": "Portobello",
     "address": "8a - 8b Bath Street\nPortobello\nEH15 1EY",
     "phone": "0131 555 3907",
     "hours": "",
@@ -261,7 +261,7 @@
     "id": "24a48fdd-68d9-4124-ac55-c8803af9b470"
   },
   {
-    "title": "Clackmannanshire Citizens Advice",
+    "title": "Clackmannanshire",
     "address": "47 Drysdale Street\nAlloa\nFK10 1JA",
     "phone": "01259 219404",
     "hours": "",
@@ -270,7 +270,7 @@
     "id": "e00ab932-4160-455d-a487-a8aaa1a49696"
   },
   {
-    "title": "Clydesdale Citizens Advice",
+    "title": "Clydesdale",
     "address": "10 - 12 Wide Close\nLanark\nML11 7LX",
     "phone": "01555 664 301",
     "hours": "",
@@ -279,7 +279,7 @@
     "id": "db91f640-c85f-4c97-8493-16fb5e0a0e34"
   },
   {
-    "title": "Coatbridge Citizens Advice",
+    "title": "Coatbridge",
     "address": "Unit 10\nFountain Business Centre\nEllis Street\nCoatbridge\nML5 3AA",
     "phone": "01236 421447",
     "hours": "",
@@ -288,7 +288,7 @@
     "id": "c9600eda-d142-4b99-82bb-1fd2a227619e"
   },
   {
-    "title": "Cumbernauld and Kilsyth Citizens Advice",
+    "title": "Cumbernauld and Kilsyth",
     "address": "2 Annan House\n3rd Floor\nTown Centre\nCumbernauld\nG67 1DP",
     "phone": "01236 735165",
     "hours": "",
@@ -297,7 +297,7 @@
     "id": "7e09a502-997d-401d-8ac5-f78b967ee829"
   },
   {
-    "title": "Dalkeith & District Citizens Advice",
+    "title": "Dalkeith & District",
     "address": "8 Buccleuch Street\nDalkeith\nEH22 1HA",
     "phone": "0131 660 1636",
     "hours": "",
@@ -306,7 +306,7 @@
     "id": "de5a9adb-13c7-4a8e-aa3a-b456ea551b55"
   },
   {
-    "title": "Denny and Dunipace Citizens Advice",
+    "title": "Denny and Dunipace",
     "address": "24 Duke Street\nDenny\nFK6 6DD",
     "phone": "01324 485290",
     "hours": "",
@@ -315,7 +315,7 @@
     "id": "c5814777-1f92-455f-9b34-0920f2b9cd3d"
   },
   {
-    "title": "Dumfries Citizens Advice",
+    "title": "Dumfries",
     "address": "81-85 Irish Street\nDumfries\nDG1 2PQ",
     "phone": "0300 303 4321",
     "hours": "",
@@ -324,7 +324,7 @@
     "id": "167c9f8d-755d-4ab5-b4b3-adcc7af96cb2"
   },
   {
-    "title": "Dundee Citizens Advice",
+    "title": "Dundee",
     "address": "Dundee Central Library\nLevel 4 Wellgate Centre\nDundee\nDD1 2DB",
     "phone": "01382 431581",
     "hours": "",
@@ -333,7 +333,7 @@
     "id": "210ce462-58bf-4c65-b2ce-154cd9abe9da"
   },
   {
-    "title": "Cumnock Citizens Advice",
+    "title": "Cumnock",
     "address": "77a Townhead Street\nCumnock\nKA18 1LF",
     "phone": "01290 429500",
     "hours": "",
@@ -342,7 +342,7 @@
     "id": "ef9f327d-d57b-47b5-81e1-9d83e3b5db2d"
   },
   {
-    "title": "Kilmarnock Citizens Advice",
+    "title": "Kilmarnock",
     "address": "3 John Dickie Street\nKilmarnock\nKA1 1HW",
     "phone": "01563 544744",
     "hours": "",
@@ -351,7 +351,7 @@
     "id": "1ef49a6b-efc9-4b24-9466-4a079e5cc546"
   },
   {
-    "title": "Bishopbriggs Citizens Advice",
+    "title": "Bishopbriggs",
     "address": "Unit 5\nSpringfield House,\nEmerson Road\nBishopbriggs\nG64 1QE",
     "phone": "0141 563 0220",
     "hours": "",
@@ -360,7 +360,7 @@
     "id": "8fde0339-8164-498c-bee4-fc0c2e65870b"
   },
   {
-    "title": "Kirkintilloch Citizens Advice",
+    "title": "Kirkintilloch",
     "address": "11 Alexandra Street\nKirkintilloch\nG66 1HB",
     "phone": "0141 775 3220",
     "hours": "",
@@ -369,7 +369,7 @@
     "id": "75ceb56c-a17b-430c-8f46-ba4db12cb3d2"
   },
   {
-    "title": "East Kilbride Citizens Advice",
+    "title": "East Kilbride",
     "address": "9 Olympia Way\nTown Centre\nEast Kilbride\nG74 1JT",
     "phone": "01355 263698",
     "hours": "",
@@ -378,7 +378,7 @@
     "id": "050da183-dead-4525-a685-65f92435faf2"
   },
   {
-    "title": "East Renfrewshire Citizens Advice",
+    "title": "East Renfrewshire",
     "address": "216 Main Street\nBarrhead\nG78 1SN",
     "phone": "0141 881 2032",
     "hours": "",
@@ -387,7 +387,7 @@
     "id": "f1b32460-99c4-4719-b6a8-e44b3d16a0c0"
   },
   {
-    "title": "Golspie Citizens Advice",
+    "title": "Golspie",
     "address": "Station Road\nGolspie\nKW10 6SN",
     "phone": "01408 634410",
     "hours": "",
@@ -396,7 +396,7 @@
     "id": "ccc73c1c-426f-437d-9b2d-e91239891b77"
   },
   {
-    "title": "Falkirk Citizens Advice",
+    "title": "Falkirk",
     "address": "27-29 Vicar Street\nFalkirk\nFK1 1LL",
     "phone": "01324 485290",
     "hours": "",
@@ -405,7 +405,7 @@
     "id": "5d96aacc-9340-4d44-8273-c4a831ff0d31"
   },
   {
-    "title": "Bridgeton Citizens Advice",
+    "title": "Bridgeton",
     "address": "35 Main Street\nGlasgow\nG40 1QB",
     "phone": "0141 554 0336",
     "hours": "",
@@ -414,7 +414,7 @@
     "id": "f828eb49-dc4f-4fbc-ad73-ff31cff00fe1"
   },
   {
-    "title": "Castlemilk Citizens Advice",
+    "title": "Castlemilk",
     "address": "27 Dougrie Drive\nCastlemilk\nGlasgow\nG45 9AD",
     "phone": "0141 634 0338",
     "hours": "",
@@ -423,7 +423,7 @@
     "id": "811099c3-5e6d-46cf-ad6e-02fe370717ae"
   },
   {
-    "title": "Glasgow Central Citizens Advice",
+    "title": "Glasgow Central",
     "address": "1st Floor\n88 Bell Street\nGlasgow\nG1 1LQ",
     "phone": "0141 559 6290",
     "hours": "",
@@ -432,7 +432,7 @@
     "id": "0ba85379-e906-4b86-8c62-c28935d16217"
   },
   {
-    "title": "Drumchapel Citizens Advice",
+    "title": "Drumchapel",
     "address": "195C Drumry Road East\nGlasgow\nG15 8NS",
     "phone": "0141 944 7398",
     "hours": "",
@@ -441,7 +441,7 @@
     "id": "0c686436-de02-4d92-8dc7-26c97bb7c5bb"
   },
   {
-    "title": "Easterhouse Citizens Advice",
+    "title": "Easterhouse",
     "address": "46 Shandwick Square\nGlasgow\nG34 9DT",
     "phone": "0141 771 2328",
     "hours": "",
@@ -450,7 +450,7 @@
     "id": "56c1ddbf-0fb5-4db4-8fb1-fc5b588a2532"
   },
   {
-    "title": "Greater Pollok Citizens Advice",
+    "title": "Greater Pollok",
     "address": "Pollok Civic Realm\n27 Cowglen Road\nGlasgow\nG53 6EW",
     "phone": "0141 876 4401",
     "hours": "",
@@ -459,7 +459,7 @@
     "id": "b3126c66-1b09-4775-bdac-10da6dea2ba3"
   },
   {
-    "title": "Possilpark Citizens Advice",
+    "title": "Possilpark",
     "address": "160-162 Saracen Street\nPossilpark\nGlasgow\nG22 5AS",
     "phone": "0141 336 3405",
     "hours": "",
@@ -468,7 +468,7 @@
     "id": "b590426b-8154-45b1-8d17-c562f06cc281"
   },
   {
-    "title": "Maryhill Citizens Advice",
+    "title": "Maryhill",
     "address": "25 Avenuepark Street\nGlasgow\nG20 8TS",
     "phone": "0141 946 6373",
     "hours": "",
@@ -477,7 +477,7 @@
     "id": "c223779a-d18d-4544-8162-49e79069ad54"
   },
   {
-    "title": "Parkhead Citizens Advice",
+    "title": "Parkhead",
     "address": "1361 - 1363 Gallowgate\nGlasgow\nG31 4DN",
     "phone": "0141 554 0004",
     "hours": "",
@@ -486,7 +486,7 @@
     "id": "d0cd2b5a-27dc-4d1d-8d3b-d7b93b5afd4a"
   },
   {
-    "title": "Grangemouth Citizens Advice",
+    "title": "Grangemouth",
     "address": "1 Kerse Road\nGrangemouth\nFK3 8HW",
     "phone": "01324 485290",
     "hours": "",
@@ -495,7 +495,7 @@
     "id": "6d0f4779-d3db-4630-aca0-49b3ad0fe52e"
   },
   {
-    "title": "Haddington Citizens Advice",
+    "title": "Haddington",
     "address": "46 Court Street\nHaddington\nEH41 3NP",
     "phone": "01620 824471",
     "hours": "",
@@ -504,7 +504,7 @@
     "id": "e03fcdbb-47a5-4c1b-b5a5-82fdaa64ba5d"
   },
   {
-    "title": "Hamilton Citizens Advice",
+    "title": "Hamilton",
     "address": "Almada Tower\n67 Almada Street\nHamilton\nML3 OHQ",
     "phone": "01698 283477",
     "hours": "",
@@ -513,7 +513,7 @@
     "id": "9b63ac8f-c239-4ec6-a118-b6c0b9c707a8"
   },
   {
-    "title": "Harris Citizens Advice",
+    "title": "Harris",
     "address": "Pier Road\nTarbert\nHS3 3BG",
     "phone": "01859 502431",
     "hours": "",
@@ -522,7 +522,7 @@
     "id": "6ea75339-4984-4480-9288-4d8aae0272d8"
   },
   {
-    "title": "Inverness Citizens Advice",
+    "title": "Inverness",
     "address": "103 Academy Street\nInverness\nIV1 1LX",
     "phone": "01463 237664",
     "hours": "",
@@ -531,7 +531,7 @@
     "id": "aba2e538-2866-43c4-aa17-2f6bc734677a"
   },
   {
-    "title": "Aviemore Citizens Advice",
+    "title": "Aviemore",
     "address": "2 Inverewe\nGrampian Road\nAviemore\nPH22 1RH",
     "phone": "01479 810919",
     "hours": "",
@@ -540,7 +540,7 @@
     "id": "69924b24-044f-49ea-bca5-306b23e60531"
   },
   {
-    "title": "Grantown-on-Spey Citizens Advice",
+    "title": "Grantown-on-Spey",
     "address": "41C High Street\nGrantown on Spey\nPH26 3EG",
     "phone": "01479 810919",
     "hours": "",
@@ -549,7 +549,7 @@
     "id": "5ecf97f4-29f6-4173-97ab-faa2ac9cdbcc"
   },
   {
-    "title": "Inverness (Raigmore Hospital) Citizens Advice",
+    "title": "Inverness (Raigmore Hospital)",
     "address": "Raigmore Hospital\nOld Perth Road\nInverness\nIV2 3UJ",
     "phone": "01463 706014",
     "hours": "",
@@ -558,7 +558,7 @@
     "id": "cd256fe7-9378-49c8-9abc-7e00d5eac221"
   },
   {
-    "title": "Irvine Citizens Advice",
+    "title": "Irvine",
     "address": "22A Eglinton Street\nIrvine\nKA12 8AS",
     "phone": "01294 608 147",
     "hours": "",
@@ -567,7 +567,7 @@
     "id": "7ba7fee9-280e-4033-8d67-b3809ea428ea"
   },
   {
-    "title": "Kilbirnie Citizens Advice",
+    "title": "Kilbirnie",
     "address": "43 Main Street\nKilbirnie\nKA25 7BX",
     "phone": "01294 608 147",
     "hours": "",
@@ -576,7 +576,7 @@
     "id": "2305088a-e842-45d4-bcef-7878cb451454"
   },
   {
-    "title": "Kincardine and Mearns Citizens Advice",
+    "title": "Kincardine and Mearns",
     "address": "9 Cameron Street\nStonehaven\nAB39 2BL",
     "phone": "01569 766 578",
     "hours": "",
@@ -585,7 +585,7 @@
     "id": "4e9842bc-7b3a-44c8-bb54-b8cd1bd9fe3e"
   },
   {
-    "title": "Largs Citizens Advice",
+    "title": "Largs",
     "address": "32-34 Boyd Street\nLargs\nKA30 8LE",
     "phone": "01294 608 147",
     "hours": "",
@@ -594,7 +594,7 @@
     "id": "f44b84db-4705-4cb4-87d0-7ec560835b70"
   },
   {
-    "title": "Lewis Citizens Advice",
+    "title": "Lewis",
     "address": "41-43 Westview Terrace\nStornoway\nHS1 2HP",
     "phone": "01851 705727",
     "hours": "",
@@ -603,7 +603,7 @@
     "id": "88905b48-61ad-4c8c-b811-c4c2cdb117e5"
   },
   {
-    "title": "Lochaber Citizens Advice",
+    "title": "Lochaber",
     "address": "Dudley Road\nLochaber\nFort William\nPH33 6JB",
     "phone": "01397 705311",
     "hours": "",
@@ -612,7 +612,7 @@
     "id": "d8d31ec5-9a49-4f2a-8f15-2290225c51f3"
   },
   {
-    "title": "Moray Citizens Advice",
+    "title": "Moray",
     "address": "30 - 32 Batchen Street\nElgin\nIV30 1BH",
     "phone": "01343 550088",
     "hours": "",
@@ -621,7 +621,7 @@
     "id": "25d212ed-7d96-457b-a2fc-14a55bd312d3"
   },
   {
-    "title": "Motherwell & Wishaw Citizens Advice",
+    "title": "Motherwell & Wishaw",
     "address": "32 Civic Square\nMotherwell\nML1 1TP",
     "phone": "01698 265349",
     "hours": "",
@@ -630,7 +630,7 @@
     "id": "818bda02-543c-4a8f-9eb4-69178e787596"
   },
   {
-    "title": "Musselburgh Citizens Advice",
+    "title": "Musselburgh",
     "address": "141 High Street\nMusselburgh\nEH21 7DD",
     "phone": "0131 653 2748",
     "hours": "",
@@ -639,7 +639,7 @@
     "id": "1e2f4e66-20be-4852-9911-11b94144dbce"
   },
   {
-    "title": "Nairn Citizens Advice",
+    "title": "Nairn",
     "address": "6 High Street\nNairn\nIV12 4BJ",
     "phone": "01667 456677",
     "hours": "",
@@ -648,7 +648,7 @@
     "id": "2924c6b3-f4b6-408c-ace2-084437a9943f"
   },
   {
-    "title": "North and West Sutherland Citizens Advice",
+    "title": "North and West Sutherland",
     "address": "The Pier\nKinlochbervie\nIV27 4RR",
     "phone": "01971 521 730",
     "hours": "",
@@ -657,7 +657,7 @@
     "id": "1e1d1b46-fe65-4131-8512-8df2c68b920e"
   },
   {
-    "title": "Orkney Citizens Advice",
+    "title": "Orkney",
     "address": "Anchor Buildings,\n6 Bridge Street\nKirkwall\nKW15 1HR",
     "phone": "01856 875266",
     "hours": "",
@@ -666,7 +666,7 @@
     "id": "d224e094-11ec-4949-b613-135d53035c56"
   },
   {
-    "title": "Peebles Citizens Advice",
+    "title": "Peebles",
     "address": "Chambers Institution\nHigh Street\nPeebles\nEH45 8AJ",
     "phone": "01721 721722",
     "hours": "",
@@ -675,7 +675,7 @@
     "id": "3f963bc4-9b22-4d51-8fa8-ddc36d987c77"
   },
   {
-    "title": "Penicuik Citizens Advice",
+    "title": "Penicuik",
     "address": "14a John Street\nPenicuik\nEH26 8AB",
     "phone": "01968 675259",
     "hours": "",
@@ -684,7 +684,7 @@
     "id": "3de41c57-6fec-45f4-acc9-8610eca1de3a"
   },
   {
-    "title": "Perth Citizens Advice",
+    "title": "Perth",
     "address": "7 Atholl Crescent\nPerth\nPH1 5NG",
     "phone": "01738 450596",
     "hours": "",
@@ -693,7 +693,7 @@
     "id": "70710524-824d-4e22-a2c1-c0a0c94ba79d"
   },
   {
-    "title": "Renfrewshire Citizens Advice",
+    "title": "Renfrewshire",
     "address": "45 George Street\nPaisley\nPA1 2JY",
     "phone": "0141 375 7328",
     "hours": "",
@@ -702,7 +702,7 @@
     "id": "a0256c3a-6a60-4acd-b2dd-8b339c8ed75a"
   },
   {
-    "title": "Alness Citizens Advice",
+    "title": "Alness",
     "address": "Balallan,\n4 Novar Road\nAlness\nIV17 0QG",
     "phone": "01349 883333",
     "hours": "",
@@ -711,7 +711,7 @@
     "id": "982a0299-3f39-45f9-abc3-61ce0add30b6"
   },
   {
-    "title": "Roxburgh and Berwickshire Citizens Advice",
+    "title": "Roxburgh and Berwickshire",
     "address": "1 Towerdykeside\nHawick\nTD9 9EA",
     "phone": "01450 374266",
     "hours": "",
@@ -720,7 +720,7 @@
     "id": "76557407-0fb2-4b94-a6a8-67f6e34d207e"
   },
   {
-    "title": "Cambuslang Citizens Advice",
+    "title": "Cambuslang",
     "address": "Kyle Court\n17 Main Street\nCambuslang\nG72 7EX",
     "phone": "0141 646 3191",
     "hours": "",
@@ -729,7 +729,7 @@
     "id": "4ab008a6-72d5-4b36-b683-48eb0c527beb"
   },
   {
-    "title": "Saltcoats Citizens Advice",
+    "title": "Saltcoats",
     "address": "87 Dockhead Street\nSaltcoats\nKA21 5ED",
     "phone": "01294 608 147",
     "hours": "",
@@ -738,7 +738,7 @@
     "id": "793e1b97-429d-4a6e-806c-ec07f5984211"
   },
   {
-    "title": "Shetland Islands Citizens Advice",
+    "title": "Shetland Islands",
     "address": "Market House,\n14 Market Street\nLerwick\nZE1 0JP",
     "phone": "01595 744596",
     "hours": "",
@@ -747,7 +747,7 @@
     "id": "1f82d904-a323-4af5-83f3-33943141e1d4"
   },
   {
-    "title": "Skye and Lochalsh Citizens Advice",
+    "title": "Skye and Lochalsh",
     "address": "The Green\nPortree\nIV51 9BT",
     "phone": "01478 612032",
     "hours": "",
@@ -756,7 +756,7 @@
     "id": "7007f2be-d1c0-4dbe-a6fe-737b8d2e8bd0"
   },
   {
-    "title": "South West Aberdeenshire Citizens Advice",
+    "title": "South West Aberdeenshire",
     "address": "Suite 2\n1st Floor Offices\nWesthill Shopping Centre\nOld Skene Road\nWesthill\nAB32 6RL",
     "phone": "01224 747714",
     "hours": "",
@@ -765,7 +765,7 @@
     "id": "3530de46-c1a3-4b9b-99f1-51d3878068bb"
   },
   {
-    "title": "Stirling Citizens Advice",
+    "title": "Stirling",
     "address": "The Norman MacEwan Centre\nCameronian Street\nStirling\nFK8 2DX",
     "phone": "01786 470239",
     "hours": "",
@@ -774,7 +774,7 @@
     "id": "d566c947-1b34-4b89-b55a-6d5aaff8385a"
   },
   {
-    "title": "Stranraer Citizens Advice",
+    "title": "Stranraer",
     "address": "23 Lewis Street\nStranraer\nDG9 7AB",
     "phone": "0300 303 4321",
     "hours": "",
@@ -783,7 +783,7 @@
     "id": "ced01a69-7a4d-4bac-a6b5-28c1c5c31679"
   },
   {
-    "title": "Turriff Citizens Advice",
+    "title": "Turriff",
     "address": "Masonic Building\nGladstone Terrace\nTurriff\nAB53 4AT",
     "phone": "01888 562 495",
     "hours": "",
@@ -792,7 +792,7 @@
     "id": "562f5626-5e9d-43bf-86de-cca89ecb310e"
   },
   {
-    "title": "Uist Citizens Advice",
+    "title": "Uist",
     "address": "45 Winfield Way\nBalivanich\nHS7 5LH",
     "phone": "01870 602421",
     "hours": "",
@@ -801,7 +801,7 @@
     "id": "b88818f2-3ab9-4a04-a51a-e416a1af0ad3"
   },
   {
-    "title": "Dumbarton Citizens Advice",
+    "title": "Dumbarton",
     "address": "Bridgend House\n179 High Street\nDumbarton\nG82 1NW",
     "phone": "01389 744 693",
     "hours": "",
@@ -810,7 +810,7 @@
     "id": "14d99fda-8707-4543-94dc-737fad7d8a1e"
   },
   {
-    "title": "Clydebank Citizens Advice",
+    "title": "Clydebank",
     "address": "Social Economy Centre\n63 Kilbowie Road\nClydebank\nG81 1BL",
     "phone": "01389 744 693",
     "hours": "",
