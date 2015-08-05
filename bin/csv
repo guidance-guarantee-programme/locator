@@ -6,12 +6,12 @@ require 'csv'
 require 'json'
 
 json = JSON.parse(File.read(ARGV.first))
-
-headers = json.first.keys + json.first.keys.map { |k| "new_#{k}" }
+keys = (['id', 'booking_location_id'] + json.first.keys).uniq
+headers = keys + keys.map { |k| "new_#{k}" }
 
 csv = CSV.generate do |csv|
   csv << headers
-  json.each { |record| csv << record.values }
+  json.each { |record| csv << record.values_at(*keys) }
 end
 
 puts csv
