@@ -3,7 +3,7 @@
     "title": "Antrim",
     "address": "Farranshane House\n1 Ballygore Road\nAntrim\nBT41 2RN",
     "phone": "028 9442 8176",
-    "hours": "Monday to Thursday, 10am to 12pm and 2pm to 4pm\nFriday, 10am to 12pm and 1:30pm to 2:30pm",
+    "hours": "Monday to Thursday, 10am to 12pm and 2pm to 4pm\nFriday, 9:30am to 12:30pm and 1:30pm to 4.00pm",
     "lat": 54.71857499999999,
     "lng": -6.188037599999999,
     "id": "73abedb4-f822-4f5f-b7a9-6aa1f627f41a"
@@ -12,7 +12,7 @@
     "title": "Ards",
     "address": "5 West Street\nNewtownards\nBT23 4EN",
     "phone": "028 9180 1929",
-    "hours": "Monday to Friday, 9:30am to 3:30pm",
+    "hours": "Monday to Friday, 10:00am to 3:30pm",
     "lat": 54.5952592,
     "lng": -5.7019008,
     "id": "8862652c-a7e0-4aba-8846-91f836ebbffe"
@@ -30,7 +30,7 @@
     "title": "Ballymena",
     "address": "4 Wellington Court\nBallymena\nBT43 6EQ",
     "phone": "028 2565 5970",
-    "hours": "Monday, Tuesday, Wednesday, Friday, 9am to 4pm\nThursday, 9am to 8pm",
+    "hours": "Monday, Tuesday, Friday, 10am to 4pm\nWednesday, Thursday, 10am to 8pm",
     "lat": 54.8657556,
     "lng": -6.2742356,
     "id": "2d320a0c-89f0-44d7-9cf9-6f29e4f97dd8"
@@ -48,7 +48,7 @@
     "title": "Bangor",
     "address": "1a Springfield Avenue\nBangor\nBT20 5BY",
     "phone": "028 9145 0787",
-    "hours": "Monday, 9:30am to 3:30pm",
+    "hours": "Monday to Friday 10am to 3:30pm",
     "lat": 54.6620252,
     "lng": -5.663684099999999,
     "id": "db7c39db-d64c-4561-a2a4-e4556690a64c"
@@ -57,7 +57,7 @@
     "title": "Belfast",
     "address": "Merrion Business Centre\n58 Howard St\nBelfast\nBT1 6PJ",
     "phone": "0300 1 233 233",
-    "hours": "Monday to Friday, 9am to 12:30pm and 1pm to 4pm",
+    "hours": "Monday to Friday, 9am to 12:30pm and 1pm to 4:30pm",
     "lat": 54.5957306,
     "lng": -5.9341485,
     "id": "1de9b76c-c349-4e2a-a3a7-bb0f59b0807e"
@@ -93,7 +93,7 @@
     "title": "Craigavon",
     "address": "The Town Hall\n6 Union Street\nCraigavon\nBT66 8DY",
     "phone": "028 3833 3571",
-    "hours": "Monday to Friday, 9am to 5pm",
+    "hours": "Monday to Friday, 9:30am to 5pm",
     "lat": 54.4609688,
     "lng": -6.3313305,
     "id": "5a9df3a1-06e5-4f25-974f-2dcf6080fe3d"
@@ -102,7 +102,7 @@
     "title": "Derry",
     "address": "Embassy Court\n3 Strand Road\nDerry\nBT48 7BJ",
     "phone": "028 7134 7047",
-    "hours": "Monday to Friday, 9:30am to 12:30pm and 2pm to 4pm",
+    "hours": "Monday to Friday, 9am to 1pm and 2pm to 5pm",
     "lat": 54.99967789999999,
     "lng": -7.3219594,
     "id": "03ca70f3-f76a-4563-a243-571000f80ab4"
@@ -111,7 +111,7 @@
     "title": "Downpatrick",
     "address": "Magh-Inis House\n8-10 Irish Street\nDownpatrick\nBT30 6BP",
     "phone": "028 4461 4110",
-    "hours": "Monday to Thursday 9am to 4pm\nFriday, 9am to 1pm",
+    "hours": "Monday to Thursday 10am to 4pm\nFriday, 10am to 1pm",
     "lat": 54.3286751,
     "lng": -5.7153462,
     "id": "bc0cdad0-7e6c-4aa3-a423-416f56cb26dc"
@@ -120,7 +120,7 @@
     "title": "Dungannon",
     "address": "5-6 Feeney's Lane\nDungannon\nBT70 1TX",
     "phone": "028 8772 3458",
-    "hours": "Monday to Friday, 9:30am to 3pm",
+    "hours": "Monday to Friday, 10am to 3pm",
     "lat": 54.5049094,
     "lng": -6.770258999999999,
     "id": "4fbed63d-5cff-4366-bb3c-7e0011e01214"
@@ -129,7 +129,7 @@
     "title": "Fermanagh",
     "address": "Fermanagh House\nBroadmeadow Place\nFermanagh\nBT74 7HR",
     "phone": "028 6632 4334",
-    "hours": "Monday to Thursday, 9:30am to 1pm\nFriday, 2pm to 3:30pm",
+    "hours": "Monday to Thursday, 9:30am to 3.30pm\nFriday, 9.30am to 1pm",
     "lat": 54.3454797,
     "lng": -7.6416001,
     "id": "5a2c0f21-0e97-44ce-aca6-8f0594a828b8"
@@ -183,7 +183,7 @@
     "title": "Strabane",
     "address": "17 Dock Street\nStrabane\nBT82 8EE",
     "phone": "028 7134 7047",
-    "hours": "Monday to Friday, 9:30am to 12:30pm and 2pm to 4pm",
+    "hours": "Monday to Friday, 9am to 1pm and 2pm to 5pm",
     "lat": 54.8292993,
     "lng": -7.4647269,
     "id": "beafeb21-7cd6-4a88-a372-d632fc63f291"
