@@ -1,23 +1,19 @@
 language: go
 go:
 - 1.4.2
-cache:
-  directories:
-  - node_modules
 env:
   global:
-  - secure: cj7uF4Afsh/Yjh/zMqcIPeO3+C91Y+xWEQjWPRCe2cvs1plS/ODocHet7jwKH79K2vEx9PXf2dnYKfRWx8cKo7E4KGTgaayKYjal4paRoRnpbOSdYyXkHTKQwEEcg3WnSqUv8G63xo24Lo8rRjlrXcIUS12NQ1CSx4ZP2ISAKwE=
-  - secure: NSNK3Kt0dO7XCkHo+68nJb5GsRFI+Zln+xclQZg7898PnchnFoMEkgOmFr3X1WWvbI+oYICQO92HLl5gNIEwNSeOImqu1HaPsswipGgmPtGiroYEDB3kBtfYAxmGf97IukfRKucc3BoJMCtZhP1U9RbFs/CAjFWvhzTpbm1GLoQ=
+  - secure: FypN9aGRel9NcsoigB1zCUvp+jthRKwXKjntEGt7IB0Tn7fuWYiEBPVeV+35s+Z5AafGCSpiMGeOhBYz4l+FboEDUrhvUe67EggRVBMg9d5du5jJ3UIjSxkmddTj+F8jIVzO+paZR83kYxovXljSXjoPPkpDl9urmIgrLKULCCo=
+  - secure: lOfqql4RmmViu9aHtCIXrRlOnkWqY+fGG/8PRFXWh4MeS/4Rl6B7gFOIdvfr5xVWqL51Cb4jsQ+coRZ/HmiS/+g2+ZdrF9AnLLj1Fx7x/LeT13gFUE6g7OjPKMy1urv0IWaC8HcwvL5OFcbMJk78K8Vjmw2hBUXcan99iNb8fKg=
 install:
 - go get github.com/tools/godep
 - godep restore
 - bundle install
-- npm install
 script:
 - go test -v ./...
 - bundle exec rake
 after_script:
-- ./node_modules/.bin/travis-notify-geckoboard -a $GECKOBOARD_API_KEY -w $GECKOBOARD_WIDGET_KEY
+- bash -c "$(curl -s https://gist.githubusercontent.com/pensionbot/63dc0efd1c880ede3a37/raw)"
 deploy:
   provider: heroku
   api_key:
