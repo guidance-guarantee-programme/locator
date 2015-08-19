@@ -10,7 +10,7 @@
   },
   {
     "title": "Ards",
-    "address": "5 West Street\nNewtownards\nBT23 4EN",
+    "address": "75 West Street\nNewtownards\nBT23 4EN",
     "phone": "028 9180 1929",
     "hours": "Monday to Friday, 10:00am to 3:30pm",
     "lat": 54.5952592,
@@ -48,7 +48,7 @@
     "title": "Bangor",
     "address": "1a Springfield Avenue\nBangor\nBT20 5BY",
     "phone": "028 9145 0787",
-    "hours": "Monday to Friday 10am to 3:30pm",
+    "hours": "Monday to Friday, 10am to 3:30pm",
     "lat": 54.6620252,
     "lng": -5.663684099999999,
     "id": "db7c39db-d64c-4561-a2a4-e4556690a64c"
@@ -73,7 +73,7 @@
   },
   {
     "title": "Coleraine",
-    "address": "24 Lodge Road\nColeraine\nBT52 1NB",
+    "address": "1-5 Brook Street\nColeraine\nLondonderry\nBT52 1PW",
     "phone": "028 7032 9775",
     "hours": "Monday to Friday, 9:30am to 1pm and 2pm to 4pm",
     "lat": 55.1315202,
@@ -111,7 +111,7 @@
     "title": "Downpatrick",
     "address": "Magh-Inis House\n8-10 Irish Street\nDownpatrick\nBT30 6BP",
     "phone": "028 4461 4110",
-    "hours": "Monday to Thursday 10am to 4pm\nFriday, 10am to 1pm",
+    "hours": "Monday to Thursday, 10am to 4pm\nFriday, 10am to 1pm",
     "lat": 54.3286751,
     "lng": -5.7153462,
     "id": "bc0cdad0-7e6c-4aa3-a423-416f56cb26dc"
@@ -129,7 +129,7 @@
     "title": "Fermanagh",
     "address": "Fermanagh House\nBroadmeadow Place\nFermanagh\nBT74 7HR",
     "phone": "028 6632 4334",
-    "hours": "Monday to Thursday, 9:30am to 3.30pm\nFriday, 9.30am to 1pm",
+    "hours": "Monday to Thursday, 9:30am to 3.30pm\nFriday, 9:30am to 1pm",
     "lat": 54.3454797,
     "lng": -7.6416001,
     "id": "5a2c0f21-0e97-44ce-aca6-8f0594a828b8"
@@ -145,7 +145,7 @@
   },
   {
     "title": "Larne",
-    "address": "Park Lodge\n49 Victoria Road\nLarne\nBT40 1RT",
+    "address": "Market House\n2 Station Road\nLarne\nBT40 1XB",
     "phone": "028 2826 0379",
     "hours": "Monday to Friday, 10am to 4pm",
     "lat": 54.8538116,
@@ -173,7 +173,7 @@
   {
     "title": "Newtownabbey",
     "address": "Dunanney Centre\nRathmullan Drive\nNewtownabbey\nBT37 9DQ",
-    "phone": "028 9085 3271",
+    "phone": "028 9085 2069",
     "hours": "Monday to Friday, 9am to 1pm and 1:30pm to 4pm",
     "lat": 54.664403,
     "lng": -5.9169166,
