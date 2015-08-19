@@ -1,16 +1,16 @@
 [
   {
     "title": "Allerdale",
-    "address": "Vulcans Lane\nWorkington\nCumbria\nCA14 2BT",
+    "address": "Town Hall\nOxford Street\nWorkington\nCA14 2RS",
     "phone": "01900 68981",
-    "hours": "Monday, Wednesday, Thursday 9am to 5pm\nTuesday, 9am to 6pm\nFriday, 9am to 4:30pm",
+    "hours": "Monday to Friday, 9am to 5pm",
     "lat": 54.64448470000001,
     "lng": -3.549225,
     "id": "ec825112-a3df-4c7d-9a07-460a35b57f5a"
   },
   {
     "title": "Wigton",
-    "address": "Wigton Local Links\nCommunity Office\nMarket Hall\nChurch Street\nWigton\nCumbria\nCA7 9AA ",
+    "address": "Wigton Local Links\nCommunity Office\nMarket Hall\nChurch Street\nWigton\nCumbria\nCA7 9AA",
     "phone": "",
     "hours": "",
     "lat": 54.8245067,
@@ -89,7 +89,7 @@
   },
   {
     "title": "Fareham",
-    "address": "1st Floor County Library Building\nOsborn Road\nFarehamHampshire\nPO16 7EN",
+    "address": "1st Floor County Library Building\nOsborn Road\nFareham\nHampshire\nPO16 7EN",
     "phone": "",
     "hours": "",
     "lat": 50.8548215,
@@ -250,7 +250,7 @@
     "title": "Caerphilly",
     "address": "2B De Clare House\n5 Alfred Owen Way\nPontygwindy Industrial Estate\nCAERPHILLY\nCF83 3HU",
     "phone": "01443 878054",
-    "hours": "Monday to Friday, 9am to 5pm",
+    "hours": "Monday to Thursday, 9am to 5pm\nFriday, 9am to 4:30pm",
     "lat": 51.5895459,
     "lng": -3.2257906,
     "id": "fa064037-1467-403a-a3ca-a963853e9f89"
@@ -426,9 +426,9 @@
   },
   {
     "title": "Barry",
-    "address": "119 Broad Street\nBARRY\nVale of Glamorgan\nCF62 7TZ",
+    "address": "Advice Hub\nCardiff Central Hub\nThe Hayes\nCARDIFF\nCF10 1FL",
     "phone": "01446 704998",
-    "hours": "Monday to Thursday, 9am to 5pm\nFriday, 9am to 4pm",
+    "hours": "Monday to Friday, 9am to 5pm",
     "lat": 51.4032521,
     "lng": -3.273753,
     "id": "525da418-ff2c-4522-90a9-bc70ba4ca78b"
@@ -476,7 +476,7 @@
     "title": "Chelmsford",
     "address": "Burgess Well House\nCoval Lane\nCHELMSFORD\nEssex\nCM1 1FW",
     "phone": "01245 205567",
-    "hours": "Monday to Friday, 9am to 5pm",
+    "hours": "Monday, Wednesday, Thursday, Friday, 9am to 4:30pm\nTuesday, 9am to 12:30pm\nSaturday, 9:30am to 12pm",
     "lat": 51.7355868,
     "lng": 0.4685497,
     "id": "ecb39ba7-ad9e-4dca-b3a6-904bc3421436"
@@ -625,14 +625,14 @@
     "title": "Winsford",
     "address": "The Brunner Guildhall\nHigh Street\nWINSFORD\nCheshire\nCW7 2AU",
     "phone": "01606 596399",
-    "hours": "Monday to Friday, 9am to 4pm",
+    "hours": "Monday to Friday, 9am to 5pm",
     "lat": 53.1926639,
     "lng": -2.5282506,
     "id": "df38d9b9-e9a9-4bf0-b56b-4309965b815c"
   },
   {
     "title": "Chester",
-    "address": "Folliott House\n53 Northgate Street\nCHESTER\nCheshire\nCH1 2HQ",
+    "address": "The Bluecoat\nUpper Northgate Street\nCHESTER\nCheshire\nCH1 4EE",
     "phone": "",
     "hours": "",
     "lat": 53.1930145,
@@ -774,7 +774,7 @@
     "title": "Camborne",
     "address": "Camborne Office\nThe Community Centre\nSouth Terrace\nCAMBORNE\nCornwall\nTR14 8SU",
     "phone": "03333 442480",
-    "hours": "Monday to Friday, 9am to 3pm",
+    "hours": "Monday to Thursday, 9am to 5pm\nFriday, 9am to 4pm",
     "lat": 50.2106906,
     "lng": -5.2991229,
     "id": "00b45549-f1da-40a4-8696-3f3c1ce42723"
@@ -893,7 +893,7 @@
     "title": "Coventry",
     "address": "Kirby House\nLittle Park Street\nCOVENTRY\nWest Midlands\nCV1 2JZ",
     "phone": "02476 252621",
-    "hours": "Monday to Friday, 9:30am to 4pm",
+    "hours": "Monday to Friday, 9am to 5pm",
     "lat": 52.4059561,
     "lng": -1.5085407,
     "id": "26f675df-fbc6-41a2-9594-485c2052ec2e"
@@ -1012,7 +1012,7 @@
     "title": "Darlington",
     "address": "Bennet House\n14 Horsemarket\nDARLINGTON\nCounty Durham\nDL1 5PT",
     "phone": "01325 249833",
-    "hours": "Monday, Tuesday, Thursday, Friday, 9am to 5pm\nWednesday, 9am to 6pm",
+    "hours": "Monday to Friday, 9am to 5pm",
     "lat": 54.523996,
     "lng": -1.5545461,
     "id": "ee399dec-f9c2-4201-b27f-e3da114d3e17"
@@ -1071,7 +1071,7 @@
     "title": "Denbigh",
     "address": "23 High Street\nDENBIGH\nDenbighshire\nLL16 3HY",
     "phone": "01745 818081",
-    "hours": "Monday to Friday, 9:30am to 2:30pm",
+    "hours": "Monday to Friday, 9:30am to 4:30pm",
     "lat": 53.1834688,
     "lng": -3.4197901,
     "id": "a75c52c0-7b36-42b5-b965-73c8949c252d"
@@ -1219,7 +1219,7 @@
     "title": "Diss",
     "address": "Shelfanger Road\nDISS\nNorfolk\nIP22 4EH",
     "phone": "01379 658205",
-    "hours": "Monday to Friday, 9am to 5:30pm",
+    "hours": "Monday to Friday, 9am to 5:00pm",
     "lat": 52.3795521,
     "lng": 1.1064057,
     "id": "b63c56e9-2111-43cc-bb72-c58ad4053bfc"
@@ -1365,9 +1365,9 @@
   },
   {
     "title": "Northallerton",
-    "address": "277 High Street\nNORTHALLERTON\nNorth Yorkshire\nDL7 8DW",
+    "address": "277 High Street\nNORTHALLERTON\nNorth Yorkshire\nDL7 8EE",
     "phone": "01609 767555",
-    "hours": "Monday, Tuesday, Thursday, 10am to 3pm",
+    "hours": "Monday to Friday, 9am to 5pm",
     "lat": 54.3430232,
     "lng": -1.4376947,
     "id": "aaf2967c-871a-49f6-9912-c2483879879f"
@@ -1456,14 +1456,14 @@
     "title": "St Leonards-on-Sea",
     "address": "Advice and Community Hub\nRenaissance House\nLondon Road\nSt Leonards on Sea\nEast Sussex\nTN37 6AN",
     "phone": "01424 452700",
-    "hours": "Monday to Friday, 9:30am to 4pm",
+    "hours": "Monday to Friday, 9am to 5pm",
     "lat": 50.85303320000001,
     "lng": 0.5600564,
     "id": "8e0e385f-2ec9-4e4f-b38e-63ca22d2ac1a"
   },
   {
     "title": "Lewes",
-    "address": "The Barn\n3 North Court\nLEWES\nEast Sussex\nBN7 2AR",
+    "address": "Lewes District Council\nSouthover House\nSouthover Road\nLewes\nEast Sussex\nBN7 1AB",
     "phone": "",
     "hours": "",
     "lat": 50.8747045,
@@ -1545,7 +1545,7 @@
     "title": "High Wycombe & District",
     "address": "8 Easton St\nHigh Wycombe District\nHIGH WYCOMBE\nBuckinghamshire\nHP11 1NJ",
     "phone": "01494 533330",
-    "hours": "Tuesday, 12pm to 7:30pm\nWednesday, Friday, 10am to 4pm\nThursday, 10am to 7:30pm",
+    "hours": "Monday to Friday, 10am to 4:30pm",
     "lat": 51.6285284,
     "lng": -0.7475771999999999,
     "id": "f2ca5441-6a04-4984-9b7a-8106e48dacdf"
@@ -1644,7 +1644,7 @@
     "title": "Hull",
     "address": "The Wilson Centre (1st floor)\nAlfred Gelder Street\nHULL\nEast Yorkshire\nHU1 2AG",
     "phone": "01482 816308",
-    "hours": "Monday to Friday, 9am to 4:30pm",
+    "hours": "Monday to Friday, 9am to 5pm",
     "lat": 53.7442573,
     "lng": -0.3359857,
     "id": "bc588eed-fc08-4448-b793-a287e417c2be"
@@ -1723,7 +1723,7 @@
     "title": "Dewsbury",
     "address": "Units 5/6 Empire House\nWakefield Old Road\nDEWSBURY\nWest Yorkshire\nWF12 8DJ",
     "phone": "01924 869835",
-    "hours": "Monday to Friday, 9:30am to 3:30pm",
+    "hours": "Monday to Friday, 9am to 5pm",
     "lat": 53.69172,
     "lng": -1.6266313,
     "id": "783722f2-e28c-4215-bb91-a4ffa6a5fee9"
@@ -2039,7 +2039,7 @@
     "title": "Lincoln & District",
     "address": "Beaumont Lodge\nBeaumont Fee\nLINCOLN\nLincolnshire\nLN1 1UL",
     "phone": "01522 828617",
-    "hours": "Monday to Friday, 9am to 5pm",
+    "hours": "Monday to Friday, 9am to 12:30pm, 1:15pm to 4pm",
     "lat": 53.2311876,
     "lng": -0.5421441,
     "id": "88aac83b-2bec-409d-ad0e-21fc81398d6c"
@@ -2215,7 +2215,7 @@
   },
   {
     "title": "Edenbridge",
-    "address": "The Eden Centre\nFour Elms Road\nSevenoaks District\nEDENBRIDGE\nKent\nTN8 6BT",
+    "address": "The Eden Centre\nFour Elms Road\nSevenoaks District\nEDENBRIDGE\nKent\nTN8 6BY",
     "phone": "",
     "hours": "",
     "lat": 51.209512,
@@ -2234,7 +2234,7 @@
     "booking_location_id": "de22845b-57f3-456b-a292-e36576ebe7e4"
   },
   {
-    "title": "Gillingham",
+    "title": "Medway",
     "address": "Kingsley House\n37-39 Balmoral Road\nMedway\nGILLINGHAM\nKent\nME7 4PF",
     "phone": "",
     "hours": "",
@@ -2265,7 +2265,7 @@
   },
   {
     "title": "Swanley",
-    "address": "16 High Street\nSWANLEY\nKent\nBR8 8BG",
+    "address": "Civic Centre\nSt Mary’s Road \nSWANLEY\nBR8 7BU",
     "phone": "",
     "hours": "",
     "lat": 51.3950287,
@@ -2403,7 +2403,7 @@
     "booking_location_id": "38fe9633-d556-4e96-ab99-518eeaf7d2a7"
   },
   {
-    "title": "Sale",
+    "title": "Sale (Trafford)",
     "address": "1 Waterside Plaza\nSALE\nGreater Manchester\nM33 7BS",
     "phone": "",
     "hours": "",
@@ -2414,7 +2414,7 @@
   },
   {
     "title": "Tameside",
-    "address": "Ground Floor Office\nTameside Metropolitan Borough Council Offices\nWellington Road\nTameside\nASHTON-UNDER-LYNE\nGreater Manchester\nOL6 6DL",
+    "address": "Tameside CAB\nClarence Arcade\nStamford Street\nAshton-under-Lyne\nOL6 7PT",
     "phone": "",
     "hours": "",
     "lat": 53.4905045,
@@ -2433,7 +2433,7 @@
   },
   {
     "title": "Streatham Hill",
-    "address": "1 Barrhill Road\nStreatham Hill\nLambeth & Merton\nLONDON\nSW2 4RJ",
+    "address": "1 Barrhill Road\nStreatham Hill\nLONDON\nSW2 4RJ",
     "phone": "",
     "hours": "",
     "lat": 51.440267,
@@ -2463,7 +2463,7 @@
   },
   {
     "title": "Brentford & Chiswick",
-    "address": "Town Hall\nHeathfield Terrace\nHounslow CHISWICK\nLondon\nW4 4JN",
+    "address": "Town Hall\nHeathfield Terrace\nHounslow\nCHISWICK\nLondon\nW4 4JN",
     "phone": "",
     "hours": "",
     "lat": 51.4914695,
@@ -2503,7 +2503,7 @@
   },
   {
     "title": "Shepherd’s Bush",
-    "address": "338 Uxbridge Road\nLondon\nW12 7LL",
+    "address": "The Advice Centre\n338 Uxbridge Road\nLondon\nW12 7LL",
     "phone": "",
     "hours": "",
     "lat": 51.50643789999999,
@@ -2673,7 +2673,7 @@
     "title": "Northampton",
     "address": "Town Centre House\n7/8 Mercers Row\nNORTHAMPTON\nNorthamptonshire\nNN1 2QL",
     "phone": "0300 3239940",
-    "hours": "Monday to Friday, 9am to 5pm",
+    "hours": "Monday to Friday, 9.30am to 5.30pm",
     "lat": 52.2375028,
     "lng": -0.8962066999999999,
     "id": "d4303701-3b39-4ede-b001-3b7234b05478"
@@ -2721,7 +2721,7 @@
   {
     "title": "Pembroke Dock",
     "address": "38 Meyrick Street\nPEMBROKE DOCK\nPembrokeshire\nSA72 6UT",
-    "phone": "07931 998 203",
+    "phone": "01646 621884",
     "hours": "Monday to Friday, 9am to 5pm",
     "lat": 51.6914341,
     "lng": -4.9431067,
@@ -2741,7 +2741,7 @@
     "title": "Peterborough",
     "address": "16-17 St Mark's Street\nPETERBOROUGH\nCambridgeshire\nPE1 2TU",
     "phone": "01733 887922",
-    "hours": "Monday to Friday, 9am to 5pm",
+    "hours": "Monday to Friday, 9am to 12pm, 1pm to 4pm",
     "lat": 52.5792817,
     "lng": -0.2414297,
     "id": "1812446c-77a1-462f-b356-a13b3c203658"
@@ -2780,7 +2780,7 @@
     "title": "Plymouth",
     "address": "3rd Floor\nCobourg House\n32 Mayflower Street\nPLYMOUTH\nDevon\nPL1 1QX",
     "phone": "01752 502695",
-    "hours": "Monday to Friday, 9am to 5pm",
+    "hours": "Monday to Thursday, 9am to 5pm\nFriday, 9am to 4:30pm",
     "lat": 50.3733713,
     "lng": -4.141365,
     "id": "c312229b-c96d-49d0-8362-4a3f746b3ac4"
@@ -2837,7 +2837,7 @@
   },
   {
     "title": "Torquay",
-    "address": "11 Castle Road\nTORQUAY\nDevon\nTQ3 3BB",
+    "address": "11 Castle Road\nTORQUAY\nDevon\nTQ1 3BB",
     "phone": "",
     "hours": "",
     "lat": 50.4362828,
@@ -3014,7 +3014,7 @@
   },
   {
     "title": "Sheffield (Chapel Street, Woodhouse)",
-    "address": "5 Chapel Street\nWoodhouse\nSHEFFIELD\nSouth Yorkshire\nS13 7JL",
+    "address": "5 Chapel Street\nWoodhouse\nSHEFFIELD\nSouth Yorkshire\nS13 7JN",
     "phone": "",
     "hours": "",
     "lat": 53.3594492,
@@ -3066,7 +3066,7 @@
     "title": "Shrewsbury",
     "address": "Fletcher House\n15 College Hill\nShrewsbury\nShropshire\nSY1 1LY",
     "phone": "01743 284165",
-    "hours": "Monday to Friday, 9am to 5pm",
+    "hours": "Monday to Thursday, 9am to 5pm\nFriday, 9am to 4:30pm",
     "lat": 52.7066825,
     "lng": -2.7542569,
     "id": "138175c6-02be-4f44-b08e-929c80e6598c"
@@ -3124,7 +3124,7 @@
     "title": "Stafford",
     "address": "17 Eastgate Street\n(opposite The Royal British Legion)\nSTAFFORD\nStaffordshire\nST16 2LZ",
     "phone": "01785 283019",
-    "hours": "Monday to Friday, 9am to 5pm",
+    "hours": "Monday to Thursday, 9am to 5pm\nFriday, 9am to 4:30pm",
     "lat": 52.80663010000001,
     "lng": -2.1130982,
     "id": "64f46eb9-de5d-4227-b9fb-de3bdfcfe602"
@@ -3272,14 +3272,14 @@
     "title": "Carshalton and Wallington",
     "address": "68 Parkgate Road\nSutton\nWALLINGTON\nSurrey\nSM6 0AH",
     "phone": "020 3478 2145",
-    "hours": "Monday to Friday, 10am to 4pm",
+    "hours": "Monday to Friday, 10am to 12pm, 1pm to 3pm",
     "lat": 51.364447,
     "lng": -0.1546628,
     "id": "234fd904-6288-49a9-8d59-f46439ab9060"
   },
   {
     "title": "Sutton",
-    "address": "The Central Library\nSt Nicholas Way\nSutton\nSM1 1EA",
+    "address": "Civic Offices\nSt Nicholas Way\nSutton\nSM1 1EA",
     "phone": "",
     "hours": "",
     "lat": 51.3616716,
@@ -3341,7 +3341,7 @@
     "title": "Taunton",
     "address": "St Mary's House\nMagdalene Street\nTAUNTON\nSomerset\nTA1 1SB",
     "phone": "01823 448970",
-    "hours": "Monday to Friday, 9am to 5pm",
+    "hours": "Monday to Friday, 8:30am to 5pm",
     "lat": 51.01530899999999,
     "lng": -3.100556,
     "id": "7f916cf6-d2bd-4bcc-90dc-594207c8b1f4"
@@ -3388,7 +3388,7 @@
   },
   {
     "title": "Waltham Forest",
-    "address": "220 Hoe Street\nWalthamstow\nLondon\nE17 3AH",
+    "address": "220 Hoe Street\nWalthamstow\nLondon\nE17 3AY",
     "phone": "0203 233 0250",
     "hours": "Monday to Friday, 9am to 5pm",
     "lat": 51.58448809999999,
@@ -3538,7 +3538,7 @@
     "title": "Leigh",
     "address": "6 The Avenue Leigh\nWN7 1ES",
     "phone": "01942 267965",
-    "hours": "Monday to Friday, 10am to 4pm",
+    "hours": "Monday to Friday, 9am to 5pm",
     "lat": 53.4994733,
     "lng": -2.5178255,
     "id": "3713e3be-1b0d-4971-a064-25fa9a6af8bd"
@@ -3587,7 +3587,7 @@
     "title": "Chippenham",
     "address": "3 Avon Reach\nMonkton Hill\nChippenham\nWiltshire\nSN15 1EE",
     "phone": "01722 580052",
-    "hours": "Monday to Friday, 9am to 5pm",
+    "hours": "Monday to Thursday, 9am to 4:30pm\nFriday, 9am to 3pm",
     "lat": 51.4605063,
     "lng": -2.1167758,
     "id": "b74377da-d06b-48d0-9d74-cc362bbb53b3"
@@ -3614,7 +3614,7 @@
   },
   {
     "title": "Trowbridge",
-    "address": "1 Mill Street\nTROWBRIDGE\nWiltshire\nBA14 8EB",
+    "address": "1 Mill Street\nTROWBRIDGE\nWiltshire\nBA14 8BE",
     "phone": "",
     "hours": "",
     "lat": 51.3195698,
@@ -3703,17 +3703,17 @@
     "booking_location_id": "b74377da-d06b-48d0-9d74-cc362bbb53b3"
   },
   {
-    "title": "Wolverhampton (Bilston)",
-    "address": "William Leigh House\n15 Walsall Street\nBilston\nWOLVERHAMPTON\nWest Midlands\nWV14 0AT",
+    "title": "Wolverhampton City Centre",
+    "address": "26 Snow Hill\nWOLVERHAMPTON\nWest Midlands\nWV2 4AD",
     "phone": "01902 572048",
-    "hours": "Monday to Thursday, 9:30am to 2pm\nFriday, 9:30am to 1pm",
+    "hours": "Monday to Thursday, 9:30am to 5pm\nFriday, 9:30am to 4:30pm",
     "lat": 52.5660518,
     "lng": -2.0761111,
     "id": "12481dc1-e871-4f64-9a3f-5ca3ac58c1a1"
   },
   {
-    "title": "Wolverhampton City Centre",
-    "address": "26 Snow Hill\nWOLVERHAMPTON\nWest Midlands\nWV2 4AD",
+    "title": "Wolverhampton (Bilston)",
+    "address": "William Leigh House\n15 Walsall Street\nBilston\nWOLVERHAMPTON\nWest Midlands\nWV14 0AT",
     "phone": "",
     "hours": "",
     "lat": 52.5819877,
@@ -3772,10 +3772,10 @@
     "booking_location_id": "12481dc1-e871-4f64-9a3f-5ca3ac58c1a1"
   },
   {
-    "title": "Worcester (The Hopmarket)",
-    "address": "The Hopmarket\nThe Foregate\nWORCESTER\nWorcestershire\nWR1 1DL",
+    "title": "Worcester (Lowesmoor)",
+    "address": "The Old Glove Factory \n13a Lowesmoor\nWORCESTER\nWR1 2RS",
     "phone": "01905 721892",
-    "hours": "Monday to Friday, 10am to 4pm",
+    "hours": "Monday to Friday, 9:30am to 5pm",
     "lat": 52.1940252,
     "lng": -2.2215034,
     "id": "dfad96fe-c421-4ffe-8aa8-5061b2c26195"
@@ -3802,7 +3802,7 @@
   },
   {
     "title": "Leominster",
-    "address": "Multi-Agency Office\nConningsby Road\nLEOMINSTER\nHerefordshire\nHR6 8LR",
+    "address": "Multi-Agency Office\nConningsby Road\nLEOMINSTER\nHerefordshire\nHR6 8LL",
     "phone": "",
     "hours": "",
     "lat": 52.2272165,
