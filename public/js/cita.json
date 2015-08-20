@@ -4,8 +4,8 @@
     "address": "Town Hall\nOxford Street\nWorkington\nCA14 2RS",
     "phone": "01900 68981",
     "hours": "Monday to Friday, 9am to 5pm",
-    "lat": 54.64448470000001,
-    "lng": -3.549225,
+    "lat": 54.6447411,
+    "lng": -3.5485313,
     "id": "ec825112-a3df-4c7d-9a07-460a35b57f5a"
   },
   {
@@ -62,8 +62,8 @@
     "address": "1st Floor County Library Building\nOsborn Road\nFareham\nHampshire\nPO16 7EN",
     "phone": "",
     "hours": "",
-    "lat": 50.8548215,
-    "lng": -1.1794768,
+    "lat": 50.854064,
+    "lng": -1.1773191,
     "id": "209b2f4d-5696-46ab-a4ec-65839acd0744",
     "booking_location_id": "4c1c3978-ffad-4a47-97ba-210e6eb8857f"
   },
@@ -389,8 +389,8 @@
     "address": "Advice Hub\nCardiff Central Hub\nThe Hayes\nCARDIFF\nCF10 1FL",
     "phone": "01446 704998",
     "hours": "Monday to Friday, 9am to 5pm",
-    "lat": 51.4032521,
-    "lng": -3.273753,
+    "lat": 51.4777733,
+    "lng": -3.175369,
     "id": "525da418-ff2c-4522-90a9-bc70ba4ca78b"
   },
   {
@@ -575,8 +575,8 @@
     "address": "The Bluecoat\nUpper Northgate Street\nCHESTER\nCheshire\nCH1 4EE",
     "phone": "",
     "hours": "",
-    "lat": 53.1930145,
-    "lng": -2.8928094,
+    "lat": 53.1940231,
+    "lng": -2.8942778,
     "id": "7b8fa4cf-bbdf-4640-b76e-3d7bea15cc34",
     "booking_location_id": "df38d9b9-e9a9-4bf0-b56b-4309965b815c"
   },
@@ -1288,8 +1288,8 @@
     "address": "277 High Street\nNORTHALLERTON\nNorth Yorkshire\nDL7 8EE",
     "phone": "01609 767555",
     "hours": "Monday to Friday, 9am to 5pm",
-    "lat": 54.3430232,
-    "lng": -1.4376947,
+    "lat": 54.3440182,
+    "lng": -1.4377389,
     "id": "aaf2967c-871a-49f6-9912-c2483879879f"
   },
   {
@@ -1386,8 +1386,8 @@
     "address": "Lewes District Council\nSouthover House\nSouthover Road\nLewes\nEast Sussex\nBN7 1AB",
     "phone": "",
     "hours": "",
-    "lat": 50.8747045,
-    "lng": 0.0173336,
+    "lat": 50.871587,
+    "lng": 0.01001,
     "id": "28c7fac1-4c6d-4444-b30f-e3711eedd9b0",
     "booking_location_id": "8e0e385f-2ec9-4e4f-b38e-63ca22d2ac1a"
   },
@@ -1998,8 +1998,8 @@
     "address": "The Eden Centre\nFour Elms Road\nSevenoaks District\nEDENBRIDGE\nKent\nTN8 6BY",
     "phone": "",
     "hours": "",
-    "lat": 51.209512,
-    "lng": 0.08096099999999999,
+    "lat": 51.2031746,
+    "lng": 0.0633565,
     "id": "8704f746-e4a4-4c79-92c9-6bc3ca784f47",
     "booking_location_id": "de22845b-57f3-456b-a292-e36576ebe7e4"
   },
@@ -2048,8 +2048,8 @@
     "address": "Civic Centre\nSt Mary’s Road \nSWANLEY\nBR8 7BU",
     "phone": "",
     "hours": "",
-    "lat": 51.3950287,
-    "lng": 0.1775834,
+    "lat": 51.3962193,
+    "lng": 0.1712003,
     "id": "2d38e861-929a-4376-87ec-d1810e8b95f7",
     "booking_location_id": "de22845b-57f3-456b-a292-e36576ebe7e4"
   },
@@ -2177,8 +2177,8 @@
     "address": "Tameside CAB\nClarence Arcade\nStamford Street\nAshton-under-Lyne\nOL6 7PT",
     "phone": "",
     "hours": "",
-    "lat": 53.4905045,
-    "lng": -2.0942521,
+    "lat": 53.4869517,
+    "lng": -2.0937182,
     "id": "f75d9b45-6dea-49ff-8490-28cf6911270b",
     "booking_location_id": "38fe9633-d556-4e96-ab99-518eeaf7d2a7"
   },
@@ -2196,8 +2196,8 @@
     "address": "1 Barrhill Road\nStreatham Hill\nLONDON\nSW2 4RJ",
     "phone": "",
     "hours": "",
-    "lat": 51.440267,
-    "lng": -0.126514,
+    "lat": 51.4402142,
+    "lng": -0.1263959,
     "id": "3ab516af-6735-4523-bf24-370b09f02ff4",
     "booking_location_id": "253a5060-9fc7-4936-8ab2-805b8ac0e781"
   },
@@ -2226,8 +2226,8 @@
     "address": "Town Hall\nHeathfield Terrace\nHounslow\nCHISWICK\nLondon\nW4 4JN",
     "phone": "",
     "hours": "",
-    "lat": 51.4914695,
-    "lng": -0.2651865,
+    "lat": 51.4910194,
+    "lng": -0.2658296,
     "id": "2c1d89a2-79c5-42c9-bf9e-61027bb3f288",
     "booking_location_id": "253a5060-9fc7-4936-8ab2-805b8ac0e781"
   },
@@ -2266,8 +2266,8 @@
     "address": "The Advice Centre\n338 Uxbridge Road\nLondon\nW12 7LL",
     "phone": "",
     "hours": "",
-    "lat": 51.50643789999999,
-    "lng": -0.2332152,
+    "lat": 51.5065037,
+    "lng": -0.2330587,
     "id": "d731ddd3-da0e-4bc4-a2ba-39f8e6ca70ad",
     "booking_location_id": "253a5060-9fc7-4936-8ab2-805b8ac0e781"
   },
@@ -2600,8 +2600,8 @@
     "address": "11 Castle Road\nTORQUAY\nDevon\nTQ1 3BB",
     "phone": "",
     "hours": "",
-    "lat": 50.4362828,
-    "lng": -3.5674761,
+    "lat": 50.4686228,
+    "lng": -3.5295425,
     "id": "07a0876e-8b64-4cae-a13b-e2099497d29f",
     "booking_location_id": "c312229b-c96d-49d0-8362-4a3f746b3ac4"
   },
@@ -3042,8 +3042,8 @@
     "address": "Civic Offices\nSt Nicholas Way\nSutton\nSM1 1EA",
     "phone": "",
     "hours": "",
-    "lat": 51.3616716,
-    "lng": -0.1941411,
+    "lat": 51.3616673,
+    "lng": -0.1946683,
     "id": "90140490-2b08-43c3-9f5e-50641c02903d",
     "booking_location_id": "234fd904-6288-49a9-8d59-f46439ab9060"
   },
@@ -3151,8 +3151,8 @@
     "address": "220 Hoe Street\nWalthamstow\nLondon\nE17 3AY",
     "phone": "0203 233 0250",
     "hours": "Monday to Friday, 9am to 5pm",
-    "lat": 51.58448809999999,
-    "lng": -0.0193466,
+    "lat": 51.5844914,
+    "lng": -0.0193289,
     "id": "a77a031a-8037-4510-b1f7-63d4aab7b103"
   },
   {
@@ -3367,8 +3367,8 @@
     "address": "1 Mill Street\nTROWBRIDGE\nWiltshire\nBA14 8BE",
     "phone": "",
     "hours": "",
-    "lat": 51.3195698,
-    "lng": -2.2087081,
+    "lat": 51.318749,
+    "lng": -2.2081551,
     "id": "0403bb4a-fdbf-4a47-a080-c860bae9703e",
     "booking_location_id": "b74377da-d06b-48d0-9d74-cc362bbb53b3"
   },
@@ -3447,8 +3447,8 @@
     "address": "26 Snow Hill\nWOLVERHAMPTON\nWest Midlands\nWV2 4AD",
     "phone": "01902 572048",
     "hours": "Monday to Thursday, 9:30am to 5pm\nFriday, 9:30am to 4:30pm",
-    "lat": 52.5660518,
-    "lng": -2.0761111,
+    "lat": 52.5819867,
+    "lng": -2.1258966,
     "id": "12481dc1-e871-4f64-9a3f-5ca3ac58c1a1"
   },
   {
@@ -3456,8 +3456,8 @@
     "address": "William Leigh House\n15 Walsall Street\nBilston\nWOLVERHAMPTON\nWest Midlands\nWV14 0AT",
     "phone": "",
     "hours": "",
-    "lat": 52.5819877,
-    "lng": -2.1258782,
+    "lat": 52.5660813,
+    "lng": -2.0761029,
     "id": "2044b7e6-c819-43a8-8c3f-f239c9a28aa6",
     "booking_location_id": "12481dc1-e871-4f64-9a3f-5ca3ac58c1a1"
   },
@@ -3506,8 +3506,8 @@
     "address": "The Old Glove Factory \n13a Lowesmoor\nWORCESTER\nWR1 2RS",
     "phone": "01905 721892",
     "hours": "Monday to Friday, 9:30am to 5pm",
-    "lat": 52.1940252,
-    "lng": -2.2215034,
+    "lat": 52.1944103,
+    "lng": -2.2186293,
     "id": "dfad96fe-c421-4ffe-8aa8-5061b2c26195"
   },
   {
@@ -3525,8 +3525,8 @@
     "address": "Multi-Agency Office\nConningsby Road\nLEOMINSTER\nHerefordshire\nHR6 8LL",
     "phone": "",
     "hours": "",
-    "lat": 52.2272165,
-    "lng": -2.7377451,
+    "lat": 52.2241758,
+    "lng": -2.7385414,
     "id": "77d003f9-976d-4eb2-8703-715b698b96d4",
     "booking_location_id": "dfad96fe-c421-4ffe-8aa8-5061b2c26195"
   },
