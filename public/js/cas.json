@@ -817,5 +817,14 @@
     "lat": 55.90205479999999,
     "lng": -4.4058514,
     "id": "1309ee8b-c6a1-4277-bc12-a96c5b8fca79"
+  },
+  {
+    "title": "Alexandria",
+    "address": "77 Bank Street\nAlexandria\nG83 0LW",
+    "phone": "01389 752 727",
+    "hours": "",
+    "lat": 55.986670,
+    "lng": -4.578689,
+    "id": "8f8dd4f4-ce83-4cdc-aaac-805e25e78615"
   }
 ]
