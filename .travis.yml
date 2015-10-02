@@ -6,7 +6,7 @@ env:
   - secure: FypN9aGRel9NcsoigB1zCUvp+jthRKwXKjntEGt7IB0Tn7fuWYiEBPVeV+35s+Z5AafGCSpiMGeOhBYz4l+FboEDUrhvUe67EggRVBMg9d5du5jJ3UIjSxkmddTj+F8jIVzO+paZR83kYxovXljSXjoPPkpDl9urmIgrLKULCCo=
   - secure: lOfqql4RmmViu9aHtCIXrRlOnkWqY+fGG/8PRFXWh4MeS/4Rl6B7gFOIdvfr5xVWqL51Cb4jsQ+coRZ/HmiS/+g2+ZdrF9AnLLj1Fx7x/LeT13gFUE6g7OjPKMy1urv0IWaC8HcwvL5OFcbMJk78K8Vjmw2hBUXcan99iNb8fKg=
 before_install:
-  - gem update bundler
+- gem update bundler
 install:
 - go get github.com/tools/godep
 - godep restore
@@ -19,7 +19,7 @@ after_script:
 deploy:
   provider: heroku
   api_key:
-    secure: s/z6/Ro65lH12u25dITb8LMZAYQwZIqnoh1WYOkoqnGhZI7f+QUZwu2LFtFNlm3hd3c5kwgS9INZNORt8psmreInuXiJIamrpVjckBM9ASK0r55EUuZ9i4Uj/DmM8kpiT7VtayMD7pBuGEzXmnLW81RuMlJXaHq67pK5n1A6oVU=
+    secure: N6ccBucKkuX7XDQO/UYGG3XxpWJnGOrfYnZVaJx8CmzaM/4xj9SEkHZv4WuaArWBGkbCipSwwZVkdOqaa8SBi4/T12SmIbhjFm/1HTTGPazRh/I2KRYHVXHL/tO6TGcz9UGQJg+OulAS187Cj4p3ERkB8EqYB/W0SL94Rbzk7U8=
   app: staging-locator-pensionwise
   on:
     repo: guidance-guarantee-programme/locator
