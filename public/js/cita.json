@@ -1926,7 +1926,7 @@
   },
   {
     "title": "Maidstone",
-    "address": "2 Bower Terrace\nTonbridge Road\nMAIDSTONE\nKent\nME16 8RY",
+    "address": "2 Bower Terrace\nTonbridge Road\nMaidstone\nKent\nME16 8RY",
     "phone": "01622 756989",
     "hours": "Monday to Friday, 10am to 4pm",
     "lat": 51.2697032,
@@ -2153,8 +2153,8 @@
     "booking_location_id": "38fe9633-d556-4e96-ab99-518eeaf7d2a7"
   },
   {
-    "title": "Cheadle",
-    "address": "C/o Cheadle Library\nAshfield Road\nCHEADLE\nGreater Manchester\nSK8 1BB",
+    "title": "Cheadle Library",
+    "address": "Ashfield Road\nCHEADLE\nGreater Manchester\nSK8 1BB",
     "phone": "",
     "hours": "",
     "lat": 53.3945301,
@@ -2517,8 +2517,8 @@
     "booking_location_id": "1812446c-77a1-462f-b356-a13b3c203658"
   },
   {
-    "title": "Huntingdon",
-    "address": "The Town Hall\nMarket Hill\nHUNTINGDON\nCambs\nPE29 3PJ",
+    "title": "Huntingdon Town Hall",
+    "address": "Market Hill\nHUNTINGDON\nCambs\nPE29 3PJ",
     "phone": "",
     "hours": "",
     "lat": 52.330388,
@@ -3038,8 +3038,8 @@
     "booking_location_id": "234fd904-6288-49a9-8d59-f46439ab9060"
   },
   {
-    "title": "Bromley",
-    "address": "Community House\nSouth Street\nBROMLEY\nKent\nBR1 1RH",
+    "title": "Bromley (Community House)",
+    "address": "South Street\nBROMLEY\nKent\nBR1 1RH",
     "phone": "",
     "hours": "",
     "lat": 51.4067327,
@@ -4230,8 +4230,8 @@
     "booking_location_id": "fdcde285-37fd-4858-b00a-4ee31b4488b1"
   },
   {
-    "title": "Blaby",
-    "address": "Joint Service Shop\n10 Forge Corner\nBlaby\nLeicester\nLeicestershire\nLE8 4FZ",
+    "title": "Joint Service Shop in Blaby",
+    "address": "10 Forge Corner\nBlaby\nLeicester\nLeicestershire\nLE8 4FZ",
     "phone": "",
     "hours": "",
     "lat": 52.5760879,
@@ -4310,8 +4310,8 @@
     "booking_location_id": "234fd904-6288-49a9-8d59-f46439ab9060"
   },
   {
-    "title": "Crawley",
-    "address": "The Bewbush Centre\nDorsten Square\nCrawley\nWest Sussex\nRH11 8XW",
+    "title": "Crawley (The Bewbush Centre)",
+    "address": "Dorsten Square\nCrawley\nWest Sussex\nRH11 8XW",
     "phone": "",
     "hours": "",
     "lat": 51.1034631,
@@ -4320,8 +4320,8 @@
     "booking_location_id": "234fd904-6288-49a9-8d59-f46439ab9060"
   },
   {
-    "title": "Bromley",
-    "address": "Central Library\nHigh Street\nBROMLEY\nBR1 1EX",
+    "title": "Bromley (Central Library)",
+    "address": "High Street\nBROMLEY\nBR1 1EX",
     "phone": "",
     "hours": "",
     "lat": 51.4038868,
@@ -4520,8 +4520,8 @@
     "booking_location_id": "de22845b-57f3-456b-a292-e36576ebe7e4"
   },
   {
-    "title": "Maidstone",
-    "address": "King Street\nMaidstone\nKent\nME15 6JQ",
+    "title": "Maidstone Gateway",
+    "address": "Maidstone House\nKing Street\nMaidstone\nKent\nME15 6JQ",
     "phone": "",
     "hours": "",
     "lat": 51.2736866,
