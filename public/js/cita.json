@@ -1600,7 +1600,7 @@
   },
   {
     "title": "Huddersfield",
-    "address": "2nd Floor\n Standard House\nHalf Moon Street\nHUDDERSFIELD\nWest Yorkshire\nHD1 2JF",
+    "address": "2nd Floor\nStandard House\nHalf Moon Street\nHUDDERSFIELD\nWest Yorkshire\nHD1 2JF",
     "phone": "",
     "hours": "",
     "lat": 53.64657580000001,
@@ -2656,7 +2656,7 @@
   },
   {
     "title": "Swansea",
-    "address": "Llys Glas\n Pleasant Street\nSWANSEA\nSA1 5DS",
+    "address": "Llys Glas\nPleasant Street\nSWANSEA\nSA1 5DS",
     "phone": "",
     "hours": "",
     "lat": 51.62329339999999,
@@ -3079,7 +3079,7 @@
   },
   {
     "title": "Kingston",
-    "address": "Neville House\n 55 Eden Street\nKingston\n Surrey\nKT1 1BW",
+    "address": "Neville House\n55 Eden Street\nKingston\nSurrey\nKT1 1BW",
     "phone": "",
     "hours": "",
     "lat": 51.4100139,
@@ -5101,7 +5101,7 @@
   },
   {
     "title": "Ulverston",
-    "address": "Town hall Annexe\n Theatre Street\nUlverston\nCumbria\nLA12 7AQ",
+    "address": "Town hall Annexe\nTheatre Street\nUlverston\nCumbria\nLA12 7AQ",
     "phone": "",
     "hours": "",
     "lat": 54.1950857,
