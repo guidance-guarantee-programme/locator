@@ -5058,5 +5058,85 @@
     "lng": -3.0959862,
     "id": "927fbbef-52da-44fe-978f-0533f1350a05",
     "booking_location_id": "ec825112-a3df-4c7d-9a07-460a35b57f5a"
+  },
+  {
+    "title": "Haverhill",
+    "address": "Haverhill House\nLower Downs Slade\nSuffolk\nHAVERHILL\nSuffolk\nCB9 9HB",
+    "phone": "",
+    "hours": "",
+    "lat": 52.0841608,
+    "lng": 0.4365336,
+    "id": "8c3c6d76-fd52-46d6-995b-4fd8505b06c9",
+    "booking_location_id": "b63c56e9-2111-43cc-bb72-c58ad4053bfc"
+  },
+  {
+    "title": "Newmarket",
+    "address": "Foley Gate\nWellington Street\nSuffolk\nNEWMARKET\nSuffolk\nCB8 0HY",
+    "phone": "",
+    "hours": "",
+    "lat": 52.2451303,
+    "lng": 0.4038578,
+    "id": "7859d4ae-20f1-4d91-addc-edcaa61fcba6",
+    "booking_location_id": "b63c56e9-2111-43cc-bb72-c58ad4053bfc"
+  },
+  {
+    "title": "Swansea (Civic Centre)",
+    "address": "Oystermouth Road\nSwansea\nSA1 3SN",
+    "phone": "",
+    "hours": "",
+    "lat": 51.61369699999999,
+    "lng": -3.9483758,
+    "id": "9d855ce9-2b2e-446d-ab60-2dafd996d830",
+    "booking_location_id": "fef02333-6563-4643-b4dd-68224090d395"
+  },
+  {
+    "title": "Welshpool (Jobcentre Plus)",
+    "address": "New Dolanog House\nSevern Road\nWelshpool\nPowys\nSY21 7AP",
+    "phone": "",
+    "hours": "",
+    "lat": 52.6579732,
+    "lng": -3.1441268,
+    "id": "b6ee74b7-4562-4fb2-8e9d-cca5d42fe567",
+    "booking_location_id": "fef02333-6563-4643-b4dd-68224090d395"
+  },
+  {
+    "title": "Llandrindod Wells (Jobcentre Plus)",
+    "address": "Automobile Palace\nPrinces Avenue\nLlandrindod Wells\nPowys\nLD1 5HU",
+    "phone": "",
+    "hours": "",
+    "lat": 52.2384654,
+    "lng": -3.3767911,
+    "id": "7b6f6842-8a82-4993-ba0c-3b7e080b3e05",
+    "booking_location_id": "fef02333-6563-4643-b4dd-68224090d395"
+  },
+  {
+    "title": "Brecon (Jobcentre Plus)",
+    "address": "Canal Bank\nBrecon\nPowys\nLD3 7HL",
+    "phone": "",
+    "hours": "",
+    "lat": 51.9433848,
+    "lng": -3.3889328,
+    "id": "ed6ef0a3-f533-47a2-a214-1cbb71f86081",
+    "booking_location_id": "fef02333-6563-4643-b4dd-68224090d395"
+  },
+  {
+    "title": "Ystradgynlais (Jobcentre Plus)",
+    "address": "Wind Road\nYstradgynlais\nSwansea\nSA9 1AB",
+    "phone": "",
+    "hours": "",
+    "lat": 51.7669178,
+    "lng": -3.7743354,
+    "id": "bfaf223d-c88f-4a5a-95ed-ebeadbeb5ffc",
+    "booking_location_id": "fef02333-6563-4643-b4dd-68224090d395"
+  },
+  {
+    "title": "Machynlleth (Jobcentre Plus)",
+    "address": "43-45 Maesgwyn Street\nMachynlleth\nPowys\nSY20 8EB",
+    "phone": "",
+    "hours": "",
+    "lat": 52.5907486,
+    "lng": -3.8515814,
+    "id": "99f19b15-2a16-42bf-b0ae-f8c63c0e9586",
+    "booking_location_id": "fef02333-6563-4643-b4dd-68224090d395"
   }
 ]
