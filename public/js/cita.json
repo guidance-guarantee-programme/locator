@@ -404,16 +404,6 @@
     "booking_location_id": "525da418-ff2c-4522-90a9-bc70ba4ca78b"
   },
   {
-    "title": "Cardiff",
-    "address": "1st Floor\nMarland House\nCentral Square\nCardiff\nCF10 1EP",
-    "phone": "",
-    "hours": "",
-    "lat": 51.4761657,
-    "lng": -3.1795759,
-    "id": "492b2665-2f58-48bf-bd55-da85ae5ffa5e",
-    "booking_location_id": "525da418-ff2c-4522-90a9-bc70ba4ca78b"
-  },
-  {
     "title": "Cardigan",
     "address": "Napier Street\nCARDIGAN\nCeredigion\nSA43 1ED",
     "phone": "01239 621594",
@@ -4400,26 +4390,6 @@
     "booking_location_id": "f2ca5441-6a04-4984-9b7a-8106e48dacdf"
   },
   {
-    "title": "Rustington",
-    "address": "The Village Information Centre\n1B Churchill Court\nThe Street\nRUSTINGTON\nWest Sussex\nBN16 3DA",
-    "phone": "",
-    "hours": "",
-    "lat": 50.810368,
-    "lng": -0.5063403,
-    "id": "b66f9934-87ae-4a96-9d98-066966036f3a",
-    "booking_location_id": "4c1c3978-ffad-4a47-97ba-210e6eb8857f"
-  },
-  {
-    "title": "Arundel",
-    "address": "Town Council Offices\nARUNDEL\nWest Sussex\nBN18 0BX",
-    "phone": "",
-    "hours": "",
-    "lat": 50.8162163,
-    "lng": -0.5798036999999999,
-    "id": "7f181508-15e1-4675-be60-e83fc4e2d35a",
-    "booking_location_id": "4c1c3978-ffad-4a47-97ba-210e6eb8857f"
-  },
-  {
     "title": "East Wittering",
     "address": "The Health Centre\nCakeham Road\nEAST WITTERING\nWest Sussex\nPO20 8BH",
     "phone": "",
@@ -4467,16 +4437,6 @@
     "lat": 51.0034777,
     "lng": -0.9327835000000001,
     "id": "068af268-515f-47ba-9ef6-dea129b5413d",
-    "booking_location_id": "4c1c3978-ffad-4a47-97ba-210e6eb8857f"
-  },
-  {
-    "title": "Yapton",
-    "address": "Yapton Village Hall\nMain Road\nYAPTON\nBN18 0ET",
-    "phone": "",
-    "hours": "",
-    "lat": 50.8210869,
-    "lng": -0.6152226,
-    "id": "e325c150-c0c8-4459-934f-6101731b4e7c",
     "booking_location_id": "4c1c3978-ffad-4a47-97ba-210e6eb8857f"
   },
   {
@@ -4900,16 +4860,6 @@
     "booking_location_id": "91b67ee6-f131-44d1-a05e-aac1306adba4"
   },
   {
-    "title": "Todmorden",
-    "address": "Burnley Road\nTodmorden\nOL14 7BX",
-    "phone": "",
-    "hours": "",
-    "lat": 53.71624749999999,
-    "lng": -2.097626,
-    "id": "6ca431f1-f965-4543-9093-34d042f5863e",
-    "booking_location_id": "783722f2-e28c-4215-bb91-a4ffa6a5fee9"
-  },
-  {
     "title": "Congleton",
     "address": "35 - 37 Lawton Street\nCongleton\nCheshire\nCW12 1RU",
     "phone": "",
@@ -5108,15 +5058,5 @@
     "lng": -3.0959862,
     "id": "927fbbef-52da-44fe-978f-0533f1350a05",
     "booking_location_id": "ec825112-a3df-4c7d-9a07-460a35b57f5a"
-  },
-  {
-    "title": "Leicester City Centre",
-    "address": "3rd Floor\n60 Charles Street\nLEICESTER\nLE1 1FB",
-    "phone": "",
-    "hours": "",
-    "lat": 52.6356942,
-    "lng": -1.129437,
-    "id": "07c860ca-8cce-44c1-b6e6-1e8407178b92",
-    "booking_location_id": "fdcde285-37fd-4858-b00a-4ee31b4488b1"
   }
 ]
