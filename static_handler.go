@@ -11,8 +11,6 @@ import (
 )
 
 func StaticHandler(w http.ResponseWriter, r *http.Request) {
-	var responseCode int
-
 	// check for requested path under public/
 	pwd, _ := os.Getwd()
 	filename := path.Join(pwd, "public", r.URL.Path)
@@ -25,22 +23,21 @@ func StaticHandler(w http.ResponseWriter, r *http.Request) {
 	}
 
 	if os.IsNotExist(err) {
-		responseCode = http.StatusNotFound
-		w.WriteHeader(responseCode)
-	} else {
-		// set MIME type from file extension if possible
-		split := strings.Split(filename, ".")
-		extension := fmt.Sprintf(".%s", split[len(split)-1])
-		if mime := mime.TypeByExtension(extension); mime != "" {
-			w.Header().Set("Content-Type", mime)
-		}
-		// send the contents of the file
-		responseCode = http.StatusOK
-		contents, err := ioutil.ReadFile(filename)
-		if err != nil {
-			panic(fmt.Sprintf("Can't read %s", filename))
-		}
-
-		w.Write(contents)
+		w.WriteHeader(http.StatusNotFound)
+		return
 	}
+
+	// set MIME type from file extension if possible
+	split := strings.Split(filename, ".")
+	extension := fmt.Sprintf(".%s", split[len(split)-1])
+	if mime := mime.TypeByExtension(extension); mime != "" {
+		w.Header().Set("Content-Type", mime)
+	}
+	// send the contents of the file
+	contents, err := ioutil.ReadFile(filename)
+	if err != nil {
+		panic(fmt.Sprintf("Can't read %s", filename))
+	}
+
+	w.Write(contents)
 }
