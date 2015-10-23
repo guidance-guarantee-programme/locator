@@ -29,8 +29,8 @@ func main() {
 	http.HandleFunc("/locations.json", LocationsHandler)
 	http.HandleFunc("/", StaticHandler)
 
-	err := http.ListenAndServe(fmt.Sprintf(":%d", port), bugsnag.Handler(nil))
-	if err != nil {
+	handler := NewLoggingMiddleware(bugsnag.Handler(nil))
+	if err := http.ListenAndServe(fmt.Sprintf(":%d", port), handler); err != nil {
 		panic("Error starting!")
 	}
 }

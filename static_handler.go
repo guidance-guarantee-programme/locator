@@ -43,6 +43,4 @@ func StaticHandler(w http.ResponseWriter, r *http.Request) {
 
 		w.Write(contents)
 	}
-
-	fmt.Printf("%s %s %d\n", r.Method, r.URL.Path, responseCode)
 }

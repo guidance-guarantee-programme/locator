@@ -135,6 +135,4 @@ func init() {
 func LocationsHandler(w http.ResponseWriter, r *http.Request) {
 	w.Header().Set("Content-Type", "application/json")
 	w.Write(geojson)
-
-	fmt.Printf("%s %s %d\n", r.Method, r.URL.Path, 200)
 }
