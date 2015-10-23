@@ -1235,11 +1235,11 @@
   },
   {
     "title": "Newham",
-    "address": "39 Freemasons Road\nNewham\nLondon\nE16 3PJ",
+    "address": "20 Freemasons Road\nLondon\nE16 3NA",
     "phone": "",
     "hours": "",
-    "lat": 51.5114659,
-    "lng": 0.0247158,
+    "lat": 51.5114595,
+    "lng": 0.0233867,
     "id": "89821b79-b132-4893-bc9f-c247dd9009fd",
     "booking_location_id": "ac7112c3-e3cf-45cd-a8ff-9ba827b8e7ef"
   },
@@ -1567,7 +1567,7 @@
     "lat": 54.284443,
     "lng": -0.4000238,
     "id": "2fdfd280-cc33-44ce-bf16-48a7422d559c",
-    "booking_location_id": "bc588eed-fc08-4448-b793-a287e417c2be"
+    "booking_location_id": "aaf2967c-871a-49f6-9912-c2483879879f"
   },
   {
     "title": "Scunthorpe",
@@ -1590,11 +1590,11 @@
   },
   {
     "title": "Huddersfield",
-    "address": "2nd Floor\nStandard House\nHalf Moon Street\nHUDDERSFIELD\nWest Yorkshire\nHD1 2JF",
+    "address": "1 & 3 Brook Street\nHuddersfield\nHD1 1EB",
     "phone": "",
     "hours": "",
-    "lat": 53.64657580000001,
-    "lng": -1.7855823,
+    "lat": 53.6465128,
+    "lng": -1.7854672,
     "id": "4762d2ff-c4ac-4a19-91dc-ff3de2ae846c",
     "booking_location_id": "783722f2-e28c-4215-bb91-a4ffa6a5fee9"
   },
@@ -1669,11 +1669,11 @@
   },
   {
     "title": "Nelson",
-    "address": "61/63 Every Street\nNELSON\nLancashire\nBB9 2LT",
+    "address": "61-63 Every Street\nNelson\nBB9 7LT",
     "phone": "",
     "hours": "",
-    "lat": 53.7892877,
-    "lng": -2.2405035,
+    "lat": 53.823167,
+    "lng": -2.242401,
     "id": "ae84cd34-8ee1-49da-a5c3-dabc0bc8ad88",
     "booking_location_id": "c554946e-7b79-4446-b2cd-d930f668e54b"
   },
@@ -1777,12 +1777,12 @@
     "booking_location_id": "91b67ee6-f131-44d1-a05e-aac1306adba4"
   },
   {
-    "title": "Blaby",
-    "address": "Council Offices\nDesford Road\nNarborough\nLeicester\nLeicestershire\nLE19 2EP",
+    "title": "Leicester",
+    "address": "3rd Floor\n60 Charles Street\nLEICESTER\nLE1 1FB",
     "phone": "0116 326 6326",
     "hours": "Monday to Friday, 9am to 5pm",
-    "lat": 52.5707761,
-    "lng": -1.1656497,
+    "lat": 52.6356942,
+    "lng": -1.129437,
     "id": "fdcde285-37fd-4858-b00a-4ee31b4488b1"
   },
   {
@@ -2311,7 +2311,7 @@
     "booking_location_id": "3fa77737-34b7-421e-b01d-2b134878ea36"
   },
   {
-    "title": "Knowsley",
+    "title": "Huyton Knowsley",
     "address": "Nutgrove Villa\n1 Griffiths Road\nHuyton Knowsley\nLiverpool\nMerseyside\nL36 6NA",
     "phone": "",
     "hours": "",
@@ -2423,7 +2423,7 @@
     "title": "Northampton",
     "address": "Town Centre House\n7/8 Mercers Row\nNORTHAMPTON\nNorthamptonshire\nNN1 2QL",
     "phone": "0300 3239940",
-    "hours": "Monday to Friday, 9.30am to 5.30pm",
+    "hours": "Monday to Friday, 9am to 5pm",
     "lat": 52.2375028,
     "lng": -0.8962066999999999,
     "id": "d4303701-3b39-4ede-b001-3b7234b05478"
@@ -3176,7 +3176,7 @@
   },
   {
     "title": "Abingdon",
-    "address": "The Old Abbey House\nAbbey Close\nABINGDON\nOxfordshire\nOX14 3JD",
+    "address": "Abbey House\nAbbey Close\nABINGDON\nOxfordshire\nOX14 3JD",
     "phone": "",
     "hours": "",
     "lat": 51.6702453,
@@ -3544,7 +3544,7 @@
     "title": "Brent",
     "address": "270-272 High Road\nLONDON\nNW10 2EY",
     "phone": "020 84381240",
-    "hours": "Monday to Friday, 10am to 4pm",
+    "hours": "Monday to Friday, 9:30am to 4:30pm",
     "lat": 51.5486481,
     "lng": -0.2381425,
     "id": "0b703eb5-64fa-44b5-85e0-fa378392ba55"
@@ -3601,7 +3601,7 @@
   },
   {
     "title": "Bala",
-    "address": "Bala\nPenllyn Leisure Centre\nPensarn Road\nBala\nLL23 7SR",
+    "address": "Penllyn Leisure Centre\nPensarn Road\nBala\nLL23 7SR",
     "phone": "",
     "hours": "",
     "lat": 52.9084477,
@@ -3741,7 +3741,7 @@
   },
   {
     "title": "Lampeter",
-    "address": "67 Bridge Street\nLampeter\nSA48 7AB",
+    "address": "Ceredigion Association of Voluntary Organisations\n67 Bridge Street\nLampeter\nSA48 7AB",
     "phone": "",
     "hours": "",
     "lat": 52.1108339,
@@ -3751,7 +3751,7 @@
   },
   {
     "title": "Llanelli",
-    "address": "37 Stepney St\nLlanelli\nSA15 3TR",
+    "address": "The Hub\n37 Stepney St\nLlanelli\nSA15 3TR",
     "phone": "",
     "hours": "",
     "lat": 51.6821223,
@@ -3761,7 +3761,7 @@
   },
   {
     "title": "Carmarthen",
-    "address": "18 Queen Street\nCarmarthen\nSA31 1JT",
+    "address": "Carmarthenshire Association of Voluntary Services\n18 Queen Street\nCarmarthen\nSA31 1JT",
     "phone": "",
     "hours": "",
     "lat": 51.856313,
@@ -3791,7 +3791,7 @@
   },
   {
     "title": "Epping",
-    "address": "Bower Hill Industirial Estate\nBower Hill\nEPPING\nEssex\nCM16 7BN",
+    "address": "The ReUse Centre\nBower Hill Industrial Estate\nBower Hill\nEPPING\nEssex\nCM16 7BN",
     "phone": "",
     "hours": "",
     "lat": 51.6917655,
@@ -4150,12 +4150,12 @@
     "booking_location_id": "b63e0799-2161-482f-bdfe-5188f904da32"
   },
   {
-    "title": "Sutton-in-Ashfield",
-    "address": "22 Market Street\nSutton-in-Ashfield\nNottinghamshire\nNG17 1AG",
+    "title": "Kirkby-in-Ashfield",
+    "address": "Portland Street\nKirkby-in-Ashfield\nNottinghamshire\nNG17 7AE",
     "phone": "",
     "hours": "",
-    "lat": 53.124695,
-    "lng": -1.2635516,
+    "lat": 53.1014719,
+    "lng": -1.2508981,
     "id": "5412d828-353f-4e01-944f-7a26265041d2",
     "booking_location_id": "b63e0799-2161-482f-bdfe-5188f904da32"
   },
@@ -4220,7 +4220,7 @@
     "booking_location_id": "fdcde285-37fd-4858-b00a-4ee31b4488b1"
   },
   {
-    "title": "Joint Service Shop in Blaby",
+    "title": "Blaby",
     "address": "10 Forge Corner\nBlaby\nLeicester\nLeicestershire\nLE8 4FZ",
     "phone": "",
     "hours": "",
@@ -4360,8 +4360,8 @@
     "booking_location_id": "253a5060-9fc7-4936-8ab2-805b8ac0e781"
   },
   {
-    "title": "Richmond",
-    "address": "Relate London South West\n1 Hill Street\nRichmond\nSurrey\nTW9 1SX",
+    "title": "Richmond (Relate London South West)",
+    "address": "1 Hill Street\nRichmond\nSurrey\nTW9 1SX",
     "phone": "",
     "hours": "",
     "lat": 51.4587827,
@@ -4591,7 +4591,7 @@
   },
   {
     "title": "Chester-le-Street",
-    "address": "15 Church Chare\nCHESTER-LE-STREET\nCounty Durham\nDH3 3PZ",
+    "address": "15 Church Chare\nChester-le-Street\nCounty Durham\nDH3 3PZ",
     "phone": "",
     "hours": "",
     "lat": 54.8552708,
@@ -4680,8 +4680,8 @@
     "booking_location_id": "ee399dec-f9c2-4201-b27f-e3da114d3e17"
   },
   {
-    "title": "Chester-le-Street",
-    "address": "Alzheimers Society Offices\nBullion Lane\nChester-le-Street\nDH2 2DW",
+    "title": "Chester-le-Street (Alzheimer’s Society Offices)",
+    "address": "Bullion Lane\nChester-le-Street\nCounty Durham\nDH2 2DW",
     "phone": "",
     "hours": "",
     "lat": 54.8538039,
