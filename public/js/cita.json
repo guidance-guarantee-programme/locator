@@ -3462,12 +3462,12 @@
     "booking_location_id": "12481dc1-e871-4f64-9a3f-5ca3ac58c1a1"
   },
   {
-    "title": "Stourbridge",
-    "address": "69 Market Street\nSTOURBRIDGE\nWest Midlands\nDY8 1AQ",
+    "title": "Dudley",
+    "address": "Marlborough House\n11 St James's Road\nDudley\nWest Midlands\nDY1 1JG",
     "phone": "",
     "hours": "",
-    "lat": 52.4551671,
-    "lng": -2.1477308,
+    "lat": 52.5118706,
+    "lng": -2.0891499,
     "id": "a15a8536-74ac-4122-93a3-a4ccf9892bfc",
     "booking_location_id": "12481dc1-e871-4f64-9a3f-5ca3ac58c1a1"
   },
