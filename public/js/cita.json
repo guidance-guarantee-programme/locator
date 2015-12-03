@@ -948,26 +948,6 @@
     "booking_location_id": "ee399dec-f9c2-4201-b27f-e3da114d3e17"
   },
   {
-    "title": "Middlesbrough",
-    "address": "3 Bolckow Street\nMIDDLESBROUGH\nCleveland\nTS1 1TH",
-    "phone": "",
-    "hours": "",
-    "lat": 54.5779674,
-    "lng": -1.236827,
-    "id": "184fcd75-7196-4be3-8541-bf2adad929d2",
-    "booking_location_id": "ee399dec-f9c2-4201-b27f-e3da114d3e17"
-  },
-  {
-    "title": "Redcar & Cleveland",
-    "address": "Grangetown Neighbourhood Centre\nBolckow Road\nGrangetown\nRedcar and Cleveland\nMIDDLESBROUGH\nCleveland\nTS6 7BS",
-    "phone": "",
-    "hours": "",
-    "lat": 54.57826600000001,
-    "lng": -1.152041,
-    "id": "3bce5d34-d7ea-45a3-a37a-117c9fc11c19",
-    "booking_location_id": "ee399dec-f9c2-4201-b27f-e3da114d3e17"
-  },
-  {
     "title": "Stockton & District",
     "address": "Bath Lane\nSTOCKTON-ON-TEES\nCleveland\nTS18 2DS",
     "phone": "",
@@ -2763,16 +2743,6 @@
     "booking_location_id": "a5a1ce85-91cd-4d1e-9a99-b614e5557fd3"
   },
   {
-    "title": "Sheffield City Centre",
-    "address": "The Circle\n33 Rockingham Lane\nSheffield\nS1 4FW",
-    "phone": "",
-    "hours": "",
-    "lat": 53.3803005,
-    "lng": -1.4745654,
-    "id": "a87e3c00-3463-4436-945b-6cc34ad16113",
-    "booking_location_id": "a5a1ce85-91cd-4d1e-9a99-b614e5557fd3"
-  },
-  {
     "title": "Rotherham",
     "address": "The Rain Building\nOld Market Building\nEastwood Lane\nRotherham\nS65 1EQ",
     "phone": "",
@@ -3900,16 +3870,6 @@
     "booking_location_id": "1812446c-77a1-462f-b356-a13b3c203658"
   },
   {
-    "title": "Huntingdon",
-    "address": "Godmanchester Town Council\n1 Post Street\nHuntingdon\nCambridgeshire\nPE29 2NB",
-    "phone": "",
-    "hours": "",
-    "lat": 52.3192132,
-    "lng": -0.1755498,
-    "id": "a260c1f6-e929-4151-9812-d35bf6e17e27",
-    "booking_location_id": "1812446c-77a1-462f-b356-a13b3c203658"
-  },
-  {
     "title": "St Ives",
     "address": "St Ives Town Council\nTown Hall\nMarket Hill\nThe Old Riverport\nSt Ives\nPE27 5AL",
     "phone": "",
@@ -3928,16 +3888,6 @@
     "lng": 0.1416009,
     "id": "1dd4fe43-a0ca-4468-b7a3-d78b8d8501a1",
     "booking_location_id": "1812446c-77a1-462f-b356-a13b3c203658"
-  },
-  {
-    "title": "Rushden",
-    "address": "7 West Street\nRushden\nNorthamptonshire\nNN10 0RT",
-    "phone": "",
-    "hours": "",
-    "lat": 52.2921352,
-    "lng": -0.5992436999999999,
-    "id": "591870cf-a741-4e96-9eda-4b1dbf6c5df6",
-    "booking_location_id": "d4303701-3b39-4ede-b001-3b7234b05478"
   },
   {
     "title": "Towcester",
@@ -4260,26 +4210,6 @@
     "booking_location_id": "88aac83b-2bec-409d-ad0e-21fc81398d6c"
   },
   {
-    "title": "Waddington",
-    "address": "RAF Waddington\nWelfare Centre\nWaddington\nLINCOLN\nLN5 9NB",
-    "phone": "",
-    "hours": "",
-    "lat": 53.1725985,
-    "lng": -0.5305472,
-    "id": "023968c1-c46e-41af-ad55-3b9902e0380b",
-    "booking_location_id": "88aac83b-2bec-409d-ad0e-21fc81398d6c"
-  },
-  {
-    "title": "Lincoln County",
-    "address": "Peter Hodgkinson Centre\nLincoln County Hospital\nGreetwell Road\nLINCOLN\nLN2 5QY",
-    "phone": "",
-    "hours": "",
-    "lat": 53.2347338,
-    "lng": -0.5185320999999999,
-    "id": "e384139b-a18f-4ad1-97e8-a74e3b5bcaa2",
-    "booking_location_id": "88aac83b-2bec-409d-ad0e-21fc81398d6c"
-  },
-  {
     "title": "Retford",
     "address": "Council Offices\nMarket Square\nRetford\nDN22 6EU",
     "phone": "",
@@ -4390,16 +4320,6 @@
     "booking_location_id": "f2ca5441-6a04-4984-9b7a-8106e48dacdf"
   },
   {
-    "title": "East Wittering",
-    "address": "The Health Centre\nCakeham Road\nEAST WITTERING\nWest Sussex\nPO20 8BH",
-    "phone": "",
-    "hours": "",
-    "lat": 50.7699846,
-    "lng": -0.8746364,
-    "id": "8ee85e52-8383-4e58-b73f-995e8563c179",
-    "booking_location_id": "4c1c3978-ffad-4a47-97ba-210e6eb8857f"
-  },
-  {
     "title": "Havant",
     "address": "Leigh Park Community Centre\nDunsbury Way\nLeigh Park\nHAVANT\nHampshire\nPO9 5BG",
     "phone": "",
@@ -4417,16 +4337,6 @@
     "lat": 50.98731710000001,
     "lng": -0.7386356000000001,
     "id": "7aff67d6-4e94-48eb-bca2-f78d01e2cd3e",
-    "booking_location_id": "4c1c3978-ffad-4a47-97ba-210e6eb8857f"
-  },
-  {
-    "title": "Selsey",
-    "address": "The Parish Hall\nHigh Street\nSELSEY\nWest Sussex\nPO20 0RB",
-    "phone": "",
-    "hours": "",
-    "lat": 50.7343416,
-    "lng": -0.7901492999999999,
-    "id": "d2b6ba3b-fd67-4a1e-8abd-a5dab92c5bc5",
     "booking_location_id": "4c1c3978-ffad-4a47-97ba-210e6eb8857f"
   },
   {
@@ -4660,16 +4570,6 @@
     "booking_location_id": "ee399dec-f9c2-4201-b27f-e3da114d3e17"
   },
   {
-    "title": "Stanley",
-    "address": "DCC Customer Access Centre\n41A Front Street\nSTANLEY\nDH9 0ST",
-    "phone": "",
-    "hours": "",
-    "lat": 54.8707766,
-    "lng": -1.6985311,
-    "id": "2c7270a4-89d6-4f51-acd0-ecd759e959b2",
-    "booking_location_id": "ee399dec-f9c2-4201-b27f-e3da114d3e17"
-  },
-  {
     "title": "Newton Aycliff",
     "address": "2 Pease Way\nNEWTON AYCLIFF\nCounty Durham\nDL5 5NH",
     "phone": "",
@@ -4690,16 +4590,6 @@
     "booking_location_id": "ee399dec-f9c2-4201-b27f-e3da114d3e17"
   },
   {
-    "title": "Newcastle",
-    "address": "St Cuthberts Chambers\n35 Nelson Street\nNewcastle upon Tyne\nNE1 5AN",
-    "phone": "",
-    "hours": "",
-    "lat": 54.9732532,
-    "lng": -1.6145467,
-    "id": "20de0291-78da-4f61-9e7d-98a7fbb16772",
-    "booking_location_id": "bcfaa413-e6d3-4927-9f7c-47e97d00732c"
-  },
-  {
     "title": "Blyth",
     "address": "Eric Tolhurst Centre\n3-13 Quay Road\nBLYTH\nNE24 2AS",
     "phone": "",
@@ -4707,46 +4597,6 @@
     "lat": 55.12829809999999,
     "lng": -1.504486,
     "id": "7702f38e-4e9f-42e2-8473-6fb6586d1bcf",
-    "booking_location_id": "bcfaa413-e6d3-4927-9f7c-47e97d00732c"
-  },
-  {
-    "title": "Gateshead",
-    "address": "Davidson Building\nSwan Street\nGATESHEAD\nNE8 1BG",
-    "phone": "",
-    "hours": "",
-    "lat": 54.95268,
-    "lng": -1.603411,
-    "id": "26016146-fac1-436e-968f-3b7e8a11bf67",
-    "booking_location_id": "bcfaa413-e6d3-4927-9f7c-47e97d00732c"
-  },
-  {
-    "title": "North Shields",
-    "address": "51 Bedford Street\nNORTH SHIELDS\nNE29 0AT",
-    "phone": "",
-    "hours": "",
-    "lat": 55.0094261,
-    "lng": -1.4477871,
-    "id": "16fbbcf9-9c99-4e9e-9b8a-77c24233d99e",
-    "booking_location_id": "bcfaa413-e6d3-4927-9f7c-47e97d00732c"
-  },
-  {
-    "title": "South Shields",
-    "address": "Edinburgh Building\n2 Station Approach\nSouth Shields\nNE33 1HR",
-    "phone": "",
-    "hours": "",
-    "lat": 54.9932618,
-    "lng": -1.435172,
-    "id": "6a9c993e-a5ce-466f-8690-7a09ce3e94ea",
-    "booking_location_id": "bcfaa413-e6d3-4927-9f7c-47e97d00732c"
-  },
-  {
-    "title": "Ashington",
-    "address": "89-91 Station Road\nAshington\nNorthumberland\nASHINGTON\nNE63 8RS",
-    "phone": "",
-    "hours": "",
-    "lat": 55.1834139,
-    "lng": -1.5696186,
-    "id": "79fa5861-a6f5-46e6-b683-767e7e264c85",
     "booking_location_id": "bcfaa413-e6d3-4927-9f7c-47e97d00732c"
   },
   {
