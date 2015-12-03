@@ -414,11 +414,11 @@
   },
   {
     "title": "Aberystwyth",
-    "address": "12 Cambrian Place\nABERYSTWYTH\nCeredigion\nSY23 1NT",
+    "address": "1 King Street\nAberystwyth\nSY23 2AY",
     "phone": "",
     "hours": "",
-    "lat": 52.4146904,
-    "lng": -4.082840099999999,
+    "lat": 52.4152892,
+    "lng": -4.0893232,
     "id": "b5948a66-34fa-44f9-9c62-641eb2cf501b",
     "booking_location_id": "18ef0b7d-b13a-4284-9765-aa888aa4ba09"
   },
@@ -1275,11 +1275,11 @@
   },
   {
     "title": "Northallerton",
-    "address": "277 High Street\nNORTHALLERTON\nNorth Yorkshire\nDL7 8EE",
+    "address": "277 High Street\nNORTHALLERTON\nNorth Yorkshire\nDL7 8DW",
     "phone": "01609 767555",
     "hours": "Monday to Friday, 9am to 5pm",
-    "lat": 54.3440182,
-    "lng": -1.4377389,
+    "lat": 54.3426652,
+    "lng": -1.4377684,
     "id": "aaf2967c-871a-49f6-9912-c2483879879f"
   },
   {
@@ -2744,12 +2744,12 @@
     "booking_location_id": "df6fdf18-e089-49a1-9453-1400d55b96e9"
   },
   {
-    "title": "Sheffield (Broadfield Road)",
-    "address": "Unit 9b\nThe Old Dairy\nBroadfield Road\nSHEFFIELD\nSouth Yorkshire\nS8 0XQ",
+    "title": "Sheffield City Centre",
+    "address": "The Circle\n33 Rockingham Lane\nSheffield\nS1 4FW",
     "phone": "0114 2536706",
     "hours": "Monday to Friday, 9am to 5pm",
-    "lat": 53.3598941,
-    "lng": -1.4769316,
+    "lat": 53.3802996,
+    "lng": -1.4745496,
     "id": "a5a1ce85-91cd-4d1e-9a99-b614e5557fd3"
   },
   {
