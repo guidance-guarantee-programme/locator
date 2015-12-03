@@ -4988,5 +4988,25 @@
     "lng": -3.8515814,
     "id": "99f19b15-2a16-42bf-b0ae-f8c63c0e9586",
     "booking_location_id": "fef02333-6563-4643-b4dd-68224090d395"
+  },
+  {
+    "title": "Altrincham Library",
+    "address": "20 Stamford New Road\nAltrincham\nCheshire\nWA14 1EJ",
+    "phone": "",
+    "hours": "",
+    "lat": 53.3883024,
+    "lng": -2.3474756,
+    "id": "872068bf-f521-4b3b-a7b5-dd834422854e",
+    "booking_location_id": "38fe9633-d556-4e96-ab99-518eeaf7d2a7"
+  },
+  {
+    "title": "Bristol (Broad Street)",
+    "address": "12 Broad Street\nBristol\nBS1 2HL",
+    "phone": "",
+    "hours": "",
+    "lat": 51.4551664,
+    "lng": -2.5934541,
+    "id": "94e94f50-1d30-49f0-8959-b2a799ba3423",
+    "booking_location_id": "b74377da-d06b-48d0-9d74-cc362bbb53b3"
   }
 ]
