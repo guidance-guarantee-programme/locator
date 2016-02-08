@@ -327,11 +327,11 @@
   },
   {
     "title": "Llangefni",
-    "address": "4/10 Ffordd yr Efail\nLlangefni\nYnys Mon\nLL77 7ER",
+    "address": "Ebeneser Centre\nBridge Street\nLlangefni\nLL77 7PN",
     "phone": "01248 723785",
     "hours": "Monday to Thursday, 9am to 5pm\nFriday, 9am to 4pm",
-    "lat": 53.2563626,
-    "lng": -4.3118063,
+    "lat": 53.2555386,
+    "lng": -4.3077975,
     "id": "b95b2a8f-d2c5-4f52-a630-c198537eae7a"
   },
   {
@@ -386,11 +386,11 @@
   },
   {
     "title": "Barry",
-    "address": "Advice Hub\nCardiff Central Hub\nThe Hayes\nCARDIFF\nCF10 1FL",
+    "address": "119 Broad Street\nBARRY\nVale of Glamorgan\nCF62 7TZ",
     "phone": "01446 704998",
     "hours": "Monday to Friday, 9am to 5pm",
-    "lat": 51.4777733,
-    "lng": -3.175369,
+    "lat": 51.4032521,
+    "lng": -3.273753,
     "id": "525da418-ff2c-4522-90a9-bc70ba4ca78b"
   },
   {
@@ -1395,7 +1395,7 @@
     "title": "High Wycombe & District",
     "address": "8 Easton St\nHigh Wycombe District\nHIGH WYCOMBE\nBuckinghamshire\nHP11 1NJ",
     "phone": "01494 533330",
-    "hours": "Monday to Friday, 10am to 4:30pm",
+    "hours": "Monday to Friday, 9:30am to 4:30pm",
     "lat": 51.6285284,
     "lng": -0.7475771999999999,
     "id": "f2ca5441-6a04-4984-9b7a-8106e48dacdf"
@@ -2930,11 +2930,11 @@
   },
   {
     "title": "Hertford",
-    "address": "4 Yeoman's Court\nWare Road\nHERTFORD\nHertfordshire\nSG13 7HJ",
+    "address": "20 Tudor Square\nWest Street\nWare\nHertfordshire\nSG12 9XF",
     "phone": "",
     "hours": "",
-    "lat": 51.80072690000001,
-    "lng": -0.0581795,
+    "lat": 51.8117494,
+    "lng": -0.0321344,
     "id": "f785017b-2db0-415e-9d5f-94a8a25f536d",
     "booking_location_id": "d4397efb-65f3-4d93-ad1d-2e5272197c8f"
   },
@@ -2950,11 +2950,11 @@
   },
   {
     "title": "Luton",
-    "address": "24-26 King Street\nLUTON\nBedfordshire\nLU1 2DP",
+    "address": "Community House\n15 New Bedford Road\nLuton\nBedfordshire\nLU1 1SA",
     "phone": "",
     "hours": "",
-    "lat": 51.8784676,
-    "lng": -0.4176619,
+    "lat": 51.8817064,
+    "lng": -0.4192241,
     "id": "12d1104f-c7f9-4fe7-9aaa-4328758aaa17",
     "booking_location_id": "d4397efb-65f3-4d93-ad1d-2e5272197c8f"
   },
@@ -3058,11 +3058,11 @@
   },
   {
     "title": "Shepton Mallet",
-    "address": "9/9a Market Place\nSHEPTON MALLET\nSomerset\nBA4 5AZ",
+    "address": "Highfield House\nShape Mendip Campus\nCannards Grave Road\nShepton Mallet\nBA4 5BT",
     "phone": "",
     "hours": "",
-    "lat": 51.19067810000001,
-    "lng": -2.5464172,
+    "lat": 51.1817074,
+    "lng": -2.540889,
     "id": "90bebb70-c4bb-4572-afb2-e4ede5ca38c9",
     "booking_location_id": "7f916cf6-d2bd-4bcc-90dc-594207c8b1f4"
   },
@@ -3580,12 +3580,12 @@
     "booking_location_id": "a75c52c0-7b36-42b5-b965-73c8949c252d"
   },
   {
-    "title": "LLangollen",
-    "address": "ECT ARC Centre\nParade Street\nLLANGOLLEN\nLL20 8RB",
+    "title": "Llangollen (Denbigh)",
+    "address": "Llangollen Library\nCastle Street\nLlangollen\nLL20 8NU",
     "phone": "",
     "hours": "",
-    "lat": 52.9704123,
-    "lng": -3.171385,
+    "lat": 52.9698461,
+    "lng": -3.1705594,
     "id": "ae8775e3-fee6-4fe2-97d6-6d0c149d4b48",
     "booking_location_id": "a75c52c0-7b36-42b5-b965-73c8949c252d"
   },
@@ -4101,21 +4101,21 @@
   },
   {
     "title": "Kirkby-in-Ashfield",
-    "address": "Portland Street\nKirkby-in-Ashfield\nNottinghamshire\nNG17 7AE",
+    "address": "Ashfield Health and Wellbeing Centre\nPortland Street\nKirby in Ashfield\nNottinghamshire\nNG17 7AE",
     "phone": "",
     "hours": "",
-    "lat": 53.1014719,
-    "lng": -1.2508981,
+    "lat": 53.10176,
+    "lng": -1.2487412,
     "id": "5412d828-353f-4e01-944f-7a26265041d2",
     "booking_location_id": "b63e0799-2161-482f-bdfe-5188f904da32"
   },
   {
     "title": "Clay Cross",
-    "address": "126 High St\nClay Cross\nChesterfield\nDerbyshire\nS45 9EE",
+    "address": "Unit 1\nBridge Street\nClay Cross\nS45 9NG",
     "phone": "",
     "hours": "",
-    "lat": 53.1650117,
-    "lng": -1.4155692,
+    "lat": 53.1699504,
+    "lng": -1.4110643,
     "id": "c8f66cfa-892f-4395-b18b-8361a2e5b4a5",
     "booking_location_id": "b63e0799-2161-482f-bdfe-5188f904da32"
   },
@@ -4701,11 +4701,11 @@
   },
   {
     "title": "Pudsey",
-    "address": "29-33 Lowtow\nPudsey\nLS28 7DF",
+    "address": "One Stop Centre\nTown Hall\nRobin Lane\nPudsey\nLS28 7BL",
     "phone": "",
     "hours": "",
-    "lat": 53.7974481,
-    "lng": -1.6591359,
+    "lat": 53.7965405,
+    "lng": -1.6626958,
     "id": "002654bf-6bf6-47d2-a7c4-15c2ee381aef",
     "booking_location_id": "91b67ee6-f131-44d1-a05e-aac1306adba4"
   },
@@ -4770,7 +4770,7 @@
     "booking_location_id": "ec825112-a3df-4c7d-9a07-460a35b57f5a"
   },
   {
-    "title": "Milliom",
+    "title": "Millom",
     "address": "31 Wellington Street\nMillom\nLA18 4DG",
     "phone": "",
     "hours": "",
