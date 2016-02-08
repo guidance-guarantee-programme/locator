@@ -68,16 +68,6 @@
     "booking_location_id": "4c1c3978-ffad-4a47-97ba-210e6eb8857f"
   },
   {
-    "title": "Gosport",
-    "address": "Martin Snape House\n96 Pavilion Way\nSt George Barrack\nGOSPORT\nHampshire\nPO12 1GE",
-    "phone": "",
-    "hours": "",
-    "lat": 50.7957743,
-    "lng": -1.125755,
-    "id": "9dafd553-6506-4022-95ae-5ca483cf82ab",
-    "booking_location_id": "4c1c3978-ffad-4a47-97ba-210e6eb8857f"
-  },
-  {
     "title": "Lancing",
     "address": "Parish Hall\n96 South Street\nLancing\nBN15 8AJ",
     "phone": "",
@@ -671,16 +661,6 @@
     "booking_location_id": "df38d9b9-e9a9-4bf0-b56b-4309965b815c"
   },
   {
-    "title": "Lymm",
-    "address": "Davies Way\nLYMM\nCheshire\nWA13 0QW",
-    "phone": "",
-    "hours": "",
-    "lat": 53.3818229,
-    "lng": -2.481932,
-    "id": "fbb287da-d359-42f5-956b-a97a0214a892",
-    "booking_location_id": "df38d9b9-e9a9-4bf0-b56b-4309965b815c"
-  },
-  {
     "title": "Warrington",
     "address": "The Gateway\n89 Sankey Street\nWARRINGTON\nCheshire\nWA1 1SR",
     "phone": "",
@@ -829,26 +809,6 @@
     "booking_location_id": "26f675df-fbc6-41a2-9594-485c2052ec2e"
   },
   {
-    "title": "Nuneaton",
-    "address": "19 Dugdale Street\nNUNEATON\nWarwickshire\nCV11 5QJ",
-    "phone": "",
-    "hours": "",
-    "lat": 52.52201969999999,
-    "lng": -1.4705276,
-    "id": "dd3695d2-e689-4304-93ed-f88cc816d5ff",
-    "booking_location_id": "26f675df-fbc6-41a2-9594-485c2052ec2e"
-  },
-  {
-    "title": "Rugby",
-    "address": "1st Floor\nChestnut House\n32 North Street\nRUGBY\nWarwickshire\nCV21 2AG",
-    "phone": "",
-    "hours": "",
-    "lat": 52.37372689999999,
-    "lng": -1.2621208,
-    "id": "54d67dd8-0e82-45f3-a27e-491a343ae04a",
-    "booking_location_id": "26f675df-fbc6-41a2-9594-485c2052ec2e"
-  },
-  {
     "title": "Tyseley",
     "address": "744-746 Warwick Road\nTyseley\nBIRMINGHAM\nWest Midlands\nB11 2HG",
     "phone": "",
@@ -866,16 +826,6 @@
     "lat": 52.4788515,
     "lng": -1.7447792,
     "id": "d163b963-0b56-4e41-b406-c10b9339113e",
-    "booking_location_id": "26f675df-fbc6-41a2-9594-485c2052ec2e"
-  },
-  {
-    "title": "Shirley",
-    "address": "Shirley Centre\n274 Stratford Rd\nShirley\nSOLIHULL\nWest Midlands\nB90 3AD",
-    "phone": "",
-    "hours": "",
-    "lat": 52.4091916,
-    "lng": -1.8263133,
-    "id": "c5ccd727-312c-400d-a608-fde2895ada48",
     "booking_location_id": "26f675df-fbc6-41a2-9594-485c2052ec2e"
   },
   {
@@ -1783,16 +1733,6 @@
     "lat": 52.4584336,
     "lng": -1.1973041,
     "id": "73a17511-8f2f-4753-bf3b-d7fb9fc7ad3e",
-    "booking_location_id": "fdcde285-37fd-4858-b00a-4ee31b4488b1"
-  },
-  {
-    "title": "South Wigston",
-    "address": "South Wigston office\nRear of LCC Social Services offices\nBassett Street\nSOUTH WIGSTON\nLeicestershire\nLE18 4PE",
-    "phone": "",
-    "hours": "",
-    "lat": 52.5789684,
-    "lng": -1.1340854,
-    "id": "0e7f62f8-20c8-47db-8cdd-a05303fe3e24",
     "booking_location_id": "fdcde285-37fd-4858-b00a-4ee31b4488b1"
   },
   {
@@ -3274,16 +3214,6 @@
     "booking_location_id": "3713e3be-1b0d-4971-a064-25fa9a6af8bd"
   },
   {
-    "title": "Radclife",
-    "address": "1-3 Blackburn Street\nRadcliffe\nGreater Manchester\nM26 1NN",
-    "phone": "",
-    "hours": "",
-    "lat": 53.559594,
-    "lng": -2.3260593,
-    "id": "5498e303-7afb-4961-99a0-9d56c66f7812",
-    "booking_location_id": "3713e3be-1b0d-4971-a064-25fa9a6af8bd"
-  },
-  {
     "title": "Chippenham",
     "address": "3 Avon Reach\nMonkton Hill\nChippenham\nWiltshire\nSN15 1EE",
     "phone": "01722 580052",
@@ -3910,16 +3840,6 @@
     "booking_location_id": "26f675df-fbc6-41a2-9594-485c2052ec2e"
   },
   {
-    "title": "Warwick",
-    "address": "11 Nunhold Business Centre\nWarwick\nCV35 8XB",
-    "phone": "",
-    "hours": "",
-    "lat": 52.2899238,
-    "lng": -1.6622386,
-    "id": "da3b2e62-4d07-4f86-9849-31ea68c0b005",
-    "booking_location_id": "26f675df-fbc6-41a2-9594-485c2052ec2e"
-  },
-  {
     "title": "Telford",
     "address": "40 Tan Bank\nWellington\nTelford\nShropshire\nTF1 1HW",
     "phone": "",
@@ -4130,16 +4050,6 @@
     "booking_location_id": "b63e0799-2161-482f-bdfe-5188f904da32"
   },
   {
-    "title": "Nottingham Relate Centre",
-    "address": "96 Mansfield Road\nNottingham\nNG1 3HD",
-    "phone": "",
-    "hours": "",
-    "lat": 52.9606114,
-    "lng": -1.1499555,
-    "id": "c0281174-bd99-429d-be51-2f2d5e5d7f1e",
-    "booking_location_id": "b63e0799-2161-482f-bdfe-5188f904da32"
-  },
-  {
     "title": "Melton Mowbray",
     "address": "Phoenix House\nNottingham Road\nMelton Mowbray\nLE13 0UL",
     "phone": "",
@@ -4167,16 +4077,6 @@
     "lat": 52.54222290000001,
     "lng": -1.3681781,
     "id": "a41e69cb-ca66-468d-be7a-171849d83e97",
-    "booking_location_id": "fdcde285-37fd-4858-b00a-4ee31b4488b1"
-  },
-  {
-    "title": "Blaby",
-    "address": "10 Forge Corner\nBlaby\nLeicester\nLeicestershire\nLE8 4FZ",
-    "phone": "",
-    "hours": "",
-    "lat": 52.5760879,
-    "lng": -1.1635932,
-    "id": "0f290334-7e87-4777-9e14-39c00d0a4ea3",
     "booking_location_id": "fdcde285-37fd-4858-b00a-4ee31b4488b1"
   },
   {
@@ -4318,16 +4218,6 @@
     "lng": -0.5641925,
     "id": "0540b4ed-b7dd-48f0-8a2e-011fa19fcedf",
     "booking_location_id": "f2ca5441-6a04-4984-9b7a-8106e48dacdf"
-  },
-  {
-    "title": "Havant",
-    "address": "Leigh Park Community Centre\nDunsbury Way\nLeigh Park\nHAVANT\nHampshire\nPO9 5BG",
-    "phone": "",
-    "hours": "",
-    "lat": 50.86760109999999,
-    "lng": -0.9869376999999999,
-    "id": "ff03a764-13c7-4fee-9318-f1bd412b4338",
-    "booking_location_id": "4c1c3978-ffad-4a47-97ba-210e6eb8857f"
   },
   {
     "title": "Midhurst",
@@ -4580,16 +4470,6 @@
     "booking_location_id": "ee399dec-f9c2-4201-b27f-e3da114d3e17"
   },
   {
-    "title": "Chester-le-Street (Alzheimer’s Society Offices)",
-    "address": "Bullion Lane\nChester-le-Street\nCounty Durham\nDH2 2DW",
-    "phone": "",
-    "hours": "",
-    "lat": 54.8538039,
-    "lng": -1.581123,
-    "id": "d6770b66-b9c1-4087-ae29-063c5ffe7d84",
-    "booking_location_id": "ee399dec-f9c2-4201-b27f-e3da114d3e17"
-  },
-  {
     "title": "Blyth",
     "address": "Eric Tolhurst Centre\n3-13 Quay Road\nBLYTH\nNE24 2AS",
     "phone": "",
@@ -4630,16 +4510,6 @@
     "booking_location_id": "bc588eed-fc08-4448-b793-a287e417c2be"
   },
   {
-    "title": "Crowle",
-    "address": "Local Link Office\nCrowle Community Hub\n52-54 High Street\nCROWLE\nDN17 4LB",
-    "phone": "",
-    "hours": "",
-    "lat": 53.6064528,
-    "lng": -0.8329899,
-    "id": "58ecb7e4-09a4-4d71-9ad1-866a5195ffd1",
-    "booking_location_id": "bc588eed-fc08-4448-b793-a287e417c2be"
-  },
-  {
     "title": "Brough",
     "address": "Brough & Elloughton Community Centre\nCenturion Way\nBROUGH\nHU15 1AY",
     "phone": "",
@@ -4677,16 +4547,6 @@
     "lat": 53.6837336,
     "lng": -0.4417212,
     "id": "75b56956-3ce8-4fac-86c5-6e56da08315d",
-    "booking_location_id": "bc588eed-fc08-4448-b793-a287e417c2be"
-  },
-  {
-    "title": "Cleethorpes",
-    "address": "Cleethorpes Library\nThe Library\nAlexandra Road\nCLEETHORPES\nDN35 8LG",
-    "phone": "",
-    "hours": "",
-    "lat": 53.5587435,
-    "lng": -0.0264384,
-    "id": "69a234f0-407f-4536-8c77-b563a4da7e76",
     "booking_location_id": "bc588eed-fc08-4448-b793-a287e417c2be"
   },
   {
