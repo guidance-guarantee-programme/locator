@@ -4868,5 +4868,305 @@
     "lng": -2.5934541,
     "id": "94e94f50-1d30-49f0-8959-b2a799ba3423",
     "booking_location_id": "b74377da-d06b-48d0-9d74-cc362bbb53b3"
+  },
+  {
+    "title": "Poyton Civic Hall",
+    "address": "Park Lane\nCheshire East\nPoyton\nSK12 1GP",
+    "phone": null,
+    "hours": null,
+    "lat": 53.3494644,
+    "lng": -2.1180696,
+    "id": "dc4e84b0-ab6d-44a3-8090-d633b5ed5313",
+    "booking_location_id": "df38d9b9-e9a9-4bf0-b56b-4309965b815c"
+  },
+  {
+    "title": "Peterlee Macmillan Information Centre",
+    "address": "20 The Upper Chare\nPeterlee\nSR8 1BW",
+    "phone": null,
+    "hours": null,
+    "lat": 54.7589267,
+    "lng": -1.3343109,
+    "id": "5b061a57-4095-499e-a63b-26f4585a03ea",
+    "booking_location_id": "ee399dec-f9c2-4201-b27f-e3da114d3e17"
+  },
+  {
+    "title": "Bishop Auckland Hospital",
+    "address": "Cockton Hill Road\nBishop Auckland\nDurham\nDL14 6AD",
+    "phone": null,
+    "hours": null,
+    "lat": 54.6532811,
+    "lng": -1.6778693,
+    "id": "3e5f4f69-56cc-4ff1-bda5-d61ef1592693",
+    "booking_location_id": "ee399dec-f9c2-4201-b27f-e3da114d3e17"
+  },
+  {
+    "title": "University Hospital North Durham Hospital",
+    "address": "North Road\nDurham\nDH1 5TW",
+    "phone": null,
+    "hours": null,
+    "lat": 54.7825894,
+    "lng": -1.5859521,
+    "id": "bab77727-6757-4396-84e3-0d49dc0aba01",
+    "booking_location_id": "ee399dec-f9c2-4201-b27f-e3da114d3e17"
+  },
+  {
+    "title": "Stockport Library",
+    "address": "Wellington Rd South\nStockport\nSK1 3RS",
+    "phone": null,
+    "hours": null,
+    "lat": 53.4079067,
+    "lng": -2.1607592,
+    "id": "d7d58f46-acd6-4379-852f-dc426834ac2c",
+    "booking_location_id": "38fe9633-d556-4e96-ab99-518eeaf7d2a7"
+  },
+  {
+    "title": "Blackburn Library",
+    "address": "Town Hall Street\nBlackburn\nLancashire\nBB2 1AG",
+    "phone": null,
+    "hours": null,
+    "lat": 53.74968149999999,
+    "lng": -2.4850267,
+    "id": "a1e0209b-4585-4b26-9a30-aad795424dce",
+    "booking_location_id": "c554946e-7b79-4446-b2cd-d930f668e54b"
+  },
+  {
+    "title": "Rossendale",
+    "address": "Stublee Hall\nStublee Park\nBacup\nLancashire\nOL13 ODE",
+    "phone": null,
+    "hours": null,
+    "lat": null,
+    "lng": null,
+    "id": "ac09e6bc-6022-453e-8648-1648829ade67",
+    "booking_location_id": "c554946e-7b79-4446-b2cd-d930f668e54b"
+  },
+  {
+    "title": "Ribble Valley Homes",
+    "address": "De Lacy House\nStation Road\nClitheroe\nLancashire BB7 2JT",
+    "phone": null,
+    "hours": null,
+    "lat": 53.8721888,
+    "lng": -2.3941722,
+    "id": "004a7a00-ea5e-4972-9464-a441698a473e",
+    "booking_location_id": "c554946e-7b79-4446-b2cd-d930f668e54b"
+  },
+  {
+    "title": "Preston County Hall",
+    "address": "Fishergate\nPreston\nLancashire\nPR1 8XJ",
+    "phone": null,
+    "hours": null,
+    "lat": 53.7576414,
+    "lng": -2.7041301,
+    "id": "2ad27e4a-4ade-4b56-9345-bb8be98f6120",
+    "booking_location_id": "c554946e-7b79-4446-b2cd-d930f668e54b"
+  },
+  {
+    "title": "Rothwell One Stop Centre",
+    "address": "Marsh Street\nRothwell\nLS26 0AD",
+    "phone": null,
+    "hours": null,
+    "lat": 53.7471108,
+    "lng": -1.4783155,
+    "id": "8d672421-08e4-48fb-bc6c-b51f340b9e95",
+    "booking_location_id": "91b67ee6-f131-44d1-a05e-aac1306adba4"
+  },
+  {
+    "title": "Dewsbury Road One Stop Centre",
+    "address": "190 Dewesbury Road\nLeeds\nLS11 6PG",
+    "phone": null,
+    "hours": null,
+    "lat": 53.778261,
+    "lng": -1.5449519,
+    "id": "dd17d33a-f20a-474a-8d21-5d59b93eb3aa",
+    "booking_location_id": "91b67ee6-f131-44d1-a05e-aac1306adba4"
+  },
+  {
+    "title": "Cardiff Central Hub",
+    "address": "Advice Hub\nThe Hayes\nCardiff\nCF10 1FL",
+    "phone": null,
+    "hours": null,
+    "lat": 51.4785591,
+    "lng": -3.1757673,
+    "id": "edde9cde-41ac-4485-9919-b6d34d79f844",
+    "booking_location_id": "525da418-ff2c-4522-90a9-bc70ba4ca78b"
+  },
+  {
+    "title": "Llandaff North Library",
+    "address": "Gabalfa Avenue\nCardiff\nCF14 2HU",
+    "phone": null,
+    "hours": null,
+    "lat": 51.5026589,
+    "lng": -3.2230683,
+    "id": "2ec343f7-584b-4086-b5c3-e9c4b77922f7",
+    "booking_location_id": "525da418-ff2c-4522-90a9-bc70ba4ca78b"
+  },
+  {
+    "title": "Ammanford Library",
+    "address": "3 Wind Street\nAmmanford\nSA18 3DN",
+    "phone": null,
+    "hours": null,
+    "lat": 51.7927668,
+    "lng": -3.9884448,
+    "id": "36ab7bd7-87e2-47d6-8ffc-edd7e5264380",
+    "booking_location_id": "18ef0b7d-b13a-4284-9765-aa888aa4ba09"
+  },
+  {
+    "title": "Citizens Advice Nottingham and District",
+    "address": "Housing Advice Service\nArcher House\nCastle Gate (Access by Hounds Gate)\nNottingham\nNG1 7AW",
+    "phone": null,
+    "hours": null,
+    "lat": 52.9519347,
+    "lng": -1.1499251,
+    "id": "2e9f069a-b4b6-4b4a-a4a0-8ddd1516b064",
+    "booking_location_id": "b63e0799-2161-482f-bdfe-5188f904da32"
+  },
+  {
+    "title": "Chesterfield Library",
+    "address": "New Beetwell Street\nChesterfield\nDerbyshire\nS40 1QN",
+    "phone": null,
+    "hours": null,
+    "lat": 53.2343316,
+    "lng": -1.4281664,
+    "id": "5468cd16-a031-43a7-868a-77408a458c97",
+    "booking_location_id": "b63e0799-2161-482f-bdfe-5188f904da32"
+  },
+  {
+    "title": "Citizens Advice Leicestershire (Wigston)",
+    "address": "Oadby and Wigston Borough Council\nCouncil Offices\nStation Road\nWigston\nLE18 2DR",
+    "phone": null,
+    "hours": null,
+    "lat": 52.582963,
+    "lng": -1.1142544,
+    "id": "098a2816-97f3-44a8-9d3e-a2e3c98bfa5e",
+    "booking_location_id": "fdcde285-37fd-4858-b00a-4ee31b4488b1"
+  },
+  {
+    "title": "Wychwood Surgery",
+    "address": "Shipton under Wychwood\nChipping Norton\nOX7 6BW",
+    "phone": null,
+    "hours": null,
+    "lat": 51.8607118,
+    "lng": -1.6198339,
+    "id": "1f49960f-1864-4f7f-8a75-67500945e0ca",
+    "booking_location_id": "2922aaf2-a3c9-4c89-8fe5-014c61199569"
+  },
+  {
+    "title": "Crowborough Community Centre",
+    "address": "Pine Grove\nCrowborough\nEast Sussex\nTN6 1DH",
+    "phone": null,
+    "hours": null,
+    "lat": 51.0583935,
+    "lng": 0.1589825,
+    "id": "6b9f90cf-5b0c-488e-a805-b0bf9b14ee5f",
+    "booking_location_id": "8e0e385f-2ec9-4e4f-b38e-63ca22d2ac1a"
+  },
+  {
+    "title": "Forest Row Community Centre",
+    "address": "Hartfield Road\nForest Row\nEast Sussex\nRH18 5DZ",
+    "phone": null,
+    "hours": null,
+    "lat": 51.0957319,
+    "lng": 0.0381842,
+    "id": "3cbec3e3-0a9b-4f3a-b966-412efa7c0066",
+    "booking_location_id": "8e0e385f-2ec9-4e4f-b38e-63ca22d2ac1a"
+  },
+  {
+    "title": "Robertsbridge Hall",
+    "address": "11-23 Station Road\nSalehurst\nRobertsbridge\nEast Sussex\nTN35 5DA",
+    "phone": null,
+    "hours": null,
+    "lat": 50.8764239,
+    "lng": 0.6106598999999999,
+    "id": "f62e7baf-0084-41ba-bc72-aceca0dc5b77",
+    "booking_location_id": "8e0e385f-2ec9-4e4f-b38e-63ca22d2ac1a"
+  },
+  {
+    "title": "The Bloxham Centre",
+    "address": "8 Somers Road\nRugby\nWarwickshire\nCV22 7DE",
+    "phone": null,
+    "hours": null,
+    "lat": 52.3737376,
+    "lng": -1.2838931,
+    "id": "05f43e9f-a77a-4489-8b13-62881e330229",
+    "booking_location_id": "26f675df-fbc6-41a2-9594-485c2052ec2e"
+  },
+  {
+    "title": "Hatters Space Community Centre",
+    "address": "Upper Abbey Street\nNuneaton\nWarwickshire\nCV11 5DN",
+    "phone": null,
+    "hours": null,
+    "lat": 52.5266734,
+    "lng": -1.4743984,
+    "id": "17ba2afa-fd6c-4292-8276-804e07df62eb",
+    "booking_location_id": "26f675df-fbc6-41a2-9594-485c2052ec2e"
+  },
+  {
+    "title": "Citizens Advice Waverley (Godalming)",
+    "address": "New Montrose House\n36 Bridge Street\nGodalming\nSurrey\nGU7 1HP",
+    "phone": null,
+    "hours": null,
+    "lat": 51.1864148,
+    "lng": -0.6096718,
+    "id": "36f9fdce-9ab4-446b-baae-09d607e1f9da",
+    "booking_location_id": "df6fdf18-e089-49a1-9453-1400d55b96e9"
+  },
+  {
+    "title": "Age UK - Horsham",
+    "address": "Lavinia House\nDukes Square\nHorsham\nWest Sussex\nRH12 1GZ",
+    "phone": null,
+    "hours": null,
+    "lat": 51.0600186,
+    "lng": -0.327555,
+    "id": "8c31f021-688d-49d0-a629-c74493547305",
+    "booking_location_id": "4c1c3978-ffad-4a47-97ba-210e6eb8857f"
+  },
+  {
+    "title": "Gateshead Citizens Advice",
+    "address": "Davidson Building\nSwan Street\nGateshead\nNE8 1BG",
+    "phone": null,
+    "hours": null,
+    "lat": 54.9634143,
+    "lng": -1.6007672,
+    "id": "743d6115-6c23-4118-aba0-bdcc8129fea2",
+    "booking_location_id": "bcfaa413-e6d3-4927-9f7c-47e97d00732c"
+  },
+  {
+    "title": "Rotterdam House",
+    "address": "Rotterdam House\nNewcastle upon Tyne\nNE1 3DY",
+    "phone": null,
+    "hours": null,
+    "lat": 54.9713749,
+    "lng": -1.5974611,
+    "id": "cb13882c-5ea9-4369-9742-63abd15eef26",
+    "booking_location_id": "bcfaa413-e6d3-4927-9f7c-47e97d00732c"
+  },
+  {
+    "title": "Maingate Team Valley",
+    "address": "The Axis Building\nMaingate\nKingsway North\nTeam Valley\nNE11 0NQ",
+    "phone": null,
+    "hours": null,
+    "lat": 54.9433415,
+    "lng": -1.6243238,
+    "id": "21fadcf3-6d77-491c-b499-53e599e285b1",
+    "booking_location_id": "bcfaa413-e6d3-4927-9f7c-47e97d00732c"
+  },
+  {
+    "title": "Brigg Local Links",
+    "address": "The Angel\nMarket Place\nBrigg\nNorth Lincs\nDN20 8LD",
+    "phone": null,
+    "hours": null,
+    "lat": 53.5517332,
+    "lng": -0.4933081,
+    "id": "ee47f0be-6b7a-4eab-a9db-e8fb899787f8",
+    "booking_location_id": "bc588eed-fc08-4448-b793-a287e417c2be"
+  },
+  {
+    "title": "Pendleton Gateway",
+    "address": "1 Broadwalk\nSalford\nM6 5FX",
+    "phone": null,
+    "hours": null,
+    "lat": 53.4884168,
+    "lng": -2.2845701,
+    "id": "c852f819-bce5-4813-a1cb-41bcd833206a",
+    "booking_location_id": "3713e3be-1b0d-4971-a064-25fa9a6af8bd"
   }
 ]
