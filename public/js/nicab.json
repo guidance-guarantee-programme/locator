@@ -108,6 +108,15 @@
     "id": "03ca70f3-f76a-4563-a243-571000f80ab4"
   },
   {
+    "title": "Derry Water Side",
+    "address": "Unit 1 Spencer House\n14-22 Spencer Road\nDerry\nBT47 6QA",
+    "phone": "028 7134 2536",
+    "hours": "Monday to Friday, 9am to 1pm and 2pm to 5pm",
+    "lat": 54.9889222,
+    "lng": -7.3146822,
+    "id": "f8bb224a-242f-4857-8f0f-c43e4833e528"
+  },
+  {
     "title": "Downpatrick",
     "address": "Magh-Inis House\n8-10 Irish Street\nDownpatrick\nBT30 6BP",
     "phone": "028 4461 4110",
