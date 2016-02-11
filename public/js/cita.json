@@ -4934,8 +4934,8 @@
     "address": "Stublee Hall\nStublee Park\nBacup\nLancashire\nOL13 ODE",
     "phone": null,
     "hours": null,
-    "lat": null,
-    "lng": null,
+    "lat": 53.692552,
+    "lng": -2.202946,
     "id": "ac09e6bc-6022-453e-8648-1648829ade67",
     "booking_location_id": "c554946e-7b79-4446-b2cd-d930f668e54b"
   },
