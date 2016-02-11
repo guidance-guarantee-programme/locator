@@ -4880,8 +4880,8 @@
     "booking_location_id": "df38d9b9-e9a9-4bf0-b56b-4309965b815c"
   },
   {
-    "title": "Peterlee Macmillan Information Centre",
-    "address": "20 The Upper Chare\nPeterlee\nSR8 1BW",
+    "title": "Peterlee",
+    "address": "Peterlee Macmillan Information Centre\n20 The Upper Chare\nPeterlee\nSR8 1BW",
     "phone": null,
     "hours": null,
     "lat": 54.7589267,
@@ -4890,8 +4890,8 @@
     "booking_location_id": "ee399dec-f9c2-4201-b27f-e3da114d3e17"
   },
   {
-    "title": "Bishop Auckland Hospital",
-    "address": "Cockton Hill Road\nBishop Auckland\nDurham\nDL14 6AD",
+    "title": "Bishop Auckland",
+    "address": "Bishop Auckland Hospital\nCockton Hill Road\nBishop Auckland\nDurham\nDL14 6AD",
     "phone": null,
     "hours": null,
     "lat": 54.6532811,
@@ -4900,8 +4900,8 @@
     "booking_location_id": "ee399dec-f9c2-4201-b27f-e3da114d3e17"
   },
   {
-    "title": "University Hospital North Durham Hospital",
-    "address": "North Road\nDurham\nDH1 5TW",
+    "title": "Durham",
+    "address": "North Durham University Hospital\nNorth Road\nDurham\nDH1 5TW",
     "phone": null,
     "hours": null,
     "lat": 54.7825894,
@@ -4910,8 +4910,8 @@
     "booking_location_id": "ee399dec-f9c2-4201-b27f-e3da114d3e17"
   },
   {
-    "title": "Stockport Library",
-    "address": "Wellington Rd South\nStockport\nSK1 3RS",
+    "title": "Stockport",
+    "address": "Stockport Library\nWellington Rd South\nStockport\nSK1 3RS",
     "phone": null,
     "hours": null,
     "lat": 53.4079067,
@@ -4920,8 +4920,8 @@
     "booking_location_id": "38fe9633-d556-4e96-ab99-518eeaf7d2a7"
   },
   {
-    "title": "Blackburn Library",
-    "address": "Town Hall Street\nBlackburn\nLancashire\nBB2 1AG",
+    "title": "Blackburn",
+    "address": "Blackburn Library\nTown Hall Street\nBlackburn\nLancashire\nBB2 1AG",
     "phone": null,
     "hours": null,
     "lat": 53.74968149999999,
@@ -4950,8 +4950,8 @@
     "booking_location_id": "c554946e-7b79-4446-b2cd-d930f668e54b"
   },
   {
-    "title": "Preston County Hall",
-    "address": "Fishergate\nPreston\nLancashire\nPR1 8XJ",
+    "title": "Preston",
+    "address": "Preston County Hall\nFishergate\nPreston\nLancashire\nPR1 8XJ",
     "phone": null,
     "hours": null,
     "lat": 53.7576414,
@@ -4960,8 +4960,8 @@
     "booking_location_id": "c554946e-7b79-4446-b2cd-d930f668e54b"
   },
   {
-    "title": "Rothwell One Stop Centre",
-    "address": "Marsh Street\nRothwell\nLS26 0AD",
+    "title": "Rothwell",
+    "address": "Rothwell One Stop Centre\nMarsh Street\nRothwell\nLS26 0AD",
     "phone": null,
     "hours": null,
     "lat": 53.7471108,
@@ -4970,8 +4970,8 @@
     "booking_location_id": "91b67ee6-f131-44d1-a05e-aac1306adba4"
   },
   {
-    "title": "Dewsbury Road One Stop Centre",
-    "address": "190 Dewesbury Road\nLeeds\nLS11 6PG",
+    "title": "Leeds",
+    "address": "Dewsbury Road One Stop Centre\n190 Dewesbury Road\nLeeds\nLS11 6PG",
     "phone": null,
     "hours": null,
     "lat": 53.778261,
@@ -4980,7 +4980,7 @@
     "booking_location_id": "91b67ee6-f131-44d1-a05e-aac1306adba4"
   },
   {
-    "title": "Cardiff Central Hub",
+    "title": "Cardiff Central",
     "address": "Advice Hub\nThe Hayes\nCardiff\nCF10 1FL",
     "phone": null,
     "hours": null,
@@ -4990,8 +4990,8 @@
     "booking_location_id": "525da418-ff2c-4522-90a9-bc70ba4ca78b"
   },
   {
-    "title": "Llandaff North Library",
-    "address": "Gabalfa Avenue\nCardiff\nCF14 2HU",
+    "title": "Llandaff North",
+    "address": "Llandaff North Library\nGabalfa Avenue\nCardiff\nCF14 2HU",
     "phone": null,
     "hours": null,
     "lat": 51.5026589,
@@ -5000,8 +5000,8 @@
     "booking_location_id": "525da418-ff2c-4522-90a9-bc70ba4ca78b"
   },
   {
-    "title": "Ammanford Library",
-    "address": "3 Wind Street\nAmmanford\nSA18 3DN",
+    "title": "Ammanford",
+    "address": "Ammanford Library\n3 Wind Street\nAmmanford\nSA18 3DN",
     "phone": null,
     "hours": null,
     "lat": 51.7927668,
@@ -5010,7 +5010,7 @@
     "booking_location_id": "18ef0b7d-b13a-4284-9765-aa888aa4ba09"
   },
   {
-    "title": "Citizens Advice Nottingham and District",
+    "title": "Nottingham and District",
     "address": "Housing Advice Service\nArcher House\nCastle Gate (Access by Hounds Gate)\nNottingham\nNG1 7AW",
     "phone": null,
     "hours": null,
@@ -5020,8 +5020,8 @@
     "booking_location_id": "b63e0799-2161-482f-bdfe-5188f904da32"
   },
   {
-    "title": "Chesterfield Library",
-    "address": "New Beetwell Street\nChesterfield\nDerbyshire\nS40 1QN",
+    "title": "Chesterfield",
+    "address": "Chesterfield Library\nNew Beetwell Street\nChesterfield\nDerbyshire\nS40 1QN",
     "phone": null,
     "hours": null,
     "lat": 53.2343316,
@@ -5030,7 +5030,7 @@
     "booking_location_id": "b63e0799-2161-482f-bdfe-5188f904da32"
   },
   {
-    "title": "Citizens Advice Leicestershire (Wigston)",
+    "title": "Wigston",
     "address": "Oadby and Wigston Borough Council\nCouncil Offices\nStation Road\nWigston\nLE18 2DR",
     "phone": null,
     "hours": null,
@@ -5040,8 +5040,8 @@
     "booking_location_id": "fdcde285-37fd-4858-b00a-4ee31b4488b1"
   },
   {
-    "title": "Wychwood Surgery",
-    "address": "Shipton under Wychwood\nChipping Norton\nOX7 6BW",
+    "title": "Chipping Norton",
+    "address": "Wychwood Surgery\nShipton under Wychwood\nChipping Norton\nOX7 6BW",
     "phone": null,
     "hours": null,
     "lat": 51.8607118,
@@ -5050,8 +5050,8 @@
     "booking_location_id": "2922aaf2-a3c9-4c89-8fe5-014c61199569"
   },
   {
-    "title": "Crowborough Community Centre",
-    "address": "Pine Grove\nCrowborough\nEast Sussex\nTN6 1DH",
+    "title": "Crowborough",
+    "address": "Crowborough Community Centre\nPine Grove\nCrowborough\nEast Sussex\nTN6 1DH",
     "phone": null,
     "hours": null,
     "lat": 51.0583935,
@@ -5060,8 +5060,8 @@
     "booking_location_id": "8e0e385f-2ec9-4e4f-b38e-63ca22d2ac1a"
   },
   {
-    "title": "Forest Row Community Centre",
-    "address": "Hartfield Road\nForest Row\nEast Sussex\nRH18 5DZ",
+    "title": "Forest Row",
+    "address": "Forest Row Community Centre\nHartfield Road\nForest Row\nEast Sussex\nRH18 5DZ",
     "phone": null,
     "hours": null,
     "lat": 51.0957319,
@@ -5070,8 +5070,8 @@
     "booking_location_id": "8e0e385f-2ec9-4e4f-b38e-63ca22d2ac1a"
   },
   {
-    "title": "Robertsbridge Hall",
-    "address": "11-23 Station Road\nSalehurst\nRobertsbridge\nEast Sussex\nTN35 5DA",
+    "title": "Robertsbridge",
+    "address": "Robertsbridge Hall\n11-23 Station Road\nSalehurst\nRobertsbridge\nEast Sussex\nTN35 5DA",
     "phone": null,
     "hours": null,
     "lat": 50.8764239,
@@ -5080,8 +5080,8 @@
     "booking_location_id": "8e0e385f-2ec9-4e4f-b38e-63ca22d2ac1a"
   },
   {
-    "title": "The Bloxham Centre",
-    "address": "8 Somers Road\nRugby\nWarwickshire\nCV22 7DE",
+    "title": "Rugby",
+    "address": "The Bloxham Centre\n8 Somers Road\nRugby\nWarwickshire\nCV22 7DE",
     "phone": null,
     "hours": null,
     "lat": 52.3737376,
@@ -5090,8 +5090,8 @@
     "booking_location_id": "26f675df-fbc6-41a2-9594-485c2052ec2e"
   },
   {
-    "title": "Hatters Space Community Centre",
-    "address": "Upper Abbey Street\nNuneaton\nWarwickshire\nCV11 5DN",
+    "title": "Nuneaton",
+    "address": "Hatters Space Community Centre\nUpper Abbey Street\nNuneaton\nWarwickshire\nCV11 5DN",
     "phone": null,
     "hours": null,
     "lat": 52.5266734,
@@ -5100,7 +5100,7 @@
     "booking_location_id": "26f675df-fbc6-41a2-9594-485c2052ec2e"
   },
   {
-    "title": "Citizens Advice Waverley (Godalming)",
+    "title": "Godalming",
     "address": "New Montrose House\n36 Bridge Street\nGodalming\nSurrey\nGU7 1HP",
     "phone": null,
     "hours": null,
@@ -5110,7 +5110,7 @@
     "booking_location_id": "df6fdf18-e089-49a1-9453-1400d55b96e9"
   },
   {
-    "title": "Age UK - Horsham",
+    "title": "Horsham",
     "address": "Lavinia House\nDukes Square\nHorsham\nWest Sussex\nRH12 1GZ",
     "phone": null,
     "hours": null,
@@ -5120,7 +5120,7 @@
     "booking_location_id": "4c1c3978-ffad-4a47-97ba-210e6eb8857f"
   },
   {
-    "title": "Gateshead Citizens Advice",
+    "title": "Gateshead",
     "address": "Davidson Building\nSwan Street\nGateshead\nNE8 1BG",
     "phone": null,
     "hours": null,
@@ -5130,7 +5130,7 @@
     "booking_location_id": "bcfaa413-e6d3-4927-9f7c-47e97d00732c"
   },
   {
-    "title": "Rotterdam House",
+    "title": "Newcastle upon Tyne",
     "address": "Rotterdam House\nNewcastle upon Tyne\nNE1 3DY",
     "phone": null,
     "hours": null,
@@ -5150,7 +5150,7 @@
     "booking_location_id": "bcfaa413-e6d3-4927-9f7c-47e97d00732c"
   },
   {
-    "title": "Brigg Local Links",
+    "title": "Brigg",
     "address": "The Angel\nMarket Place\nBrigg\nNorth Lincs\nDN20 8LD",
     "phone": null,
     "hours": null,
@@ -5160,7 +5160,7 @@
     "booking_location_id": "bc588eed-fc08-4448-b793-a287e417c2be"
   },
   {
-    "title": "Pendleton Gateway",
+    "title": "Pendleton",
     "address": "1 Broadwalk\nSalford\nM6 5FX",
     "phone": null,
     "hours": null,
