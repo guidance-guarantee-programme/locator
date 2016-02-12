@@ -4441,7 +4441,7 @@
   },
   {
     "title": "Peterlee",
-    "address": "17-19 The Upper Chare\nCastledene Shopping Centre\nPETERLEE\nCounty Durham\nSR8 1BW",
+    "address": "Peterlee Macmillan Information Centre\n20 The Upper Chare\nPeterlee\nSR8 1BW",
     "phone": "",
     "hours": "",
     "lat": 54.7589267,
@@ -4878,16 +4878,6 @@
     "lng": -2.1180696,
     "id": "dc4e84b0-ab6d-44a3-8090-d633b5ed5313",
     "booking_location_id": "df38d9b9-e9a9-4bf0-b56b-4309965b815c"
-  },
-  {
-    "title": "Peterlee",
-    "address": "Peterlee Macmillan Information Centre\n20 The Upper Chare\nPeterlee\nSR8 1BW",
-    "phone": null,
-    "hours": null,
-    "lat": 54.7589267,
-    "lng": -1.3343109,
-    "id": "5b061a57-4095-499e-a63b-26f4585a03ea",
-    "booking_location_id": "ee399dec-f9c2-4201-b27f-e3da114d3e17"
   },
   {
     "title": "Bishop Auckland",
