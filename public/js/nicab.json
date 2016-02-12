@@ -11,7 +11,7 @@
   {
     "title": "Ards",
     "address": "75 West Street\nNewtownards\nBT23 4EN",
-    "phone": "028 9180 1929",
+    "phone": "028 9181 9257",
     "hours": "Monday to Friday, 10:00am to 3:30pm",
     "lat": 54.5952592,
     "lng": -5.7019008,
@@ -20,7 +20,7 @@
   {
     "title": "Armagh",
     "address": "9 McCrums Court\nArmagh\nBT61 7RS",
-    "phone": "028 3752 6699",
+    "phone": "028 3752 4041",
     "hours": "Monday to Friday, 9:30am to 3:30pm",
     "lat": 54.3580091,
     "lng": -6.641012799999999,
@@ -29,7 +29,7 @@
   {
     "title": "Ballymena",
     "address": "4 Wellington Court\nBallymena\nBT43 6EQ",
-    "phone": "028 2565 5970",
+    "phone": "028 2564 4398",
     "hours": "Monday, Tuesday, Friday, 10am to 4pm\nWednesday, Thursday, 10am to 8pm",
     "lat": 54.8657556,
     "lng": -6.2742356,
@@ -38,7 +38,7 @@
   {
     "title": "Banbridge",
     "address": "77 Bridge Street\nBanbridge\nBT32 3JL",
-    "phone": "028 4066 2174",
+    "phone": "028 4062 2201",
     "hours": "Monday to Friday, 10am to 2pm",
     "lat": 54.3488771,
     "lng": -6.2699194,
@@ -47,7 +47,7 @@
   {
     "title": "Bangor",
     "address": "1a Springfield Avenue\nBangor\nBT20 5BY",
-    "phone": "028 9145 0787",
+    "phone": "0300 123 3233",
     "hours": "Monday to Friday, 10am to 3:30pm",
     "lat": 54.6620252,
     "lng": -5.663684099999999,
@@ -65,7 +65,7 @@
   {
     "title": "Carrickfergus",
     "address": "65 North Street\nCarrickfergus\nBT38 7AE",
-    "phone": "028 9335 1808",
+    "phone": "028 9600 1333",
     "hours": "Monday to Friday, 10am to 2pm",
     "lat": 54.7165468,
     "lng": -5.8082569,
@@ -73,8 +73,8 @@
   },
   {
     "title": "Coleraine",
-    "address": "1-5 Brook Street\nColeraine\nLondonderry\nBT52 1PW",
-    "phone": "028 7032 9775",
+    "address": "24 Lodge Road\nColeraine\nBT52 1NB",
+    "phone": "028 7034 4817",
     "hours": "Monday to Friday, 9:30am to 1pm and 2pm to 4pm",
     "lat": 55.1315202,
     "lng": -6.6656869,
@@ -82,30 +82,39 @@
   },
   {
     "title": "Cookstown",
-    "address": "7 - 11 William Street\nCookstown\nCo. Tyrone\nBT80 8AX",
-    "phone": "028 8676 6891",
+    "address": "The Enterprise Centre\nDerryloran Industrial Estate\nSandholes\nCookstown\nBT80 9LU",
+    "phone": "028 8676 6126",
     "hours": "Monday to Friday, 10am to 3pm",
-    "lat": 54.6278908,
-    "lng": -6.7569631,
+    "lat": 54.6296429,
+    "lng": -6.7625958,
     "id": "9de3a232-35bb-483b-9d8a-ce28004da478"
   },
   {
     "title": "Craigavon",
     "address": "The Town Hall\n6 Union Street\nCraigavon\nBT66 8DY",
-    "phone": "028 3833 3571",
+    "phone": "0300 123 3233",
     "hours": "Monday to Friday, 9:30am to 5pm",
     "lat": 54.4609688,
     "lng": -6.3313305,
     "id": "5a9df3a1-06e5-4f25-974f-2dcf6080fe3d"
   },
   {
-    "title": "Derry",
+    "title": "Derry City Side",
     "address": "Embassy Court\n3 Strand Road\nDerry\nBT48 7BJ",
-    "phone": "028 7134 7047",
+    "phone": "028 7136 2444",
     "hours": "Monday to Friday, 9am to 1pm and 2pm to 5pm",
     "lat": 54.99967789999999,
     "lng": -7.3219594,
     "id": "03ca70f3-f76a-4563-a243-571000f80ab4"
+  },
+  {
+    "title": "Derry Water Side",
+    "address": "Unit 1\nSpencer House\n14-22 Spencer Road\nDerry\nBT47 6QA",
+    "phone": "028 7134 2536",
+    "hours": "Monday to Friday, 9am to 1pm and 2pm to 5pm",
+    "lat": 54.9889222,
+    "lng": -7.3146822,
+    "id": "f8bb224a-242f-4857-8f0f-c43e4833e528"
   },
   {
     "title": "Downpatrick",
@@ -119,7 +128,7 @@
   {
     "title": "Dungannon",
     "address": "5-6 Feeney's Lane\nDungannon\nBT70 1TX",
-    "phone": "028 8772 3458",
+    "phone": "028 8772 5299",
     "hours": "Monday to Friday, 10am to 3pm",
     "lat": 54.5049094,
     "lng": -6.770258999999999,
@@ -145,11 +154,11 @@
   },
   {
     "title": "Larne",
-    "address": "Market House\n2 Station Road\nLarne\nBT40 1XB",
-    "phone": "028 2826 0379",
+    "address": "Park Lodge\n49 Victoria Road\nLarne\nBT40 1RT",
+    "phone": "028 9600 1333",
     "hours": "Monday to Friday, 10am to 4pm",
-    "lat": 54.8538116,
-    "lng": -5.8148294,
+    "lat": 54.8534689,
+    "lng": -5.8153467,
     "id": "b5c1e099-8038-4675-9e5b-74218945e9ac"
   },
   {
@@ -164,7 +173,7 @@
   {
     "title": "Newry",
     "address": "Ballybot House\n28 Cornmarket\nNewry\nBT35 8BG",
-    "phone": "028 3026 2591",
+    "phone": "028 3026 2934",
     "hours": "Monday to Friday, 9:30am to 1pm and 2pm to 5pm",
     "lat": 54.1731229,
     "lng": -6.343651899999999,
@@ -173,7 +182,7 @@
   {
     "title": "Newtownabbey",
     "address": "Dunanney Centre\nRathmullan Drive\nNewtownabbey\nBT37 9DQ",
-    "phone": "028 9085 2069",
+    "phone": "028 9085 2271",
     "hours": "Monday to Friday, 9am to 1pm and 1:30pm to 4pm",
     "lat": 54.664403,
     "lng": -5.9169166,
@@ -182,7 +191,7 @@
   {
     "title": "Strabane",
     "address": "17 Dock Street\nStrabane\nBT82 8EE",
-    "phone": "028 7134 7047",
+    "phone": "028 7138 2665",
     "hours": "Monday to Friday, 9am to 1pm and 2pm to 5pm",
     "lat": 54.8292993,
     "lng": -7.4647269,
