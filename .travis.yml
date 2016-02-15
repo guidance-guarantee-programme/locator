@@ -19,7 +19,7 @@ after_script:
 deploy:
   provider: heroku
   api_key:
-    secure: N6ccBucKkuX7XDQO/UYGG3XxpWJnGOrfYnZVaJx8CmzaM/4xj9SEkHZv4WuaArWBGkbCipSwwZVkdOqaa8SBi4/T12SmIbhjFm/1HTTGPazRh/I2KRYHVXHL/tO6TGcz9UGQJg+OulAS187Cj4p3ERkB8EqYB/W0SL94Rbzk7U8=
+    secure: N2msOo/zqqQzlULMbBJqLSau4yqnVA9Wj2W0HBaGKDD0Sw1p/tIN8fVsCuQOPfCpjNL/ay0YdaY7rF1Xudc64mgx/pZ9sOdINnS7D1Jvcs4ZML1vOaky1zyeyuA7vqYy9KIfpme2lfK3q2CnFi9MzZ+t4snIlYVKK9ZC2PC+E0w=
   app: staging-locator-pensionwise
   on:
     repo: guidance-guarantee-programme/locator
