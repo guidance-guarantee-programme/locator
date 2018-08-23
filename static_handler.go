@@ -5,10 +5,17 @@ import (
 	"io/ioutil"
 	"mime"
 	"net/http"
+	"html/template"
 	"os"
 	"path"
 	"strings"
 )
+
+type EnvConfig struct {
+	GoogleMapsApiKey string
+}
+
+var getEnv = os.Getenv
 
 func StaticHandler(w http.ResponseWriter, r *http.Request) {
 	// check for requested path under public/
@@ -39,5 +46,8 @@ func StaticHandler(w http.ResponseWriter, r *http.Request) {
 		panic(fmt.Sprintf("Can't read %s", filename))
 	}
 
-	w.Write(contents)
+	t := template.New(filename)
+	t, _ = t.Parse(string(contents[:]))
+	envConfig := EnvConfig{GoogleMapsApiKey: getEnv("GOOGLE_MAP_API_KEY")}
+	t.Execute(w, envConfig)
 }
